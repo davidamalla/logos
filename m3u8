@@ -248,11 +248,11 @@ https://stmv.negotv.com/religion2021/religion2021/playlist.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/qwestjazz.png" group-title="SPAIN",QWEST JAZZ
 https://siloh.pluto.tv/lilo/production/QwestJazz/master_1.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/stingraydjazz.png" group-title="SPAIN",STINGRAY DJazz
-https://dai.google.com/linear/hls/pa/event/C-lfmhUVTGeDNWwU13_EgA/stream/28d20b47-72ec-47de-8a2b-81c2600db489:BRU/variant/3ab006ce715b79910715f11d343d9ed2/bandwidth/1751200.m3u8
+https://dai.google.com/linear/hls/pa/event/C-lfmhUVTGeDNWwU13_EgA/stream/c6b79dde-37f4-42c9-895b-3d33a856703e:BRU/variant/a9acf0454e9faab12606dd9bf6200228/bandwidth/1020800.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/qwestclas.png" group-title="SPAIN",QWEST CLASSIC
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestclassic-uk-samsungtv/f011a5ae-c8ac-4853-afe6-4e2e9ccf221c/2.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/sclassica.png" group-title="SPAIN",STINGRAY CLASSIC
-https://dai.google.com/linear/hls/pa/event/AaFxJXOhQl-BsTVC9OCunQ/stream/7d216521-946f-48b5-bb5e-94edec054591:BRU/variant/ec3b98c7a9cdd3cc5777f2afd51e4c2c/bandwidth/1751200.m3u8
+https://dai.google.com/linear/hls/pa/event/AaFxJXOhQl-BsTVC9OCunQ/stream/cae39d18-9ced-4cbc-a553-5deabf4cb08a:BRU/variant/51750bebc3dda69302434daee2f1ae06/bandwidth/1020800.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mezzo.png" group-title="SPAIN",MEZOO 
 https://list.iptvcat.com/my_list/s/444500ca82ec44bf3ee110ede76aba20.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mezzo.png" group-title="SPAIN",MEZOO 
