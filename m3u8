@@ -203,7 +203,7 @@ https://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w1759560933.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/cdm.png" group-title="SPAIN",CDM Internacional
 http://205.164.56.130:1935/marcos536/marcos536/chunklist_w474318771.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/tucine.png" group-title= "SPAIN",Tu Cine
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/tucine.png" group-title="SPAIN",Tu Cine
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucineeurope-distro/ce7bace5-8964-40f9-9054-1a2a7a6957d8/4.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mtv00s.png" group-title="SPAIN",MTV COOL
 http://185.41.244.69/vh1/tracks-v2a1/mono.m3u8
