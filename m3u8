@@ -199,10 +199,16 @@ https://directes-tv-cat.ccma.cat/cat/ngrp:c33_mobil/chunklist_b2128000.m3u8
 http://185.71.64.5:80/307211511170/307211511170/79332
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rakutenenfamilia.png" group-title="SPAIN",Rakuten En Familia
 https://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/extrema.png" group-title="SPAIN",Extrema Tv
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w1759560933.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/cdm.png" group-title="CDM Internacional
+http://205.164.56.130:1935/marcos536/marcos536/chunklist_w474318771.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/tucine.png" group-title="Tu Cine
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucineeurope-distro/ce7bace5-8964-40f9-9054-1a2a7a6957d8/4.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mtv00s.png" group-title="SPAIN",MTV COOL
 http://185.41.244.69/vh1/tracks-v2a1/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mtv80s.png" group-title="SPAIN",MTV 80
-https://list.iptvcat.com/my_list/s/b6a2c7660708b3ac6e84f159c02f0ed7.m3u8
+http://176.119.67.218:34040/udp/239.2.153.101:1234
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vh1classics.png" group-title="SPAIN",VH1 CLASICS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vevolatino.png" group-title="SPAIN",VEVO LATINO
@@ -214,7 +220,7 @@ https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/192bbb4ecd48
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/vev80's.png" group-title="SPAIN",VEVO 80
 https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/a65cf7ba93664eb083d95152fe717270/live_6.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/flashtv.png" group-title="SPAIN",FLASH TV
-https://flash-plex.amagi.tv/flash/master.m3u8
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-distro/0b98455e-ae2c-4c85-a7aa-2d6e202dec69/4.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/sol.png" group-title="SPAIN",SOL MUSIC
 http://185.41.244.69/sol/tracks-v2a1/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/latidomusic.png" group-title="SPAIN",LATIDO
@@ -240,7 +246,7 @@ https://5cefcbf58ba2e.streamlock.net:443/tltvweb/tvweb.stream/playlist.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/melodychannel.png" group-title="SPAIN",Melody Channel
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/chunklist_w1545135194_b748304.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/musictop.png" group-title="SPAIN",Music Top
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w77131357_b2028000_sleng.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/80's.png" group-title="SPAIN",MCRT 80's
 https://stmv.negotv.com/80s2021/80s2021/chunklist_w1085303038.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/salsa.png" group-title="SPAIN",MCRT Salsa
@@ -254,11 +260,11 @@ https://stmv.negotv.com/top2021/top2021/chunklist_w287291198.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/qwestjazz.png" group-title="SPAIN",QWEST JAZZ
 https://siloh.pluto.tv/lilo/production/QwestJazz/master_1.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/stingraydjazz.png" group-title="SPAIN",STINGRAY DJazz
-https://dai.google.com/linear/hls/pa/event/C-lfmhUVTGeDNWwU13_EgA/stream/d3ddb064-2976-4781-b61b-f5d4bbda069e:BRU/variant/8684a34bc5c9d3948019439bac154a56/bandwidth/211200.m3u8
+https://dai.google.com/linear/hls/pa/event/C-lfmhUVTGeDNWwU13_EgA/stream/1f0937e6-c6f3-4c7f-bd19-ebc1f06b9315:BRU/variant/f1e54d72a9a79bcb6e04944f40ee1fee/bandwidth/3291200.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/qwestclas.png" group-title="SPAIN",QWEST CLASSIC
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestclassic-uk-samsungtv/f011a5ae-c8ac-4853-afe6-4e2e9ccf221c/2.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/sclassica.png" group-title="SPAIN",STINGRAY CLASSIC
-https://dai.google.com/linear/hls/pa/event/AaFxJXOhQl-BsTVC9OCunQ/stream/0cff00e4-b4b8-45b8-a7b4-c5b2991c11f5:BRU/variant/218c6940815ecae5a7d0fc1d962d8f73/bandwidth/211200.m3u8
+https://dai.google.com/linear/hls/pa/event/AaFxJXOhQl-BsTVC9OCunQ/stream/abeeb31e-b477-425e-981c-0a43311b2932:BRU/variant/92fa99ae769fb0f46d998eb327849fdb/bandwidth/3291200.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mezzo.png" group-title="SPAIN",MEZOO 
 https://list.iptvcat.com/my_list/s/444500ca82ec44bf3ee110ede76aba20.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mezzo.png" group-title="SPAIN",MEZOO 
@@ -369,4 +375,3 @@ http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" group-title="SPAIN",#VAMOS
 http://54.39.48.63:8081/ESP%7CVAMOS/ESP%7CVAMOS/playlist.m3u8
-
