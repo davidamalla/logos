@@ -58,7 +58,7 @@
         {
           "name": "La Sexta",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/seis.png",
-          "url": "http://185.41.244.69/antena3hd/tracks-v1a1a2/mono.m3u8",
+          "url": "http://185.41.244.69/lasextahd/tracks-v3a1a2/mono.m3u8",
           "url1": "https://freevip.xyz/sport/la_sexta/index.m3u8",
           "urlweb": "https://www.atresplayer.com/directos/lasexta/",
           "epgId": "LaSexta.TV"
