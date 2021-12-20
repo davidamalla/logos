@@ -190,7 +190,7 @@
         {
           "name": "Navarra TV",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/navarratv.png",
-          "url": "https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_720p/chunks.m3u8",
+          "url": "https://pc-sumandocomunicacion-hls.flumotion.com/playlist.m3u8",
           "url1": "https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_720p/chunks.m3u8",
           "urlweb": "http://www.natv.es/Directo",
           "epgId": "NavarraTV.TV"
@@ -220,7 +220,7 @@
         {
           "name": "8tv",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/ochotv.png",
-          "url": "https://8tv-cellnex-hlslive.secure.footprint.net/egress/bhandler/tevecat/tvcat/chunklist_b3203072.m3u8",
+          "url": "https://8tv-cellnex-hlslive.secure.footprint.net/egress/bhandler/tevecat/tvcat/manifest.m3u8",
           "urlweb": "http://www.8tv.cat/directe/",
           "epgId": "8tv.TV"
         },
@@ -381,8 +381,8 @@
         {
           "name": "TCM",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/tcm.png",
-          "url": "http://185.41.244.69/tcm/tracks-v3a1a2/mono.m3u8",
-          "url1": "https://freevip.xyz/live/tcm/index.m3u8",
+          "url": "http://185.41.244.69/tcm/tracks-v2a1a2/mono.m3u8",
+          "url1": "http://185.41.244.69/tcm/tracks-v3a1a2/mono.m3u8",
           "epgId": "TCM.TV"
         },
         {
