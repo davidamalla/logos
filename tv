@@ -206,14 +206,14 @@
         {
           "name": "7 Valencia",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/sietevalencia.png",
-          "url": "https://live-edge-lon-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/llive-500/index.m3u8",
+          "url": "https://live-edge-lon-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live-500/index.m3u8",
           "urlweb": "http://7televalencia.com/directo-7televalencia/",
           "epgId": "7Valencia.TV"
         },
         {
           "name": "LevanteTV",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/levantetv.png",
-          "url": "https://live-edge-lon-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live-500/index.m3u8",
+          "url": "https://live-edge-lon-1.cdn.enetres.net/C2F6CBB67E5B4D08A16CE5FE67ABCEC9023/levantetvlive/index.m3u8",
           "urlweb": "http://www.levantetv.es/default.jsp",
           "epgId": "LevanteTV.TV"
         },
@@ -277,7 +277,7 @@
         {
           "name": "A3series",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/a3s.png",
-          "url": "http://185.41.244.69/energy/tracks-v2a1a2/mono.m3u8",
+          "url": "http://185.41.244.69/atreserieshd/tracks-v3a1a2/mono.m3u8",
           "url1": "https://freevip.xyz/live/atreseries/index.m3u8",
           "epgId": "A3series.TV"
         },
