@@ -15,7 +15,7 @@
         {
           "name": "LA 1",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/la1.png",
-          "url": "https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8",
+          "url": "http://185.41.244.69/la1hd/tracks-v2a1a2/mono.m3u8",
           "url1": "https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8",
           "url2": "https://freevip.xyz/sport/la_1/index.m3u8",
           "urlweb": "http://www.rtve.es/directo/la-1/",
@@ -24,7 +24,7 @@
         {
           "name": "LA 2",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/la2.png",
-          "url": "https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8",
+          "url": "http://185.41.244.69/la2hd/tracks-v3a1a2/mono.m3u8",
           "url1": "https://rtvelivestream.akamaized.net/la2_dvr.m3u8",
           "url2": "https://freevip.xyz/live/la_2/index.m3u8",
           "urlweb": "http://www.rtve.es/directo/la-2/",
