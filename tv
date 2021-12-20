@@ -381,8 +381,8 @@
         {
           "name": "TCM",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/tcm.png",
-          "url": "http://185.41.244.69/tcm/tracks-v2a1a2/mono.m3u8",
-          "url1": "http://185.41.244.69/tcm/tracks-v3a1a2/mono.m3u8",
+          "url": "http://185.41.244.69/tcm/tracks-v2a1a2/playlist.m3u8",
+          "url1": "http://185.41.244.69/tcm/tracks-v3a1a2/playlist.m3u8",
           "epgId": "TCM.TV"
         },
         {
@@ -770,7 +770,7 @@
         {
           "name": "MTV",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mtv.png",
-          "url": "https://freevip.xyz/live/mtv/index.m3u8",
+          "url": "http://190.171.101.36:80/MTV/tracks-v4a1/mono.m3u8",
           "url1": "https://freevip.xyz/live/mtv/index.m3u8",
           "urlweb": "http://www.mtv.es/",
           "epgId": "MTV.TV"
