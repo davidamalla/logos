@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cero.png" group-title="SPAIN",#0
-http://xfire.one:88/test1/test2/36178
+http://cloudcdn.tk:80/AkJXAEU989/xPmz7q261/9411
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/holly.png" group-title="SPAIN",HOLLYWOOD
 http://185.41.244.69/hollywood/tracks-v3a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tcm.png" group-title="SPAIN",TCM
@@ -8,39 +8,37 @@ http://185.41.244.69/tcm/tracks-v3a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/amcsp.png" group-title="SPAIN",AMC
 http://185.41.244.69/amc/tracks-v3a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/axn.png" group-title="SPAIN",AXN 
-http://xfire.one:88/test1/test2/36161
+http://cloudcdn.tk:80/AkJXAEU989/xPmz7q261/5471
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/axnwhite.png" group-title="SPAIN",AXN WHITE 
-http://xfire.one:88/test1/test2/36163
+http://cloudcdn.tk:80/AkJXAEU989/xPmz7q261/5470
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/foxn.png" group-title="SPAIN",FOX 
 http://185.41.244.69/fox/tracks-v3a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/foxl.png" group-title="SPAIN",FOX LIFE 
 http://185.41.244.69/foxlife/tracks-v2a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/c13.png" group-title="SPAIN",CALLE 13
-http://xfire.one:88/test1/test2/36171
+http://cloudcdn.tk:80/AkJXAEU989/xPmz7q261/5469
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/syfyu.png" group-title="SPAIN",SYFY 
-http://xfire.one:88/test1/test2/36165
+http://cloudcdn.tk:80/AkJXAEU989/xPmz7q261/5417
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tntsp.png" group-title="SPAIN",TNT
 http://185.41.244.69/tnt/tracks-v3a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mse.png" group-title="SPAIN",Movistar Series 
-http://xfire.one:88/test1/test2/36190
+http://cloudcdn.tk:80/AkJXAEU989/xPmz7q261/9414
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mse2.png" group-title="SPAIN",Movistar Series 2 
-http://xfire.one:88/test1/test2/36188
+http://cloudcdn.tk:80/AkJXAEU989/xPmz7q261/9413
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mes.png" group-title="SPAIN",Movistar Estrenos 
-http://xfire.one:88/test1/test2/36180
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mes2.png" group-title="SPAIN",Movistar Estrenos 2 
-http://he01.okcomputer.club:8880/YXLM0018/987416547/29234
+http://cloudcdn.tk:80/AkJXAEU989/xPmz7q261/9415
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mes2.png" group-title="SPAIN",Movistar Estrenos 2 
 http://he01.okcomputer.club:8880/YXLM0018/987416547/52340
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mac.png" group-title="SPAIN",Movistar Accion 
-http://xfire.one:88/test1/test2/36182
+http://cloudcdn.tk:80/AkJXAEU989/xPmz7q261/5463
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mco.png" group-title="SPAIN",Movistar Comedia 
-http://xfire.one:88/test1/test2/36184
+http://cloudcdn.tk:80/AkJXAEU989/xPmz7q261/5462
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdr.png" group-title="SPAIN",Movistar Drama 
-http://xfire.one:88/test1/test2/36186
+http://cloudcdn.tk:80/AkJXAEU989/xPmz7q261/5461
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mcn.png" group-title="SPAIN",Movistar Cine N
-http://185.236.229.101:8005/play/a03d
+http://cloudcdn.tk:80/AkJXAEU989/xPmz7q261/5411
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mcl.png" group-title="SPAIN",Movistar Clasicos 
-http://xfire.one:88/test1/test2/36192
+http://cloudcdn.tk:80/AkJXAEU989/xPmz7q261/9412
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/somos.png" group-title="SPAIN",SOMOS 
 http://185.41.244.69/somos/tracks-v2a1/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dark.png" group-title="SPAIN",DARK 
