@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cero.png" group-title="SPAIN",#0
-http://he01.okcomputer.club:8880/YXLM0018/987416547/2603
+http://xfire.one:88/test1/test2/36178
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/holly.png" group-title="SPAIN",HOLLYWOOD
 http://185.41.244.69/hollywood/tracks-v3a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tcm.png" group-title="SPAIN",TCM
@@ -8,49 +8,39 @@ http://185.41.244.69/tcm/tracks-v3a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/amcsp.png" group-title="SPAIN",AMC
 http://185.41.244.69/amc/tracks-v3a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/axn.png" group-title="SPAIN",AXN 
-http://he01.okcomputer.club:8880/YXLM0018/987416547/2598
+http://xfire.one:88/test1/test2/36161
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/axnwhite.png" group-title="SPAIN",AXN WHITE 
-http://he01.okcomputer.club:8880/YXLM0018/987416547/2597
+http://xfire.one:88/test1/test2/36163
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/foxn.png" group-title="SPAIN",FOX 
 http://185.41.244.69/fox/tracks-v3a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/foxl.png" group-title="SPAIN",FOX LIFE 
 http://185.41.244.69/foxlife/tracks-v2a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/c13.png" group-title="SPAIN",CALLE 13
-http://he01.okcomputer.club:8880/YXLM0018/987416547/52394
+http://xfire.one:88/test1/test2/36171
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/syfyu.png" group-title="SPAIN",SYFY 
-http://he01.okcomputer.club:8880/YXLM0018/987416547/2538
+http://xfire.one:88/test1/test2/36165
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tntsp.png" group-title="SPAIN",TNT
 http://185.41.244.69/tnt/tracks-v3a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mse.png" group-title="SPAIN",Movistar Series 
-http://he01.okcomputer.club:8880/YXLM0018/987416547/52383
+http://xfire.one:88/test1/test2/36190
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mse2.png" group-title="SPAIN",Movistar Series 2 
-http://he01.okcomputer.club:8880/YXLM0018/987416547/2579
+http://xfire.one:88/test1/test2/36188
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mes.png" group-title="SPAIN",Movistar Estrenos 
-http://he01.okcomputer.club:8880/YXLM0018/987416547/2588
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mes.png" group-title="SPAIN",Movistar Estrenos 
-http://he01.okcomputer.club:8880/YXLM0018/987416547/52388
+http://xfire.one:88/test1/test2/36180
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mes2.png" group-title="SPAIN",Movistar Estrenos 2 
 http://he01.okcomputer.club:8880/YXLM0018/987416547/29234
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mes2.png" group-title="SPAIN",Movistar Estrenos 2 
 http://he01.okcomputer.club:8880/YXLM0018/987416547/52340
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mac.png" group-title="SPAIN",Movistar Accion 
-http://he01.okcomputer.club:8880/YXLM0018/987416547/52393
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mac.png" group-title="SPAIN",Movistar Accion 
-http://he01.okcomputer.club:8880/YXLM0018/987416547/2591
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mac.png" group-title="SPAIN",Movistar Accion 
-http://he01.okcomputer.club:8880/YXLM0018/987416547/52348
+http://xfire.one:88/test1/test2/36182
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mco.png" group-title="SPAIN",Movistar Comedia 
-http://he01.okcomputer.club:8880/YXLM0018/987416547/2551
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mco.png" group-title="SPAIN",Movistar Comedia 
-http://he01.okcomputer.club:8880/YXLM0018/987416547/52347
+http://xfire.one:88/test1/test2/36184
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdr.png" group-title="SPAIN",Movistar Drama 
-http://he01.okcomputer.club:8880/YXLM0018/987416547/52390
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdr.png" group-title="SPAIN",Movistar Drama 
-http://he01.okcomputer.club:8880/YXLM0018/987416547/29304
+http://xfire.one:88/test1/test2/36186
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mcn.png" group-title="SPAIN",Movistar Cine N
 http://185.236.229.101:8005/play/a03d
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mcl.png" group-title="SPAIN",Movistar Clasicos 
-http://he01.okcomputer.club:8880/YXLM0018/987416547/2583
+http://xfire.one:88/test1/test2/36192
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/somos.png" group-title="SPAIN",SOMOS 
 http://185.41.244.69/somos/tracks-v2a1/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dark.png" group-title="SPAIN",DARK 
@@ -155,6 +145,8 @@ https://directes-tv-cat.ccma.cat/cat/ngrp:c33_mobil/chunklist_b2128000.m3u8
 http://he01.okcomputer.club:8880/YXLM0018/987416547/52404
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ducktv.png" group-title="SPAIN",Duck Tv
 http://he01.okcomputer.club:8880/YXLM0018/987416547/52404
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/afvfamily.png" group-title="SPAIN",AFV amily
+https://7fecfa1db0bf431badb66186c21f3294.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-46-AFV_ES-ROKU/74a8cf64-4ba4-4920-afd8-3e8fac23199e/0.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rakutenenfamilia.png" group-title="SPAIN",Rakuten En Familia
 https://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/extrema.png" group-title="SPAIN",Extrema Tv
@@ -306,7 +298,7 @@ http://events3-crtvg.flumotion.com/crtvg/events3_high/chunks.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tvcanaria.png" group-title="SPAIN",Tv Canarias
 https://rtvc-live1-rm.flumotion.com/rtvc-rm/live1-rm_high/chunks.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/7rm.png" group-title="SPAIN",Television Murcia
-https://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+https://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/natv.png" group-title="SPAIN",NAVARRA TV
 https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_480p/chunks.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/etb1.png" group-title="SPAIN",ETB 1
@@ -314,7 +306,7 @@ https://live-dvr.eitb-fastly.cross-media.es/live-content/etb1hd-hls/bitrate_4.m3
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/etb2.png" group-title="SPAIN",ETB 2
 https://live-dvr.eitb-fastly.cross-media.es/live-content/etb2hd-hls/bitrate_4.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ib3.png" group-title="SPAIN",IB3
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1640007295/ei/HzLAYda7OIS3W-uSr6AK/ip/81.172.62.237/id/BxmVws5iYB4.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/rr8---sn-8vq54voxn25po-cjol.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/16650/mh/QR/mm/44/mn/sn-8vq54voxn25po-cjol/ms/lva/mv/m/mvi/8/pl/24/dover/11/keepalive/yes/fexp/24001373,24007246/c/WEB_EMBEDDED_PLAYER/cver/1.20211215.00.01/ptk/youtube_none/pltype/contentugclive/mt/1639985314/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIhANznb-FKNYOdSncLbpRni1D8uhD0CvjNRAKRG3VKbbuaAiArJXtYngI1V7Hoc6TWI4maSJ9TF6vAlvuKv5fFzBcwAA%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRgIhALdgxPfOqgfU5SFKL4bQJwuFNsodMJKwo5bQcHL7JC-rAiEAhtlqWXtajo1M1Oit3H40NJb2xbz1dkUqPdDKP_nwwjs%3D/playlist/index.m3u8?cpn=9v8IsEPpk_xF6SbV
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1640046952/ei/CM3AYe33HMPG0wWR0rPwDQ/ip/81.172.62.237/id/BxmVws5iYB4.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/rr8---sn-8vq54voxn25po-cjol.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/16470/mh/QR/mm/44/mn/sn-8vq54voxn25po-cjol/ms/lva/mv/m/mvi/8/pl/24/dover/11/keepalive/yes/fexp/24001373,24007246/beids/23886211/mt/1640024921/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRAIgegLl_J7az3JwRm1eSjk3K_fFUPaXYXi-q_vMYAOney0CIFxkVv50YA2k7M7BRuZCtLXoVuoKb0sZN6sjXQjJ7T8K/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgBWkBfH3FHtPaty4WEwIqD3Fs-gV1moNKRrlWk_fsos4CIGE5PJs7qYEw4W6S5ovG-nV7N6-KhwvIB4oM5Y2s0tRf/playlist/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/parlamento.png" group-title="SPAIN",Canal Parlamento
 https://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/index_600_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/7nn.png" group-title="SPAIN",7 NN
