@@ -84,7 +84,7 @@ https://runtimeespana-samsungspain.amagi.tv/playlist720.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/bbcdrama.png" group-title="SPAIN",BBC DRAMA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/darkmattertv.png" group-title="SPAIN",DARK MATTER
-https://darkmatter-spanish-rakuten.amagi.tv/playlist.m3u8
+https://darkmatter-spanish-rakuten.amagi.tv/playlist720p.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/sofytv.png" group-title="SPAIN",Sofy Tv
 https://sofytv-samsunges.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/holaplay.png" group-title="SPAIN",HOLA!
@@ -142,7 +142,7 @@ https://directes-tv-cat.ccma.cat/cat/ngrp:c33_mobil/chunklist_b2128000.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dreamworks.png" group-title="SPAIN",Dream 
 http://he01.okcomputer.club:8880/YXLM0018/987416547/52404
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ducktv.png" group-title="SPAIN",Duck Tv
-http://he01.okcomputer.club:8880/YXLM0018/987416547/52404
+https://mmm-ducktv-3-es.samsung.wurl.com/manifest/d3f8ea989ab57c23ee5efc0cdeee512f.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/afvfamily.png" group-title="SPAIN",AFV amily
 https://7fecfa1db0bf431badb66186c21f3294.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-46-AFV_ES-ROKU/74a8cf64-4ba4-4920-afd8-3e8fac23199e/0.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rakutenenfamilia.png" group-title="SPAIN",Rakuten En Familia
