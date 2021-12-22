@@ -23,20 +23,32 @@ http://cloudcdn.tk:80/AkJXAEU989/xPmz7q261/5417
 http://185.41.244.69/tnt/tracks-v3a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mse.png" group-title="SPAIN",Movistar Series 
 http://cloudcdn.tk:80/AkJXAEU989/xPmz7q261/9414
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mse.png" group-title="SPAIN",Movistar Series vpn
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNTfOKc0E5S9FwMdBGRWTCOcaPzDFul-hMrgJaj5LMYN/ts
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mse2.png" group-title="SPAIN",Movistar Series 2 
 http://cloudcdn.tk:80/AkJXAEU989/xPmz7q261/9413
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mes.png" group-title="SPAIN",Movistar Estrenos 
 http://cloudcdn.tk:80/AkJXAEU989/xPmz7q261/9415
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mes.png" group-title="SPAIN",Movistar Estrenos vpn
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbAYK-KM9gIEEdPohqOzh-vxuAAfIWSoq88kRQz62YFcv/ts
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mes2.png" group-title="SPAIN",Movistar Estrenos 2 
 http://he01.okcomputer.club:8880/YXLM0018/987416547/52340
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mac.png" group-title="SPAIN",Movistar Accion 
 http://cloudcdn.tk:80/AkJXAEU989/xPmz7q261/5463
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mac.png" group-title="SPAIN",Movistar Accion vpn
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbN91MArpaiaOBye_ImgCUV-R52-QJbYYfjDgMSamnrXW/ts
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mco.png" group-title="SPAIN",Movistar Comedia 
 http://cloudcdn.tk:80/AkJXAEU989/xPmz7q261/5462
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mco.png" group-title="SPAIN",Movistar Comedia vpn
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbA5RIhT-KFbK8CK8MraZ5CZJqxjQMBeFNYMA3DMWNpIV/ts
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdr.png" group-title="SPAIN",Movistar Drama 
 http://cloudcdn.tk:80/AkJXAEU989/xPmz7q261/5461
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdr.png" group-title="SPAIN",Movistar Drama vpn
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbIUR-1_Ay7he8Rt_stKwSORVi7Fphj2zu7g_pGFvQXb_/ts
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mcn.png" group-title="SPAIN",Movistar Cine N
 http://cloudcdn.tk:80/AkJXAEU989/xPmz7q261/5411
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mcn.png" group-title="SPAIN",Movistar Cine N vpn
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbEiOVIpCv1Og2TL1H8ZZVwyNDkNSYi3Tq7tzy0a-fBrB/ts
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mcl.png" group-title="SPAIN",Movistar Clasicos 
 http://cloudcdn.tk:80/AkJXAEU989/xPmz7q261/9412
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/somos.png" group-title="SPAIN",SOMOS 
