@@ -259,7 +259,7 @@ http://185.41.244.69/fdf/tracks-v2a1a2/mono.m3u8
 http://185.41.244.69/energy/tracks-v2a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/a3s.png" group-title="SPAIN",Atres Series
 http://185.41.244.69/atreserieshd/tracks-v3a1a2/mono.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/a3player.png" group-title="SPAIN",Atres Cine
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/a3cine.png" group-title="SPAIN",Atres Cine
 https://www.uncdp.com/proxy.php/https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/csur.png" group-title="SPAIN",Canal Sur
 http://154.62.74.11:1935/live/smil:canalsur.smil/chunklist_w387314804_b4128000_sleng.m3u8
