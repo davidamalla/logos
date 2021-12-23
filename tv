@@ -305,7 +305,7 @@
         {
           "name": "#0",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/m0.png",
-          "url": "http://5.39.189.110:7000/play/a044/index.m3u8",
+          "url": "http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/6748.m3u8",
           "url1": "http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/3569.m3u8",
           "epgId": "#0.TV"
         },
@@ -333,7 +333,7 @@
         {
           "name": "SYFY",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/syfy.png",
-          "url": "http://5.39.189.110:7000/play/a053/index.m3u8",
+          "url": "http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/1516.m3u8",
           "url1": "http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/3625.m3u8",
           "epgId": "SYFY.TV"
         }
@@ -346,14 +346,14 @@
         {
           "name": "AXN",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/axn.png",
-          "url": "http://5.39.189.110:7000/play/a00d/index.m3u8",
+          "url": "http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/1520.m3u8",
           "url1": "http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/1910.m3u8",
           "epgId": "AXN.TV"
         },
         {
           "name": "AXN White",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/axnwhite.png",
-          "url": "http://5.39.189.110:7000/play/a058/index.m3u8",
+          "url": "http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/1521.m3u8",
           "url1": "http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/3575.m3u8",
           "epgId": "AXNWhite.TV"
         },
@@ -381,14 +381,14 @@
         {
           "name": "TCM",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/tcm.png",
-          "url": "http://5.39.189.110:7000/play/a040/index.m3u8",
+          "url": "http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/3565.m3u8",
           "url1": "http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/1940.m3u8",
           "epgId": "TCM.TV"
         },
         {
           "name": "Calle 13",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/calle13.png",
-          "url": "http://5.39.189.110:7000/play/a027/index.m3u8",
+          "url": "http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/1519.m3u8",
           "url1": "http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/1911.m3u8",
           "epgId": "Calle13.TV"
         },
@@ -402,42 +402,42 @@
         {
           "name": "M. Drama",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/drama.png",
-          "url": "http://5.39.189.110:7000/play/a01i/index.m3u8",
+          "url": "http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/1523.m3u8",
           "url1": "http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/1929.m3u8",
           "epgId": "M.Drama.TV"
         },
         {
           "name": "Movistar Estrenos",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mestrenos.png",
-          "url": "http://5.39.189.110:7000/play/a056/index.m3u8",
+          "url": "http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/1526.m3u8",
           "url1": "http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/1930.m3u8",
           "epgId": "MovistarEstrenos.TV"
         },
         {
           "name": "M.CineDoc&Roll",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mdocroll.png",
-          "url": "http://5.39.189.110:7000/play/a057/index.m3u8",
+          "url": "http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/3609.m3u8",
           "url1": "http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/1926.m3u8",
           "epgId": "M.CineDoc&Roll.TV"
         },
         {
           "name": "Movistar Comedia",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mcomedia.png",
-          "url": "http://5.39.189.110:7000/play/a00e/index.m3u8",
+          "url": "http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/1524.m3u8",
           "url1": "http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/1927.m3u8",
           "epgId": "MovistarComedia.TV"
         },
         {
           "name": "Movistar Acción",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/maccion.png",
-          "url": "http://5.39.189.110:7000/play/a01h/index.m3u8",
+          "url": "http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/1522.m3u8",
           "url1": "http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/1925.m3u8",
           "epgId": "MovistarAcción.TV"
         },
         {
           "name": "Movistar Cine N",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mcinen.png",
-          "url": "http://5.39.189.110:7000/play/a04g/index.m3u8",
+          "url": "http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/3608.m3u8",
           "url1": "http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/3610.m3u8",
           "epgId": "MovistarCineN.TV"
         },
