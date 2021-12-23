@@ -3,8 +3,6 @@
 http://cloudcdn.tk:80/AkJXAEU989/xPmz7q261/9411
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cero.png" group-title="SPAIN",#0
 http://5.39.189.110:7000/play/a044/index.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cero.png" group-title="SPAIN",#0 FHD
-http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/3569.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/holly.png" group-title="SPAIN",HOLLYWOOD
 http://185.41.244.69/hollywood/tracks-v3a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tcm.png" group-title="SPAIN",TCM
@@ -17,20 +15,12 @@ http://cloudcdn.tk:80/AkJXAEU989/xPmz7q261/5471
 http://5.39.189.110:7000/play/a00d/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/axn.png" group-title="SPAIN",AXN 
 http://dns.arenatv.biz:8080/040404/040404/61591
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/axn.png" group-title="SPAIN",AXN FHD
-http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/1910.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/axn.png" group-title="SPAIN",AXN HD
-http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/1520.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/axnwhite.png" group-title="SPAIN",AXN WHITE 
 http://cloudcdn.tk:80/AkJXAEU989/xPmz7q261/5470
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/axnwhite.png" group-title="SPAIN",AXN WHITE 
 http://5.39.189.110:7000/play/a058/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/axnwhite.png" group-title="SPAIN",AXN WHITE
 http://dns.arenatv.biz:8080/040404/040404/61592
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/axnwhite.png" group-title="SPAIN",AXN WHITE FHD
-http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/3575.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/axnwhite.png" group-title="SPAIN",AXN WHITE HD
-http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/1521.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/foxn.png" group-title="SPAIN",FOX 
 http://185.41.244.69/fox/tracks-v3a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/foxl.png" group-title="SPAIN",FOX LIFE 
@@ -41,18 +31,10 @@ http://cloudcdn.tk:80/AkJXAEU989/xPmz7q261/5469
 http://5.39.189.110:7000/play/a027/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/c13.png" group-title="SPAIN",CALLE 13 Tv
 http://dns.arenatv.biz:8080/040404/040404/48664
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/c13.png" group-title="SPAIN",CALLE 13 FHD
-http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/1911.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/c13.png" group-title="SPAIN",CALLE 13 HD Tv
-http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/1519.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/syfyu.png" group-title="SPAIN",SYFY 
 http://cloudcdn.tk:80/AkJXAEU989/xPmz7q261/5417
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/syfyu.png" group-title="SPAIN",SYFY 
 http://5.39.189.110:7000/play/a053/index.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/syfyu.png" group-title="SPAIN",SYFY FHD
-http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/3625.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/syfyu.png" group-title="SPAIN",SYFY HD Tv
-http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/1516.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tntsp.png" group-title="SPAIN",TNT
 http://185.41.244.69/tnt/tracks-v3a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mse.png" group-title="SPAIN",Movistar Series 
@@ -65,60 +47,32 @@ http://cloudcdn.tk:80/AkJXAEU989/xPmz7q261/9415
 http://5.39.189.110:7000/play/a056/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mes.png" group-title="SPAIN",Movistar Estrenos
 http://dns.arenatv.biz:8080/040404/040404/43354
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mes.png" group-title="SPAIN",Movistar Estrenos FHD Tv
-http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/1930.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mes.png" group-title="SPAIN",Movistar Estrenos HD Tv
-http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/5348.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mes.png" group-title="SPAIN",Movistar Estrenos HD Tv
-http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/3609.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mes2.png" group-title="SPAIN",Movistar Estrenos 2 FHD
 http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/3620.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mes2.png" group-title="SPAIN",Movistar Estrenos 2 HD
-http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/1926.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mac.png" group-title="SPAIN",Movistar Accion 
 http://cloudcdn.tk:80/AkJXAEU989/xPmz7q261/5463
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mac.png" group-title="SPAIN",Movistar Accion 
 http://5.39.189.110:7000/play/a01h/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mac.png" group-title="SPAIN",Movistar Accion 
 http://dns.arenatv.biz:8080/040404/040404/27455
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mac.png" group-title="SPAIN",Movistar Accion FHD
-http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/1925.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mac.png" group-title="SPAIN",Movistar Accion HD Tv
-http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/1522.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mac.png" group-title="SPAIN",Movistar Accion HD
-http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/3561.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mco.png" group-title="SPAIN",Movistar Comedia 
 http://cloudcdn.tk:80/AkJXAEU989/xPmz7q261/5462
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mco.png" group-title="SPAIN",Movistar Comedia 
 http://5.39.189.110:7000/play/a00e/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mco.png" group-title="SPAIN",Movistar Comedia 
 http://dns.arenatv.biz:8080/040404/040404/3658
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mco.png" group-title="SPAIN",Movistar Comedia FHD
-http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/1927.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdr.png" group-title="SPAIN",Movistar Drama 
 http://cloudcdn.tk:80/AkJXAEU989/xPmz7q261/5461
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdr.png" group-title="SPAIN",Movistar Drama 
 http://5.39.189.110:7000/play/a01i/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdr.png" group-title="SPAIN",Movistar Drama 
 http://dns.arenatv.biz:8080/040404/040404/27459
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdr.png" group-title="SPAIN",Movistar Drama FHD
-http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/1929.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdr.png" group-title="SPAIN",Movistar Drama HD
-http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/1523.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdr.png" group-title="SPAIN",Movistar Drama HD
-http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/3611.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mcn.png" group-title="SPAIN",Movistar Cine N
 http://cloudcdn.tk:80/AkJXAEU989/xPmz7q261/5411
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mcn.png" group-title="SPAIN",Movistar Cine N
 http://5.39.189.110:7000/play/a04g/index.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mcn.png" group-title="SPAIN",Movistar Cine N HD
-http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/6946.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mcn.png" group-title="SPAIN",Movistar Cine N
 http://dns.arenatv.biz:8080/040404/040404/74936
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mcn.png" group-title="SPAIN",Movistar Cine N HD
-http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/3563.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mcn.png" group-title="SPAIN",Movistar Cine N HD
-http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/3608.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mcl.png" group-title="SPAIN",Movistar Clasicos 
 http://cloudcdn.tk:80/AkJXAEU989/xPmz7q261/9412
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/somos.png" group-title="SPAIN",SOMOS 
@@ -386,7 +340,7 @@ https://live-dvr.eitb-fastly.cross-media.es/live-content/etb1hd-hls/bitrate_4.m3
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/etb2.png" group-title="SPAIN",ETB 2
 https://live-dvr.eitb-fastly.cross-media.es/live-content/etb2hd-hls/bitrate_4.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ib3.png" group-title="SPAIN",IB3
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1640265548/ei/7CLEYaaPNYq4WrrTsugJ/ip/81.172.62.237/id/BxmVws5iYB4.1/itag/93/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D134/hls_chunk_host/rr8---sn-8vq54voxn25po-cjol.googlevideo.com/playlist_duration/3000/manifest_duration/30000/vprv/1/playlist_type/DVR/initcwndbps/12270/mh/QR/mm/44/mn/sn-8vq54voxn25po-cjol/ms/lva/mv/m/mvi/8/pl/24/dover/11/keepalive/yes/fexp/24001373,24007246/c/WEB_EMBEDDED_PLAYER/cver/1.20211215.00.01/ptk/youtube_none/pltype/contentugclive/mt/1640243554/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIhANrsCpocbRf58p0FP6PYu0SPchDYpQWKrbyjDj6_C2mdAiAZ7UZu6QHKUEE0IGFvVKiZ3790PbOER6CPcUwSd4pJmQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhAMdBaOdbs8Iu5BwzqIue29XoKnPHAB4vFVwT6MrSwVM4AiBk5M0fXeofurpKrWtqeKDzEZ8jCJNa2K9ClbmOgWYpuw%3D%3D/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1640269667/ei/AzPEYYKkKIa8WdP9j6AI/ip/81.172.62.237/id/BxmVws5iYB4.1/itag/93/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D134/hls_chunk_host/rr8---sn-8vq54voxn25po-cjol.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/14250/mh/QR/mm/44/mn/sn-8vq54voxn25po-cjol/ms/lva/mv/m/mvi/8/pl/24/dover/11/keepalive/yes/fexp/24001373,24007246/c/WEB_EMBEDDED_PLAYER/cver/1.20211215.00.01/ptk/youtube_none/pltype/contentugclive/mt/1640247871/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIhAPSpS6zw_iakkLHq3GXEz_GZMdJfHe54CKU-49B4AGiBAiA7W4PhzNUIcnwb1zFEhRSqFY2qpxAI3YrZumqBASoIvw%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhAOZPQI7IbuQpTsAjyTJoBfgE00BYf-gKxGsndB7MUT_wAiB2A48dDb2mEAz0gL0TB6Jsq4k0RT5igTKsgIz271AGoQ%3D%3D/playlist/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/parlamento.png" group-title="SPAIN",Canal Parlamento
 https://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/index_600_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/7nn.png" group-title="SPAIN",7 NN
