@@ -305,8 +305,8 @@
         {
           "name": "#0",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/m0.png",
-          "url": "https://freevip.xyz/live/0/index.m3u8",
-          "url1": "https://freevip.xyz/live/0/index.m3u8",
+          "url": "http://5.39.189.110:7000/play/a044/index.m3u8",
+          "url1": "http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/3569.m3u8",
           "epgId": "#0.TV"
         },
         {
@@ -333,8 +333,8 @@
         {
           "name": "SYFY",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/syfy.png",
-          "url": "https://freevip.xyz/live/syfy/index.m3u8",
-          "url1": "https://freevip.xyz/live/syfy/index.m3u8",
+          "url": "http://5.39.189.110:7000/play/a053/index.m3u8",
+          "url1": "http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/3625.m3u8",
           "epgId": "SYFY.TV"
         }
       ]
@@ -346,15 +346,15 @@
         {
           "name": "AXN",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/axn.png",
-          "url": "https://freevip.xyz/live/axn/index.m3u8",
-          "url1": "https://freevip.xyz/live/axn/index.m3u8",
+          "url": "http://5.39.189.110:7000/play/a00d/index.m3u8",
+          "url1": "http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/1910.m3u8",
           "epgId": "AXN.TV"
         },
         {
           "name": "AXN White",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/axnwhite.png",
-          "url": "https://freevip.xyz/live/axn_white/index.m3u8",
-          "url1": "https://freevip.xyz/live/axn_white/index.m3u8",
+          "url": "http://5.39.189.110:7000/play/a058/index.m3u8",
+          "url1": "http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/3575.m3u8",
           "epgId": "AXNWhite.TV"
         },
         {
@@ -381,15 +381,15 @@
         {
           "name": "TCM",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/tcm.png",
-          "url": "http://185.41.244.69/tcm/tracks-v2a1a2/playlist.m3u8",
-          "url1": "http://185.41.244.69/tcm/tracks-v3a1a2/playlist.m3u8",
+          "url": "http://5.39.189.110:7000/play/a040/index.m3u8",
+          "url1": "http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/1940.m3u8",
           "epgId": "TCM.TV"
         },
         {
           "name": "Calle 13",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/calle13.png",
-          "url": "https://freevip.xyz/live/calle_13/index.m3u8",
-          "url1": "https://freevip.xyz/live/calle_13/index.m3u8",
+          "url": "http://5.39.189.110:7000/play/a027/index.m3u8",
+          "url1": "http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/1911.m3u8",
           "epgId": "Calle13.TV"
         },
         {
@@ -402,43 +402,43 @@
         {
           "name": "M. Drama",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/drama.png",
-          "url": "https://freevip.xyz/live/movistar_drama/index.m3u8",
-          "url1": "https://freevip.xyz/live/movistar_drama/index.m3u8",
+          "url": "http://5.39.189.110:7000/play/a01i/index.m3u8",
+          "url1": "http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/1929.m3u8",
           "epgId": "M.Drama.TV"
         },
         {
           "name": "Movistar Estrenos",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mestrenos.png",
-          "url": "https://freevip.xyz/live/movistar_estrenos/index.m3u8",
-          "url1": "https://26.listafree.xyz/live/movistar_estrenos/index.m3u8",
+          "url": "http://5.39.189.110:7000/play/a056/index.m3u8",
+          "url1": "http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/1930.m3u8",
           "epgId": "MovistarEstrenos.TV"
         },
         {
           "name": "M.CineDoc&Roll",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mdocroll.png",
-          "url": "https://freevip.xyz/live/movistar_cinedocroll/index.m3u8",
-          "url1": "https://freevip.xyz/live/movistar_cinedocroll/index.m3u8",
+          "url": "http://5.39.189.110:7000/play/a057/index.m3u8",
+          "url1": "http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/1926.m3u8",
           "epgId": "M.CineDoc&Roll.TV"
         },
         {
           "name": "Movistar Comedia",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mcomedia.png",
-          "url": "https://freevip.xyz/live/movistar_comedia/index.m3u8",
-          "url1": "https://freevip.xyz/live/movistar_comedia/index.m3u8",
+          "url": "http://5.39.189.110:7000/play/a00e/index.m3u8",
+          "url1": "http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/1927.m3u8",
           "epgId": "MovistarComedia.TV"
         },
         {
           "name": "Movistar Acción",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/maccion.png",
-          "url": "https://freevip.xyz/live/movistar_accion/index.m3u8",
-          "url1": "https://freevip.xyz/live/movistar_accion/index.m3u8",
+          "url": "http://5.39.189.110:7000/play/a01h/index.m3u8",
+          "url1": "http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/1925.m3u8",
           "epgId": "MovistarAcción.TV"
         },
         {
           "name": "Movistar Cine N",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mcinen.png",
-          "url": "https://freevip.xyz/live/movistar_cine_espanol/index.m3u8",
-          "url1": "https://freevip.xyz/live/movistar_cine_espanol/index.m3u8",
+          "url": "http://5.39.189.110:7000/play/a04g/index.m3u8",
+          "url1": "http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/3610.m3u8",
           "epgId": "MovistarCineN.TV"
         },
         {
@@ -747,7 +747,7 @@
         {
           "name": "National Geographic",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/natgeo.png",
-          "url": "https://freevip.xyz/live/national_geographic_channel/index.m3u8",
+          "url": "http://5.39.189.110:7000/play/a02a/index.m3u8",
           "url1": "https://freevip.xyz/sport/national_geographic/index.m3u8",
           "urlweb": "https://www.nationalgeographic.es/",
           "epgId": "NationalGeographic.TV"
@@ -755,7 +755,7 @@
         {
           "name": "Nat Geo Wild",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/natwild.png",
-          "url": "https://freevip.xyz/live/national_geographic_wild/index.m3u8",
+          "url": "http://5.39.189.110:7000/play/a042/index.m3u8",
           "url1": "https://freevip.xyz/live/national_geographic_wild/index.m3u8",
           "epgId": "NatGeoWild.TV"
         },
@@ -770,7 +770,7 @@
         {
           "name": "MTV",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mtv.png",
-          "url": "http://190.171.101.36:80/MTV/tracks-v4a1/mono.m3u8",
+          "url": "http://5.39.189.110:7000/play/a00u/index.m3u8",
           "url1": "https://freevip.xyz/live/mtv/index.m3u8",
           "urlweb": "http://www.mtv.es/",
           "epgId": "MTV.TV"
