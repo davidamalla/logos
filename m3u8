@@ -295,7 +295,7 @@ http://185.41.244.69/neox/tracks-v2a1a2/mono.m3u8
 http://185.41.244.69/fdf/tracks-v2a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/energy.png" group-title="SPAIN",Energy
 http://185.41.244.69/energy/tracks-v2a1a2/mono.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/mtmad.png" group-title="SPAIN",Mtmad 24
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/mtmad24.png" group-title="SPAIN",Mtmad 24
 https://mdssplive-lh.akamaihd.net/i/mtmad_main@744785/index_1_av-p.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/lavoz.png" group-title="SPAIN",La Voz
 https://pull12.atresmedia.com/lavoz/master.m3u8
