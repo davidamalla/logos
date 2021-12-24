@@ -368,13 +368,9 @@ http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" group-title="SPAIN",#VAMOS
 http://54.39.48.63:8081/ESP%7CVAMOS/ESP%7CVAMOS/playlist.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/teledeporte.png" group-title="SPAIN",TDP
-http://ztnr.rtve.es/ztnr/1712295.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/teledeporte.png" group-title="SPAIN",TDP
 https://rtvelivestreamv3.akamaized.net/tdp/tdp_main.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="SPAIN",DAZN F1
 http://66.70.176.103:8081/SPAIN%7CMOVISTARF1/SPAIN%7CMOVISTARF1/playlist.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="SPAIN",DAZN F1
-http://66.70.176.103:8081/SPAIN%7CMOVISTARF1/SPAIN%7CMOVISTARF1/chunks.m3u8?nimblesessionid=2483910
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" group-title="SPAIN",Eurosport 1
 http://154.62.74.12:1935/live/smil:eurosport1nntv.smil/chunklist_w1379525563_b1928000_sleng.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es2.png" group-title="SPAIN",Eurosport 2
@@ -383,8 +379,4 @@ http://154.62.74.12:1935/live/smil:eurosport2hdnntv.smil/chunklist_w985537062_b1
 http://154.62.74.29:1935/live/gol/chunklist_w305718432.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/esport3.png" group-title="SPAIN",Sports 3
 https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b2128000_DVR.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mgo.png" group-title="SPAIN",Movistar Golf Tv
-http://66.70.176.103:8081/ESP%7CMOVISTARGOLF/ESP%7CMOVISTARGOLF/playlist.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mgo.png" group-title="SPAIN",Movistar Golf Tv
-http://66.70.176.103:8081/ESP%7CMOVISTARGOLF/ESP%7CMOVISTARGOLF/chunks.m3u8?nimblesessionid=2484122
 
