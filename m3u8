@@ -73,6 +73,8 @@ http://dns.arenatv.biz:8080/040404/040404/3658
 http://194.76.186.26:8000/play/a03o
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdr.png" group-title="SPAIN",Movistar Drama 
 http://dns.arenatv.biz:8080/040404/040404/27459
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdr.png" group-title="SPAIN",Movistar Drama 
+http://protv.top:8000/live/90879347454025140/1593574628/38850.ts
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mcn.png" group-title="SPAIN",Movistar Cine N
 http://protv.top:8000/live/90879347454025140/1593574628/38860.ts
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mcn.png" group-title="SPAIN",Movistar Cine N
