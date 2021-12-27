@@ -190,7 +190,7 @@ http://dns.arenatv.biz:8080/040404/040404/74938
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ducktv.png" group-title="SPAIN",Duck Tv
 https://mmm-ducktv-3-es.samsung.wurl.com/manifest/d3f8ea989ab57c23ee5efc0cdeee512f.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/afvfamily.png" group-title="SPAIN",AFV Family
-https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
+https://linear-46.frequency.stream/46/hls/master/playlist_1280x720.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rakutenenfamilia.png" group-title="SPAIN",Rakuten En Familia
 https://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/extrema.png" group-title="SPAIN",Extrema Tv
@@ -258,7 +258,7 @@ https://siloh.pluto.tv/lilo/production/QwestJazz/master_1.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/stingraydjazz.png" group-title="SPAIN",STINGRAY DJazz
 https://dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/qwestclas.png" group-title="SPAIN",QWEST CLASSIC
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestclassic-uk-samsungtv/playlist.m3u8
+https://qwest-classic-plex.amagi.tv/playlist720_p.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/sclassica.png" group-title="SPAIN",STINGRAY CLASSIC
 https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mezzo.png" group-title="SPAIN",MEZOO 
