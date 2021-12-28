@@ -142,6 +142,7 @@ http://185.41.244.69/comedycentral/tracks-v2a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/historia.png" group-title="SPAIN",HISTORY 
 http://185.41.244.69/historia/tracks-v3a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ngp.png" group-title="SPAIN",NATIONAL GEOGRAPHIC
+http://protv.top:8000/live/90879347454025140/1593574628/38825.ts
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/odisea.png" group-title="SPAIN",ODISEA
 http://185.41.244.69/odisea/tracks-v3a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/viajar.png" group-title="SPAIN",VIAJAR 
@@ -202,6 +203,8 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w1759560933.m3u8
 http://205.164.56.130:1935/marcos536/marcos536/chunklist_w474318771.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/tucine.png" group-title="SPAIN",Tu Cine
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucineeurope-distro/ce7bace5-8964-40f9-9054-1a2a7a6957d8/4.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mtv.png" group-title="SPAIN",MTV Hits
+http://protv.top:8000/live/90879347454025140/1593574628/38920.ts
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mtvhits.png" group-title="SPAIN",MTV Hits
 http://190.171.101.36:80/MTV/tracks-v4a1/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mtvlive.png" group-title="SPAIN",MTV Live
@@ -310,7 +313,7 @@ http://185.41.244.69/neox/tracks-v2a1a2/mono.m3u8
 http://185.41.244.69/fdf/tracks-v2a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/energy.png" group-title="SPAIN",Energy
 http://185.41.244.69/energy/tracks-v2a1a2/mono.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/mtmad24.png" group-title="SPAIN",mtmad 24
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mtmad24h.png" group-title="SPAIN",mtmad 24
 https://mdssplive-lh.akamaihd.net/i/mtmad_main@744785/index_1_av-p.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/lavoz.png" group-title="SPAIN",La Voz
 https://pull12.atresmedia.com/lavoz/master.m3u8
