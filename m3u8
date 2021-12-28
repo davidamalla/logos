@@ -189,8 +189,8 @@ http://185.41.244.69/clan/tracks-v2a1a2/mono.m3u8
 http://185.41.244.69/boing/tracks-v2a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/super3.png" group-title="SPAIN",Super 3
 https://directes-tv-cat.ccma.cat/cat/ngrp:c33_mobil/chunklist_b2128000.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dreamworks.png" group-title="SPAIN",Dream 
-http://dns.arenatv.biz:8080/040404/040404/74938
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dreamworks.png" group-title="SPAIN",Dream
+http://194.76.186.26:8000/play/a03d
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ducktv.png" group-title="SPAIN",Duck Tv
 https://mmm-ducktv-3-es.samsung.wurl.com/manifest/d3f8ea989ab57c23ee5efc0cdeee512f.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/afvfamily.png" group-title="SPAIN",AFV Family
