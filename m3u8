@@ -141,7 +141,7 @@ http://185.41.244.69/cocina/tracks-v2a1a2/mono.m3u8
 http://185.41.244.69/comedycentral/tracks-v2a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/historia.png" group-title="SPAIN",HISTORY 
 http://185.41.244.69/historia/tracks-v3a1a2/mono.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ngp.png" group-title="SPAIN",NATIONAL GEOGRAPHIC
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ng.png" group-title="SPAIN",NATIONAL GEOGRAPHIC
 http://protv.top:8000/live/90879347454025140/1593574628/38825.ts
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/odisea.png" group-title="SPAIN",ODISEA
 http://185.41.244.69/odisea/tracks-v3a1a2/mono.m3u8
