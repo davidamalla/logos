@@ -147,11 +147,11 @@ https://tvdatta.com:3484/hybrid/play.m3u8
 https://tvdatta.com:3484/stream/play.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/TELECLASICOSMUSIC.png" group-title="SPAIN",Tele Clasicos Musica
 https://tvdatta.com:3279/stream/play.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/retroplustv.png" group-title="SPAIN",Retro PLus Tv
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/retroplus1.png" group-title="SPAIN",Retro PLus Tv
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w687767792.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/retroplustv2.png" group-title="SPAIN",Retro PLus Tv 2
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/retroplus2.png" group-title="SPAIN",Retro PLus Tv 2
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w906872153.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/retroplustv3.png" group-title="SPAIN",Retro PLus Tv 3
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/retroplus3.png" group-title="SPAIN",Retro PLus Tv 3
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w1896453407.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/pequeradio256.png" group-title="SPAIN",PEQUE RADIO
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
