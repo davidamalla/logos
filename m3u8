@@ -231,7 +231,7 @@ http://protv.top:8000/live/90879347454025140/1593574628/38920.ts
 http://190.171.101.36:80/MTV/tracks-v4a1/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mtvlive.png" group-title="SPAIN",MTV Live
 http://58.65.171.202:8000/play/1/index.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mtv00s.png" group-title="SPAIN",MTV COOL
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mtv00s.png" group-title="SPAIN",MTV 00
 http://185.41.244.69/vh1/tracks-v2a1/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mtv80s.png" group-title="SPAIN",MTV 80
 http://94.236.145.205:8000/play/a02j
