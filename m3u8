@@ -201,7 +201,7 @@ http://185.41.244.69/nickjr/tracks-v2a1a2/mono.m3u8
 http://185.41.244.69/nickelodeon/tracks-v2a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dc.png" group-title="SPAIN",Disney Channel
 http://185.41.244.69/disneychannel/tracks-v2a1a2/mono.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/disneyp.png" group-title="SPAIN",DisneY+
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/disneyp.png" group-title="SPAIN",Disney+
 http://zpt2.0.bummerprime.xyz:25461/Robertopalancas/heg7nCFjS3/701
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/clantve.png" group-title="SPAIN",Clan
 http://185.41.244.69/clan/tracks-v2a1a2/mono.m3u8
