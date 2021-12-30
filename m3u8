@@ -155,6 +155,8 @@ http://zpt2.0.bummerprime.xyz:25461/Robertopalancas/heg7nCFjS3/150
 http://185.41.244.69/odisea/tracks-v3a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/viajar.png" group-title="SPAIN",VIAJAR 
 http://185.41.244.69/viajarhd/tracks-v3a1a2/mono.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/decasa.png" group-title="SPAIN",DE CASA
+http://zpt2.0.bummerprime.xyz:25461/Robertopalancas/heg7nCFjS3/12653
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/lovenature.png?" group-title="SPAIN",LOVE NATURE
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-lnrcastilian-samsungspain/40c30f63-9fc6-4670-afc7-666e96f9e94b/2.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cei.png" group-title="SPAIN",CRIMEN+INVESTIGACION 
@@ -199,6 +201,8 @@ http://185.41.244.69/nickjr/tracks-v2a1a2/mono.m3u8
 http://185.41.244.69/nickelodeon/tracks-v2a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dc.png" group-title="SPAIN",Disney Channel
 http://185.41.244.69/disneychannel/tracks-v2a1a2/mono.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/disneyp.png" group-title="SPAIN",DisneY+
+http://zpt2.0.bummerprime.xyz:25461/Robertopalancas/heg7nCFjS3/701
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/clantve.png" group-title="SPAIN",Clan
 http://185.41.244.69/clan/tracks-v2a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/boing.png" group-title="SPAIN",Boing
@@ -206,7 +210,7 @@ http://185.41.244.69/boing/tracks-v2a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/super3.png" group-title="SPAIN",Super 3
 https://directes-tv-cat.ccma.cat/cat/ngrp:c33_mobil/chunklist_b2128000.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dreamworks.png" group-title="SPAIN",Dream
-http://194.76.186.26:8000/play/a03d
+http://zpt2.0.bummerprime.xyz:25461/Robertopalancas/heg7nCFjS3/17821
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ducktv.png" group-title="SPAIN",Duck Tv
 https://mmm-ducktv-3-es.samsung.wurl.com/manifest/d3f8ea989ab57c23ee5efc0cdeee512f.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/afvfamily.png" group-title="SPAIN",AFV Family
