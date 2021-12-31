@@ -245,6 +245,9 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w1759560933.m3u8
 http://205.164.56.130:1935/marcos536/marcos536/chunklist_w474318771.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/tucine.png" group-title="SPAIN",Tu Cine
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucineeurope-distro/6a657c80-1ec5-4cbe-8a6d-bc732a530e52/5.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/topcine1.png" group-title="SPAIN",Top Cine
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_5.m3u8
+https://raw.githubusercontent.com/davidamalla/logos/main/topcine1.png
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/hittv.png" group-title="SPAIN",Hit Tv
 http://tvla.xyz:80/12345678/12345678/181559
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mfe.png" group-title="SPAIN",Movistar Fest
