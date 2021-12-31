@@ -207,8 +207,6 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussen
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/locomotion.png" group-title="SPAIN",Locomotion
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/33cat.png" group-title="SPAIN",C33
-https://directes-tv-cat.ccma.cat/cat/ngrp:c33_web/chunklist_b2128000_DVR.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/babytv.png" group-title="SPAIN",BABY
 http://185.41.244.69/babytv/tracks-v2a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/pljunior.png" group-title="SPAIN",PLANETA JR
@@ -238,7 +236,7 @@ https://mmm-ducktv-3-es.samsung.wurl.com/manifest/d3f8ea989ab57c23ee5efc0cdeee51
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/afvfamily.png" group-title="SPAIN",AFV Family
 https://linear-46.frequency.stream/46/hls/master/playlist_1280x720.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/thepetcollective.png" group-title="SPAIN",The Pet Collective
-https://1e9afb0f071a4dddaa552a39877a75a5.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-174-THE_PET_COLLECTIVE-OTTERA/e19cf474-7000-4003-944b-06cc76275a55/0.m3u8
+https://1e9afb0f071a4dddaa552a39877a75a5.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-174-THE_PET_COLLECTIVE-OTTERA/2f59e6e4-d21e-4035-bc8f-e8ba8e71254b/0.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rakutenenfamilia.png" group-title="SPAIN",Rakuten En Familia
 https://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/extrema.png" group-title="SPAIN",Extrema Tv
