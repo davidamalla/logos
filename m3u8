@@ -56,9 +56,9 @@ http://tvla.xyz:80/12345678/12345678/181704
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tntsp.png" group-title="SPAIN",TNT
 http://185.41.244.69/tnt/tracks-v3a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mse.png" group-title="SPAIN",Movistar Series 
-http://cloudcdn.tk:80/AkJXAEU989/xPmz7q261/9414
+http://tvla.xyz:80/12345678/12345678/181694
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mse2.png" group-title="SPAIN",Movistar Series 2 
-http://cloudcdn.tk:80/AkJXAEU989/xPmz7q261/9413
+http://tvla.xyz:80/12345678/12345678/181697
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mes.png" group-title="SPAIN",Movistar Estrenos 
 http://zpt2.0.bummerprime.xyz:25461/Robertopalancas/heg7nCFjS3/49
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mes.png" group-title="SPAIN",Movistar Estrenos 
