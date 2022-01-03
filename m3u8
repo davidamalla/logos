@@ -292,7 +292,7 @@ https://mmm-ducktv-3-es.samsung.wurl.com/manifest/d3f8ea989ab57c23ee5efc0cdeee51
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/afvfamily.png" group-title="SPAIN",AFV Family
 https://linear-46.frequency.stream/46/hls/master/playlist_1280x720.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/thepetcollective.png" group-title="SPAIN",The Pet Collective
-https://1e9afb0f071a4dddaa552a39877a75a5.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-174-THE_PET_COLLECTIVE-OTTERA/b03b5991-9244-40a5-8a9a-1faf237ba975/0.m3u8
+https://linear-174.frequency.stream/dist/ottera/174/hls/master/playlist.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rakutenenfamilia.png" group-title="SPAIN",Rakuten En Familia
 https://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/extrema.png" group-title="SPAIN",Extrema Tv
