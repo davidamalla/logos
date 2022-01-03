@@ -35,8 +35,6 @@ http://tvla.xyz:80/12345678/12345678/181713
 http://tvla.xyz:80/12345678/12345678/181712
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/foxn.png" group-title="SPAIN",FOX 
 http://185.41.244.69/fox/tracks-v3a1a2/mono.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/foxl.png" group-title="SPAIN",FOX Life
-http://185.41.244.69/foxlife/tracks-v2a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/c13.png" group-title="SPAIN",CALLE 13
 http://zpt2.0.bummerprime.xyz:25461/Robertopalancas/heg7nCFjS3/91
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/c13.png" group-title="SPAIN",CALLE 13
@@ -225,8 +223,6 @@ http://tvla.xyz:80/12345678/12345678/181786
 http://tvla.xyz:80/12345678/12345678/181785
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/odisea.png" group-title="SPAIN",ODISEA
 http://185.41.244.69/odisea/tracks-v3a1a2/mono.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/viajar.png" group-title="SPAIN",VIAJAR 
-http://185.41.244.69/viajarhd/tracks-v3a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/decasa.png" group-title="SPAIN",de casa
 http://zpt2.0.bummerprime.xyz:25461/Robertopalancas/heg7nCFjS3/12653
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/decasa.png" group-title="SPAIN",de casa
@@ -334,7 +330,7 @@ https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/192bbb4ecd48
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/vev80's.png" group-title="SPAIN",VEVO 80
 https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/a65cf7ba93664eb083d95152fe717270/live_6.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/flashtv.png" group-title="SPAIN",FLASH TV
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-distro/44154fe2-9d8c-4b52-8ec9-c22cb10365d3/4.m3u8
+https://flash-plex.amagi.tv/flash/master_5.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/sol.png" group-title="SPAIN",SOL MUSIC
 http://185.41.244.69/sol/tracks-v2a1/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/latidomusic.png" group-title="SPAIN",LATIDO
