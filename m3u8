@@ -220,15 +220,25 @@ http://185.41.244.69/historia/tracks-v3a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ng.png" group-title="SPAIN",National Geographic
 http://zpt2.0.bummerprime.xyz:25461/Robertopalancas/heg7nCFjS3/150
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ng.png" group-title="SPAIN",National Geographic
+http://28681229918268125.niceyes.xyz:80/CDLYWZAK84/3262457057/268125
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ng.png" group-title="SPAIN",National Geographic
+http://28681229918275479.niceyes.xyz:80/CDLYWZAK84/3262457057/275479
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ngwild.png" group-title="SPAIN",NatGeo Wild
+http://28681229918268124.niceyes.xyz:80/CDLYWZAK84/3262457057/268124
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ngwild.png" group-title="SPAIN",NatGeo Wild
+http://28681229918268129.niceyes.xyz:80/CDLYWZAK84/3262457057/268129
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/disc.png" group-title="SPAIN",Discovery Channel
+http://28681229918267944.niceyes.xyz:80/CDLYWZAK84/3262457057/267944
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/disc.png" group-title="SPAIN",Discovery Channel
+http://28681229918267945.niceyes.xyz:80/CDLYWZAK84/3262457057/267945
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/odisea.png" group-title="SPAIN",ODISEA
 http://185.41.244.69/odisea/tracks-v3a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/decasa.png" group-title="SPAIN",de casa
 http://zpt2.0.bummerprime.xyz:25461/Robertopalancas/heg7nCFjS3/12653
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/decasa.png" group-title="SPAIN",de casa
+http://28681229918272409.niceyes.xyz:80/CDLYWZAK84/3262457057/272409
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/decasa.png" group-title="SPAIN",de casa
+http://28681229918268450.niceyes.xyz:80/CDLYWZAK84/3262457057/268450
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/lovenature.png?" group-title="SPAIN",LOVE NATURE
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-lnrcastilian-samsungspain/3500e814-cd9e-407f-91c5-dadb60e03239/2.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cei.png" group-title="SPAIN",CRIMEN+INVESTIGACION 
@@ -282,6 +292,7 @@ https://directes-tv-cat.ccma.cat/cat/ngrp:c33_mobil/chunklist_b2128000.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dreamworks.png" group-title="SPAIN",DreamWorks
 http://zpt2.0.bummerprime.xyz:25461/Robertopalancas/heg7nCFjS3/17821
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dreamworks.png" group-title="SPAIN",DreamWorks
+http://28681229918267964.niceyes.xyz:80/CDLYWZAK84/3262457057/267964
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ducktv.png" group-title="SPAIN",Duck Tv
 https://mmm-ducktv-3-es.samsung.wurl.com/manifest/d3f8ea989ab57c23ee5efc0cdeee512f.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/afvfamily.png" group-title="SPAIN",AFV Family
