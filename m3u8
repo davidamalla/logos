@@ -561,12 +561,14 @@ https://pc-sumandocomunicacion-hls.flumotion.com/playlist.m3u8
 https://live-dvr.eitb-fastly.cross-media.es/live-content/etb1hd-hls/bitrate_4.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/etb2.png" group-title="SPAIN",ETB 2
 https://live-dvr.eitb-fastly.cross-media.es/live-content/etb2hd-hls/bitrate_4.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/ceutatv.png" group-title="SPAIN",Ceuta Tv
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rtvceuta.png" group-title="SPAIN",Ceuta Tv
 https://cdnlive.shooowit.net/rtvcelive/channel1.smil/chunklist_b4000000.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/melilla.png" group-title="SPAIN",Melilla Tv
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tvmelilla.png" group-title="SPAIN",Melilla Tv
 https://tvmelilla-hls-rm-lw.flumotion.com/tvmelilla/live-fake-ori_low/chunks.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ib3.png" group-title="SPAIN",IB3
 http://zpt2.0.bummerprime.xyz:25461/Robertopalancas/heg7nCFjS3/2724
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/la8med.png" group-title="SPAIN",La 8 Mediterraneo
+https://live-edge-lon-1.cdn.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/live1500/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/parlamento.png" group-title="SPAIN",Canal Parlamento
 https://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/index_600_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/7nn.png" group-title="SPAIN",7 NN
