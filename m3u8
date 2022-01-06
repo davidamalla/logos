@@ -533,6 +533,8 @@ http://185.41.244.69/laotra/tracks-v1a1a2/mono.m3u8
 https://8tv-cellnex-hlslive.secure.footprint.net/egress/bhandler/tevecat/tvcat/chunklist_b3203072.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/TEVECAT10.png" group-title="SPAIN",Teve.cat
 https://limited35.todostreaming.es/live/mitjans-livestream.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/fibracat.png" group-title="SPAIN",Fibracat
+https://cdn02.fibracat.cat/fibracattv/tracks-v2a1/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tv3.png" group-title="SPAIN",TV3
 https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/chunklist_b2128000_DVR.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/324.png" group-title="SPAIN",3/24
