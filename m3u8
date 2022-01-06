@@ -571,6 +571,8 @@ https://live-dvr.eitb-fastly.cross-media.es/live-content/etb2hd-hls/bitrate_4.m3
 https://cdnlive.shooowit.net/rtvcelive/channel1.smil/chunklist_b4000000.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tvmelilla.png" group-title="SPAIN",Melilla Tv
 https://tvmelilla-hls-rm-lw.flumotion.com/tvmelilla/live-fake-ori_low/chunks.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vis6.png" group-title="SPAIN",Melilla Tv
+https://secure3.todostreaming.es/live/visionseis-livestream.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ib3.png" group-title="SPAIN",IB3
 http://zpt2.0.bummerprime.xyz:25461/Robertopalancas/heg7nCFjS3/2724
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/la8med.png" group-title="SPAIN",La 8 Mediterraneo
