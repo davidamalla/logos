@@ -449,6 +449,8 @@ https://stingray-qelloconcerts-1-gb.samsung.wurl.com/manifest/a8abf500535115cb30
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/toplatino.png" group-title="SPAIN",TOP LATINO
 https://5cefcbf58ba2e.streamlock.net:443/tltvweb/tvweb.stream/playlist.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/molatv.png" group-title="SPAIN",Mola Tv
+http://ventdelnord.tv:8080/mola/directe.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/melodychannel.png" group-title="SPAIN",Melody Channel
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/chunklist_w1545135194_b748304.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/musictop.png" group-title="SPAIN",Music Top
