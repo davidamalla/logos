@@ -623,6 +623,12 @@ https://streamer.zapitv.com/ptv-linarez/tracks-v1a1/mono.m3u8
 https://streamer.zapitv.com/PTV-GRANADA/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ptvsevilla.png" group-title="SPAIN",ptv sevilla
 https://streamer.zapitv.com/PTV_SEVILLA/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/populartvcan.png" group-title="SPAIN",Popular tv cantabria
+https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/populartvmel.png" group-title="SPAIN",Popular tv melilla
+https://5940924978228.streamlock.net/8009/8009/chunklist_w862932780.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/populartvmur.png" group-title="SPAIN",Popular tv murica
+https://cloud.streamingconnect.tv:455/populartvrm/populartvrm.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tvext.png" group-title="SPAIN",Tv Extremeña
 https://video-weaver.mad02.hls.ttvnw.net/v1/playlist/CvcEjl2omsQTCkx_YYXb9AiHRLizJDT5wT9LBDWLwlY9TB0pm7YTxawxlRQXnZ1TMLgQj3ZaOGPdStqKmVHBgt7URSA1tJ-H27gvIEkYpXete1MNYW4MSq_eCu2GzDg57sDy2qE9bkQZjFAm3PZEKSYzxs8RyH5lpuoePpU65UkEc0ybiv4tRSiO-Gz_9WXcUDjFjMMHrfrEU-Ow_dekR3cAtZ0koeDQ6elx5n02cFJBcgswb0TSTTvqQrjYSNd7T6BKh1ILspyoBJGwoDA0X86e4-O7QeI-r0RSOgrb7IbJ2-47z6WJiJdjh9KQUL0VZayIvcsUyxMNzTJGHzXo9VvCM5ZwvHgzJbhBtbFhmAyMxNMEGx5AiVE_wm8QWpTkVwFjyQm5q3QYFJ6EpueuSNrjhuVKA1QHU2Z5PD4k9LQlgLm0EL3EkSqOIaft8hoHFJRWpZ-8g5FjOodsZwny-fWa4XSLIarz9g3Cu3L_4X3kN-JRX2FctIZ2N0SSBnAvL3iH98LtCN_5V33cp2IatMrayMdhr3rn5ISYBRgN6AFU4kLMmWRE6OssTI828hmC7DDuOqr8IlPTD5R_eLYqq4y_gZKnR9dgyEhTIK-fu8dP7DGla5W7IKilrcjyIZg65U25LYGSDtTcU-XiSPoNMx7Ght5i80uihaKtOabkdXdRYS88snvePia0aFN3yTCw2G1uGEuBgEnQ0oa4107Esa-KDVPbt3x7HsVhmHOrnBFC8_sYmBR6DAXu6XC85b_3DZs-PDN42dzrzOSMunweKYUp63p6A263mN3uxtZimg0ueRC3e-_aMzBswTGdzcJuxDAaTY-mGdRLABoMZOM3bFnwAo2iukZNIAEqCXVzLXdlc3QtMjDaAg.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ewtn.png" group-title="SPAIN",EWTN
