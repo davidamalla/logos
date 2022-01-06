@@ -379,6 +379,10 @@ https://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w1759560933.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/cdm.png" group-title="SPAIN",CDM Internacional
 http://205.164.56.130:1935/marcos536/marcos536/chunklist_w474318771.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/alternativatv.png" group-title="SPAIN",Alternativa Tv
+https://zone.controlstreams.com:5443/LiveApp/streams/alternativaingles.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/enlacetbn.png" group-title="SPAIN",Enlace Tv
+https://1-1265-11554-1.b.cdn13.com/LiveHTTPOrigin/live/chunklist.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/tucine1.png" group-title="SPAIN",Tu Cine
 https://tucine-plex.amagi.tv/TuCine-xumo/master_5.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/topcine1.png" group-title="SPAIN",Top Cine
