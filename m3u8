@@ -679,6 +679,8 @@ https://5d8d85cf2c308.streamlock.net:1936/Condavision/endirecto/chunklist_w20801
 http://217.125.136.93:8080/canalsierradecadiz720.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ondaazulmalaga.png" group-title="SPAIN",Canal malaga tv
 https://canalmalaga-tv-live.flumotion.com/chunks.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/c56castellon.png" group-title="SPAIN",Canal 56
+https://videos.canal56.com/directe/stream/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tvext.png" group-title="SPAIN",Tv Extremeña
 https://video-weaver.mad01.hls.ttvnw.net/v1/playlist/CvQEQEMQM_uFSFnzWOHxBbE4eA27a8uR0toqL281XI2MzKxVyX8JKIjsZq8SJGbkqXTLV2lzWmFy-989zjfl-e4NRCJ9XSuMquU3ub-8GF6WcXWzx63zxpoefISTEAfjTjjPZD7L6tT6pGs75KnkqUJx9p5Ho37Y9i80HPRW7k64XO0zifoAtLA159xEvz7Q2WHRS3p8_xhQXyCjGx_R_u-9XPYu4MExUq-MksXhXazPQga0EMz6P9ct0DTy5a4r2ZuRxTjbsG3AL-oxswlS39P3RUOnaXp_cUFHydaaHt6De8CKp1uSaFuF1eG2BugYXvXufWQbU1GUrd7bR1jmTkHGFdIJxOxifhdEgFNJ49cgk7nx_xBuFhnFOOZSozJd6tMbP6IODM1eDlFYNeN68gXbYe0wSSi64nufs8cTKHIJDwsOF7dKjvCXOKGoedwGJkuqo63ZvLlLKkM9rWfhnzCYFJKTdDBITed4oHtjYQQbOPMsYMc7446gpKti-jrI-nuoL-2RVbtD00Z82upgjo2MJAfGu2dBQ_JXyWQgkbGJP8Wv3gLJwLcsQuKZMYFrknFaj7Leg4GLwnifHEou_CsmYeg93KC7WJv0deHZMJKBsE4ExuHfw4LNPVRd0SVbFngNiHZIfE3Hqi1cf2VrwPlN1-API_76rI7Cmun07iXEuc7lZ1TkLUjtS0bzQyB4LqNCCHyJh9A6Qkieq7xuRsU-sSi213l_OCWEDc9QjDc9sRdR-O-fF2tIAA8SKzEtrpw9Bc2eth6fi7TfbVwR6sjE2Edm-QGs_UieHBEctB0ki3YMR8pf6kZ3kQkVePFTlW7UUeVv6RoMN-o_AxutImOXWjllIAEqCXVzLWVhc3QtMjDZAg.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ewtn.png" group-title="SPAIN",EWTN
