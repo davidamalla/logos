@@ -697,6 +697,8 @@ https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
 https://tvdatta.com:3785/live/biosferatvlive.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tl7val.png" group-title="SPAIN",7 televalencia
 https://live-edge-lon-2.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live-500/index.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/7larioja.png" group-title="SPAIN",7 la rioja
+https://pc-la7delarioja-hls.flumotion.com/promecal/live3_720p/chunks.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ewtn.png" group-title="SPAIN",EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/1152/chunklist.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="SPAIN",La Liga 
