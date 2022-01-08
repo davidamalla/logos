@@ -441,7 +441,7 @@ https://cloudvideo.servers10.com:8081/8136/tracks-v1a1/mono.m3u8
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/quelloconcerts.png" group-title="SPAIN",STINGRAY QUELLO CONCERTS
 https://stingray-qelloconcerts-1-gb.samsung.wurl.com/manifest/a8abf500535115cb30d1339d1addc858.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/retrotv256.png" group-title="SPAIN",RETRO 
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/retromusiccolor.png" group-title="SPAIN",RETRO 
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/toplatino.png" group-title="SPAIN",TOP LATINO
 https://5cefcbf58ba2e.streamlock.net:443/tltvweb/tvweb.stream/playlist.m3u8
