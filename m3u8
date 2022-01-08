@@ -611,8 +611,6 @@ https://5d8d85cf2c308.streamlock.net:1936/Teleonuba/endirecto/chunklist_w7664866
 https://5df8a678a3840.streamlock.net/8012/8012/chunklist_w1076614129.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tef.png" group-title="SPAIN",Tef
 https://5940924978228.streamlock.net/EIVISSA_1/EIVISSA_1/chunklist_w1633876409.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tac12.png" group-title="SPAIN",Tac 12
-https://nodo02-cloud01.streaming-pro.com/tac12tv/hls/tac12_2.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rtvmarbella.png" group-title="SPAIN",rtv marbella
 https://limited41.todostreaming.es/live/marbellatv-livestream.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ptvcordoba.png" group-title="SPAIN",ptv cordoba
@@ -685,10 +683,8 @@ https://videos.canal56.com/directe/stream/index.m3u8
 https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/c4tf.png" group-title="SPAIN",Canal 4
 https://5940924978228.streamlock.net/Directo3/Directo3/chunklist_w209087527.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/c4telde.png" group-title="SPAIN",Canal 4 telde
-https://dcunilive75-lh.akamaihd.net/i/dclive_1@804075/index_150_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1641665633~acl=%2fi%2fdclive_1%40804075*~data=hdntl~hmac=cc6cfb38a45589220d8e90a5a190a273ca2d38efe74a5f345829739d05e51717
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tvext.png" group-title="SPAIN",Tv Extremeña
-https://video-weaver.mad02.hls.ttvnw.net/v1/playlist/CvUEKPtQRzX5fpcl08T_sw4mq2C7TtvS9QU3sQHMXcnfhQ4p8uYiDGkZkASixkiLMqvT25NLqZhx0KHQSKv_Om3uQFACgfpcZfyt2PJkQGmkYrXfWf8xMPT6271e69ddYu9lVy5g4TOKwyyj73ix5gNdrqKOvQ0hhC0YyGv495_JdqqccWVqqjdGk33EwTDjI3aubbgTpvQQLCJJ3FAj8dkQb79zSolE3q3qaud3ygAlAxbeo8Mcy61xZMNRGzbWXWcVCjJRrNGePUFY6-eeJRuL0VTN_SB5fJpVLEjEf5ClAHcC40pkTe6FDWN9ouZiqCv-evG2BhsgSusqGedTHhqLpQ_XYPX81htfpLCWpza9ayUMDrC248BL72j-PFbRsOtHQTOaCh77CDYPKlUJInsqede2QoEHQr6B8mQA-6JNwsTlfz88RpjrCvCgN7IW91KDC2j653SSjtHbU9cDdZbbEQDAAfdy-VXxjB1OOeXTc7RdzURClp2cN8xRXinfohl6_WUgBpQzHw0D221vvKF5Ee9dJTQXFAHk2rP8EQ0gOGGJwdjC6HN0epapIYLAiTQwdG_FHfq3xYdfK_f6xxkRM25beJd5aHFkSg4iJj3ZNJ7yyYlevHXlsM5r22UxhBi5MGTFVrFV-jcx0JtUiRGEGWRR0P2U3mtegG117Vl9WbtvQbQNo6dvOu8RnmUT68hsGR5qWQRCM95cBDpKPeFcfPcReMkywUGAbePryaOpEMypH16NoJy0Jj5WvwWZ7rhu-xIvntPZHoBL5oSU-YOBDQimwwyxce1O2fbJdmlpCgkrKyEzBYHQnsTSDyyob0Pjde0fdMYaDMcMx2EMvwcc-TyYsSABKgl1cy1lYXN0LTIw2wI.m3u8
+https://video-weaver.mad01.hls.ttvnw.net/v1/playlist/CvYEQfTuhsiUKKNI5UK0v-I1vAjrOcQIcc5kwPdATpIhAhTnZrIM_-TO--U0eg7HUZh8rF0P95qsmbJqa-2OOY3-YBQbBnl4J50CW6nialbACT690b9HrxdRI9xW7umOouJi7uNa0fZBPdyh2Kcd1vAIE7UNiArN6euVTuaydoypzHQlqOFL56whUJZqF8mgNKczYesUIjFAiFLj8gNKaBYFqo6sSKAAgHRuAozvSaC1bPd5zNxicN5k7E6Q5EkoXjHxRp9cbnokRNJqchV5WPm8-C36PZMuH2QgChOZ1wGs9X1V7FXskw0XFp2Knsge2HGPQKfed3Ppn8s0IBF5gH7Bxl7rWTJmjNDGVp2uFYssluyR0LcXxtyXEUa0vy_qSU8zaqRmhhyJZkrLghzeLu5uF_-eqIOpY-kvOWFeLNKZ9A9QvcoIGn1uRxDfSPDSsfML031-CJ5AmUZPkRT7IZH3gIP3IriSsyhYa47LfkY8oswYlmajclZNdnV3VSyeT7lDFAjJ6ph2zWkM1gljkk6yVQndy7LMeXA_HLnWcVkLUSeXmCYuZ4174ke8Dijzrl5CV-H8Lntw64LaLygz2-zygUn7Do9qDUzVy6tsjNqBV7TWwky76b91E1f7kmRyBGv0UtFx-IWticmRzzby57TTIHZCYLp_G2yn7TKTcuGE3Tqi96yUMjW53dPwLD7Yw1oI8TZexYg0_XhLtZUMWYTht5fdmFZN92DqkOrYJZC2M1LxCyW1Vo9VXgC7ttRvONik_Wi-nUjeLM97ItmJnvO5e7mF94SB0GwGy-0FJJXG_oKZlmc2ATPsghL4UzOj-ix_r3M_2WSoGgx67xLUOQ20GPSmrDogASoJdXMtZWFzdC0yMNsC.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/c10emporda.png" group-title="SPAIN",canal 10 emporda
 http://ventdelnord.tv:8080/escala/directe.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/alacantitv.png" group-title="SPAIN",alacanti tv
