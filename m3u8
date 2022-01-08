@@ -564,7 +564,7 @@ https://rtvc-live1-rm.flumotion.com/rtvc-rm/live1-rm_high/chunks.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/7rm.png" group-title="SPAIN",Television Murcia
 https://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/natv.png" group-title="SPAIN",Navarra Tv
-https://pc-sumandocomunicacion-hls.flumotion.com/playlist.m3u8
+https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_720p/chunks.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/etb1.png" group-title="SPAIN",ETB 1
 https://live-dvr.eitb-fastly.cross-media.es/live-content/etb1hd-hls/bitrate_4.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/etb2.png" group-title="SPAIN",ETB 2
@@ -612,7 +612,7 @@ https://5df8a678a3840.streamlock.net/8012/8012/chunklist_w1076614129.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tef.png" group-title="SPAIN",Tef
 https://5940924978228.streamlock.net/EIVISSA_1/EIVISSA_1/chunklist_w1633876409.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tac12.png" group-title="SPAIN",Tac 12
-https://nodo04-cloud01.streaming-pro.com:443/tac12tv/hls/tac12_2.m3u8
+https://nodo02-cloud01.streaming-pro.com/tac12tv/hls/tac12_2.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rtvmarbella.png" group-title="SPAIN",rtv marbella
 https://limited41.todostreaming.es/live/marbellatv-livestream.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ptvcordoba.png" group-title="SPAIN",ptv cordoba
@@ -688,7 +688,7 @@ https://5940924978228.streamlock.net/Directo3/Directo3/chunklist_w209087527.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/c4telde.png" group-title="SPAIN",Canal 4 telde
 https://dcunilive75-lh.akamaihd.net/i/dclive_1@804075/index_150_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1641665633~acl=%2fi%2fdclive_1%40804075*~data=hdntl~hmac=cc6cfb38a45589220d8e90a5a190a273ca2d38efe74a5f345829739d05e51717
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tvext.png" group-title="SPAIN",Tv Extremeña
-https://video-weaver.mad01.hls.ttvnw.net/v1/playlist/CvQEQEMQM_uFSFnzWOHxBbE4eA27a8uR0toqL281XI2MzKxVyX8JKIjsZq8SJGbkqXTLV2lzWmFy-989zjfl-e4NRCJ9XSuMquU3ub-8GF6WcXWzx63zxpoefISTEAfjTjjPZD7L6tT6pGs75KnkqUJx9p5Ho37Y9i80HPRW7k64XO0zifoAtLA159xEvz7Q2WHRS3p8_xhQXyCjGx_R_u-9XPYu4MExUq-MksXhXazPQga0EMz6P9ct0DTy5a4r2ZuRxTjbsG3AL-oxswlS39P3RUOnaXp_cUFHydaaHt6De8CKp1uSaFuF1eG2BugYXvXufWQbU1GUrd7bR1jmTkHGFdIJxOxifhdEgFNJ49cgk7nx_xBuFhnFOOZSozJd6tMbP6IODM1eDlFYNeN68gXbYe0wSSi64nufs8cTKHIJDwsOF7dKjvCXOKGoedwGJkuqo63ZvLlLKkM9rWfhnzCYFJKTdDBITed4oHtjYQQbOPMsYMc7446gpKti-jrI-nuoL-2RVbtD00Z82upgjo2MJAfGu2dBQ_JXyWQgkbGJP8Wv3gLJwLcsQuKZMYFrknFaj7Leg4GLwnifHEou_CsmYeg93KC7WJv0deHZMJKBsE4ExuHfw4LNPVRd0SVbFngNiHZIfE3Hqi1cf2VrwPlN1-API_76rI7Cmun07iXEuc7lZ1TkLUjtS0bzQyB4LqNCCHyJh9A6Qkieq7xuRsU-sSi213l_OCWEDc9QjDc9sRdR-O-fF2tIAA8SKzEtrpw9Bc2eth6fi7TfbVwR6sjE2Edm-QGs_UieHBEctB0ki3YMR8pf6kZ3kQkVePFTlW7UUeVv6RoMN-o_AxutImOXWjllIAEqCXVzLWVhc3QtMjDZAg.m3u8
+https://video-weaver.mad02.hls.ttvnw.net/v1/playlist/CvUEKPtQRzX5fpcl08T_sw4mq2C7TtvS9QU3sQHMXcnfhQ4p8uYiDGkZkASixkiLMqvT25NLqZhx0KHQSKv_Om3uQFACgfpcZfyt2PJkQGmkYrXfWf8xMPT6271e69ddYu9lVy5g4TOKwyyj73ix5gNdrqKOvQ0hhC0YyGv495_JdqqccWVqqjdGk33EwTDjI3aubbgTpvQQLCJJ3FAj8dkQb79zSolE3q3qaud3ygAlAxbeo8Mcy61xZMNRGzbWXWcVCjJRrNGePUFY6-eeJRuL0VTN_SB5fJpVLEjEf5ClAHcC40pkTe6FDWN9ouZiqCv-evG2BhsgSusqGedTHhqLpQ_XYPX81htfpLCWpza9ayUMDrC248BL72j-PFbRsOtHQTOaCh77CDYPKlUJInsqede2QoEHQr6B8mQA-6JNwsTlfz88RpjrCvCgN7IW91KDC2j653SSjtHbU9cDdZbbEQDAAfdy-VXxjB1OOeXTc7RdzURClp2cN8xRXinfohl6_WUgBpQzHw0D221vvKF5Ee9dJTQXFAHk2rP8EQ0gOGGJwdjC6HN0epapIYLAiTQwdG_FHfq3xYdfK_f6xxkRM25beJd5aHFkSg4iJj3ZNJ7yyYlevHXlsM5r22UxhBi5MGTFVrFV-jcx0JtUiRGEGWRR0P2U3mtegG117Vl9WbtvQbQNo6dvOu8RnmUT68hsGR5qWQRCM95cBDpKPeFcfPcReMkywUGAbePryaOpEMypH16NoJy0Jj5WvwWZ7rhu-xIvntPZHoBL5oSU-YOBDQimwwyxce1O2fbJdmlpCgkrKyEzBYHQnsTSDyyob0Pjde0fdMYaDMcMx2EMvwcc-TyYsSABKgl1cy1lYXN0LTIw2wI.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/c10emporda.png" group-title="SPAIN",canal 10 emporda
 http://ventdelnord.tv:8080/escala/directe.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/alacantitv.png" group-title="SPAIN",alacanti tv
