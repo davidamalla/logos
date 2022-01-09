@@ -627,8 +627,6 @@ https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
 https://5940924978228.streamlock.net/8009/8009/chunklist_w862932780.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/populartvmur.png" group-title="SPAIN",Popular tv murica
 https://cloud.streamingconnect.tv:455/populartvrm/populartvrm.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tvpirineus.png" group-title="SPAIN",Pirineus tv
-https://5940924978228.streamlock.net/PirineusTV/PirineusTV/playlist.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/telemotril.png" group-title="SPAIN",Onda sur
 https://5940924978228.streamlock.net/8431/8431/chunklist_w1531719008.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ondacadiz.png" group-title="SPAIN",Onda cadiz
