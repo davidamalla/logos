@@ -322,7 +322,7 @@ https://cdn01.yowi.tv/KQRSDA7GDB/live-800.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cosmo.png" group-title="SPAIN",COSMO
 http://154.62.74.12:1935/live/smil:cosmoHD.smil/chunklist_w1630830529_b1928000_sleng.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/teleclasicos.png" group-title="SPAIN",Tele Clasicos
-https://tvdatta.com:3484/stream/play.m3u8
+https://tvdatta.com:3484/hybrid/play.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/retroplus1.png" group-title="SPAIN",Retro Plus
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w687767792.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/retroplus2.png" group-title="SPAIN",Retro Plus 2
@@ -333,8 +333,6 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussen
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/chunklist_w772105025.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/pequeradio256.png" group-title="SPAIN",PEQUE RADIO
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/locomotion.png" group-title="SPAIN",Locomotion
-http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/babytv.png" group-title="SPAIN",BABY
 http://185.41.244.69/babytv/tracks-v2a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/pljunior.png" group-title="SPAIN",PLANETA JR
@@ -677,8 +675,6 @@ https://videos.canal56.com/directe/stream/index.m3u8
 https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/c4tf.png" group-title="SPAIN",Canal 4
 https://5940924978228.streamlock.net/Directo3/Directo3/chunklist_w209087527.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tvext.png" group-title="SPAIN",Tv Extremeña
-https://usher.ttvnw.net/api/channel/hls/tvextremena.m3u8?allow_source=true&fast_bread=true&p=8835608&play_session_id=4b4eb89ce3f48ca344745d13becfeeee&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=7d0ec18c274116105f2b9e9bfce14c3278f85d15&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22tvextremena%22%2C%22channel_id%22%3A756528198%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%2280ebe71884a2f586%22%2C%22expires%22%3A1641760273%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%2237.223.140.54%22%2C%22version%22%3A2%7D&cdm=fp&player_version=1.7.0
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/c10emporda.png" group-title="SPAIN",canal 10 emporda
 http://ventdelnord.tv:8080/escala/directe.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/alacantitv.png" group-title="SPAIN",alacanti tv
