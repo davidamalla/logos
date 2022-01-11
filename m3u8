@@ -697,6 +697,16 @@ https://cdnlive.shooowit.net/25televisiolive/channel1.smil/chunklist_b1500000.m3
 https://streaming002.gestec-video.com/hls/canal24.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tac12.png" group-title="SPAIN",tac 12
 https://nodo02-cloud01.streaming-pro.com/tac12tv/hls/tac12_2.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/benvente.png" group-title="SPAIN",tv Benabnte
+https://cloud.streamingconnect.tv:455/tvbenavente/tvbenavente.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/gcm.png" group-title="SPAIN",GCM
+https://cloud.streamingconnect.tv:455/tbmadrid/tbmadrid.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/toledo.png" group-title="SPAIN",tele toledo
+https://cloud.streamingconnect.tv:455/teletoledo/teletoledo.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/nordtv.png" group-title="SPAIN",nord
+http://51.83.46.198/hls/nord.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/c33.png" group-title="SPAIN",c33 madrid
+https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/chunklist_w523149396.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/bondia.png" group-title="SPAIN",Bon Dia tv
 https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/chunklist_b2128000.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ewtn.png" group-title="SPAIN",EWTN
