@@ -371,10 +371,20 @@ https://linear-46.frequency.stream/46/hls/master/playlist_1280x720.m3u8
 https://linear-174.frequency.stream/dist/ottera/174/hls/master/playlist.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rakutenenfamilia.png" group-title="SPAIN",Rakuten En Familia
 https://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/logoskids.png" group-title="SPAIN",Logos Tv Kids
+https://streamer1.streamhost.org/salive/logoskidsH/chunklist_w347984996.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/extrema.png" group-title="SPAIN",Extrema Tv
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w1759560933.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/cdm.png" group-title="SPAIN",CDM Internacional
 http://205.164.56.130:1935/marcos536/marcos536/chunklist_w474318771.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/eltv.png" group-title="SPAIN",El Tv
+https://streamer1.streamhost.org/salive/eltvH/chunklist_w1703482586.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/altar.png" group-title="SPAIN",Altar Tv
+https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/radiovida.png" group-title="SPAIN",Radio Vida Tv
+https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/solidaria.png" group-title="SPAIN",Solidaria Tv
+https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/alternativatv.png" group-title="SPAIN",Alternativa Tv
 https://zone.controlstreams.com:5443/LiveApp/streams/alternativartv.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/enlacetbn.png" group-title="SPAIN",Enlace Tv
@@ -449,10 +459,16 @@ http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 https://5cefcbf58ba2e.streamlock.net:443/tltvweb/tvweb.stream/playlist.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/molatv.png" group-title="SPAIN",Mola Tv
 http://ventdelnord.tv:8080/mola/directe.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/urbantv.png" group-title="SPAIN",Urban Tv
+https://urbanrevolution.es:8443/live/TV/chunklist_w461722951.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/latinchannel.png" group-title="SPAIN",Latin Channel tv
+https://limited39.todostreaming.es/live/salome-livestream.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/melodychannel.png" group-title="SPAIN",Melody Channel
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/chunklist_w1545135194_b748304.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/musictop.png" group-title="SPAIN",Music Top
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w77131357_b2028000_sleng.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/fabulosa.png" group-title="SPAIN",Fabulosa Tv
+http://185.36.211.142:8080/tmp_hls/fabulosa/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/80's.png" group-title="SPAIN",MCRT 80
 https://stmv.negotv.com/80s2021/80s2021/chunklist_w1085303038.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/salsa.png" group-title="SPAIN",MCRT Salsa
@@ -697,7 +713,7 @@ https://cdnlive.shooowit.net/25televisiolive/channel1.smil/chunklist_b1500000.m3
 https://streaming002.gestec-video.com/hls/canal24.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tac12.png" group-title="SPAIN",tac 12
 https://nodo02-cloud01.streaming-pro.com/tac12tv/hls/tac12_2.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/benvente.png" group-title="SPAIN",tv Benabnte
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/benvente.png" group-title="SPAIN",tv Benavente
 https://cloud.streamingconnect.tv:455/tvbenavente/tvbenavente.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/gcm.png" group-title="SPAIN",GCM
 https://cloud.streamingconnect.tv:455/tbmadrid/tbmadrid.m3u8
@@ -705,7 +721,7 @@ https://cloud.streamingconnect.tv:455/tbmadrid/tbmadrid.m3u8
 https://cloud.streamingconnect.tv:455/teletoledo/teletoledo.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/nordtv.png" group-title="SPAIN",nord
 http://51.83.46.198/hls/nord.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/c33.png" group-title="SPAIN",c33 madrid
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/c33.png" group-title="SPAIN",Canal 33 madrid
 https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/chunklist_w523149396.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/bondia.png" group-title="SPAIN",Bon Dia tv
 https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/chunklist_b2128000.m3u8
