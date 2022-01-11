@@ -695,6 +695,8 @@ https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 https://cdnlive.shooowit.net/25televisiolive/channel1.smil/chunklist_b1500000.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/8lamarina.png" group-title="SPAIN",8 la marina
 https://streaming002.gestec-video.com/hls/canal24.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tac12.png" group-title="SPAIN",tac 12
+https://nodo02-cloud01.streaming-pro.com/tac12tv/hls/tac12_2.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ewtn.png" group-title="SPAIN",EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/1152/chunklist.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="SPAIN",La Liga 
