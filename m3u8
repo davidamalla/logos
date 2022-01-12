@@ -300,6 +300,8 @@ http://momiptv.live:8080/live/q6KzMjhMwK/A4pJ8FZs85/3376.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/odisea.png" group-title="SPAIN",ODISEA
 http://185.41.244.69/odisea/tracks-v3a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/decasa.png" group-title="SPAIN",de casa
+http://212.121.249.34:8080/decasa/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/decasa.png" group-title="SPAIN",de casa
 http://zpt2.0.bummerprime.xyz:25461/Robertopalancas/heg7nCFjS3/12653
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/decasa.png" group-title="SPAIN",de casa
 http://protv.top:8000/live/90879347454025140/1593574628/38838.ts
@@ -371,7 +373,7 @@ https://linear-46.frequency.stream/46/hls/master/playlist_1280x720.m3u8
 https://linear-174.frequency.stream/dist/ottera/174/hls/master/playlist.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rakutenenfamilia.png" group-title="SPAIN",Rakuten En Familia
 https://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/logostvkids.png" group-title="SPAIN",Logos Tv Kids
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/logostv-kids.png" group-title="SPAIN",Logos Tv Kids
 https://streamer1.streamhost.org/salive/logoskidsH/chunklist_w347984996.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/extrema.png" group-title="SPAIN",Extrema Tv
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w1759560933.m3u8
@@ -388,7 +390,7 @@ https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/alternativatv.png" group-title="SPAIN",Alternativa Tv
 https://zone.controlstreams.com:5443/LiveApp/streams/alternativartv.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/enlacetbn.png" group-title="SPAIN",Enlace Tv
-https://playback.akamaized.net/streams/27460990_8266905_lsi0hlbp943619r3btd_1/media/27460990_8266905_lsi0hlbp943619r3btd_1@1756000pb.m3u8?dw=80&ts=1641754800&hdnts=exp=1641930424~acl=/streams/27460990_8266905_lsi0hlbp943619r3btd_1/media*~hmac=670fb32efa782556c2394d32eef5b5a0383ac6165c5225df0a01d35b014e0771
+http://playback.akamaized.net/streams/27460990_8266905_lsi86gt7zohu3tvv5i3_1/master.m3u8?dw=80&hdnts=exp=1641931473~acl=/streams/27460990_8266905_lsi86gt7zohu3tvv5i3_1/master.m3u8*~hmac=c108fdf3dc31d24527d18f30cf7803169ed27b11b166801b3073d5dd284d7fff
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/tucine1.png" group-title="SPAIN",Tu Cine
 https://tucine-plex.amagi.tv/TuCine-xumo/master_5.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/topcine1.png" group-title="SPAIN",Top Cine
