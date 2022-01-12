@@ -390,7 +390,7 @@ https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/alternativatv.png" group-title="SPAIN",Alternativa Tv
 https://zone.controlstreams.com:5443/LiveApp/streams/alternativartv.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/enlacetbn.png" group-title="SPAIN",Enlace Tv
-http://playback.akamaized.net/streams/27460990_8266905_lsi86gt7zohu3tvv5i3_1/master.m3u8?dw=80&hdnts=exp=1641931473~acl=/streams/27460990_8266905_lsi86gt7zohu3tvv5i3_1/master.m3u8*~hmac=c108fdf3dc31d24527d18f30cf7803169ed27b11b166801b3073d5dd284d7fff
+https://v4.tustreaming.cl/enlacebpbtv/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/tucine1.png" group-title="SPAIN",Tu Cine
 https://tucine-plex.amagi.tv/TuCine-xumo/master_5.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/topcine1.png" group-title="SPAIN",Top Cine
