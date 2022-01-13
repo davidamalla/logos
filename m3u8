@@ -450,7 +450,7 @@ https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/1280x720_28908
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/xlmusica.png" group-title="SPAIN",XL MUSICA TV
 https://cloud2.streaminglivehd.com/8098/8098/chunklist_w343325629.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/latinostv.png" group-title="SPAIN",LATINOS TV
-https://cloud2.streaminglivehd.com:1936/8044/8044/chunklist_w306005257.m3u8
+https://inliveserver.com:1936/14012/14012/chunklist_w788173228.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/spektra.png" group-title="SPAIN",Spektra Tv
 https://cloudvideo.servers10.com:8081/8136/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/kronehit.png" group-title="SPAIN",Kronehit Tv
@@ -721,7 +721,7 @@ https://nodo02-cloud01.streaming-pro.com/tac12tv/hls/tac12_2.m3u8
 https://cloud.streamingconnect.tv:455/tvbenavente/tvbenavente.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/gcm.png" group-title="SPAIN",GCM
 https://cloud.streamingconnect.tv:455/tbmadrid/tbmadrid.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/toledo.png" group-title="SPAIN",tele toledo
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/teletoledo.png" group-title="SPAIN",tele toledo
 https://cloud.streamingconnect.tv:455/teletoledo/teletoledo.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/nordcs.png" group-title="SPAIN",nord
 http://51.83.46.198/hls/nord.m3u8
