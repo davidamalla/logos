@@ -399,6 +399,8 @@ https://tucine-plex.amagi.tv/TuCine-xumo/master_5.m3u8
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_5.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/sure%C3%B1o.png" group-title="SPAIN",Cine Sureño
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master_6.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/sabermastv.png" group-title="SPAIN",Saber Mas
+https://sabermas-plex.amagi.tv/SaberMas-xumo/master_5.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/hittv.png" group-title="SPAIN",Hit Tv
 http://28681229918283687.niceyes.xyz:80/CDLYWZAK84/3262457057/283687
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/hittv.png" group-title="SPAIN",Hit Tv
