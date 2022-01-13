@@ -729,6 +729,8 @@ http://51.83.46.198/hls/nord.m3u8
 https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/chunklist_w523149396.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/bondia.png" group-title="SPAIN",Bon Dia tv
 https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/chunklist_b2128000.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/imastv.png" group-title="SPAIN",Imas tv
+https://secure3.todostreaming.es/live/imastv-livestream.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ewtn.png" group-title="SPAIN",EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/1152/chunklist.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="SPAIN",La Liga 
