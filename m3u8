@@ -613,7 +613,7 @@ https://cloudvideo.servers10.com:8081/8028/tracks-v1a1/mono.m3u8
 https://str.intercomarcal.com/hls/tvixa.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/gironatv.png" group-title="SPAIN",Tv Girona
 http://ventdelnord.tv:8080/girona/directe.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tvcastellon.png" group-title="SPAIN",TVCS
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/tv%20castello.png" group-title="SPAIN",Castello tv
 https://5ee0faac3bbae.streamlock.net/bhkphyecea/bhkphyecea/chunklist_w841269903.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tvalcoi.png" group-title="SPAIN",TVA
 https://streaming01.gestec-video.com/hls/artequatreTVA.m3u8
