@@ -723,7 +723,7 @@ https://cloud.streamingconnect.tv:455/tvbenavente/tvbenavente.m3u8
 https://cloud.streamingconnect.tv:455/tbmadrid/tbmadrid.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/toledo.png" group-title="SPAIN",tele toledo
 https://cloud.streamingconnect.tv:455/teletoledo/teletoledo.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/nordtv.png" group-title="SPAIN",nord
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/nordcs.png" group-title="SPAIN",nord
 http://51.83.46.198/hls/nord.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/c33.png" group-title="SPAIN",Canal 33 madrid
 https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/chunklist_w523149396.m3u8
