@@ -406,7 +406,9 @@ https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master_5.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/horrorfy.png" group-title="SPAIN",Horrorfy
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master_5.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/chiquilines.png" group-title="SPAIN",Chiquilines
-https://chiquilines-plex.amagi.tv/Chiquilines-plex/master_6.m3u8
+https://chiquilines-plex.amagi.tv/Chiquilines-plex/master_5.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/cinereal.png" group-title="SPAIN",Cine Real
+https://cinereal-plex.amagi.tv/CineReal/master_6.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/hittv.png" group-title="SPAIN",Hit Tv
 http://28681229918283687.niceyes.xyz:80/CDLYWZAK84/3262457057/283687
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/hittv.png" group-title="SPAIN",Hit Tv
