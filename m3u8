@@ -395,21 +395,21 @@ https://zone.controlstreams.com:5443/LiveApp/streams/alternativartv.m3u8
 https://v4.tustreaming.cl/enlacebpbtv/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/sion_tv.png" group-title="SPAIN",sion
 http://185.36.211.142:8080/tmp_hls/sion/index.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/tucine1.png" group-title="SPAIN",Tu Cine
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/TU-CINE.png" group-title="SPAIN",Tu Cine
 https://tucine-plex.amagi.tv/TuCine-xumo/master_5.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/topcine1.png" group-title="SPAIN",Top Cine
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/TOP-CINE.png" group-title="SPAIN",Top Cine
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_5.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/sure%C3%B1o.png" group-title="SPAIN",Cine Sureño
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/CINE-SURE%C3%91O.png" group-title="SPAIN",Cine Sureño
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master_6.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/sabermastv.png" group-title="SPAIN",Saber Mas
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/SABER-MAS.png" group-title="SPAIN",Saber Mas
 https://sabermas-plex.amagi.tv/SaberMas-xumo/master_5.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/juntostv.png" group-title="SPAIN",Juntos
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/JUNTOS.png" group-title="SPAIN",Juntos
 https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master_5.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/horrorfy.png" group-title="SPAIN",Horrorfy
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/HORRORFY.png" group-title="SPAIN",Horrorfy
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master_5.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/chiquilines.png" group-title="SPAIN",Chiquilines
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/CHIQUILINES.png" group-title="SPAIN",Chiquilines
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master_5.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/cinereal.png" group-title="SPAIN",Cine Real
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/CINE-REAL.png" group-title="SPAIN",Cine Real
 https://cinereal-plex.amagi.tv/CineReal/master_5.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/hittv.png" group-title="SPAIN",Hit Tv
 http://28681229918283687.niceyes.xyz:80/CDLYWZAK84/3262457057/283687
