@@ -498,7 +498,6 @@ https://stmv.negotv.com/top2021/top2021/chunklist_w287291198.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/qwestjazz.png" group-title="SPAIN",QWEST JAZZ
 https://siloh.pluto.tv/lilo/production/QwestJazz/master_1.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/stingraydjazz.png" group-title="SPAIN",Stingray DJazz
-https://dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8
 https://dai.google.com/linear/hls/pa/event/C-lfmhUVTGeDNWwU13_EgA/stream/fb0c3e00-16af-4048-b8ff-079f0f86b4e1:BRU/variant/f1e54d72a9a79bcb6e04944f40ee1fee/bandwidth/3291200.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/qwestclas.png" group-title="SPAIN",QWEST CLASSICAL
 https://qwest-classic-plex.amagi.tv/playlist720_p.m3u8
