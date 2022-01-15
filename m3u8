@@ -238,7 +238,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/darkmattertv.png" group-title="SPAIN",DARK MATTER
 https://darkmatter-spanish-rakuten.amagi.tv/playlist720p.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/sofytv.png" group-title="SPAIN",Sofy Tv
-https://sofytv-samsunges.amagi.tv/playlist.m3u8
+https://sofytv-samsunges.amagi.tv/playlist720pp.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/holaplay.png" group-title="SPAIN",HOLA!
 https://rakuten-hola-2-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/fashion.png" group-title="SPAIN",Fashion TV
@@ -400,7 +400,7 @@ https://tucine-plex.amagi.tv/TuCine-xumo/master_5.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/TOP-CINE.png" group-title="SPAIN",Top Cine
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_5.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/CINE-SURE%C3%91O.png" group-title="SPAIN",Cine Sureño
-https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master_6.m3u8
+https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master_5.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/SABER-MAS.png" group-title="SPAIN",Saber Mas
 https://sabermas-plex.amagi.tv/SaberMas-xumo/master_5.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/JUNTOS.png" group-title="SPAIN",Juntos
@@ -498,7 +498,7 @@ https://stmv.negotv.com/top2021/top2021/chunklist_w287291198.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/qwestjazz.png" group-title="SPAIN",QWEST JAZZ
 https://siloh.pluto.tv/lilo/production/QwestJazz/master_1.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/stingraydjazz.png" group-title="SPAIN",Stingray DJazz
-https://dai.google.com/linear/hls/pa/event/C-lfmhUVTGeDNWwU13_EgA/stream/fb0c3e00-16af-4048-b8ff-079f0f86b4e1:BRU/variant/f1e54d72a9a79bcb6e04944f40ee1fee/bandwidth/3291200.m3u8
+https://dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/qwestclas.png" group-title="SPAIN",QWEST CLASSICAL
 https://qwest-classic-plex.amagi.tv/playlist720_p.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/sclassica.png" group-title="SPAIN",Stingray Classica
@@ -613,6 +613,8 @@ https://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/index_600_av-b.m3u8?s
 https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist720p.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/en.png" group-title="SPAIN",Euronews
 https://rakuten-euronews-4-es.samsung.wurl.tv/730c25dabdbf07ec40b04f491cb629f5.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/negociostv.png" group-title="SPAIN",negocios
+https://live.gooru.live/negocios/live.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/barcelonatv.png" group-title="SPAIN",Beteve
 https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vis6.png" group-title="SPAIN",Vision 6
