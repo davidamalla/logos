@@ -430,7 +430,7 @@ http://28681229918268112.niceyes.xyz:80/CDLYWZAK84/3262457057/268112
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mtv.png" group-title="SPAIN",MTV 
 http://momiptv.live:8080/live/q6KzMjhMwK/A4pJ8FZs85/2213.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mtvhits.png" group-title="SPAIN",MTV Hits
-http://190.171.101.36:80/MTV/tracks-v4a1/mono.m3u8
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/MTVHITS/__op/hls-default/__f/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mtvlive.png" group-title="SPAIN",MTV Live
 http://58.65.171.202:8000/play/1/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mtv00s.png" group-title="SPAIN",MTV 00
