@@ -367,6 +367,8 @@ http://zpt2.0.bummerprime.xyz:25461/Robertopalancas/heg7nCFjS3/701
 http://45.161.188.242:88/cartoonnetwork/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/discovery-kids.png" group-title="SPAIN",Discovery Kids
 http://45.161.188.242:88/discoverykids/mono.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/locomotion.png" group-title="SPAIN",Locomotion
+http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/clantve.png" group-title="SPAIN",Clan
 http://185.41.244.69/clan/tracks-v2a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/boing.png" group-title="SPAIN",Boing
