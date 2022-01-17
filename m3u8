@@ -321,6 +321,8 @@ http://28681229918268450.niceyes.xyz:80/CDLYWZAK84/3262457057/268450
 http://momiptv.live:8080/live/q6KzMjhMwK/A4pJ8FZs85/2632.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/lovenature.png?" group-title="SPAIN",LOVE NATURE
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-lnrcastilian-samsungspain/e3bad98b-590a-4092-a6ed-dd885429820d/2.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/explora.png" group-title="SPAIN",EXPLORA
+https://alchimie-explorebytvplayer-es-rakuten.amagi.tv/playlist720_p.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cei.png" group-title="SPAIN",CRIMEN+INVESTIGACION 
 http://185.41.244.69/ci/tracks-v3a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/itv.png" group-title="SPAIN",El Toro
@@ -775,5 +777,7 @@ http://154.62.74.29:1935/live/gol/chunklist_w305718432.m3u8
 https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b2128000_DVR.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/torostv.png" group-title="SPAIN",Toro
 http://s846397078.mialojamiento.es/3952/toro.php/index.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mysurftv.png" group-title="SPAIN",My Surf Tv
+https://surfchannel-surfchannel-01-eu.rakuten.wurl.tv/playlist_1280x720_3000k.m3u8
 
 
