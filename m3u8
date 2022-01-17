@@ -207,12 +207,20 @@ https://contracorriente-canalfeelgood-1-es.samsung.wurl.tv/3000.m3u8
 https://appletree-mytimespain-samsung.amagi.tv/playlist1080p.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cinesverdi.png" group-title="SPAIN",CANAL VERDI
 https://contracorriente-canalcinesverdi-1-es.samsung.wurl.tv/3000.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rakutenaccion.png" group-title="SPAIN",RAKUTEN ACTION 
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rakutenaccion.png" group-title="SPAIN",RAKUTEN ACCION
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rakutencomedia.png" group-title="SPAIN",RAKUTEN COMEDIA 
 https://rakuten-comedymovies-2-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rakutendrama.png" group-title="SPAIN",RAKUTEN DRAMA 
 https://rakuten-tvshows-2-es.samsung.wurl.tv/3000.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rakutenesp.png" group-title="SPAIN",RAKUTEN ESPAÑOL
+https://rakuten-cine-espanol-1-eu.rakuten.wurl.tv/3000.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rakutenthrillers.png" group-title="SPAIN",RAKUTEN THRILLERS
+https://rakuten-thriller-2-eu.rakuten.wurl.tv/3000.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rakutenpelistop.png" group-title="SPAIN",RAKUTEN PELIS TOP
+https://rakuten-topfree-2-eu.rakuten.wurl.tv/3000.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rakutenromantico.png" group-title="SPAIN",RAKUTEN ROMANTICO
+https://rakuten-romance-2-eu.rakuten.wurl.tv/3000.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/plutoscifi.png" group-title="SPAIN",PLUTO SCIFI
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6a38eaa5b68b0007a00e7a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/plutoindies.png" group-title="SPAIN",PLUTO INDIES
@@ -243,7 +251,7 @@ https://sofytv-samsunges.amagi.tv/playlist720pp.m3u8
 https://rakuten-hola-2-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/fashion.png" group-title="SPAIN",Fashion TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rakutenesp.png" group-title="SPAIN",RAKUTEN TV 
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rakutenspotlight.png" group-title="SPAIN",RAKUTEN Spotlight
 https://rakuten-spotlight-2-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cocina.png" group-title="SPAIN",Canal Cocina
 http://185.41.244.69/cocina/tracks-v2a1a2/mono.m3u8
