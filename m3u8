@@ -641,7 +641,7 @@ http://190.171.101.36/CNN/index.m3u8
 http://190.171.101.36/TV5/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/tlc.png" group-title="SPAIN",TLC
 http://190.171.101.36/TLC/index.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/HBO.png" group-title="SPAIN",HBO
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/HBO.png" group-title="SPAIN",HBO Latino
 http://190.171.101.36:80/HBO/tracks-v2a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/CINEMAX.png" group-title="SPAIN",CINEMAX
 http://190.171.101.36:80/Cinemax/tracks-v4a1/mono.m3u8
