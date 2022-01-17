@@ -389,6 +389,8 @@ https://linear-174.frequency.stream/dist/ottera/174/hls/master/playlist.m3u8
 https://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/logos-tv-kids.png" group-title="SPAIN",Logos Tv Kids
 https://streamer1.streamhost.org/salive/logoskidsH/chunklist_w347984996.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/diostevekids.png" group-title="SPAIN",Dios Teve Kids
+https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/extrema.png" group-title="SPAIN",Extrema Tv
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w1759560933.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/cdm.png" group-title="SPAIN",CDM Internacional
