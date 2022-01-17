@@ -787,5 +787,6 @@ https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b2128000_DVR.m3u8
 http://s846397078.mialojamiento.es/3952/toro.php/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mysurftv.png" group-title="SPAIN",My Surf Tv
 https://surfchannel-surfchannel-01-eu.rakuten.wurl.tv/playlist_1280x720_3000k.m3u8
-
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cnni.png" group-title="SPAIN",CNN
+http://190.171.101.36/CNN/index.m3u8
 
