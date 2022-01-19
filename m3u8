@@ -415,26 +415,26 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/VH1MEGAHITS/__op/hls-default/__
 http://zpt2.0.bummerprime.xyz:25461/Robertopalancas/heg7nCFjS3/25840
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mfe.png" group-title="SPAIN",Movistar Fest
 http://protv.top:8000/live/90879347454025140/1593574628/42714.ts
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mtvdance.png" group-title="SPAIN",MTV CLUB
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/MTVDANCE/__op/hls-default/__f/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mtv.png" group-title="SPAIN",MTV España
 http://protv.top:8000/live/90879347454025140/1593574628/38920.ts
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mtv.png" group-title="SPAIN",MTV España
 http://28681229918268112.niceyes.xyz:80/CDLYWZAK84/3262457057/268112
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mtv.png" group-title="SPAIN",MTV ESpaña
 http://momiptv.live:8080/live/q6KzMjhMwK/A4pJ8FZs85/2213.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mtvdance.png" group-title="SPAIN",MTV CLUB
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/MTVDANCE/__op/hls-default/__f/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mtvmusic.png" group-title="SPAIN",MTV Music
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/MTVHD/__op/hls-default/__f/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mtvhits.png" group-title="SPAIN",MTV Hits
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/MTVHITS/__op/hls-default/__f/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mtvlive.png" group-title="SPAIN",MTV Live
 http://58.65.171.202:8000/play/1/index.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mtv00s.png" group-title="SPAIN",MTV 00
-http://185.41.244.69/vh1/tracks-v2a1/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mtv80s.png" group-title="SPAIN",MTV 80
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/VH1CLASSIC/__op/hls-default/__f/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mtv90s.png" group-title="SPAIN",MTV 90
 http://94.236.145.205:8000/play/a02n
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mtv00s.png" group-title="SPAIN",MTV 00
+http://185.41.244.69/vh1/tracks-v2a1/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/VEVO-LATINO.png" group-title="SPAIN",MTV LATINO
 http://190.171.101.36:80/MTV/tracks-v2a1/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vh1classics.png" group-title="SPAIN",VH1 CLASSICS
