@@ -385,6 +385,8 @@ https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 https://zone.controlstreams.com:5443/LiveApp/streams/alternativartv.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/enlacetbn.png" group-title="SPAIN",Enlace Tv
 https://v4.tustreaming.cl/enlacebpbtv/index.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ewtn.png" group-title="SPAIN",EWTN
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/1152/chunklist.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/sion_tv.png" group-title="SPAIN",sion
 http://185.36.211.142:8080/tmp_hls/sion/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/TU-CINE.png" group-title="SPAIN",Tu Cine
@@ -419,6 +421,8 @@ http://protv.top:8000/live/90879347454025140/1593574628/38920.ts
 http://28681229918268112.niceyes.xyz:80/CDLYWZAK84/3262457057/268112
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mtv.png" group-title="SPAIN",MTV España
 http://momiptv.live:8080/live/q6KzMjhMwK/A4pJ8FZs85/2213.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/VEVO-LATINO.png" group-title="SPAIN",MTV LATINO
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/MTVHD/__op/hls-default/__f/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mtvdance.png" group-title="SPAIN",MTV CLUB
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/MTVDANCE/__op/hls-default/__f/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mtvmusic.png" group-title="SPAIN",MTV Music
@@ -433,8 +437,6 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/VH1CLASSIC/__op/hls-default/__f
 http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=mtv90s
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mtv00s.png" group-title="SPAIN",MTV 00
 http://185.41.244.69/vh1/tracks-v2a1/mono.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/VEVO-LATINO.png" group-title="SPAIN",MTV LATINO
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/MTVHD/__op/hls-default/__f/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vh1classics.png" group-title="SPAIN",VH1 CLASSICS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vevolatino.png" group-title="SPAIN",VEVO LATINO
@@ -757,8 +759,6 @@ https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/chunklis
 https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/chunklist_b2128000.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/imastv.png" group-title="SPAIN",Imas tv
 https://secure3.todostreaming.es/live/imastv-livestream.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ewtn.png" group-title="SPAIN",EWTN
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/1152/chunklist.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="SPAIN",La Liga 
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="SPAIN",Liga De Campeones
