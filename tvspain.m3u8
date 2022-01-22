@@ -649,6 +649,22 @@ https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist720p.m3u8
 https://rakuten-euronews-4-es.samsung.wurl.tv/730c25dabdbf07ec40b04f491cb629f5.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/negociostv.png" group-title="SPAIN",negocios
 https://live.gooru.live/negocios/live.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cnbc.png" group-title="SPAIN",CNBC Europe
+https://h1.ustvgo.la/CNBC/myStream/chunks.m3u8?nimblesessionid=185518242&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIyIDEyOjAzOjM0IFBNJmhhc2hfdmFsdWU9Yld2N1VLdXJTRmgvTldVL3c0MzZGUT09JnZhbGlkbWludXRlcz0yNDA=
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rainews24.png" group-title="SPAIN",rai news 24
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_2400/chunklist.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rtes.png" group-title="SPAIN",Russia Today Español
+https://rt-esp.gcdn.co/live/rtesp/playlist_2500Kb.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/bloomberg.png" group-title="SPAIN",Bloomerang
+https://dxszb7y0qye8h.cloudfront.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/bbcworld.png" group-title="SPAIN",BBC
+http://190.171.101.36:80/BBC/tracks-v4a1/playlist.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cbsnews.png" group-title="SPAIN",CBS News
+https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/a98d3967-23ed-4f48-8be6-034ea428bf3d:BRU/variant/ccb2766d8e9c18768072316484bf7937/bandwidth/2269924.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/skynews.png" group-title="SPAIN",Sky News
+https://siloh.pluto.tv/lilo/production/SkyNews/master_1.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/fn.png" group-title="SPAIN",Fox News
+https://h3.ustvgo.la/FoxNews/myStream/chunks.m3u8?nimblesessionid=151825002&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIyIDExOjU1OjQyIEFNJmhhc2hfdmFsdWU9d1YyQUoxWFdIaFRJWGEyRXRnZXFjZz09JnZhbGlkbWludXRlcz0yNDA=
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cnni.png" group-title="SPAIN",CNN
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tv5monde.png" group-title="SPAIN",Tv5 Monde
