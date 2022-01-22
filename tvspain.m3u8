@@ -385,6 +385,8 @@ https://linear-46.frequency.stream/46/hls/master/playlist_1280x720.m3u8
 https://linear-174.frequency.stream/dist/ottera/174/hls/master/playlist.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rakutenenfamilia.png" group-title="SPAIN",Rakuten En Familia
 https://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/xabarintv.png" group-title="SPAIN",Xabarin Tv
+https://infantil-crtvg.flumotion.com/chunks.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/logos-tv-kids.png" group-title="SPAIN",Logos Tv Kids
 https://streamer1.streamhost.org/salive/logoskidsH/chunklist_w347984996.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/diostevekids.png" group-title="SPAIN",Dios Teve Kids
@@ -405,10 +407,10 @@ https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 https://zone.controlstreams.com:5443/LiveApp/streams/alternativartv.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/enlacetbn.png" group-title="SPAIN",Enlace Tv
 https://v4.tustreaming.cl/enlacebpbtv/index.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ewtn.png" group-title="SPAIN",EWTN
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/1152/chunklist.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/sion_tv.png" group-title="SPAIN",sion
 http://185.36.211.142:8080/tmp_hls/sion/index.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ewtn.png" group-title="SPAIN",EWTN
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/1152/chunklist.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/TU-CINE.png" group-title="SPAIN",Tu Cine
 https://tucine-plex.amagi.tv/TuCine-xumo/master_5.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/TOP-CINE.png" group-title="SPAIN",Top Cine
@@ -425,6 +427,12 @@ https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master_5.m3u8
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master_5.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/CINE-REAL.png" group-title="SPAIN",Cine Real
 https://cinereal-plex.amagi.tv/CineReal/master_5.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/tlc.png" group-title="SPAIN",TLC
+http://190.171.101.36/TLC/index.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/HBO.png" group-title="SPAIN",HBO Latino
+http://190.171.101.36:80/HBO/tracks-v2a2/mono.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/CINE-MAX.png" group-title="SPAIN",CINEMAX
+http://190.171.101.36:80/Cinemax/tracks-v4a1/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/hittv.png" group-title="SPAIN",Hit Tv
 http://28681229918283687.niceyes.xyz:80/CDLYWZAK84/3262457057/283687
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/hittv.png" group-title="SPAIN",Hit Tv
@@ -645,12 +653,6 @@ https://live.gooru.live/negocios/live.m3u8
 http://190.171.101.36/CNN/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tv5monde.png" group-title="SPAIN",Tv5 Monde
 http://190.171.101.36/TV5/index.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/tlc.png" group-title="SPAIN",TLC
-http://190.171.101.36/TLC/index.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/HBO.png" group-title="SPAIN",HBO Latino
-http://190.171.101.36:80/HBO/tracks-v2a2/mono.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/CINE-MAX.png" group-title="SPAIN",CINEMAX
-http://190.171.101.36:80/Cinemax/tracks-v4a1/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/barcelonatv.png" group-title="SPAIN",Beteve
 https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vis6.png" group-title="SPAIN",Vision 6
