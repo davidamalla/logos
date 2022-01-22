@@ -399,7 +399,7 @@ http://205.164.56.130:1935/marcos536/marcos536/chunklist_w474318771.m3u8
 https://streamer1.streamhost.org/salive/eltvH/chunklist_w1703482586.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/altar.png" group-title="SPAIN",Altar Tv
 https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/radiovida.png" group-title="SPAIN",Radio Vida Tv
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/VIDATV.png" group-title="SPAIN",Radio Vida Tv
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/solidaria.png" group-title="SPAIN",Solidaria Tv
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
