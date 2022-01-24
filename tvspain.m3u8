@@ -406,7 +406,7 @@ https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/alternativatv.png" group-title="SPAIN",Alternativa Tv
 https://zone.controlstreams.com:5443/LiveApp/streams/alternativartv.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/enlacetbn.png" group-title="SPAIN",Enlace Tv
-https://v4.tustreaming.cl/enlacebpbtv/index.m3u8
+https://gintna100.tulix.tv/gin_live/enlacelat/8867de4b0b4a9c8423d245977e23e81a/61efd7b8/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/sion_tv.png" group-title="SPAIN",sion
 http://185.36.211.142:8080/tmp_hls/sion/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ewtn.png" group-title="SPAIN",EWTN
@@ -646,7 +646,7 @@ https://rakuten-euronews-4-es.samsung.wurl.tv/730c25dabdbf07ec40b04f491cb629f5.m
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/negociostv.png" group-title="SPAIN",negocios
 https://live.gooru.live/negocios/live.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cnbc.png" group-title="SPAIN",CNBC 
-https://1143561436.rsc.cdn77.org/Wz3Tr4WFnYA62oNwSBz0tw==,1643020155/1143561436/tracks-v1a1/mono.m3u8
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_1_4596000.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rainews24.png" group-title="SPAIN",rai news 24
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_2400/chunklist.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rtes.png" group-title="SPAIN",Russia Today Es
@@ -660,7 +660,7 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/skynews.png" group-title="SPAIN",Sky News
 https://siloh.pluto.tv/lilo/production/SkyNews/master_1.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/fn.png" group-title="SPAIN",Fox News
-https://1028107998.rsc.cdn77.org/_MagfQrpUIxazrTjAKVDIA==,1643021795/ls-54548-2/tracks-v1a1/mono.m3u8
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cnni.png" group-title="SPAIN",CNN
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tv5monde.png" group-title="SPAIN",Tv5 Monde
