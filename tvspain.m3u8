@@ -328,7 +328,7 @@ http://185.41.244.69/trecetv/tracks-v2a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/distritotv.png" group-title="SPAIN",DistritoTv
 https://cdn01.yowi.tv/KQRSDA7GDB/live-800.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/libertaddigital.png" group-title="SPAIN",Libertad Digital
-https://stream-04.dc3.dailymotion.com/sec(99xYsjgbwcGgYHHT_FT-AyNEBJQvZzd7f2zN9m674Qg)/dm/3/xnm032/s/live-2.m3u8
+https://stream-04.ix7.dailymotion.com/sec(99xYsjgbwcGgYHHT_FT-A1SalMzBifSmAQKX4KRPCPY)/dm/3/xnm032/s/live-2.m3u8#cell=lcore
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cosmo.png" group-title="SPAIN",COSMO
 http://154.62.74.12:1935/live/smil:cosmoHD.smil/chunklist_w1630830529_b1928000_sleng.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/teleclasicos.png" group-title="SPAIN",Tele Clasicos
@@ -541,10 +541,6 @@ https://siloh.pluto.tv/lilo/production/Classica/master_1.m3u8
 https://sc.id-tv.kz/mezzo.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mezzolive.png" group-title="SPAIN",mezzo live 
 https://sc.id-tv.kz/mezzo_life_hd_34_35.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rm.png" group-title="SPAIN",Real Madrid Tv
-http://185.41.244.69/realmadridtvhd/tracks-v3a1a2/mono.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/btv.png" group-title="SPAIN",Barça TV 
-http://154.62.74.29:1935/live/barza/chunklist_w1914664603.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tve1.png" group-title="SPAIN",La 1
 http://185.41.244.69/la1hd/tracks-v2a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tve2.png" group-title="SPAIN",La 2
@@ -649,8 +645,8 @@ https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist720p.m3u8
 https://rakuten-euronews-4-es.samsung.wurl.tv/730c25dabdbf07ec40b04f491cb629f5.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/negociostv.png" group-title="SPAIN",negocios
 https://live.gooru.live/negocios/live.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cnbc.png" group-title="SPAIN",CNBC Europe
-https://h2.ustvgo.la/CNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIyIDY6NTU6MzAgUE0maGFzaF92YWx1ZT1aS0lya2ordVdXSnJ6WmlRWldRekNnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cnbc.png" group-title="SPAIN",CNBC 
+https://1143561436.rsc.cdn77.org/Wz3Tr4WFnYA62oNwSBz0tw==,1643020155/1143561436/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rainews24.png" group-title="SPAIN",rai news 24
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_2400/chunklist.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rtes.png" group-title="SPAIN",Russia Today Es
@@ -660,9 +656,11 @@ https://dxszb7y0qye8h.cloudfront.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EU
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/bbcworld.png" group-title="SPAIN",BBC
 http://190.171.101.36:80/BBC/tracks-v4a1/playlist.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cbsnews.png" group-title="SPAIN",CBS News
-https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/c26c2321-f21a-4f6b-bf33-3feb29172f04:BRU/master.m3u8
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/skynews.png" group-title="SPAIN",Sky News
 https://siloh.pluto.tv/lilo/production/SkyNews/master_1.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/fn.png" group-title="SPAIN",Fox News
+https://1028107998.rsc.cdn77.org/_MagfQrpUIxazrTjAKVDIA==,1643021795/ls-54548-2/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cnni.png" group-title="SPAIN",CNN
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tv5monde.png" group-title="SPAIN",Tv5 Monde
@@ -801,6 +799,12 @@ https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/chunklis
 https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/chunklist_b2128000.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/imastv.png" group-title="SPAIN",Imas tv
 https://secure3.todostreaming.es/live/imastv-livestream.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rm.png" group-title="SPAIN",Real Madrid Tv
+http://185.41.244.69/realmadridtvhd/tracks-v3a1a2/mono.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/btv.png" group-title="SPAIN",Barça TV 
+http://154.62.74.29:1935/live/barza/chunklist_w1914664603.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/betis.png" group-title="SPAIN",Betis Tv
+https://betistv-live.flumotion.com/neaVMAotku3--hqpyK30vw/1642973155/betistv/live_all/betistv/live_source/chunks.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="SPAIN",La Liga 
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="SPAIN",Liga De Campeones
