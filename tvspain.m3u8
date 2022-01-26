@@ -807,8 +807,6 @@ https://secure3.todostreaming.es/live/imastv-livestream.m3u8
 http://185.41.244.69/realmadridtvhd/tracks-v3a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/btv.png" group-title="SPAIN",Barça TV 
 http://154.62.74.29:1935/live/barza/chunklist_w1914664603.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/betis.png" group-title="SPAIN",Betis Tv
-https://betistv-live.flumotion.com/neaVMAotku3--hqpyK30vw/1642973155/betistv/live_all/betistv/live_source/chunks.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="SPAIN",La Liga 
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="SPAIN",Liga De Campeones
