@@ -259,6 +259,8 @@ https://rakuten-hola-2-es.samsung.wurl.tv/3000.m3u8
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rakutenspotlight.png" group-title="SPAIN",RAKUTEN Spotlight
 https://rakuten-spotlight-2-es.samsung.wurl.tv/3000.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rakutenstories.png" group-title="SPAIN",RAKUTEN Stories
+https://rakuten-documentaries-7-eu.rakuten.wurl.tv/3000.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cocina.png" group-title="SPAIN",Canal Cocina
 http://185.41.244.69/cocina/tracks-v2a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/plutococina.png" group-title="SPAIN",PLUTO COCINA
@@ -305,12 +307,18 @@ http://protv.top:8000/live/90879347454025140/1593574628/38824.ts
 http://28681229918268129.niceyes.xyz:80/CDLYWZAK84/3262457057/268129
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ngwild.png" group-title="SPAIN",NatGeo Wild
 http://momiptv.live:8080/live/q6KzMjhMwK/A4pJ8FZs85/3389.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/wirldearth.png" group-title="SPAIN",Wild Earth
+https://wildearth-rakuten.amagi.tv/masterR720P.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/disc.png" group-title="SPAIN",Discovery Channel
 http://185.41.244.69/discoverychannel/tracks-v2a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/odisea.png" group-title="SPAIN",ODISEA
 http://185.41.244.69/odisea/tracks-v3a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/decasa.png" group-title="SPAIN",de casa
 http://212.121.249.34:8080/decasa/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/museum.png" group-title="SPAIN",Museum
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-samsungspain/d3d272d5-7bba-4f36-9134-cfdfa4354e36/2.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/travelxp.png" group-title="SPAIN",Travelxp
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/lovenature.png?" group-title="SPAIN",LOVE NATURE
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-lnrcastilian-samsungspain/3caba3b5-c759-466d-9a41-895aba88f330/2.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/explore.png" group-title="SPAIN",EXPLORE
