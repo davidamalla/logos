@@ -265,6 +265,12 @@ https://rakuten-documentaries-7-eu.rakuten.wurl.tv/3000.m3u8
 http://185.41.244.69/cocina/tracks-v2a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/plutococina.png" group-title="SPAIN",PLUTO COCINA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ifoodtv.png" group-title="SPAIN",i-Food tv
+https://futuretoday-ifoodtv-1-eu.rakuten.wurl.tv/3000.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tastemade.png" group-title="SPAIN",Tastemade
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/tastemade-tastemade-es8intl-samsung-spain/0d4102ee-38f7-497c-acfc-bf9468479a76/2.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/gustotv.png" group-title="SPAIN",Gusto Tv
+https://gustous-plex.amagi.tv/amRdirect/us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=zXzRosKqGhscmMN5ndfE&channelId=5f8746eabd529300418246d9&app_bundle=com.plexapp.android&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&uid=1fq8oujl6-ef21-3i8-ykbs-mefdtjmfbt/hls/amagi_hls_data_gustoAAAA-gustous-plex/CDN/1280x720_2855600/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/pc.png" group-title="SPAIN",COMEDY CENTRAL 
 http://185.41.244.69/comedycentral/tracks-v2a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/PLUTO-VIAJES.png" group-title="SPAIN",PLUTO VIAJES
