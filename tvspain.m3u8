@@ -669,6 +669,8 @@ https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_24
 https://rt-esp.gcdn.co/live/rtesp/playlist_2500Kb.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/bloomberg.png" group-title="SPAIN",Bloomerang
 https://dxszb7y0qye8h.cloudfront.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/bloombergplus.png" group-title="SPAIN",Bloomerang +
+https://42890dd08f6e424e94c882424ced89c3.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_Bloomberg/03abdc91-4e9f-4a9a-9ccf-f8b3c907c4b9/3.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/bbcworld.png" group-title="SPAIN",BBC
 http://190.171.101.36:80/BBC/tracks-v4a1/playlist.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cbsnews.png" group-title="SPAIN",CBS News
