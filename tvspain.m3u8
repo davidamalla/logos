@@ -247,6 +247,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8a87cd38d000745d7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac9a2d3611d0007a844bb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/runtime.png" group-title="SPAIN",RUNTIME 
 https://runtimeespana-samsungspain.amagi.tv/playlist720.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/detectives.png" group-title="SPAIN",Detectives
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-uksono-samsunges/ba37e272-fc1a-43ee-8c8f-bf05ea223802/2.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/bbcdrama.png" group-title="SPAIN",BBC DRAMA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/darkmattertv.png" group-title="SPAIN",DARK MATTER
