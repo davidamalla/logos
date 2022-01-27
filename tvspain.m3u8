@@ -416,7 +416,7 @@ https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/alternativatv.png" group-title="SPAIN",Alternativa Tv
 https://zone.controlstreams.com:5443/LiveApp/streams/alternativartv.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/enlacetbn.png" group-title="SPAIN",Enlace Tv
-https://gintna100.tulix.tv/gin_live/enlacelat/f638b114d67898c53e4b6a0b5fb48f21/61f25477/index.m3u8
+https://v4.tustreaming.cl/enlacebpbtv/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/sion_tv.png" group-title="SPAIN",sion
 http://185.36.211.142:8080/tmp_hls/sion/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ewtn.png" group-title="SPAIN",EWTN
@@ -824,9 +824,9 @@ http://91.126.141.13:1935/live/91/1400-def.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="SPAIN",DAZN F1
 http://66.70.176.103:8081/SPAIN%7CMOVISTARF1/SPAIN%7CMOVISTARF1/playlist.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" group-title="SPAIN",Eurosport 1
-http://154.62.74.12:1935/live/smil:eurosport1nntv.smil/chunklist_w1379525563_b1928000_sleng.m3u8
+http://185.41.244.69/eurosport1/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es2.png" group-title="SPAIN",Eurosport 2
-http://154.62.74.12:1935/live/smil:eurosport2hdnntv.smil/chunklist_w985537062_b1928000_sleng.m3u8
+https://piratilla.com/629603/hls/eurosport2.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golm.png" group-title="SPAIN",Gol Tv
 http://154.62.74.29:1935/live/gol/chunklist_w305718432.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/esport3.png" group-title="SPAIN",Sports 3
