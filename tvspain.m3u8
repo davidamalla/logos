@@ -314,7 +314,7 @@ http://momiptv.live:8080/live/q6KzMjhMwK/A4pJ8FZs85/3375.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ng.png" group-title="SPAIN",National Geographic
 http://momiptv.live:8080/live/q6KzMjhMwK/A4pJ8FZs85/23029.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ngwild.png" group-title="SPAIN",NatGeo Wild
-http://185.41.244.69/natgeowildhd/index.m3u8
+http://185.41.244.69/natgeowildhd/tracks-v2a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/wirldearth.png" group-title="SPAIN",Wild Earth
 https://wildearth-rakuten.amagi.tv/masterR720P.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/disc.png" group-title="SPAIN",Discovery Channel
@@ -686,7 +686,7 @@ https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_30
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/usatoday.png" group-title="SPAIN",Usa Today
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/0b4d92ab-93b8-4fbd-925c-4fb09d4861b5/1.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tv5monde.png" group-title="SPAIN",Tv5 Monde
-http://190.171.101.36:80/TV5/tracks-v4a1/mono.m3u8
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cgtnesp.png" group-title="SPAIN",CGTN
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dwes.png" group-title="SPAIN",DWE
