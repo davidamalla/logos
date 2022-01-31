@@ -1,11 +1,5 @@
 #EXTM3U
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cero.png" group-title="SPAIN",#0
-http://ultra-premium-pro.xyz:8080/Marco2/Marco2/38030
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cero.png" group-title="SPAIN",#0
-http://zpt2.0.bummerprime.xyz:25461/Robertopalancas/heg7nCFjS3/83
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cero.png" group-title="SPAIN",#0
-http://zpt2.0.bummerprime.xyz:25461/Robertopalancas/heg7nCFjS3/82
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cero.png" group-title="SPAIN",#0
 http://protv.top:8000/live/90879347454025140/1593574628/38772.ts
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cero.png" group-title="SPAIN",#0
 http://28681229918267790.niceyes.xyz:80/CDLYWZAK84/3262457057/267790
@@ -20,23 +14,11 @@ http://185.41.244.69/tcm/tracks-v3a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/amcsp.png" group-title="SPAIN",AMC
 http://185.41.244.69/amc/tracks-v3a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/axn.png" group-title="SPAIN",AXN 
-http://ultra-premium-pro.xyz:8080/Marco2/Marco2/38100
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/axn.png" group-title="SPAIN",AXN 
-http://zpt2.0.bummerprime.xyz:25461/Robertopalancas/heg7nCFjS3/74
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/axn.png" group-title="SPAIN",AXN 
-http://zpt2.0.bummerprime.xyz:25461/Robertopalancas/heg7nCFjS3/75
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/axn.png" group-title="SPAIN",AXN 
 http://protv.top:8000/live/90879347454025140/1593574628/38878.ts
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/axn.png" group-title="SPAIN",AXN
 http://28681229918267830.niceyes.xyz:80/CDLYWZAK84/3262457057/267830
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/axn.png" group-title="SPAIN",AXN
 http://momiptv.live:8080/live/q6KzMjhMwK/A4pJ8FZs85/3385.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/axnwhite.png" group-title="SPAIN",AXN White
-http://ultra-premium-pro.xyz:8080/Marco2/Marco2/38101
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/axnwhite.png" group-title="SPAIN",AXN White
-http://zpt2.0.bummerprime.xyz:25461/Robertopalancas/heg7nCFjS3/76
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/axnwhite.png" group-title="SPAIN",AXN White
-http://zpt2.0.bummerprime.xyz:25461/Robertopalancas/heg7nCFjS3/77
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/axnwhite.png" group-title="SPAIN",AXN White 
 http://protv.top:8000/live/90879347454025140/1593574628/38879.ts
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/axnwhite.png" group-title="SPAIN",AXN White
@@ -47,12 +29,6 @@ http://28681229918267831.niceyes.xyz:80/CDLYWZAK84/3262457057/267831
 http://momiptv.live:8080/live/q6KzMjhMwK/A4pJ8FZs85/3366.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/foxn.png" group-title="SPAIN",FOX 
 http://185.41.244.69/fox/tracks-v3a1a2/mono.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/c13.png" group-title="SPAIN",CALLE 13
-http://ultra-premium-pro.xyz:8080/Marco2/Marco2/38077
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/c13.png" group-title="SPAIN",CALLE 13
-http://zpt2.0.bummerprime.xyz:25461/Robertopalancas/heg7nCFjS3/91
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/c13.png" group-title="SPAIN",CALLE 13
-http://zpt2.0.bummerprime.xyz:25461/Robertopalancas/heg7nCFjS3/90
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/c13.png" group-title="SPAIN",CALLE 13
 http://protv.top:8000/live/90879347454025140/1593574628/38882.ts
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/c13.png" group-title="SPAIN",CALLE 13
@@ -68,10 +44,6 @@ http://momiptv.live:8080/live/q6KzMjhMwK/A4pJ8FZs85/3368.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/syfyu.png" group-title="SPAIN",SYFY
 http://96482302479268171.niceyes.xyz:80/live/v21003/3009229/268171.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/syfyu.png" group-title="SPAIN",SYFY
-http://zpt2.0.bummerprime.xyz:25461/Robertopalancas/heg7nCFjS3/98
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/syfyu.png" group-title="SPAIN",SYFY
-http://zpt2.0.bummerprime.xyz:25461/Robertopalancas/heg7nCFjS3/97
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/syfyu.png" group-title="SPAIN",SYFY
 http://protv.top:8000/live/90879347454025140/1593574628/38872.ts
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/syfyu.png" group-title="SPAIN",SYFY
 http://protv.top:8000/live/90879347454025140/1593574628/38873.ts
@@ -86,15 +58,9 @@ http://momiptv.live:8080/live/q6KzMjhMwK/A4pJ8FZs85/6814.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tntsp.png" group-title="SPAIN",TNT
 http://185.41.244.69/tnt/tracks-v3a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mse.png" group-title="SPAIN",Movistar Series
-http://ultra-premium-pro.xyz:8080/Marco2/Marco2/11611
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mse2.png" group-title="SPAIN",Movistar Series 2
 http://28681229918277430.niceyes.xyz:80/CDLYWZAK84/3262457057/277430
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mes.png" group-title="SPAIN",Movistar Estrenos 
-http://ultra-premium-pro.xyz:8080/Marco2/Marco2/11605
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mes.png" group-title="SPAIN",Movistar Estrenos 
-http://zpt2.0.bummerprime.xyz:25461/Robertopalancas/heg7nCFjS3/49
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mes.png" group-title="SPAIN",Movistar Estrenos 
-http://zpt2.0.bummerprime.xyz:25461/Robertopalancas/heg7nCFjS3/50
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mes.png" group-title="SPAIN",Movistar Estrenos 
 http://protv.top:8000/live/90879347454025140/1593574628/38853.ts
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mes.png" group-title="SPAIN",Movistar Estrenos
@@ -104,13 +70,7 @@ http://28681229918268086.niceyes.xyz:80/CDLYWZAK84/3262457057/268086
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mes.png" group-title="SPAIN",Movistar Estrenos
 http://28681229918268087.niceyes.xyz:80/CDLYWZAK84/3262457057/268087
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mes.png" group-title="SPAIN",Movistar Estrenos
-http://ultra-premium-pro.xyz:8080/Marco2/Marco2/11605
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mes.png" group-title="SPAIN",Movistar Estrenos
 http://momiptv.live:8080/live/q6KzMjhMwK/A4pJ8FZs85/2405.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mes2.png" group-title="SPAIN",Movistar Estrenos 2
-http://zpt2.0.bummerprime.xyz:25461/Robertopalancas/heg7nCFjS3/51
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mes2.png" group-title="SPAIN",Movistar Estrenos 2
-http://zpt2.0.bummerprime.xyz:25461/Robertopalancas/heg7nCFjS3/52
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mes2.png" group-title="SPAIN",Movistar Estrenos 2
 http://protv.top:8000/live/90879347454025140/1593574628/38854.ts
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mes2.png" group-title="SPAIN",Movistar Estrenos 2
@@ -121,12 +81,6 @@ http://28681229918273836.niceyes.xyz:80/CDLYWZAK84/3262457057/273836
 http://28681229918273837.niceyes.xyz:80/CDLYWZAK84/3262457057/273837
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mes2.png" group-title="SPAIN",Movistar Estrenos 2
 http://momiptv.live:8080/live/q6KzMjhMwK/A4pJ8FZs85/23069.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mac.png" group-title="SPAIN",Movistar Accion
-http://ultra-premium-pro.xyz:8080/Marco2/Marco2/11594
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mac.png" group-title="SPAIN",Movistar Accion
-http://zpt2.0.bummerprime.xyz:25461/Robertopalancas/heg7nCFjS3/57
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mac.png" group-title="SPAIN",Movistar Accion 
-http://zpt2.0.bummerprime.xyz:25461/Robertopalancas/heg7nCFjS3/58
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mac.png" group-title="SPAIN",Movistar Accion 
 http://protv.top:8000/live/90879347454025140/1593574628/38849.ts
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mac.png" group-title="SPAIN",Movistar Accion
@@ -140,14 +94,6 @@ http://28681229918268054.niceyes.xyz:80/CDLYWZAK84/3262457057/268054
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mac.png" group-title="SPAIN",Movistar Accion
 http://momiptv.live:8080/live/q6KzMjhMwK/A4pJ8FZs85/2402.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mco.png" group-title="SPAIN",Movistar Comedia 
-http://ultra-premium-pro.xyz:8080/Marco2/Marco2/11600
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mco.png" group-title="SPAIN",Movistar Comedia 
-http://ultra-premium-pro.xyz:8080/Marco2/Marco2/11601
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mco.png" group-title="SPAIN",Movistar Comedia 
-http://zpt2.0.bummerprime.xyz:25461/Robertopalancas/heg7nCFjS3/55
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mco.png" group-title="SPAIN",Movistar Comedia
-http://zpt2.0.bummerprime.xyz:25461/Robertopalancas/heg7nCFjS3/56
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mco.png" group-title="SPAIN",Movistar Comedia 
 http://protv.top:8000/live/90879347454025140/1593574628/38852.ts
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mco.png" group-title="SPAIN",Movistar Comedia
 http://28681229918268062.niceyes.xyz:80/CDLYWZAK84/3262457057/268062
@@ -157,12 +103,6 @@ http://28681229918268061.niceyes.xyz:80/CDLYWZAK84/3262457057/268061
 http://28681229918268060.niceyes.xyz:80/CDLYWZAK84/3262457057/268060
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mco.png" group-title="SPAIN",Movistar Comedia
 http://momiptv.live:8080/live/q6KzMjhMwK/A4pJ8FZs85/2403.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdr.png" group-title="SPAIN",Movistar Drama 
-http://ultra-premium-pro.xyz:8080/Marco2/Marco2/11603
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdr.png" group-title="SPAIN",Movistar Drama 
-http://zpt2.0.bummerprime.xyz:25461/Robertopalancas/heg7nCFjS3/53
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdr.png" group-title="SPAIN",Movistar Drama
-http://zpt2.0.bummerprime.xyz:25461/Robertopalancas/heg7nCFjS3/54
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdr.png" group-title="SPAIN",Movistar Drama 
 http://protv.top:8000/live/90879347454025140/1593574628/38850.ts
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdr.png" group-title="SPAIN",Movistar Drama
@@ -176,21 +116,9 @@ http://momiptv.live:8080/live/q6KzMjhMwK/A4pJ8FZs85/2404.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mcn.png" group-title="SPAIN",Movistar Cine N
 http://94.177.158.190:8081/live/MCineEspanol.m3u8/chunks.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mcn.png" group-title="SPAIN",Movistar Cine N
-http://ultra-premium-pro.xyz:8080/Marco2/Marco2/11597
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mcn.png" group-title="SPAIN",Movistar Cine N
 http://protv.top:8000/live/90879347454025140/1593574628/38860.ts
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mcn.png" group-title="SPAIN",Movistar Cine N
-http://zpt2.0.bummerprime.xyz:25461/Robertopalancas/heg7nCFjS3/59
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mcn.png" group-title="SPAIN",Movistar Cine N
-http://zpt2.0.bummerprime.xyz:25461/Robertopalancas/heg7nCFjS3/60
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mcn.png" group-title="SPAIN",Movistar Cine N
 http://momiptv.live:8080/live/q6KzMjhMwK/A4pJ8FZs85/17207.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mcl.png" group-title="SPAIN",Movistar Clasicos 
-http://ultra-premium-pro.xyz:8080/Marco2/Marco2/11598
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mcl.png" group-title="SPAIN",Movistar Clasicos 
-http://zpt2.0.bummerprime.xyz:25461/Robertopalancas/heg7nCFjS3/25930
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mcl.png" group-title="SPAIN",Movistar Clasicos 
-http://zpt2.0.bummerprime.xyz:25461/Robertopalancas/heg7nCFjS3/25931
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mcl.png" group-title="SPAIN",Movistar Clasicos
 http://momiptv.live:8080/live/q6KzMjhMwK/A4pJ8FZs85/3388.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/somos.png" group-title="SPAIN",SOMOS 
@@ -295,10 +223,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f984f4a09e92d0007d746
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/612ce5214bb5790007ad3016/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/historia.png" group-title="SPAIN",HISTORIA
 http://185.41.244.69/historia/tracks-v3a1a2/mono.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ng.png" group-title="SPAIN",National Geographic
-http://ultra-premium-pro.xyz:8080/Marco2/Marco2/38084
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ng.png" group-title="SPAIN",National Geographic
-http://zpt2.0.bummerprime.xyz:25461/Robertopalancas/heg7nCFjS3/150
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ng.png" group-title="SPAIN",National Geographic
 http://protv.top:8000/live/90879347454025140/1593574628/38822.ts
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ng.png" group-title="SPAIN",National Geographic
@@ -455,8 +379,6 @@ http://protv.top:8000/live/90879347454025140/1593574628/51207.ts
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/VH1MEGAHITS/__op/hls-default/__f/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mfe.png" group-title="SPAIN",Movistar Fest
 http://protv.top:8000/live/90879347454025140/1593574628/42714.ts
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mtv.png" group-title="SPAIN",MTV España
-http://ultra-premium-pro.xyz:8080/Marco2/Marco2/38083
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mtv.png" group-title="SPAIN",MTV España
 http://protv.top:8000/live/90879347454025140/1593574628/38920.ts
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mtv.png" group-title="SPAIN",MTV España
