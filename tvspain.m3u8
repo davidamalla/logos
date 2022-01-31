@@ -295,8 +295,6 @@ http://185.41.244.69/nickjr/tracks-v2a1a2/mono.m3u8
 http://185.41.244.69/nickelodeon/tracks-v2a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dc.png" group-title="SPAIN",Disney Channel
 http://185.41.244.69/disneychannel/tracks-v2a1a2/mono.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/disneyp.png" group-title="SPAIN",Disney+
-http://zpt2.0.bummerprime.xyz:25461/Robertopalancas/heg7nCFjS3/701
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cn.png" group-title="SPAIN",Cartoon Network
 http://45.161.188.242:88/cartoonnetwork/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/discovery-kids.png" group-title="SPAIN",Discovery Kids
@@ -307,8 +305,6 @@ http://185.41.244.69/clan/tracks-v2a1a2/mono.m3u8
 http://185.41.244.69/boing/tracks-v2a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/super3.png" group-title="SPAIN",Super 3
 https://directes-tv-cat.ccma.cat/cat/ngrp:c33_mobil/chunklist_b2128000.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dreamworks.png" group-title="SPAIN",DreamWorks
-http://zpt2.0.bummerprime.xyz:25461/Robertopalancas/heg7nCFjS3/17821
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dreamworks.png" group-title="SPAIN",DreamWorks
 http://protv.top:8000/live/90879347454025140/1593574628/38786.ts
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dreamworks.png" group-title="SPAIN",DreamWorks
