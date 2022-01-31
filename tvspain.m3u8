@@ -650,7 +650,7 @@ https://cdnlive.shooowit.net/rtvcelive/channel1.smil/chunklist_b4000000.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tvmelilla.png" group-title="SPAIN",Melilla Tv
 https://tvmelilla-hls-rm-lw.flumotion.com/tvmelilla/live-fake-ori_low/chunks.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ib3.png" group-title="SPAIN",IB3
-http://zpt2.0.bummerprime.xyz:25461/Robertopalancas/heg7nCFjS3/2724
+http://149.7.216.178:8080/ib3/tracks-v2a1/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/la8med.png" group-title="SPAIN",La 8 Mediterraneo
 https://live-edge-lon-1.cdn.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/live1500/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/parlamento.png" group-title="SPAIN",Canal Parlamento
