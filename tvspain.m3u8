@@ -62,7 +62,6 @@ http://protv.top:8000/live/90879347454025140/1593574628/38855.ts
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mse2.png" group-title="SPAIN",Movistar Series 2
 http://28681229918277430.niceyes.xyz:80/CDLYWZAK84/3262457057/277430
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mes.png" group-title="SPAIN",Movistar Estrenos 
-#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mes.png" group-title="SPAIN",Movistar Estrenos 
 http://protv.top:8000/live/90879347454025140/1593574628/38853.ts
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mes.png" group-title="SPAIN",Movistar Estrenos
 http://28681229918268088.niceyes.xyz:80/CDLYWZAK84/3262457057/268088
@@ -122,6 +121,8 @@ http://protv.top:8000/live/90879347454025140/1593574628/38860.ts
 http://momiptv.live:8080/live/q6KzMjhMwK/A4pJ8FZs85/17207.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mcl.png" group-title="SPAIN",Movistar Clasicos
 http://momiptv.live:8080/live/q6KzMjhMwK/A4pJ8FZs85/3388.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mcl.png" group-title="SPAIN",Movistar Clasicos
+http://protv.top:8000/live/90879347454025140/1593574628/38859.ts
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/somos.png" group-title="SPAIN",SOMOS 
 http://185.41.244.69/somos/tracks-v2a1/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dark.png" group-title="SPAIN",DARK 
@@ -753,7 +754,7 @@ http://185.41.244.69/barcelonatv/tracks-v2a1/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="SPAIN",La Liga 
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" group-title="SPAIN",#VAMOS
-http://terminal2022.ddns.net:8080/hls/stream.m3u8
+http://protv.top:8000/live/90879347454025140/1593574628/38796.ts
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/teledeporte.png" group-title="SPAIN",tdp
 http://91.126.141.13:1935/live/91/1400-def.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="SPAIN",DAZN F1
@@ -761,12 +762,12 @@ http://66.70.176.103:8081/SPAIN%7CMOVISTARF1/SPAIN%7CMOVISTARF1/playlist.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" group-title="SPAIN",Eurosport 1
 http://185.41.244.69/eurosport1/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es2.png" group-title="SPAIN",Eurosport 2
-https://piratilla.com/629603/hls/eurosport2.m3u8
+http://protv.top:8000/live/90879347454025140/1593574628/38811.ts
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golm.png" group-title="SPAIN",Gol Tv
 http://185.41.244.69/goltv/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/esport3.png" group-title="SPAIN",Sports 3
 https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b2128000_DVR.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/torostv.png" group-title="SPAIN",Toros
-http://s846397078.mialojamiento.es/3952/toro.php/index.m3u8
+http://protv.top:8000/live/90879347454025140/1593574628/38816.ts
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/surfch.png" group-title="SPAIN",Surf Cnannel
 https://surfchannel-surfchannel-01-eu.rakuten.wurl.tv/playlist_1280x720_3000k.m3u8
