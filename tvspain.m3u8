@@ -751,6 +751,8 @@ http://185.41.244.69/barcelonatv/tracks-v2a1/mono.m3u8
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" group-title="SPAIN",#VAMOS
 http://protv.top:8000/live/90879347454025140/1593574628/38796.ts
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn01.png" group-title="SPAIN",Dazn 1
+http://melancolicos10.club:8080/hls/channel1.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/teledeporte.png" group-title="SPAIN",tdp
 http://91.126.141.13:1935/live/91/1400-def.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="SPAIN",DAZN F1
@@ -767,3 +769,9 @@ https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b2128000_DVR.m3u8
 http://protv.top:8000/live/90879347454025140/1593574628/38816.ts
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/surfch.png" group-title="SPAIN",Surf Cnannel
 https://surfchannel-surfchannel-01-eu.rakuten.wurl.tv/playlist_1280x720_3000k.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/iberaliapesca.png" group-title="SPAIN",Iberalia 100% Pesca
+http://185.41.244.69/iberaliapesca/video.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/iberaliacaza.png" group-title="SPAIN",Iberalia 100% Caza
+http://185.41.244.69/iberaliacaza/video.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/iberalia.png" group-title="SPAIN",Iberalia
+http://185.41.244.69/iberalia/video.m3u8
