@@ -266,7 +266,7 @@ http://185.41.244.69/trecetv/tracks-v2a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/distritotv.png" group-title="SPAIN",DistritoTv
 https://cdn01.yowi.tv/KQRSDA7GDB/live-800.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/libertaddigital.png" group-title="SPAIN",Libertad Digital
-https://stream-01.ix7.dailymotion.com/sec(99xYsjgbwcGgYHHT_FT-A3z7Wj39muGlP5ddUS9C2Qo)/dm/3/xnm032/s/live-2.m3u8#cell=lcore
+https://stream-10.dc3.dailymotion.com/sec(99xYsjgbwcGgYHHT_FT-A3z7Wj39muGlP5ddUS9C2Qo)/dm/3/xnm032/s/live-1.m3u8#cell=lcore
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cosmo.png" group-title="SPAIN",COSMO
 http://154.62.74.12:1935/live/smil:cosmoHD.smil/chunklist_w1630830529_b1928000_sleng.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/teleclasicos.png" group-title="SPAIN",Tele Clasicos
@@ -420,7 +420,7 @@ https://flash-plex.amagi.tv/flash/master_5.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/sol.png" group-title="SPAIN",SOL MUSIC
 http://185.41.244.69/sol/tracks-v2a1/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/latidomusic.png" group-title="SPAIN",LATIDO
-https://latidomusic.vizio.wurl.com/manifest/2c379610c4c38c1cf48cbcd67dda6903.m3u8
+https://latidomusic-distro.amagi.tv/playlist720lp.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/cadenaelite256.png" group-title="SPAIN",CADENA ELITE
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/californiamc.png" group-title="SPAIN",CALIFORNIA MUSIC
@@ -770,8 +770,8 @@ http://s846397078.mialojamiento.es/7402/toro.php/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/surfch.png" group-title="SPAIN",Surf Cnannel
 https://surfchannel-surfchannel-01-eu.rakuten.wurl.tv/playlist_1280x720_3000k.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/iberalia.png" group-title="SPAIN",Iberalia
-http://185.41.244.69/iberalia/video.m3u8
+http://185.41.244.69/iberalia/tracks-v2a1/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/iberaliapesca.png" group-title="SPAIN",Iberalia 100% Pesca
-http://185.41.244.69/iberaliapesca/video.m3u8
+http://185.41.244.69/iberaliapesca/tracks-v2a1/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/iberaliacaza.png" group-title="SPAIN",Iberalia 100% Caza
-http://185.41.244.69/iberaliacaza/video.m3u8
+http://185.41.244.69/iberaliacaza/tracks-v2a1/mono.m3u8
