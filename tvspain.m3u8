@@ -178,7 +178,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac9a2d3611d0007a844
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/runtime.png" group-title="SPAIN",RUNTIME 
 https://runtimeespana-samsungspain.amagi.tv/playlist720.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/detectives.png" group-title="SPAIN",Detectives
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-uksono-samsunges/ba37e272-fc1a-43ee-8c8f-bf05ea223802/2.m3u8
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-uksono-samsunges/534dc24c-7020-4cf9-9625-ab4abf0983d1/2.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/canaldrwho.png" group-title="SPAIN",Doctor Who
 https://bbceu-doctorwho-2-es.rakuten.wurl.tv/3000.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/bbcdrama.png" group-title="SPAIN",BBC DRAMA
@@ -250,7 +250,7 @@ http://185.41.244.69/odisea/tracks-v3a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/decasa.png" group-title="SPAIN",de casa
 http://212.121.249.34:8080/decasa/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/museum.png" group-title="SPAIN",Museum
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-samsungspain/d3d272d5-7bba-4f36-9134-cfdfa4354e36/2.m3u8
+http://s846397078.mialojamiento.es/7402/museumtv.php/.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/travelxp.png" group-title="SPAIN",Travelxp
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/lovenature.png?" group-title="SPAIN",LOVE NATURE
