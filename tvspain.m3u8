@@ -296,9 +296,6 @@ http://185.41.244.69/nickelodeon/tracks-v2a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dc.png" group-title="SPAIN",Disney Channel
 http://185.41.244.69/disneychannel/tracks-v2a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cn.png" group-title="SPAIN",Cartoon Network
-http://45.161.188.242:88/cartoonnetwork/mono.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/discovery-kids.png" group-title="SPAIN",Discovery Kids
-http://45.161.188.242:88/discoverykids/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/clantve.png" group-title="SPAIN",Clan
 http://185.41.244.69/clan/tracks-v2a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/boing.png" group-title="SPAIN",Boing
@@ -392,7 +389,7 @@ http://190.171.101.36:80/MTV/tracks-v2a1/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mtvhits.png" group-title="SPAIN",MTV Hits
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/MTVHITS/__op/hls-default/__f/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mtvlive.png" group-title="SPAIN",MTV Live
-http://58.65.171.202:8000/play/1/index.m3u8
+http://cdnx1.plusx.tv:8880/229/mono.m3u8?token=dawids162751365422222
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mtv80s.png" group-title="SPAIN",MTV 80
 http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=mtv80s
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mtv90s.png" group-title="SPAIN",MTV 90
