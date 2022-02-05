@@ -475,6 +475,8 @@ https://sc.id-tv.kz/mezzo.m3u8
 https://sc.id-tv.kz/mezzo_life_hd_34_35.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vivaldi.png" group-title="SPAIN",Vivaldi
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01297-themahqfranceme-vivalditv-plex/3bb2b016-d8ce-4e51-b2a7-63ba3ad44962/1.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/deluxelounge.png?" group-title="SPAIN",Deluxe Lounge
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/6578536d-ed15-47e7-9b2a-bce7697e8d4e/0.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tve1.png" group-title="SPAIN",La 1
 http://185.41.244.69/la1hd/tracks-v2a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tve2.png" group-title="SPAIN",La 2
@@ -766,7 +768,7 @@ http://185.41.244.69/goltv/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/esport3.png" group-title="SPAIN",Sports 3
 https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/chunklist_b2128000_DVR.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/torostv.png" group-title="SPAIN",Toros
-http://s846397078.mialojamiento.es/7402/toro.php/index.m3u8
+http://s846397078.mialojamiento.es/8467/toro.php/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/surfch.png" group-title="SPAIN",Surf Cnannel
 https://surfchannel-surfchannel-01-eu.rakuten.wurl.tv/playlist_1280x720_3000k.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/iberalia.png" group-title="SPAIN",Iberalia
