@@ -252,7 +252,7 @@ http://185.41.244.69/odisea/tracks-v3a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/decasa.png" group-title="SPAIN",de casa
 http://212.121.249.34:8080/decasa/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/museum.png" group-title="SPAIN",Museum
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-samsungspain/playlist.m3u8
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-samsungspain/d668a70f-e5e9-43b4-836f-ba2046904f46/2.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/travelxp.png" group-title="SPAIN",Travelxp
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/explore.png" group-title="SPAIN",EXPLORE
