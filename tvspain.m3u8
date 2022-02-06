@@ -759,7 +759,7 @@ http://149.7.216.178:8080/tdp/tracks-v2a1/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" group-title="SPAIN",Eurosport 1
 http://185.41.244.69/eurosport1/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es2.png" group-title="SPAIN",Eurosport 2
-http://protv.top:8000/live/90879347454025140/1593574628/38811.ts
+http://195.235.48.163/libraries/miniProxy/miniProxy.php/https://piratilla.com/295941/hls/eurosport2.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golm.png" group-title="SPAIN",Gol Tv
 http://185.41.244.69/goltv/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/esport3.png" group-title="SPAIN",Sports 3
