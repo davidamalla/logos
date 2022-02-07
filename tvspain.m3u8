@@ -337,7 +337,7 @@ https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/alternativatv.png" group-title="SPAIN",Alternativa Tv
 https://zone.controlstreams.com:5443/LiveApp/streams/alternativartv.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/enlacetbn.png" group-title="SPAIN",Enlace Tv
-https://v4.tustreaming.cl/enlacebpbtv/index.m3u8
+https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/sion_tv.png" group-title="SPAIN",sion
 http://185.36.211.142:8080/tmp_hls/sion/index.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ewtn.png" group-title="SPAIN",EWTN
