@@ -330,9 +330,9 @@ http://205.164.56.130:1935/marcos536/marcos536/chunklist_w474318771.m3u8
 https://streamer1.streamhost.org/salive/eltvH/chunklist_w1703482586.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/vidatelevision.png" group-title="SPAIN",Vida Television
 https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/chunklist.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/tbnespa%C3%B1a.png" group-title="SPAIN",TBN ESpaña
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/tbnespa%C3%B1a.png" group-title="SPAIN",TBN España
 https://cdn.livepeer.com/hls/5f2bn741bzs1pan3/2_0/index.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/cbnespa%C3%B1ol.png" group-title="SPAIN",CBN ESpañol
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/cbnespa%C3%B1ol.png" group-title="SPAIN",CBN Español
 https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/us-east-1/734546207001/profile_1/chunklist.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/presenciatv.png" group-title="SPAIN",Presencia Television
 https://sm.redconnections.net:1936/presenciatv/presenciatv/chunklist_w486128627.m3u8
@@ -613,7 +613,7 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cnni.png" group-title="SPAIN",CNN
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/usatoday.png" group-title="SPAIN",Usa Today
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/a771df4d-d4dd-4d83-be12-d7ab71a5718a/1.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tv5monde.png" group-title="SPAIN",Tv5 Monde
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cgtnesp.png" group-title="SPAIN",CGTN
