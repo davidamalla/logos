@@ -266,7 +266,7 @@ http://185.41.244.69/trecetv/tracks-v2a1a2/mono.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/distritotv.png" group-title="SPAIN",DistritoTv
 https://cdn01.yowi.tv/KQRSDA7GDB/live-800.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/libertaddigital.png" group-title="SPAIN",Libertad Digital
-https://stream-10.dc3.dailymotion.com/sec(99xYsjgbwcGgYHHT_FT-A3z7Wj39muGlP5ddUS9C2Qo)/dm/3/xnm032/s/live-1.m3u8#cell=lcore
+https://stream-10.dc3.dailymotion.com/sec(99xYsjgbwcGgYHHT_FT-A5SOVcoReTRZFJCYziFaDbI)/dm/3/xnm032/s/live-2.m3u8#cell=lcore
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cosmo.png" group-title="SPAIN",COSMO
 http://154.62.74.12:1935/live/smil:cosmoHD.smil/chunklist_w1630830529_b1928000_sleng.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/teleclasicos.png" group-title="SPAIN",Tele Clasicos
@@ -328,6 +328,18 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w1759560933.m3u8
 http://205.164.56.130:1935/marcos536/marcos536/chunklist_w474318771.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/eltv.png" group-title="SPAIN",El Tv
 https://streamer1.streamhost.org/salive/eltvH/chunklist_w1703482586.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/vidatelevision.png" group-title="SPAIN",Vida Television
+https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/chunklist.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/tbnespa%C3%B1a.png" group-title="SPAIN",TBN ESpaña
+https://cdn.livepeer.com/hls/5f2bn741bzs1pan3/2_0/index.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/cbnespa%C3%B1ol.png" group-title="SPAIN",CBN ESpañol
+https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/us-east-1/734546207001/profile_1/chunklist.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/presenciatv.png" group-title="SPAIN",Presencia Television
+https://sm.redconnections.net:1936/presenciatv/presenciatv/chunklist_w486128627.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/tabertv.png" group-title="SPAIN",Taber Tv
+https://5ca9af4645e15.streamlock.net/tabertv/smil:tabertv.smil/chunklist_w770869713_b1428000_DVR_sleng.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/moviefe.png" group-title="SPAIN",Movie Fe
+https://vcp.myplaytv.com/moviefe/moviefe/chunklist_w30553048.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/altar.png" group-title="SPAIN",Altar Tv
 https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/VIDATV.png" group-title="SPAIN",Radio Vida Tv
