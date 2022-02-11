@@ -188,7 +188,7 @@ https://darkmatter-spanish-rakuten.amagi.tv/playlist720p.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/sofytv.png" group-title="SPAIN",Sofy Tv
 https://sofytv-samsunges.amagi.tv/playlist720pp.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tvcortos.png" group-title="SPAIN",Tv Cortos
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00784-shortsinternati-shortstv-fast-spain-samsungspain/b36e04d7-0dbb-4783-978a-e37723fe6c22/2.m3u8
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00784-shortsinternati-shortstv-fast-spain-samsungspain/playlist.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/holaplay.png" group-title="SPAIN",HOLA!
 https://rakuten-hola-2-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/fashion.png" group-title="SPAIN",Fashion TV
@@ -452,8 +452,6 @@ https://5cefcbf58ba2e.streamlock.net:443/tltvweb/tvweb.stream/playlist.m3u8
 http://ventdelnord.tv:8080/mola/directe.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/urbantv.png" group-title="SPAIN",Urban Tv
 https://urbanrevolution.es:8443/live/TV/chunklist_w461722951.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/latinchannel.png" group-title="SPAIN",Latin Channel tv
-https://limited39.todostreaming.es/live/salome-livestream.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/melodychannel.png" group-title="SPAIN",Melody Channel
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/chunklist_w1545135194_b748304.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/musictop.png" group-title="SPAIN",Music Top
@@ -483,7 +481,7 @@ https://sc.id-tv.kz/mezzo.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mezzolive.png" group-title="SPAIN",mezzo live 
 https://sc.id-tv.kz/mezzo_life_hd_34_35.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vivaldi.png" group-title="SPAIN",Vivaldi
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01297-themahqfranceme-vivalditv-plex/3bb2b016-d8ce-4e51-b2a7-63ba3ad44962/1.m3u8
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01297-themahqfranceme-vivalditv-plex/playlist.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/deluxelounge.png?" group-title="SPAIN",Deluxe Lounge
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/6578536d-ed15-47e7-9b2a-bce7697e8d4e/0.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tve1.png" group-title="SPAIN",La 1
