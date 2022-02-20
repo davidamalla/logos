@@ -118,7 +118,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8a87cd38d000745d7
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/plutocineromantico.png" group-title="SPAIN",PLUTO ROMANTICO
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac9a2d3611d0007a844bb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/runtime.png" group-title="SPAIN",RUNTIME 
-https://runtimeespana-samsungspain.amagi.tv/playlist720.m3u8
+https://runtimeespana-ottera.amagi.tv/playlist720-lp.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/detectives.png" group-title="SPAIN",Detectives
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-uksono-samsunges/534dc24c-7020-4cf9-9625-ab4abf0983d1/2.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/canaldrwho.png" group-title="SPAIN",Doctor Who
