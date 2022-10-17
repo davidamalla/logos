@@ -173,16 +173,6 @@ https://cdn01.yowi.tv/KQRSDA7GDB/live-800.m3u8
 https://stream-08.dc3.dailymotion.com/sec(99xYsjgbwcGgYHHT_FT-A5wpIou0gxyHCfFTjet4J8k)/dm/3/xnm032/s/live-2.m3u8#cell=lcore
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cosmo.png" group-title="SPAIN",COSMO
 http://154.62.74.12:1935/live/smil:cosmoHD.smil/chunklist_w1630830529_b1928000_sleng.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/teleclasicos.png" group-title="SPAIN",Tele Clasicos
-https://tvdatta.com:3484/hybrid/play.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/retroplus1.png" group-title="SPAIN",Retro Plus
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w687767792.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/retroplus2.png" group-title="SPAIN",Retro Plus 2
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w906872153.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/retroplus3.png" group-title="SPAIN",Retro Plus 3
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w1896453407.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/dreikotv.png" group-title="SPAIN",Dreiko Tv
-https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/chunklist_w772105025.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/davidamalla/logos/main/pequeradio256.png" group-title="SPAIN",PEQUE RADIO
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/babytv.png" group-title="SPAIN",BABY
