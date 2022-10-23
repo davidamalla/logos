@@ -115,7 +115,7 @@ http://185.41.244.69/lasextahd/tracks-v3a1a2/mono.m3u8
 http://185.41.244.69/mega/tracks-v2a1a2/mono.m3u8
 #EXTINF:0 tvg-id="bemad.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/bemad.png" group-title="SPAIN",Be mad
 http://154.62.74.28:1935/live/bemad/chunklist_w1594213846.m3u8
-#EXTINF:0 tvg-id="la1.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dmax.png" group-title="SPAIN",Dmax
+#EXTINF:0 tvg-id="discoverymax.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dmax.png" group-title="SPAIN",Dmax
 http://185.41.244.69/dmax/tracks-v2a1a2/mono.m3u8
 #EXTINF:0 tvg-id="ten.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ten.png" group-title="SPAIN",Ten
 http://185.41.244.69/ten/tracks-v2a1a2/mono.m3u8
@@ -181,16 +181,28 @@ https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n644
 https://adc-hls.flumotion.com/adc/live_source/chunks.m3u8
 #EXTINF:0 tvg-id="Levante TV" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/levantetv.png" group-title="SPAIN",Levante Tv
 https://live-edge-ams-2.cdn.enetres.net/C2F6CBB67E5B4D08A16CE5FE67ABCEC9023/levantetvlive/index.m3u8
+#EXTINF:0 tvg-id="La Resistencia" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlresist.png" group-title="SPAIN",La Resistencia
+http://185.41.244.69/realmadridtvhd/tracks-v3a1a2/mono.m3u8
+#EXTINF:0 tvg-id="Esport 3" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/esport3.png" group-title="SPAIN",Esport 3
+http://185.41.244.69/realmadridtvhd/tracks-v3a1a2/mono.m3u8
 #EXTINF:0 tvg-id="R. MADRID TV" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rm.png" group-title="SPAIN",Real Madrid Tv
 http://185.41.244.69/realmadridtvhd/tracks-v3a1a2/mono.m3u8
 #EXTINF:0 tvg-id="BARCA TV" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/btv.png" group-title="SPAIN",Barça TV 
 http://185.41.244.69/barcelonatv/tracks-v2a1/mono.m3u8
 #EXTINF:0 tvg-id="M+ #VAMOSHD" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" group-title="SPAIN",#VAMOS
 http://melancolicos10.club:8080/hls/channel3.m3u8
+#EXTINF:0 tvg-id="LaLiga SmartbankTV" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligasm.png" group-title="SPAIN",LaLiga SmartBank TV
+http://melancolicos10.club:8080/hls/channel1.m3u8
+#EXTINF:0 tvg-id="M+ LaLiga HD" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.pngg" group-title="SPAIN",LaLiga TV por M+
+http://melancolicos10.club:8080/hls/channel1.m3u8
+#EXTINF:0 tvg-id="DAZN LaLigaHD" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" group-title="SPAIN",Dazn La Liga
+http://melancolicos10.club:8080/hls/channel1.m3u8
 #EXTINF:0 tvg-id="DAZN 1" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn01.png" group-title="SPAIN",Dazn 1
 http://melancolicos10.club:8080/hls/channel1.m3u8
 #EXTINF:0 tvg-id="DAZN 2" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn02.png" group-title="SPAIN",Dazn 2
 http://melancolicos10.club:8080/hls/channel2.m3u8
+#EXTINF:0 tvg-id="M+LCAMPEONES" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="SPAIN",Liga de Campeones por M+
+http://melancolicos10.club:8080/hls/channel1.m3u8
 #EXTINF:0 tvg-id="DAZN F1 HD" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="SPAIN",DAZN F1
 http://66.70.176.103:8081/SPAIN%7CMOVISTARF1/SPAIN%7CMOVISTARF1/playlist.m3u8
 #EXTINF:0 tvg-id="TELEDEPORTE" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/teledeporte.png" group-title="SPAIN",tdp
@@ -205,5 +217,5 @@ http://185.41.244.69/goltv/index.m3u8
 http://s846397078.mialojamiento.es/8467/toro.php/index.m3u8
 #EXTINF:0 tvg-id="IBERALIA TV" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/iberalia.png" group-title="SPAIN",Iberalia
 http://185.41.244.69/iberalia/tracks-v2a1/mono.m3u8
-#EXTINF:0 tvg-id="cazapesca.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/iberaliapesca.png" group-title="SPAIN",Caza Y Pesca
+#EXTINF:0 tvg-id="cazapesca.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cyp.png" group-title="SPAIN",Caza Y Pesca
 http://185.41.244.69/iberaliapesca/tracks-v2a1/mono.m3u8
