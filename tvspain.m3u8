@@ -178,7 +178,7 @@ http://149.7.216.178:8080/ib3/tracks-v2a1/mono.m3u8
 #EXTINF:0 tvg-id="Betevé" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/barcelonatv.png" group-title="SPAIN",Beteve
 https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/protocol/https/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
 #EXTINF:0 tvg-id="Onda Cádiz" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ondacadiz.png" group-title="SPAIN",Onda cadiz
-https://ondacadiztv.es:30443/octv/directo_multi/playlist.m3u8
+https://ondacadiztv.es:30443/octv/directo_multi/playlist.m3u8=onda cadiz
 #EXTINF:0 tvg-id="Levante TV" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/levantetv.png" group-title="SPAIN",Levante Tv
 https://live-edge-ams-1.cdn.enetres.net/C2F6CBB67E5B4D08A16CE5FE67ABCEC9023/levantetvlive/index.m3u8?=Levante Tv
 #EXTINF:0 tvg-id="La Resistencia" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlresist.png" group-title="SPAIN",La Resistencia
