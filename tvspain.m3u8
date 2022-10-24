@@ -121,13 +121,13 @@ http://185.41.244.69/dmax/tracks-v2a1a2/mono.m3u8
 http://185.41.244.69/ten/tracks-v2a1a2/mono.m3u8
 #EXTINF:0 tvg-id="DKISS" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dkiss.png" group-title="SPAIN",DKISS
 http://185.41.244.69/dkiss/tracks-v2a1a2/mono.m3u8
-#EXTINF:0 tvg-id="la1.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/blaze.png" group-title="SPAIN",Blaze
+#EXTINF:0 tvg-id="AMC BREAK" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/blaze.png" group-title="SPAIN",Blaze
 http://185.41.244.69/blaze/tracks-v2a1a2/mono.m3u8
 #EXTINF:0 tvg-id="DIVINITY" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/divinity.png" group-title="SPAIN",Divinity
 https://livek.mediaset.es/orilinear20/live/linear20/playlist/playlist.isml/ctv.m3u8?hdnts=st=1666470685~exp=1666557084~acl=/*~hmac=e744099a9af247c493cb17129524a2d973131896326409a65f3b1890b7d3f851
 #EXTINF:0 tvg-id="NOVA" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/nova.png" group-title="SPAIN",Nova
 http://hls.webredirect.org/e8fs/mp_6920.php/https://atres-live.atresmedia.com/9a2afc4957cc6d70db696e845701ee1d91f0838e_ES_1666465172_1666493912/h264leg/live/nova/bitrate_1.m3u8
-#EXTINF:0 tvg-id="la1.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/neox.png" group-title="SPAIN",Neox
+#EXTINF:0 tvg-id="NEOX" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/neox.png" group-title="SPAIN",Neox
 http://hls.webredirect.org/e8fs/mp_6920.php/https://directo.atresmedia.com/c7a4d9cca70cfbe81108ebb6ed1a8a613fc3fbaa_1666493832/geoneox/bitrate_1.m3u8
 #EXTINF:0 tvg-id="FDF" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/fdft5.png" group-title="SPAIN",FDF
 https://livek.mediaset.es/orilinear22/live/linear22/playlist/playlist.isml/playlist-audio101_spa=128000-video=3500000.m3u8
