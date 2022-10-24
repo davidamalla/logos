@@ -104,23 +104,23 @@ https://rtvelivestream.akamaized.net/segments/la1/la1_main_dvr.m3u8
 #EXTINF:0 tvg-id="la2.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tve2.png" group-title="SPAIN",La 2
 https://rtvelivestream.akamaized.net/segments/la2/la2_main_dvr.m3u8
 #EXTINF:0 tvg-id="antena3.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/a3.png" group-title="SPAIN",Antena 3
-http://hls.webredirect.org/e8fs/mp_6920.php/https://directo.atresmedia.com/ceda8ddb18d980f77dabef5634e03a50aba3e197_1666525917/antena3/bitrate_1.m3u8
+http://ott.riotelecomm.es:4512/m3u8/ANTENA3HD.m3u8
 #EXTINF:0 tvg-id="cuatro.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cuatro.png" group-title="SPAIN",Cuatro
 https://livek.mediaset.es/orilinear21/live/linear21/playlist/playlist.isml/ctv.m3u8
 #EXTINF:0 tvg-id="telecinco.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/t5.png" group-title="SPAIN",Telecinco
-https://livek.mediaset.es/orilinear17/live/linear17/playlist/playlist.isml/playlist-audio101_spa=128000-video=3500000.m3u8
+http://ott.riotelecomm.es:4512/m3u8/TELECINCOHD.m3u8
 #EXTINF:0 tvg-id="lasexta.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/sexta.png" group-title="SPAIN",La Sexta
-http://hls.webredirect.org/e8fs/mp_6920.php/https://directo.atresmedia.com/7b4767482145a4ba029bb5469f0347e787038163_1666552703/lasexta/bitrate_1.m3u8
+http://ott.riotelecomm.es:4512/m3u8/LASEXTAHD.m3u8
 #EXTINF:0 tvg-id="mega.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mega.png" group-title="SPAIN",Mega
-http://hls.webredirect.org/e8fs/mp_6920.php/https://directo.atresmedia.com/6f7c6c7302762e854b729ba04581b53b0df1c9f4_1666551490/geomega/bitrate_1.m3u8
+http://ott.riotelecomm.es:4512/m3u8/MEGA.m3u8
 #EXTINF:0 tvg-id="bemad.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/bemad.png" group-title="SPAIN",Be mad
-https://livek.mediaset.es/orilinear18/live/linear18/playlist/playlist.isml/ctv.m3u8?hdnts=st=1666470685~exp=1666557084~acl=/*~hmac=e744099a9af247c493cb17129524a2d973131896326409a65f3b1890b7d3f851
+http://ott.riotelecomm.es:4512/m3u8/BEMADTVHD.m3u8
 #EXTINF:0 tvg-id="discoverymax.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dmax.png" group-title="SPAIN",Dmax
 http://185.41.244.69/dmax/tracks-v2a1a2/mono.m3u8
 #EXTINF:0 tvg-id="ten.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ten.png" group-title="SPAIN",Ten
 http://185.41.244.69/ten/tracks-v2a1a2/mono.m3u8
 #EXTINF:0 tvg-id="DKISS" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dkiss.png" group-title="SPAIN",DKISS
-http://185.41.244.69/dkiss/tracks-v2a1a2/mono.m3u8
+http://ott.riotelecomm.es:4512/m3u8/DKISS.m3u8
 #EXTINF:0 tvg-id="AMC BREAK" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/blaze.png" group-title="SPAIN",Blaze
 http://185.41.244.69/blaze/tracks-v2a1a2/mono.m3u8
 #EXTINF:0 tvg-id="DIVINITY" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/divinity.png" group-title="SPAIN",Divinity
@@ -128,11 +128,11 @@ https://livek.mediaset.es/orilinear20/live/linear20/playlist/playlist.isml/ctv.m
 #EXTINF:0 tvg-id="NOVA" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/nova.png" group-title="SPAIN",Nova
 http://hls.webredirect.org/e8fs/mp_6920.php/https://atres-live.atresmedia.com/9a2afc4957cc6d70db696e845701ee1d91f0838e_ES_1666465172_1666493912/h264leg/live/nova/bitrate_1.m3u8
 #EXTINF:0 tvg-id="NEOX" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/neox.png" group-title="SPAIN",Neox
-http://hls.webredirect.org/e8fs/mp_6920.php/https://directo.atresmedia.com/c7a4d9cca70cfbe81108ebb6ed1a8a613fc3fbaa_1666493832/geoneox/bitrate_1.m3u8
+ttp://ott.riotelecomm.es:4512/m3u8/NEOX.m3u8
 #EXTINF:0 tvg-id="FDF" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/fdft5.png" group-title="SPAIN",FDF
-https://livek.mediaset.es/orilinear22/live/linear22/playlist/playlist.isml/playlist-audio101_spa=128000-video=3500000.m3u8
+http://ott.riotelecomm.es:4512/m3u8/FDF.m3u8
 #EXTINF:0 tvg-id="ENERGY" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/energy.png" group-title="SPAIN",Energy
-https://livek.mediaset.es/orilinear19/live/linear19/playlist/playlist.isml/ctv.m3u8?hdnts=st=1666470685~exp=1666557084~acl=/*~hmac=e744099a9af247c493cb17129524a2d973131896326409a65f3b1890b7d3f851
+http://ott.riotelecomm.es:4512/m3u8/ENERGY.m3u8
 #EXTINF:0 tvg-id="atreseries.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/a3s.png" group-title="SPAIN",Atres Series
 http://hls.webredirect.org/e8fs/mp_6920.php/https://directo.atresmedia.com/141b7de8e754b7ce5ae0c5226ab48f15f11d442b_1666493867/geoa3series/bitrate_1.m3u8
 #EXTINF:0 tvg-id="CANAL SUR A." tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/csur.png" group-title="SPAIN",Canal Sur
