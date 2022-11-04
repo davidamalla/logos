@@ -48,7 +48,7 @@ http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6
 #EXTINF:0 tvg-id="BOM" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/bomcine.png" group-title="SPAIN",BOM CINE
 http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FVRWy15k4xVqlhrs8kp2QecJfgHSl1yorsTw3TJNIvq6
 #EXTINF:0 tvg-id="PARAMOUNT" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/paramount.png" group-title="SPAIN",Paramount Network
-http://185.41.244.69/paramountnetwork/tracks-v2a1a2/mono.m3u8
+http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZnuMig_vQfaakpqttv_az8K
 #EXTINF:0 tvg-id="cosmo.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cosmo.png" group-title="SPAIN",COSMO
 http://154.62.74.12:1935/live/smil:cosmoHD.smil/chunklist_w1630830529_b1928000_sleng.m3u8
 #EXTINF:0 tvg-id="comedycentral.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/pc.png" group-title="SPAIN",COMEDY CENTRAL 
