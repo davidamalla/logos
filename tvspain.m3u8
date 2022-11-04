@@ -18,7 +18,7 @@ http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6
 #EXTINF:0 tvg-id="syfy.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/syfyu.png" group-title="SPAIN",SYFY
 http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZm938n2Wp21ZxOZ5xLFcx8X
 #EXTINF:0 tvg-id="tnt.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tntsp.png" group-title="SPAIN",TNT
-http://185.41.244.69/tnt/tracks-v3a1a2/mono.m3u8
+http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZkpwUl8GM_aon4g_XMdN_Gl
 #EXTINF:0 tvg-id="M+ SERIES HD" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mse.png" group-title="SPAIN",M.Series
 http://protv.top:8000/live/90879347454025140/1593574628/38855.ts
 #EXTINF:0 tvg-id="M+ SERIES 2 HD" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mse2.png" group-title="SPAIN",M.Series 2
