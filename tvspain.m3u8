@@ -54,21 +54,21 @@ http://154.62.74.12:1935/live/smil:cosmoHD.smil/chunklist_w1630830529_b1928000_s
 #EXTINF:0 tvg-id="comedycentral.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/pc.png" group-title="SPAIN",COMEDY CENTRAL 
 http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZkg8NCLDI3pxQFzYRcngmuJ
 #EXTINF:0 tvg-id="HISTORIA" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/historia.png" group-title="SPAIN",HISTORIA
-http://212.121.249.34:8080/historia/tracks-v1a1/mono.m3u8
+http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZnBs-rj0NIe-LHDWBCbng-Y
 #EXTINF:0 tvg-id="NAT GEO" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ng.png" group-title="SPAIN",National Geographic
-http://protv.top:8000/live/90879347454025140/1593574628/38822.ts
+http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZkHK0DsZb3Zl55GYCaEm2RC
 #EXTINF:0 tvg-id="natgeowild.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ngwild.png" group-title="SPAIN",NatGeo Wild
-http://185.41.244.69/natgeowildhd/tracks-v2a1a2/mono.m3u8
+http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZksKERavw99OseZiVrc5WLZ
 #EXTINF:0 tvg-id="discoverychannel.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/disc.png" group-title="SPAIN",Discovery Channel
-http://185.41.244.69/discoverychannel/tracks-v2a1a2/mono.m3u8
+http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZmJIRHhAt8WwJWf_5CJoZuT
 #EXTINF:0 tvg-id="odisea.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/odisea.png" group-title="SPAIN",ODISEA
-http://212.121.249.34:8080/odisea/tracks-v1a1/mono.m3u8
+http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZl3kmQvG3uWrMdfAr3lwyLj
 #EXTINF:0 tvg-id="CANAL COCINA" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cocina.png" group-title="SPAIN",Canal Cocina
-http://212.121.249.34:8080/cocina/tracks-v1a1/mono.m3u8
+http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZkABnuuFdHchbnkZgM4h7aW
 #EXTINF:0 tvg-id="canaldecasa.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/decasa.png" group-title="SPAIN",Canal de casa
-http://212.121.249.34:8080/decasa/tracks-v1a1/mono.m3u8
+http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZmsA8g__gJEmOEj-eK4Dtxd
 #EXTINF:0 tvg-id="AMC CRIME" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cei.png" group-title="SPAIN",CRIMEN + INVESTIGACION
-http://212.121.249.34:8080/ci/tracks-v1a1/mono.m3u8
+http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZlu784aNbsnFauA1poKD4Gm
 #EXTINF:0 tvg-id="BABY TV" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/babytv.png" group-title="SPAIN",BABY
 https://is-tucuman.cdn.rcs.net.ar/mnp/comedy_hls/playlist.m3u8
 #EXTINF:0 tvg-id="canalpanda.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/panda.png" group-title="SPAIN",PANDA
@@ -86,7 +86,7 @@ https://rtvelivestream.akamaized.net/segments/clan/clan_main_dvr.m3u8
 #EXTINF:0 tvg-id="BOING" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/boing.png" group-title="SPAIN",Boing
 http://ott.riotelecomm.es:4512/m3u8/BOING.m3u8
 #EXTINF:0 tvg-id="DreamWorks HD" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dreamworks.png" group-title="SPAIN",DreamWorks
-http://protv.top:8000/live/90879347454025140/1593574628/38786.ts
+http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FabOiSq3wGhvkAKKFXJyj5P_fybI3pdEBstinHzngVIr
 #EXTINF:0 tvg-id="M+ Fest" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mfe.png" group-title="SPAIN",Movistar Fest
 http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FVRWy15k4xVqlhrs8kp2Qed0eT5zdjt73S-SIJQq9AzT
 #EXTINF:0 tvg-id="mtv.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mtv.png" group-title="SPAIN",MTV España
@@ -119,8 +119,8 @@ http://ott.riotelecomm.es:4512/m3u8/DMAX.m3u8
 http://ott.riotelecomm.es:4512/m3u8/TEN.m3u8
 #EXTINF:0 tvg-id="DKISS" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dkiss.png" group-title="SPAIN",DKISS
 http://ott.riotelecomm.es:4512/m3u8/DKISS.m3u8
-#EXTINF:0 tvg-id="AMC BREAK" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/blaze.png" group-title="SPAIN",Blaze
-http://185.41.244.69/blaze/tracks-v2a1a2/mono.m3u8
+#EXTINF:0 tvg-id="AMC BREAK" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/amcbreak.png" group-title="SPAIN",AMC BREAK
+http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZmzyF74_xnn0Mh4F_dcyU_t
 #EXTINF:0 tvg-id="DIVINITY" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/divinity.png" group-title="SPAIN",Divinity
 https://livek.mediaset.es/orilinear20/live/linear20/playlist/playlist.isml/ctv.m3u8?hdnts=st=1666470685~exp=1666557084~acl=/*~hmac=e744099a9af247c493cb17129524a2d973131896326409a65f3b1890b7d3f851
 #EXTINF:0 tvg-id="NOVA" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/nova.png" group-title="SPAIN",Nova
