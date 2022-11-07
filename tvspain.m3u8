@@ -48,7 +48,7 @@ http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6
 #EXTINF:0 tvg-id="BOM" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/bomcine.png" group-title="SPAIN",BOM CINE
 http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FVRWy15k4xVqlhrs8kp2QecJfgHSl1yorsTw3TJNIvq6
 #EXTINF:0 tvg-id="PARAMOUNT" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/paramount.png" group-title="SPAIN",Paramount Network
-http://crystal.ottc.pro:80/AZUAXH52NX/7Q5I6EMLXK/1654
+http://crystal.ottc.pro:80/AZUAXH52NX/7Q5I6EMLXK/1814
 #EXTINF:0 tvg-id="cosmo.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cosmo.png" group-title="SPAIN",COSMO
 http://154.62.74.12:1935/live/smil:cosmoHD.smil/chunklist_w1630830529_b1928000_sleng.m3u8
 #EXTINF:0 tvg-id="comedycentral.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/pc.png" group-title="SPAIN",COMEDY CENTRAL 
@@ -68,7 +68,7 @@ http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6
 #EXTINF:0 tvg-id="canaldecasa.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/decasa.png" group-title="SPAIN",Canal de casa
 http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZmsA8g__gJEmOEj-eK4Dtxd
 #EXTINF:0 tvg-id="AMC CRIME" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cei.png" group-title="SPAIN",CRIMEN + INVESTIGACION
-http://crystal.ottc.pro:80/AZUAXH52NX/7Q5I6EMLXK/353716
+http://crystal.ottc.pro:80/AZUAXH52NX/7Q5I6EMLXK/1603
 #EXTINF:0 tvg-id="BABY TV" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/babytv.png" group-title="SPAIN",BABY
 http://crystal.ottc.pro:80/AZUAXH52NX/7Q5I6EMLXK/1675
 #EXTINF:0 tvg-id="canalpanda.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/panda.png" group-title="SPAIN",PANDA
