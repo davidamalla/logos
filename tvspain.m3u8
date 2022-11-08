@@ -76,13 +76,13 @@ http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6
 #EXTINF:0 tvg-id="disneyjunior.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dj.png" group-title="SPAIN",Disney Jr
 http://crystal.ottc.pro:80/AZUAXH52NX/7Q5I6EMLXK/1891
 #EXTINF:0 tvg-id="NICK JR" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/nickjr.png" group-title="SPAIN",Nick Jr
-http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZnaSxKNxV21VBRpXYPdmYe6
+http://crystal.ottc.pro:80/AZUAXH52NX/7Q5I6EMLXK/1669
 #EXTINF:0 tvg-id="NICKELODEON HD" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/nick.png" group-title="SPAIN",Nickelodeon
 http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZmPAJ46_cSGH_EjsarvBbMV
 #EXTINF:0 tvg-id="disney.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dc.png" group-title="SPAIN",Disney Channel
-http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZlBxjwFYZg5HEMEl0RPj0gv
+http://crystal.ottc.pro:80/AZUAXH52NX/7Q5I6EMLXK/1892
 #EXTINF:0 tvg-id="clantve.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/clantve.png" group-title="SPAIN",Clan
-https://rtvelivestream.akamaized.net/segments/clan/clan_main_dvr.m3u8
+http://crystal.ottc.pro:80/AZUAXH52NX/7Q5I6EMLXK/1673
 #EXTINF:0 tvg-id="BOING" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/boing.png" group-title="SPAIN",Boing
 http://crystal.ottc.pro:80/AZUAXH52NX/7Q5I6EMLXK/1895
 #EXTINF:0 tvg-id="DreamWorks HD" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dreamworks.png" group-title="SPAIN",DreamWorks
@@ -130,7 +130,7 @@ http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6
 #EXTINF:0 tvg-id="FDF" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/fdft5.png" group-title="SPAIN",FDF
 http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZmxHaywo4iCZu-BHGWF2Y6U
 #EXTINF:0 tvg-id="ENERGY" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/energy.png" group-title="SPAIN",Energy
-http://crystal.ottc.pro:80/AZUAXH52NX/7Q5I6EMLXK/1862
+http://crystal.ottc.pro:80/AZUAXH52NX/7Q5I6EMLXK/1689
 #EXTINF:0 tvg-id="atreseries.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/a3s.png" group-title="SPAIN",Atres Series
 http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZlk0GSDCZWDa6CpQHRnaCKy
 #EXTINF:0 tvg-id="Intereconomia TV" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/itv.png" group-title="SPAIN",El Toro
