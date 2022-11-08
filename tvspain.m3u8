@@ -38,7 +38,7 @@ http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FVRWy15k4xVqlhrs8kp
 #EXTINF:0 tvg-id="M+ CLÁSICOS HD" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mcl.png" group-title="SPAIN",M.Clasicos
 http://crystal.ottc.pro:80/AZUAXH52NX/7Q5I6EMLXK/412505
 #EXTINF:0 tvg-id="Somos" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/somos.png" group-title="SPAIN",SOMOS 
-http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZne2Ael0lIC48wyfm4moN9P
+http://crystal.ottc.pro:80/AZUAXH52NX/7Q5I6EMLXK/300095
 #EXTINF:0 tvg-id="dark.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dark.png" group-title="SPAIN",DARK
 http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FbNz88lC1-CQPUk63cVSrFktT1O9NJzO9gjUOKf4VIOA
 #EXTINF:0 tvg-id="sundance.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/sundance.png" group-title="SPAIN",SUNDANCE TV
@@ -136,7 +136,7 @@ http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6
 #EXTINF:0 tvg-id="Intereconomia TV" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/itv.png" group-title="SPAIN",El Toro
 https://streaming011.gestec-video.com/hls/eltoro_bal.m3u8
 #EXTINF:0 tvg-id="TRECE" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/13tv.png" group-title="SPAIN",TRECE
-http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZkijxdOgCgfjaVU6cGQ5zqL
+http://crystal.ottc.pro:80/AZUAXH52NX/7Q5I6EMLXK/458943
 #EXTINF:0 tvg-id="CANAL SUR A." tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/csur.png" group-title="SPAIN",Canal Sur
 https://cdnlive.codev8.net/rtvalive/channel1.smil/.m3u8
 #EXTINF:0 tvg-id="ARAGON TV " tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/aragontvsat.png" group-title="SPAIN",Aragon Tv
