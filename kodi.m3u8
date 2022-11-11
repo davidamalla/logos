@@ -43,7 +43,7 @@ http://crystal.ottc.pro:80/AZUAXH52NX/7Q5I6EMLXK/300096
 http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FbNz88lC1-CQPUk63cVSrFktT1O9NJzO9gjUOKf4VIOA
 #EXTINF:0 tvg-id="sundance.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/sundance.png" group-title="SPAIN",SUNDANCE TV
 http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZlcU4PenXZJYnedpA11f01t
-#EXTINF:0 tvg-id="XTRM HDMI IN" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/xtrm.png" group-title="SPAIN",XTRM
+#EXTINF:0 tvg-id="XTRM" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/xtrm.png" group-title="SPAIN",XTRM
 http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZlu0xwIJn_UpBkjipUkvvlT
 #EXTINF:0 tvg-id="BOM" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/bomcine.png" group-title="SPAIN",BOM CINE
 http://crystal.ottc.pro:80/AZUAXH52NX/7Q5I6EMLXK/370285
@@ -175,7 +175,7 @@ https://live-edge-ams-1.cdn.enetres.net/C2F6CBB67E5B4D08A16CE5FE67ABCEC9023/leva
 https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/master.m3u8
 #EXTINF:0 tvg-id="R. MADRID TV" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rm.png" group-title="SPAIN",Real Madrid Tv
 http://crystal.ottc.pro:80/AZUAXH52NX/7Q5I6EMLXK/1850
-#EXTINF:0 tvg-id="BARÇA TV MULTIDEPORTE" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/btv.png" group-title="SPAIN",Barça TV 
+#EXTINF:0 tvg-id="BARÇA TV" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/btv.png" group-title="SPAIN",Barça TV 
 http://crystal.ottc.pro:80/AZUAXH52NX/7Q5I6EMLXK/1851
 #EXTINF:0 tvg-id="M+ #VAMOSHD" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" group-title="SPAIN",#VAMOS
 http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZkJ__XYULRwZdLPga0hLLQl
