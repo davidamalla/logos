@@ -136,7 +136,7 @@ http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6
 #EXTINF:0 tvg-id="Intereconomia TV" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/itv.png" group-title="SPAIN",El Toro
 https://streaming011.gestec-video.com/hls/eltoro_bal.m3u8
 #EXTINF:0 tvg-id="TRECE" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/13tv.png" group-title="SPAIN",TRECE
-http://crystal.ottc.pro:80/AZUAXH52NX/7Q5I6EMLXK/458943
+http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZkijxdOgCgfjaVU6cGQ5zqL
 #EXTINF:0 tvg-id="CANAL SUR A." tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/csur.png" group-title="SPAIN",Canal Sur
 https://cdnlive.codev8.net/rtvalive/channel1.smil/.m3u8
 #EXTINF:0 tvg-id="ARAGON TV " tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/aragontvsat.png" group-title="SPAIN",Aragon Tv
