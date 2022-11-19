@@ -6,9 +6,9 @@ http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6
 #EXTINF:0 tvg-id="tcm.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tcm.png" group-title="SPAIN",TCM
 http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZkFnh3P-V3E0FruKfyU2QJV
 #EXTINF:0 tvg-id="amc.es" tvg-id="amc.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/amcsp.png" group-title="SPAIN",AMC
-http://crystal.ottc.pro:80/AZUAXH52NX/7Q5I6EMLXK/1664
+http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZnQcdHqn1N2Nd9rFh1Xofhc
 #EXTINF:0 tvg-id="axn.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/axn.png" group-title="SPAIN",AXN
-http://crystal.ottc.pro:80/AZUAXH52NX/7Q5I6EMLXK/1663
+http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZm-ISSF6CAmBOrt6GHz4lwk
 #EXTINF:0 tvg-id="axnwhite.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/axnwhite.png" group-title="SPAIN",AXN White 
 http://crystal.ottc.pro:80/AZUAXH52NX/7Q5I6EMLXK/1877
 #EXTINF:0 tvg-id="fox.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/foxn.png" group-title="SPAIN",FOX 
@@ -22,7 +22,7 @@ http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6
 #EXTINF:0 tvg-id="M+ SERIES HD" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mse.png" group-title="SPAIN",M.Series
 http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZk5k5zYMCSjT9zNxygK1FIj
 #EXTINF:0 tvg-id="M+ SERIES 2 HD" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mse2.png" group-title="SPAIN",M.Series 2
-http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZkcJgEGa4-jD2gHXOcUJiKM
+http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZkjO4_KOrR9h0_cO45FEm64
 #EXTINF:0 tvg-id="M+ESTRENOS HD" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mes.png" group-title="SPAIN",M.Estrenos 
 http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZkkus4OLqp-XWFPkcZ3vnHg
 #EXTINF:0 tvg-id="M+ ESTRENOS 2 HD" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mes2.png" group-title="SPAIN",M.Estrenos 2
@@ -32,7 +32,7 @@ http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6
 #EXTINF:0 tvg-id="M+COMEDIA HD" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mco.png" group-title="SPAIN",M.Comedia 
 http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZlOWvJNSEBuv0cXDPrEZr0l
 #EXTINF:0 tvg-id="M+ DRAMA HD" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdr.png" group-title="SPAIN",M.Drama
-http://crystal.ottc.pro:80/AZUAXH52NX/7Q5I6EMLXK/1627
+http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FTmsC_OGDsuv1VGmwtwoys8VISnigiflKVB6RCfH5LAn
 #EXTINF:0 tvg-id="M+Cine Español" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mcn.png" group-title="SPAIN",M.Cine Español
 http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FVRWy15k4xVqlhrs8kp2QefJNDTwBIFUlIbg9i-2tJ1v
 #EXTINF:0 tvg-id="M+ CLÁSICOS HD" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mcl.png" group-title="SPAIN",M.Clasicos
@@ -50,11 +50,11 @@ http://crystal.ottc.pro:80/AZUAXH52NX/7Q5I6EMLXK/370285
 #EXTINF:0 tvg-id="PARAMOUNT" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/paramount.png" group-title="SPAIN",Paramount Network
 http://crystal.ottc.pro:80/AZUAXH52NX/7Q5I6EMLXK/1814
 #EXTINF:0 tvg-id="cosmo.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cosmo.png" group-title="SPAIN",COSMO
-http://154.62.74.12:1935/live/smil:cosmoHD.smil/chunklist_w1630830529_b1928000_sleng.m3u8
+http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZkc-LSaPrNykIWVv9cR_sQH
 #EXTINF:0 tvg-id="comedycentral.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/pc.png" group-title="SPAIN",COMEDY CENTRAL 
 http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZkg8NCLDI3pxQFzYRcngmuJ
 #EXTINF:0 tvg-id="HISTORIA" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/historia.png" group-title="SPAIN",HISTORIA
-http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZnBs-rj0NIe-LHDWBCbng-Y
+http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZkAaGoFghAOvmkruKoD3pmR
 #EXTINF:0 tvg-id="NAT GEO" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ng.png" group-title="SPAIN",National Geographic
 http://crystal.ottc.pro:80/AZUAXH52NX/7Q5I6EMLXK/1599
 #EXTINF:0 tvg-id="natgeowild.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ngwild.png" group-title="SPAIN",NatGeo Wild
@@ -66,7 +66,7 @@ http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6
 #EXTINF:0 tvg-id="CANAL COCINA" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cocina.png" group-title="SPAIN",Canal Cocina
 http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZkABnuuFdHchbnkZgM4h7aW
 #EXTINF:0 tvg-id="canaldecasa.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/decasa.png" group-title="SPAIN",Canal de casa
-http://crystal.ottc.pro:80/AZUAXH52NX/7Q5I6EMLXK/1605
+http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZmsA8g__gJEmOEj-eK4Dtxd
 #EXTINF:0 tvg-id="AMC CRIME" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cei.png" group-title="SPAIN",CRIMEN + INVESTIGACION
 http://crystal.ottc.pro:80/AZUAXH52NX/7Q5I6EMLXK/1603
 #EXTINF:0 tvg-id="BABY TV" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/babytv.png" group-title="SPAIN",BABY
@@ -98,21 +98,21 @@ http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6
 #EXTINF:0 tvg-id="La Resistencia" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlresist.png" group-title="SPAIN",La Resistencia
 http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FVRWy15k4xVqlhrs8kp2QeeAicuYM6H01ExN_-ykye3M
 #EXTINF:0 tvg-id="la1.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tve1.png" group-title="SPAIN",La 1
-http://crystal.ottc.pro:80/AZUAXH52NX/7Q5I6EMLXK/1697
+http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZm4Q6w7icH74HaQAeJzBPH1
 #EXTINF:0 tvg-id="la2.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tve2.png" group-title="SPAIN",La 2
-http://crystal.ottc.pro:80/AZUAXH52NX/7Q5I6EMLXK/1696
+http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZkpNqTgG7XQfYknD_UtdIci
 #EXTINF:0 tvg-id="antena3.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/a3.png" group-title="SPAIN",Antena 3
-http://crystal.ottc.pro:80/AZUAXH52NX/7Q5I6EMLXK/1695
+http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZmY3Z0b_ioC9EmJkbMbHjDh
 #EXTINF:0 tvg-id="cuatro.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cuatro.png" group-title="SPAIN",Cuatro
-http://crystal.ottc.pro:80/AZUAXH52NX/7Q5I6EMLXK/1694
+http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZmFpNvImlNwQnXs7M_F6O3E
 #EXTINF:0 tvg-id="telecinco.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/t5.png" group-title="SPAIN",Telecinco
-http://crystal.ottc.pro:80/AZUAXH52NX/7Q5I6EMLXK/1693
+http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZnE4ekPVjfVP3HWS7z2h46Q
 #EXTINF:0 tvg-id="lasexta.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/sexta.png" group-title="SPAIN",La Sexta
-http://crystal.ottc.pro:80/AZUAXH52NX/7Q5I6EMLXK/1692
+http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZm7AhYqnQwLIg_I36uO8Yni
 #EXTINF:0 tvg-id="mega.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mega.png" group-title="SPAIN",Mega
-http://crystal.ottc.pro:80/AZUAXH52NX/7Q5I6EMLXK/1687
+http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZmq5C0WvSw0r7mHv7tUbxcg
 #EXTINF:0 tvg-id="bemad.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/bemad.png" group-title="SPAIN",Be mad
-http://crystal.ottc.pro:80/AZUAXH52NX/7Q5I6EMLXK/1686
+http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZlGa7fAWD_8nfpcEvm794Dv
 #EXTINF:0 tvg-id="discoverymax.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dmax.png" group-title="SPAIN",Dmax
 http://crystal.ottc.pro:80/AZUAXH52NX/7Q5I6EMLXK/229598
 #EXTINF:0 tvg-id="ten.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ten.png" group-title="SPAIN",Ten
@@ -140,7 +140,7 @@ http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6
 #EXTINF:0 tvg-id="CANAL SUR A." tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/csur.png" group-title="SPAIN",Canal Sur
 https://cdnlive.codev8.net/rtvalive/channel1.smil/.m3u8
 #EXTINF:0 tvg-id="ARAGON TV " tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/aragontvsat.png" group-title="SPAIN",Aragon Tv
-http://crystal.ottc.pro:80/AZUAXH52NX/7Q5I6EMLXK/1682
+http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZkl3mq_iaCfqs2SOK8cSR1X
 #EXTINF:0 tvg-id="Telemadrid" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tvam.png" group-title="SPAIN",Tele Madrid
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8
 #EXTINF:0 tvg-id="La Otra" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laotra.png" group-title="SPAIN",La Otra
@@ -184,7 +184,7 @@ http://crystal.ottc.pro:80/AZUAXH52NX/7Q5I6EMLXK/1850
 #EXTINF:0 tvg-id="BARCA TV" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/btv.png" group-title="SPAIN",Barça TV 
 http://crystal.ottc.pro:80/AZUAXH52NX/7Q5I6EMLXK/1851
 #EXTINF:0 tvg-id="M+ #VAMOSHD" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" group-title="SPAIN",#VAMOS
-http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZkJ__XYULRwZdLPga0hLLQl
+http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZl-GgXZB-G-F6-PQ9PwzA8C
 #EXTINF:0 tvg-id="LaLiga SmartbankTV" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligasm.png" group-title="SPAIN",La Liga SmartBank TV
 http://crystal.ottc.pro:80/AZUAXH52NX/7Q5I6EMLXK/428601
 #EXTINF:0 tvg-id="M+ LaLiga HD" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="SPAIN",La Liga TV por M+
@@ -198,7 +198,7 @@ http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FWrRe68enhDQHCE_XP2
 #EXTINF:0 tvg-id="M+LCAMPEONES" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="SPAIN",Liga de Campeones por M+
 http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZlf6VrBVP_SG1G1G5moK0NX
 #EXTINF:0 tvg-id="DAZN F1 HD" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="SPAIN",DAZN F1
-http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-Fdo2950K-XqlbnRaWAXmx1UxJV6KMF7R7uH0CZDEqHHi
+http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FVRWy15k4xVqlhrs8kp2Qefm9TPQHnlf8NwYblu43i0r
 #EXTINF:0 tvg-id="TELEDEPORTE" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/teledeporte.png" group-title="SPAIN",tdp
 http://crystal.ottc.pro:80/AZUAXH52NX/7Q5I6EMLXK/1831
 #EXTINF:0 tvg-id="EUROSPORT1HD" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" group-title="SPAIN",Eurosport 1
