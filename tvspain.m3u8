@@ -1,4 +1,4 @@
-#EXTM3U url-tvg ="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
+#EXTM3U url-tvg ="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz"
 #EXTINF:0 tvg-id="M+ #0 HD" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cero.png" group-title="SPAIN",#0
 http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZnafO2FQq5-3kSeDl8MUmz6
 #EXTINF:0 tvg-id="hollywood.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/holly.png" group-title="SPAIN",Hollywood
