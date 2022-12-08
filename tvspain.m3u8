@@ -91,7 +91,7 @@ http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FabOiSq3wGhvkAKKFXJ
 http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FVRWy15k4xVqlhrs8kp2QeehyG7BEkiL6S0ax0UP2euf
 #EXTINF:0 tvg-id="MTV ESPAÑA" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mtv.png" group-title="SPAIN",MTV España
 http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZmNHxgIahd-xkQKo9sXBuqU
-#EXTINF:0 tvg-id="VH1" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vh1classics.png" group-title="SPAIN",VH1 CLASSICS
+#EXTINF:0 tvg-id="VH1 Classic" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vh1classics.png" group-title="SPAIN",VH1 CLASSICS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 tvg-id="Sol Música" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/sol.png" group-title="SPAIN",SOL MUSIC
 http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZkiiTFxk-B2u7PvMH4rqz2x
