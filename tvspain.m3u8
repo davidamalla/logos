@@ -207,9 +207,3 @@ http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6
 http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FVRWy15k4xVqlhrs8kp2QecB_Zg9nyAkCkfGTSmKriT0
 #EXTINF:0 tvg-id="gol.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golm.png" group-title="SPAIN",Gol
 http://94.158.219.85:8081/channel/n70ebbbf7/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.y1Ubsu9jmzophdGjATa9tpy7Lwu89ZvlFBjw4Urdy8xwjeVmPLFWo6H0_H7WHjK-ks-W5x32XD_u5Ji0WbOs9A
-#EXTINF:0 tvg-id="toros.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/torostv.png" group-title="SPAIN",Toros
-http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZlxbwuhk7Rj5tTqvTztIP-V
-#EXTINF:0 tvg-id="IBERALIA TV" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/iberalia.png" group-title="SPAIN",Iberalia
-http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZlctpL_UgaPYRXgArgAI-gt
-#EXTINF:0 tvg-id="cazapesca.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cyp.png" group-title="SPAIN",Caza Y Pesca
-http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZk5HnaQHSmnJCFhM2fnUxW0
