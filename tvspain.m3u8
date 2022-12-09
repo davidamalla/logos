@@ -62,7 +62,7 @@ http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6
 #EXTINF:0 tvg-id="discoverychannel.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/disc.png" group-title="SPAIN",Discovery Channel
 http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZmJIRHhAt8WwJWf_5CJoZuT
 #EXTINF:0 tvg-id="odisea.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/odisea.png" group-title="SPAIN",ODISEA
-http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZl3kmQvG3uWrMdfAr3lwyLj
+http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FX3ZvS4vrmbUhM6G86lbByYWU5m9i0R3_TCR98i-6wH8
 #EXTINF:0 tvg-id="CANAL COCINA" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cocina.png" group-title="SPAIN",Canal Cocina
 http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZkABnuuFdHchbnkZgM4h7aW
 #EXTINF:0 tvg-id="canaldecasa.es" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/decasa.png" group-title="SPAIN",Canal de casa
@@ -182,7 +182,7 @@ https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/master.m3u8
 #EXTINF:0 tvg-id="R. MADRID TV" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rm.png" group-title="SPAIN",Real Madrid Tv
 http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FVRWy15k4xVqlhrs8kp2QefrqX3UeLeru-wnLL-UGZaf
 #EXTINF:0 tvg-id="BARCA TV" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/btv.png" group-title="SPAIN",Barça TV 
-http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FepCtPRWsHCRJFfcvO4hhnFeLPAlrKBhNPhZIP63tAPV
+http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZmsNS1CjHZKaP7ZpTae3rdY
 #EXTINF:0 tvg-id="M+ #VAMOSHD" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" group-title="SPAIN",#VAMOS
 http://protocol.solanaflix.com:8080/play/g1yqQxzCrFCY7aCHZcA-FT6vREuI8sFgHHd6Os6VXZl-GgXZB-G-F6-PQ9PwzA8C
 #EXTINF:0 tvg-id="LaLiga SmartbankTV" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligasm.png" group-title="SPAIN",La Liga SmartBank TV
