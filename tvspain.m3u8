@@ -86,11 +86,11 @@ http://912461006142321175.nicesjb.xyz:80/play/684194805/byvWyFdu7R/321175.ts
 #EXTINF:0 tvg-id="BOING" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/boing.png" group-title="SPAIN",Boing
 http://912461006142321134.nicesjb.xyz:80/play/684194805/byvWyFdu7R/321134.ts
 #EXTINF:0 tvg-id="DreamWorks HD" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dreamworks.png" group-title="SPAIN",DreamWorks
-http://912461006142321229.nicesjb.xyz:80/play/684194805/byvWyFdu7R/321229.ts
+http://912461006142336304.nicesjb.xyz:80/play/684194805/byvWyFdu7R/336304.ts
 #EXTINF:0 tvg-id="M+ Fest" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mfe.png" group-title="SPAIN",Movistar Fest
 http://912461006142321341.nicesjb.xyz:80/play/684194805/byvWyFdu7R/321341.ts
 #EXTINF:0 tvg-id="MTV ESPAÑA" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mtv.png" group-title="SPAIN",MTV España
-http://912461006142321356.nicesjb.xyz:80/play/684194805/byvWyFdu7R/321356.ts
+http://912461006142321357.nicesjb.xyz:80/play/684194805/byvWyFdu7R/321357.ts
 #EXTINF:0 tvg-id="VH1" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vh1classics.png" group-title="SPAIN",VH1 CLASSICS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 tvg-id="Sol Música" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/sol.png" group-title="SPAIN",SOL MUSIC
@@ -159,7 +159,7 @@ https://cdnlive.codev8.net/rtpalive/directo.smil/chunklist_b1700000_DVR.m3u8
 http://912461006142295503.nicesjb.xyz:80/play/684194805/byvWyFdu7R/295503.ts
 #EXTINF:0 tvg-id="La 7 HD" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cyl7.png" group-title="SPAIN",La 7 CYL
 https://cdnlive.codev8.net/la7live/channel1.smil/chunklist_b1500000.m3u8
-#EXTINF:0tvg-id="EXTREMADURA" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cext.png" group-title="SPAIN",Tv Extremadura
+#EXTINF:0 tvg-id="EXTREMADURA" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cext.png" group-title="SPAIN",Tv Extremadura
 https://cdnlive.codev8.net/canalextremaduralive/smil:channel1.smil/chunklist_b1000000.m3u8
 #EXTINF:0 tvg-id="TVGA" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tvg.png" group-title="SPAIN",Tv Galicia
 https://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
