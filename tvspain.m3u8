@@ -156,7 +156,7 @@ https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/60
 #EXTINF:0 tvg-id="TPA ASTURIAS" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tpa.png" group-title="SPAIN",TPA 7
 https://cdnlive.codev8.net/rtpalive/directo.smil/chunklist_b1700000_DVR.m3u8
 #EXTINF:0 tvg-id="CMM" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cmttv.png" group-title="SPAIN",CMM
-http://crystal.ottc.pro:80/AZUAXH52NX/7Q5I6EMLXK/412801
+http://protocol.solanaflix.com:8080/play/WGNw7ZA1XTY5HuPDi07bxWZz5fpF0RBlKgF2VfL71wxev3Q3-_dpy7O4H2pSu5eW
 #EXTINF:0 tvg-id="La 7 HD" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cyl7.png" group-title="SPAIN",La 7 CYL
 https://cdnlive.codev8.net/la7live/channel1.smil/chunklist_b1500000.m3u8
 #EXTINF:0tvg-id="EXTREMADURA" tvg-country="ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cext.png" group-title="SPAIN",Tv Extremadura
