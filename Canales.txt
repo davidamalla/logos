@@ -115,6 +115,11 @@ M+ Ellas Vamos HD,M+ Ellas Vamos HD
 M+ Estrenos HD,M+ Estrenos HD
 M+ Hits HD,M+ Hits HD
 M+ Indie HD,M+ Indie HD
+M+ LaLiga TV HD,M+ LaLiga TV HD
+M+ Liga de Campeones HD,M+ Liga de Campeones HD
+M+ Originales HD,M+ Originales HD
+M+ Oscars,M+ Oscars
+5f1ac1f1b66c76000790ef27,Pluto Cine Estelar
 5f1ac8a87cd38d000745d7cf,Pluto Thrillers
 61373bb45168fe000773eecd,Pluto Cine Clásico
 65ce480a78df2200131c597b,Pluto Psycho
@@ -174,10 +179,9 @@ Distrito TV.es,Distrito TV
 Sin Filtros.es,Sin Filtros
 Flamenco Auditorio.es,Flamenco Auditorio
 Qello Concerts.es,Qello Concerts
-643054b1fc3be59477853717-62d7f68fb19cbf65dc7bef7d,Stingray Classica
 NOW Rock.es,NOW Rock
 NOW 70s.es,NOW 70s
-NOW 80s.es,NOW 80s.es
+NOW 80s.es,NOW 80s
 ZUT TV.es,ZUT TV
 Crimen and Historia.es,Crimen and Historia
 Viajes y Sabores.es,Viajes y Sabores
