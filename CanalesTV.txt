@@ -73,6 +73,82 @@ Dramas (Rakuten TV),Dramas (Rakuten TV)
 Dreamworks HD,Dreamworks HD
 EITB Basque,EITB Basque
 ETB1,ETB1
+ETB2,ETB2
+ETB3,ETB3
+ETB4,ETB4
+EWTN,EWTN
+El 33 Catalunya,El 33 Catalunya
+El 9 TV,El 9 TV
+El Toro TV,El Toro TV
+EmpordaTV,EmpordaTV
+En Familia (Rakuten TV),En Familia (Rakuten TV)
+Energy,Energy
+Enfamilia,Enfamilia
+Escapa TV,Escapa TV
+Esport 3,Esport 3
+Esport3 Catalunya,Esport3 Catalunya
+EuroNews,EuroNews
+Eurosport 1 HD,Eurosport 1 HD
+Eurosport 2,Eurosport 2
+Factoría de Ficción,Factoría de Ficción
+HIT TV,HIT TV
+Historia,Historia
+IB3 TV Illes Balears,IB3 TV Illes Balears
+La 1 HD,La 1 HD
+La 2,La 2
+La 7 CyL,La 7 CyL
+La Ocho Mediterráneo,La Ocho Mediterráneo
+La Otra,La Otra
+La Sexta HD,La Sexta HD
+LaLiga TV Hypermotion HD,LaLiga TV Hypermotion HD
+Levante TV,Levante TV
+Libertad Digital TV,Libertad Digital TV
+Lleida TV,Lleida TV
+M+ Acción HD,M+ Acción HD
+M+ Cine Español,M+ Cine Español
+M+ Clásicos HD,M+ Clásicos HD
+M+ Comedia HD,M+ Comedia HD
+M+ Deportes HD,M+ Deportes HD
+M+ Documentales HD,M+ Documentales HD
+M+ Drama HD,M+ Drama HD
+M+ Ellas Vamos HD,M+ Ellas Vamos HD
+M+ Estrenos HD,M+ Estrenos HD
+M+ Hits HD,M+ Hits HD
+M+ Indie HD,M+ Indie HD
+M+ LaLiga TV HD,M+ LaLiga TV HD
+M+ Liga de Campeones HD,M+ Liga de Campeones HD
+M+ Originales HD,M+ Originales HD
+M+ Oscars,M+ Oscars
+M+ Época,M+ Época
+5f1ac9a2d3611d0007a844bb,Pluto TV Cine Romántico
+655b5d865812e80008843bd1,Pluto TV Comedias Románticas
+5f1ac8099c49f600076579b2,Pluto Cine Comedia
+5f1ac947dcd00d0007937c08,Pluto Cine Drama
+5f1ac2591dd8880007bb7d6d,Pluto Cine Acción
+5f1ac1f1b66c76000790ef27,Pluto Cine Estelar
+5f1ac8a87cd38d000745d7cf,Pluto Thrillers
+61373bb45168fe000773eecd,Pluto Cine Clásico
+65ce480a78df2200131c597b,Pluto Psycho
+6267d4d1fb694f0007a6af0e,Pluto Horror
+645a309c5a0cd5000873f609,Pluto Catástrofes
+65786888b228b7000843ad9a,Pluto Zombies
+60cc807324d60a0007708dc8,Pluto Cine de Autor
+5f6a38eaa5b68b0007a00e7a,Pluto Scifi
+6245c2a5eec07b0007249fc8,Sensación de vivir
+ES3200001F1,BBC EARTH
+travelxp-es,Travel xp
+5-minutes-craft-es,5-Minute Crafts
+643054b1fc3be59477853717-5ef4e1b10d9ad000423c4421,Always Funny en Español
+filmrise-archivos-forenses,Forensic Files
+lifestyle-es-rakuten-tv,Rakuten TV Estilo y Vida
+63c69c87808b740007599fe1,Canal Érase una vez
+643054b1fc3be59477853717-640205c68ecb41f2d89d5814,The Ed Sullivan Show
+643054b1fc3be59477853717-656fb124cb7e8e6a9bc3f36a,Kidz Bop TV
+6076cd1df8576d0007c82193,VH1 Classics
+vevo-latino-es,Vevo Latino
+vevo-pop-es,Vevo Pop
+Movie Music.es,Movies Music By Stingray
+Djazz.es,Djazz
 643054b1fc3be59477853717-62d7f68fb19cbf65dc7bef7d,Stingray Classica Stream
 Deutsche W,Deutsche W
 GOL PLAY,GOL PLAY
