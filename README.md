@@ -5,7 +5,6 @@ Estos logotipos y epg's dado que representan a canales registrados no son propie
 
 ### Logotipos,Epgs y canales
 - [Logos](https://github.com/davidamalla/logos/tree/main/Logotipos-TV)
-#
 - [Canales](https://github.com/davidamalla/logos/blob/main/EpgSpain/Canales.txt)
 #
 <p align="left">
