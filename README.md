@@ -16,3 +16,10 @@ La guía se actualiza a las siguientes horas 9:00 | 13:00 | 17:00 | 21:00, e inc
 <p align="center">
 <a href="https://davidmuma.github.io/EPG/">VER PROGRAMACIÓN</a>
 </p>
+
+***
+### xml sin comprimir, compatible con la mayoria de aplicaciones
+- Sin caracteres especiales | [captura](https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/Varios/EPG/iptvsin.jpg)
+```
+https://raw.githubusercontent.com/davidamalla/EpgSpain/master/miEPG.xml
+```
