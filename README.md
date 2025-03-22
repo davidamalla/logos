@@ -10,7 +10,7 @@ La guía se actualiza a las siguientes horas 9:00 | 13:00 | 17:00 | 21:00, e inc
 ***
 
 <h2 align="left">
-  Epg España: <a href="https://raw.githubusercontent.com/davidamalla/EpgSpain/master/miEPG.xml">EpgSpain</a>
+ Ver Epg España: <a href="https://raw.githubusercontent.com/davidamalla/EpgSpain/master/miEPG.xml">EpgSpain</a>
 </h2>
 
 <p align="center">
