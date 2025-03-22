@@ -6,3 +6,7 @@ Estos logotipos y epg's dado que representan a canales registrados no son propie
 <h2 align="left">
   Epg España: <a href="https://raw.githubusercontent.com/davidamalla/EpgSpain/master/miEPG.xml">EpgSpain</a>
 </h2>
+
+<p align="center">
+<a href="https://davidmuma.github.io/EPG/">VER PROGRAMACIÓN</a>
+</p>
