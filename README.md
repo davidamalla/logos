@@ -3,6 +3,10 @@ El proyecto siguiente está orientado a la creación de los logotipos y epg's of
 
 Estos logotipos y epg's dado que representan a canales registrados no son propiedad visual del creador, el creador sólo es reconocido como usuario editor y por lo tanto no tienen ningún derecho sobre el mismo.
 
+### Logos
+- [Logos](https://github.com/davidmuma/Canales_dobleM/blob/master/Varios/INSenigma2.md)
+#
+
 <p align="left">
 La guía se actualiza a las siguientes horas 9:00 | 13:00 | 17:00 | 21:00, e incluye siete días con la programación de la mayoría de las plataformas españolas y también la programación de algunos canales ingleses, franceses, alemanes y portugueses <a href="https://github.com/davidamalla/logos/blob/main/EpgSpain/Canales.txt">·</a><a href="https://github.com/davidamalla/logos/blob/main/EpgSpain/Canales.txt"> (Ver listado de canales) </a><a href="https://github.com/davidamalla/logos/blob/main/EpgSpain/Canales.txt">·</a>
 </p>
