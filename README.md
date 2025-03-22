@@ -3,11 +3,9 @@ El proyecto siguiente está orientado a la creación de los logotipos y epg's of
 
 Estos logotipos y epg's dado que representan a canales registrados no son propiedad visual del creador, el creador sólo es reconocido como usuario editor y por lo tanto no tienen ningún derecho sobre el mismo.
 
-### Logos
+### Logotipos,Epgs y canales
 - [Logos](https://github.com/davidamalla/logos/tree/main/Logotipos-TV)
 #
-
-### Logos
 - [Canales](https://github.com/davidamalla/logos/blob/main/EpgSpain/Canales.txt)
 #
 <p align="left">
