@@ -15,8 +15,7 @@
 <p align="left">
 La guía se actualiza a las siguientes horas 9:00 | 13:00 | 17:00 | 21:00, e incluye siete días con la programación de la mayoría de las plataformas españolas y también la programación de algunos canales como:Movistar,Rakuten,Plex,Runtime,Pluto,Samgung.       
  <a href="https://github.com/davidamalla/logos/blob/main/EpgSpain/Canales.txt">·</a><a href="https://github.com/davidamalla/logos/blob/main/EpgSpain/Canales.txt"> (Ver listado de canales) </a><a href="https://github.com/davidamalla/logos/blob/main/EpgSpain/Canales.txt">·</a>
-</p>
-***
+</p>***
 
 ### Logotipos,Epgs y canales que se utilizan
 - [Logos](https://github.com/davidamalla/logos/tree/main/Logotipos-TV)
