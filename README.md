@@ -4,11 +4,6 @@
   <a href="https://raw.githubusercontent.com/davidamalla/EpgSpain/master/miEPG.xml"> <img src="https://raw.githubusercontent.com/davidamalla/logos/refs/heads/main/Logotipos-TV/IMG_1322.jpeg" width="30%" height="30%"> </a>
 </p>
 
-### Logotipos Y Epg's para los canales nacionales y locales esoañoles
-El proyecto siguiente está orientado a la creación de los logotipos y epg's oficiales de los canales españoles de Televisión, ya sea a nivel nacional o comunitarios.
-
-Estos logotipos y epg's dado que representan a canales registrados no son propiedad visual del creador, el creador sólo es reconocido como usuario editor y por lo tanto no tienen ningún derecho sobre el mismo.
-
 ### Logotipos,Epgs y canales que se utilizan
 - [Logos](https://github.com/davidamalla/logos/tree/main/Logotipos-TV)
 - [Canales](https://github.com/davidamalla/logos/blob/main/EpgSpain/Canales.txt)
