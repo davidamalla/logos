@@ -9,7 +9,11 @@
 <h2 align="left">
  Ver Epg España: <a href="https://raw.githubusercontent.com/davidamalla/EpgSpain/master/miEPG.xml">EpgSpain</a>
 </h2>
+<p align="center">
+<a href="https://davidmuma.github.io/EPG/">VER PROGRAMACIÓN</a>
+</p>
 
+***
 ### Logotipos,Epgs y canales que se utilizan
 - [Logos](https://github.com/davidamalla/logos/tree/main/Logotipos-TV)
 - [Canales](https://github.com/davidamalla/logos/blob/main/EpgSpain/Canales.txt)
@@ -20,12 +24,6 @@ La guía se actualiza a las siguientes horas 9:00 | 13:00 | 17:00 | 21:00, e inc
  <a href="https://github.com/davidamalla/logos/blob/main/EpgSpain/Canales.txt">·</a><a href="https://github.com/davidamalla/logos/blob/main/EpgSpain/Canales.txt"> (Ver listado de canales) </a><a href="https://github.com/davidamalla/logos/blob/main/EpgSpain/Canales.txt">·</a>
 </p>
 
-
-<p align="center">
-<a href="https://davidmuma.github.io/EPG/">VER PROGRAMACIÓN</a>
-</p>
-
-***
 ### xml sin comprimir, compatible con la mayoria de aplicaciones
 - Sin caracteres especiales | [captura](https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/Varios/EPG/iptvsin.jpg)
 ```
