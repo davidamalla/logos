@@ -4,8 +4,6 @@
   <a href="https://raw.githubusercontent.com/davidamalla/EpgSpain/master/miEPG.xml"> <img src="https://raw.githubusercontent.com/davidamalla/logos/refs/heads/main/Logotipos-TV/IMG_1322.jpeg" width="30%" height="30%"> </a>
 </p>
 
-***
-
 <h2 align="left">
  Ver Epg España: <a href="https://raw.githubusercontent.com/davidamalla/EpgSpain/master/miEPG.xml">EpgSpain</a>
 </h2>
