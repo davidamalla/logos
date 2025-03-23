@@ -20,7 +20,7 @@ La guía se actualiza a las siguientes horas 9:00 | 13:00 | 17:00 | 21:00, e inc
 ### Logotipos,Epgs y canales que se utilizan
 - [Logos](https://github.com/davidamalla/logos/tree/main/Logotipos-TV)
 - [Canales](https://github.com/davidamalla/logos/blob/main/EpgSpain/Canales.txt)
-- [EPG's](https://raw.githubusercontent.com/davidamalla/logos/refs/heads/main/EpgSpain/epgs.txt)
+- [EPG's](https://github.com/davidamalla/logos/blob/main/EpgSpain/epgs.txt)
 
 ***
 
