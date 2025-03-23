@@ -22,6 +22,7 @@ La guía se actualiza a las siguientes horas 9:00 | 13:00 | 17:00 | 21:00, e inc
 - [Canales](https://github.com/davidamalla/logos/blob/main/EpgSpain/Canales.txt)
 - [EPG](https://raw.githubusercontent.com/davidamalla/EpgSpain/master/miEPG.xml)
 
+***
 
 ### xml sin comprimir, compatible con la mayoria de aplicaciones
 - Sin caracteres especiales | [captura](https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/Varios/EPG/iptvsin.jpg)
