@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="https://github.com/davidmuma/EPG_dobleM"> <img src="https://raw.githubusercontent.com/davidamalla/logos/refs/heads/main/Logotipos-TV/IMG_1322.jpeg" width="30%" height="30%"> </a>
-  <a href="https://github.com/davidmuma/Canales_dobleM"> <img src="https://raw.githubusercontent.com/davidamalla/logos/refs/heads/main/Logotipos-TV/IMG_1322.jpeg" width="30%" height="30%"> </a>
-  <a href="https://github.com/davidmuma/Docker_dobleM"> <img src="https://raw.githubusercontent.com/davidamalla/logos/refs/heads/main/Logotipos-TV/IMG_1322.jpeg" width="30%" height="30%"> </a>
+  <a href="https://github.com/davidamalla/logos/tree/main/Logotipos-TV"> <img src="https://raw.githubusercontent.com/davidamalla/logos/refs/heads/main/Logotipos-TV/IMG_1322.jpeg" width="30%" height="30%"> </a>
+  <a href="https://github.com/davidamalla/logos/blob/main/EpgSpain/Canales.txt"> <img src="https://raw.githubusercontent.com/davidamalla/logos/refs/heads/main/Logotipos-TV/IMG_1322.jpeg" width="30%" height="30%"> </a>
+  <a href="https://raw.githubusercontent.com/davidamalla/EpgSpain/master/miEPG.xml"> <img src="https://raw.githubusercontent.com/davidamalla/logos/refs/heads/main/Logotipos-TV/IMG_1322.jpeg" width="30%" height="30%"> </a>
 </p>
 
 ### Logotipos Y Epg's para los canales nacionales y locales esoañoles
