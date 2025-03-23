@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/davidmuma/EPG_dobleM"> <img src="https://raw.githubusercontent.com/davidamalla/logos/refs/heads/main/Logotipos-TV/IMG_1322.jpeg" width="30%" height="30%"> </a>
+  <a href="https://github.com/davidmuma/Canales_dobleM"> <img src="https://raw.githubusercontent.com/davidamalla/logos/refs/heads/main/Logotipos-TV/IMG_1322.jpeg" width="30%" height="30%"> </a>
+  <a href="https://github.com/davidmuma/Docker_dobleM"> <img src="https://raw.githubusercontent.com/davidamalla/logos/refs/heads/main/Logotipos-TV/IMG_1322.jpeg" width="30%" height="30%"> </a>
+</p>
+
 ### Logotipos Y Epg's para los canales nacionales y locales esoañoles
 El proyecto siguiente está orientado a la creación de los logotipos y epg's oficiales de los canales españoles de Televisión, ya sea a nivel nacional o comunitarios.
 
