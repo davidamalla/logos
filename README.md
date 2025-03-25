@@ -5,7 +5,7 @@
 </p>
 
 <h2 align="center">
-    Epg España: <a href="https://raw.githubusercontent.com/davidamalla/logos/master/miEPG.xml">EpgSpain</a>
+    Epg España: <a href="https://raw.githubusercontent.com/davidamalla/logos/master/miEPG.xml">miEpg</a>
 </h2>
 <p align="center">
 <a href="https://davidmuma.github.io/EPG/">VER PROGRAMACIÓN</a>
