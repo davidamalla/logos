@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/davidamalla/logos/tree/main/Logotipos-TV"> <img src="https://raw.githubusercontent.com/davidamalla/logos/refs/heads/main/Logotipos-TV/logos.jpg" width="30%" height="30%"> </a>
-  <a href="https://github.com/davidamalla/EpgSpain/blob/main/canales.txt"> <img src="https://raw.githubusercontent.com/davidamalla/logos/refs/heads/main/Logotipos-TV/canales.jpg" width="30%" height="30%"> </a>
+  <a href="https://github.com/davidamalla/EpgSpain/blob/main/canales.txt"> <img src="https://raw.githubusercontent.com/davidamalla/logos/refs/heads/main/Logotipos-TV/canales.png" width="30%" height="30%"> </a>
   <a href="https://raw.githubusercontent.com/davidamalla/EpgSpain/master/miEPG.xml"> <img src="https://raw.githubusercontent.com/davidamalla/logos/refs/heads/main/Logotipos-TV/epg.jpg" width="30%" height="30%"> </a>
 </p>
 
