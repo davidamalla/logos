@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/davidamalla/logos/tree/main/Logotipos-TV"> <img src="https://raw.githubusercontent.com/davidamalla/logos/refs/heads/main/Logotipos-TV/logos.png" width="30%" height="30%"> </a>
   <a href="https://github.com/davidamalla/EpgSpain/blob/main/canales.txt"> <img src="https://raw.githubusercontent.com/davidamalla/logos/refs/heads/main/Logotipos-TV/canales.png" width="30%" height="30%"> </a>
-  <a href="https://raw.githubusercontent.com/davidamalla/EpgSpain/master/miEPG.xml"> <img src="https://raw.githubusercontent.com/davidamalla/logos/refs/heads/main/Logotipos-TV/epg.png" width="30%" height="30%"> </a>
+  <a href="https://raw.githubusercontent.com/davidamalla/logos/master/miEPG.xml"> <img src="https://raw.githubusercontent.com/davidamalla/logos/refs/heads/main/Logotipos-TV/epg.png" width="30%" height="30%"> </a>
 </p>
 
 <h2 align="left">
- Ver Epg España: <a href="https://raw.githubusercontent.com/davidamalla/EpgSpain/master/miEPG.xml">EpgSpain</a>
+ Ver Epg España: <a href="https://raw.githubusercontent.com/davidamalla/logos/master/miEPG.xml">EpgSpain</a>
 </h2>
 <p align="center">
 <a href="https://davidmuma.github.io/EPG/">VER PROGRAMACIÓN</a>
