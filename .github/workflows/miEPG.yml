@@ -1,0 +1,39 @@
+name: miEPG
+
+on:
+  schedule:
+    - cron: '55 7 * * *'  # Ejecuta a las 7:55 AM cada día.
+    - cron: '55 11 * * *' # Ejecuta a las 11:55 AM cada día.
+    - cron: '55 15 * * *' # Ejecuta a las 3:55 PM cada día.
+    - cron: '55 19 * * *' # Ejecuta a las 7:55 PM cada día.
+  workflow_dispatch: # Permite ejecutar manualmente el flujo de trabajo.
+permissions:
+   contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout del repositorio
+      uses: actions/checkout@v2
+
+    - name: Dar permisos de ejecución al script
+      run: |
+        chmod +x .github/workflows/EPG_script.sh
+    - name: Ejecutar script
+      run: .github/workflows/EPG_script.sh
+
+    - name: Configurar identidad de Git
+      run: |
+        git config user.name "GitHub Actions"
+        git config user.email "actions@github.com"
+    - name: Hacer pull de los cambios remotos
+      run: git pull origin main
+        
+    - name: Subir archivos 
+      run: |
+        git add .
+        git commit -m "Nuevo miEPG.xml"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
