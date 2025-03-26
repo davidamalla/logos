@@ -134,17 +134,18 @@ M+ Vamos HD,M+ Vamos
 6245c2a5eec07b0007249fc8,Sensación de vivir
 6076cd1df8576d0007c82193,VH1 Classics
 63c69c87808b740007599fe1,Canal Érase una vez
-67517f923a61d40008c451f0,Historia and vida
-643054b1fc3be59477853717-640205c68ecb41f2d89d5814,The Ed Sullivan Show
-643054b1fc3be59477853717-656fb124cb7e8e6a9bc3f36a,Kidz Bop TV
-643054b1fc3be59477853717-62d7f68fb19cbf65dc7bef7d,Stingray Classica Stream
-643054b1fc3be59477853717-62fbf197c67d52bddf74cc87,Movie Music By Stingray
-643054b1fc3be59477853717-5ef4e1b10d9ad000423c4421,Always Funny en Español
-643054b1fc3be59477853717-62d7f68fb19cbf65dc7bef7c,Qello Concerts
-643054b1fc3be59477853717-656fbd05cb7e8e6a9bc3f372,Archivos Forenses
-643054b1fc3be59477853717-671ff7a5769d5ec4bf51d63a,Historia Y Vida
-643054b1fc3be59477853717-67200026769d5ec4bf51d63e,Crimen and Historia
-643054b1fc3be59477853717-64a355697d24564fba37bab8,Ideas En 5 Minutos
+67517f923a61d40008c451f0,Historia and vida (Pluto)
+67517fae5534bb0008187997,Actualidad 360 (Pluto)
+643054b1fc3be59477853717-640205c68ecb41f2d89d5814,The Ed Sullivan Show (Plex)
+643054b1fc3be59477853717-656fb124cb7e8e6a9bc3f36a,Kidz Bop TV (Plex)
+643054b1fc3be59477853717-62d7f68fb19cbf65dc7bef7d,Stingray Classica Stream (Plex)
+643054b1fc3be59477853717-62fbf197c67d52bddf74cc87,Movie Music By Stingray (Plex)
+643054b1fc3be59477853717-5ef4e1b10d9ad000423c4421,Always Funny en Español (Plex)
+643054b1fc3be59477853717-62d7f68fb19cbf65dc7bef7c,Qello Concerts (Plex)
+643054b1fc3be59477853717-656fbd05cb7e8e6a9bc3f372,Archivos Forenses (Plex)
+643054b1fc3be59477853717-671ff7a5769d5ec4bf51d63a,Historia Y Vida (Plex)
+643054b1fc3be59477853717-67200026769d5ec4bf51d63e,Crimen and Historia (Plex)
+643054b1fc3be59477853717-64a355697d24564fba37bab8,Ideas En 5 Minutos (Plex)
 643054b1fc3be59477853717-6490e17c18a55242eea95991,Cine Friki (Plex)
 643054b1fc3be59477853717-66840486cd6f1d3940941151,Runtime Familia (Plex)
 643054b1fc3be59477853717-64487696af92c31f4a190bc4,My Time Network (Plex)
