@@ -160,6 +160,8 @@ ESBD3400001AA,Negocios TV
 ES34000039I,CNN Español
 ESBC1400001L8,El Confidencial
 ESBC3500002PW,Ideas en 5 minutos
+ESBC3900002L8,Vivir con gatos
+ESBC3900001G6,Vivir con perros
 thriller-rakuten-tv,Thrillers Rakuten Tv
 travelxp-es,Travel xp
 5-minutes-craft-es,5-Minute Crafts
