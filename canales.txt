@@ -157,6 +157,7 @@ ES3200001F1,BBC EARTH
 ES260000968,Euronews
 ES300034BT,Actualidad 360
 ESBD3400001AA,Negocios TV
+ES34000039I,CNN Español
 thriller-rakuten-tv,Thrillers Rakuten Tv
 travelxp-es,Travel xp
 5-minutes-craft-es,5-Minute Crafts
