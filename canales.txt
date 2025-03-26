@@ -149,54 +149,48 @@ M+ Vamos HD,M+ Vamos
 643054b1fc3be59477853717-6490e17c18a55242eea95991,Cine Friki (Plex)
 643054b1fc3be59477853717-66840486cd6f1d3940941151,Runtime Familia (Plex)
 643054b1fc3be59477853717-64487696af92c31f4a190bc4,My Time Network (Plex)
-Deutsche W,Deutsche W
-GOL PLAY,GOL PLAY
-Negocios TV,Negocios TV
-EWTN,EWTN
-ETV,ETV
-La 7 Murcia,La 7 Murcia
-ES3200001F1,BBC EARTH
-ES260000968,Euronews
-ES300034BT,Actualidad 360
-ESBD3400001AA,Negocios TV
-ES34000039I,CNN Español
-ESBC1400001L8,El Confidencial
-ESBC3500002PW,Ideas en 5 minutos
-ESBC3900002L8,Vivir con gatos
-ESBC3900001G6,Vivir con perros
-ES33000025N,Crimen and Historia
-ESBD800001RJ,Friki
-ES2800001G7,Planeta de cine
-ESBC1700004PX,Trailers
-ESBD2300004Y7,Sol Musica
-ESBA3300042Y6,Trace latina
-ESBA3300043M0,Trace urban
-ESBC2100001IU,Vevo pop
-ESBC2100002LV,Vevo latino
-ES12000024R,Historia y vida
-ES300033TI,Viajes y sabores
-spanish-cinema-rakuten-tv,Pelis español
-romance-rakuten-tv,Pelis romanticas
-drama-rakuten-tv,Pelis drama
-comedy-rakuten-tv,Pelis comedia
-action-rakuten-tv,Pelis accion
-top-movies-rakuten-tv,Pelis top
-thriller-rakuten-tv,Thrillers Rakuten Tv
-travelxp-es,Travel xp
-5-minutes-craft-es,5-Minute Crafts
-filmrise-archivos-forenses,Forensic Files
-dark-matter-es-new,Dark Matter
-lifestyle-rakuten-tv,Estilo De Vida
-vevo-latino-es,Vevo Latino
-vevo-pop-es,Vevo Pop
-qwest-tv,Qwest TV
-now-rock,Now 90
-now-70s,Now 70
-now-80s,Now 80
-qello-concerts-by-stingray,Qello
-flamenco-auditorio,Flamenco auditorio
+ES3200001F1,BBC EARTH (Samsungtv)
+ES260000968,Euronews (Samsungtv)
+ES300034BT,Actualidad 360 (Samsungtv)
+ESBD3400001AA,Negocios TV (Samsungtv)
+ES34000039I,CNN Español (Samsungtv)
+ESBC1400001L8,El Confidencial (Samsungtv)
+ESBC3500002PW,Ideas en 5 minutos (Samsungtv)
+ESBC3900002L8,Vivir con gatos (Samsungtv)
+ESBC3900001G6,Vivir con perros (Samsungtv)
+ES33000025N,Crimen and Historia (Samsungtv)
+ESBD800001RJ,Friki (Samsungtv)
+ES2800001G7,Planeta de cine (Samsungtv)
+ESBC1700004PX,Trailers (Samsungtv)
+ESBD2300004Y7,Sol Musica (Samsungtv)
+ESBA3300042Y6,Trace latina (Samsungtv)
+ESBA3300043M0,Trace urban (Samsungtv)
+ESBC2100001IU,Vevo pop (Samsungtv)
+ESBC2100002LV,Vevo latino (Samsungtv)
+ES12000024R,Historia y vida (Samsungtv)
+ES300033TI,Viajes y sabores (Samsungtv)
+spanish-cinema-rakuten-tv,Pelis español (Rakuten)
+romance-rakuten-tv,Pelis romanticas (Rakuten)
+drama-rakuten-tv,Pelis drama (Rakuten)
+comedy-rakuten-tv,Pelis comedia (Rakuten)
+action-rakuten-tv,Pelis accion (Rakuten)
+top-movies-rakuten-tv,Pelis top (Rakuten)
+thriller-rakuten-tv,Pelis Thrillers(Rakuten)
+travelxp-es,Travel xp (Rakuten)
+5-minutes-craft-es,5-Minute Crafts (Rakuten)
+filmrise-archivos-forenses,Forensic Files (Rakuten)
+dark-matter-es-new,Dark Matter (Rakuten)
+lifestyle-rakuten-tv,Estilo De Vida (Rakuten)
+vevo-latino-es,Vevo Latino (Rakuten)
+vevo-pop-es,Vevo Pop (Rakuten)
+qwest-tv,Qwest TV (Rakuten)
+now-rock,Now 90 (Rakuten)
+now-70s,Now 70 (Rakuten)
+now-80s,Now 80 (Rakuten)
+qello-concerts-by-stingray,Qello (Rakuten)
+flamenco-auditorio,Flamenco auditorio (Rakuten)
 cine-friki,Cine friki (Rakuten)
-mytime-movie-network-spanish,My time 
+mytime-movie-network-spanish,My time (Rakuten)
 mytime-movie-network,My Time Network (Runtime)
 runtime-familia-1,Runtime Familia (Runtime)
 filmco,Film and co (Runtime)
@@ -289,3 +283,9 @@ Negocios TV,Negocios TV
 FIFA+,FIFA+
 Libertad Digital TV,Libertad Digital TV
 Levante TV,Levante TV
+Deutsche W,Deutsche W
+GOL PLAY,GOL PLAY
+Negocios TV,Negocios TV
+EWTN,EWTN
+ETV,ETV
+La 7 Murcia,La 7 Murcia
