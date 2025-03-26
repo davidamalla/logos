@@ -166,6 +166,7 @@ ES33000025N,Crimen and Historia
 ESBD800001RJ,Friki
 ES2800001G7,Planeta de cine
 ESBC1700004PX,Trailers
+ESBD2300004Y7,Sol Musica
 thriller-rakuten-tv,Thrillers Rakuten Tv
 travelxp-es,Travel xp
 5-minutes-craft-es,5-Minute Crafts
