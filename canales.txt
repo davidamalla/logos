@@ -187,6 +187,7 @@ dark-matter-es-new,Dark Matter
 lifestyle-rakuten-tv,Estilo De Vida
 vevo-latino-es,Vevo Latino
 vevo-pop-es,Vevo Pop
+cine-friki,Cine friki (Rakuten)
 mytime-movie-network-spanish,My time 
 mytime-movie-network,My Time Network (Runtime)
 runtime-familia-1,Runtime Familia (Runtime)
