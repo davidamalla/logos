@@ -134,6 +134,7 @@ M+ Vamos HD,M+ Vamos
 6245c2a5eec07b0007249fc8,Sensación de vivir
 6076cd1df8576d0007c82193,VH1 Classics
 63c69c87808b740007599fe1,Canal Érase una vez
+67517f923a61d40008c451f0,Historia and vida
 643054b1fc3be59477853717-640205c68ecb41f2d89d5814,The Ed Sullivan Show
 643054b1fc3be59477853717-656fb124cb7e8e6a9bc3f36a,Kidz Bop TV
 643054b1fc3be59477853717-62d7f68fb19cbf65dc7bef7d,Stingray Classica Stream
