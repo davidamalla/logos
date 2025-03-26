@@ -134,6 +134,7 @@ M+ Vamos HD,M+ Vamos
 6245c2a5eec07b0007249fc8,Sensación de vivir
 6076cd1df8576d0007c82193,VH1 Classics
 63c69c87808b740007599fe1,Canal Érase una vez
+64ddcbb14c5ed80008fad416,Crimen and historia (Pluto)
 67517f923a61d40008c451f0,Historia and vida (Pluto)
 67517fae5534bb0008187997,Actualidad 360 (Pluto)
 643054b1fc3be59477853717-640205c68ecb41f2d89d5814,The Ed Sullivan Show (Plex)
