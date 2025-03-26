@@ -155,6 +155,8 @@ ETV,ETV
 La 7 Murcia,La 7 Murcia
 ES3200001F1,BBC EARTH
 ES260000968,Euronews
+ES300034BT,Actualidad 360
+ESBD3400001AA,Negocios TV
 thriller-rakuten-tv,Thrillers Rakuten Tv
 travelxp-es,Travel xp
 5-minutes-craft-es,5-Minute Crafts
