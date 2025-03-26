@@ -188,6 +188,9 @@ lifestyle-rakuten-tv,Estilo De Vida
 vevo-latino-es,Vevo Latino
 vevo-pop-es,Vevo Pop
 qwest-tv,Qwest TV
+now-rock,Now 90
+now-70s,Now 70
+now-80s,Now 80
 qello-concerts-by-stingray,Qello
 flamenco-auditorio,Flamenco auditorio
 cine-friki,Cine friki (Rakuten)
