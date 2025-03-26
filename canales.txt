@@ -290,51 +290,51 @@ Negocios TV,Negocios TV
 EWTN,EWTN
 ETV,ETV
 La 7 Murcia,La 7 Murcia
-MTV 80s.ar,
-ENLACE TBN.ar,
-Canal Luz.ar,
-Aliento Vision.co,
-Tabernaculo Biblico Bautista.sv,
-Bethel.hn,
-CCI Channel.hn,
-CDM - Cadena de Milagros.hn,
-MTV 00S.pe,
-Canal Parlamento.es,
-101tv Antequera.es,
-7TV Andalucía.es,
-9 La Loma TV.es,
-Actualidad 360.es,
-Alcarria TV.es,
-Canal 4 Televisio.es,
-Canal Málaga.es,
-Canal San Roque.es,
-Cine Friki.es,
-Condavision.es,
-Crimen and Historia.es,
-Distrito TV.es,
-Djazz.es,
-El Confidencial.es,
-Estepona TV.es,
-Fibwi TV Autonomica.es
-FilmandCo.es,
-Flamenco Auditorio.es,
-Historia y Vida.es,
-Movie Music.es,
-NOW 70s.es,
-NOW 80s.es,
-NOW Rock.es,
-Planeta de Cine.es,
-Qello Concerts.es,
-Runtime Familia.es,
-Sin Filtros.es,
-Teleonuba.es,
-Trailers.es,
-Tuya TV.es,
-TV Melilla.es,
-TVM Cordoba.es,
-Viajes y Sabores.es,
-Vinx TV.es,
-ZUT TV.es,
-KSCEDT2.us,
-Club MTV.uy,
-MTV Hits.uy,
+MTV 80s.ar,MTV 80s.ar
+ENLACE TBN.ar,ENLACE TBN.ar
+Canal Luz.ar,Canal Luz.ar
+Aliento Vision.co,Aliento Vision.co
+Tabernaculo Biblico Bautista.sv,Tabernaculo Biblico Bautista.sv
+Bethel.hn,Bethel.hn
+CCI Channel.hn,CCI Channel.hn
+CDM - Cadena de Milagros.hn,CDM - Cadena de Milagros.hn
+MTV 00S.pe,MTV 00S.pe
+Canal Parlamento.es,Canal Parlamento.es
+101tv Antequera.es,101tv Antequera.es
+7TV Andalucía.es,7TV Andalucía.es
+9 La Loma TV.es,9 La Loma TV.es
+Actualidad 360.es,Actualidad 360.es
+Alcarria TV.es,Alcarria TV.es
+Canal 4 Televisio.es,Canal 4 Televisio.es
+Canal Málaga.es,Canal Málaga.es
+Canal San Roque.es,Canal San Roque.es
+Cine Friki.es,Cine Friki.es
+Condavision.es,Condavision.es
+Crimen and Historia.es,Crimen and Historia.es
+Distrito TV.es,Distrito TV.es
+Djazz.es,Djazz.es
+El Confidencial.es,El Confidencial.es
+Estepona TV.es,Estepona TV.es
+Fibwi TV Autonomica.es,Fibwi TV Autonomica.es
+FilmandCo.es,FilmandCo.es
+Flamenco Auditorio.es,Flamenco Auditorio.es
+Historia y Vida.es,Historia y Vida.es
+Movie Music.es,Movie Music.es
+NOW 70s.es,NOW 70s.es
+NOW 80s.es,NOW 80s.es
+NOW Rock.es,NOW Rock.es
+Planeta de Cine.es,Planeta de Cine.es
+Qello Concerts.es,Qello Concerts.es
+Runtime Familia.es,Runtime Familia.es
+Sin Filtros.es,Sin Filtros.es
+Teleonuba.es,Teleonuba.es
+Trailers.es,Trailers.es
+Tuya TV.es,Tuya TV.es
+TV Melilla.es,TV Melilla.es
+TVM Cordoba.es,TVM Cordoba.es
+Viajes y Sabores.es,Viajes y Sabores.es
+Vinx TV.es,Vinx TV.es
+ZUT TV.es,ZUT TV.es
+KSCEDT2.us,KSCEDT2.us
+Club MTV.uy,Club MTV.uy
+MTV Hits.uy,MTV Hits.uy
