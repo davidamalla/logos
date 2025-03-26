@@ -173,6 +173,7 @@ ESBC2100001IU,Vevo pop
 ESBC2100002LV,Vevo latino
 ES12000024R,Historia y vida
 ES300033TI,Viajes y sabores
+drama-rakuten-tv,Pelis drama
 comedy-rakuten-tv,Pelis comedia
 action-rakuten-tv,Pelis accion
 top-movies-rakuten-tv,Pelis top
