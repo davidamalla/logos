@@ -30,7 +30,7 @@ jobs:
       run: |
         sed -i 's/<title/\n<title/g' duMu5WNPC9.xml
         sed -i 's/<sub/\n<sub/g' duMu5WNPC9.xml
-        sed -i 's/<desc/\n<desc/g' albania1.xml
+        sed -i 's/<desc/\n<desc/g' duMu5WNPC9.xml
         sed -i 's/<episode/\n<episode/g' duMu5WNPC9.xml
         sed -i 's/<\/programme>/\n<\/programme>/g' duMu5WNPC9.xml
     - name: Save the formatted file as Esp.xml
