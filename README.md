@@ -11,7 +11,7 @@
 <a href="https://davidmuma.github.io/EPG/">VER PROGRAMACIÓN</a>
 </p>
 <p align="left">
-La guía se actualiza a las siguientes horas 9:00 | 13:00 | 17:00 | 21:00, e incluye siete días con la programación de la mayoría de las plataformas españolas y también la programación de algunos canales como:Movistar,Rakuten,Plex,Runtime,Pluto,Samgung.       
+La guía se actualiza a las siguientes horas 9:00 | 13:00 | 17:00 | 21:00, e incluye siete días con la programación de la mayoría de las plataformas españolas.      
  <a href="https://github.com/davidamalla/logos/blob/main/canales.txt">·</a><a href="https://github.com/davidamalla/logos/blob/main/canales.txt"> (Ver listado de canales) </a><a href="https://github.com/davidamalla/logos/blob/main/canales.txt">·</a>
 </p>
 
