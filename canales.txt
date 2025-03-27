@@ -290,51 +290,51 @@ Negocios TV,Negocios TV
 EWTN,EWTN
 ETV,ETV
 La 7 Murcia,La 7 Murcia
-MTV 80s.ar,MTV 80s.ar
-ENLACE TBN.ar,ENLACE TBN.ar
-Canal Luz.ar,Canal Luz.ar
-Aliento Vision.co,Aliento Vision.co
-Tabernaculo Biblico Bautista.sv,Tabernaculo Biblico Bautista.sv
-Bethel.hn,Bethel.hn
-CCI Channel.hn,CCI Channel.hn
-CDM - Cadena de Milagros.hn,CDM - Cadena de Milagros.hn
-MTV 00S.pe,MTV 00S.pe
-Canal Parlamento.es,Canal Parlamento.es
-101tv Antequera.es,101tv Antequera.es
-7TV Andalucía.es,7TV Andalucía.es
-9 La Loma TV.es,9 La Loma TV.es
-Actualidad 360.es,Actualidad 360.es
-Alcarria TV.es,Alcarria TV.es
-Canal 4 Televisio.es,Canal 4 Televisio.es
-Canal Málaga.es,Canal Málaga.es
-Canal San Roque.es,Canal San Roque.es
-Cine Friki.es,Cine Friki.es
-Condavision.es,Condavision.es
-Crimen and Historia.es,Crimen and Historia.es
-Distrito TV.es,Distrito TV.es
-Djazz.es,Djazz.es
-El Confidencial.es,El Confidencial.es
-Estepona TV.es,Estepona TV.es
-Fibwi TV Autonomica.es,Fibwi TV Autonomica.es
-FilmandCo.es,FilmandCo.es
-Flamenco Auditorio.es,Flamenco Auditorio.es
-Historia y Vida.es,Historia y Vida.es
-Movie Music.es,Movie Music.es
-NOW 70s.es,NOW 70s.es
-NOW 80s.es,NOW 80s.es
-NOW Rock.es,NOW Rock.es
-Planeta de Cine.es,Planeta de Cine.es
-Qello Concerts.es,Qello Concerts.es
-Runtime Familia.es,Runtime Familia.es
-Sin Filtros.es,Sin Filtros.es
-Teleonuba.es,Teleonuba.es
-Trailers.es,Trailers.es
-Tuya TV.es,Tuya TV.es
-TV Melilla.es,TV Melilla.es
-TVM Cordoba.es,TVM Cordoba.es
-Viajes y Sabores.es,Viajes y Sabores.es
-Vinx TV.es,Vinx TV.es
-ZUT TV.es,ZUT TV.es
-KSCEDT2.us,KSCEDT2.us
-Club MTV.uy,Club MTV.uy
-MTV Hits.uy,MTV Hits.uy
+MTV 80s.ar,MTV 80s (Tivify)
+ENLACE TBN.ar,ENLACE TBN (Tivify)
+Canal Luz.ar,Canal Luz (Tivify)
+Aliento Vision.co,Aliento Vision (Tivify)
+Tabernaculo Biblico Bautista.sv,Tabernaculo Biblico Bautista (Tivify)
+Bethel.hn,Bethel (Tivify)
+CCI Channel.hn,CCI Channel (Tivify)
+CDM - Cadena de Milagros.hn,CDM - Cadena de Milagros (Tivify)
+MTV 00S.pe,MTV 00S (Tivify)
+Canal Parlamento.es,Canal Parlamento (Tivify)
+101tv Antequera.es,101tv Antequera (Tivify)
+7TV Andalucía.es,7TV Andalucía (Tivify)
+9 La Loma TV.es,9 La Loma TV (Tivify)
+Actualidad 360.es,Actualidad 360 (Tivify)
+Alcarria TV.es,Alcarria TV (Tivify)
+Canal 4 Televisio.es,Canal 4 Televisio (Tivify)
+Canal Málaga.es,Canal Málaga (Tivify)
+Canal San Roque.es,Canal San Roque (Tivify)
+Cine Friki.es,Cine Friki (Tivify)
+Condavision.es,Condavision (Tivify)
+Crimen and Historia.es,Crimen and Historia (Tivify)
+Distrito TV.es,Distrito TV (Tivify)
+Djazz.es,Djazz (Tivify)
+El Confidencial.es,El Confidencial (Tivify)
+Estepona TV.es,Estepona TV (Tivify)
+Fibwi TV Autonomica.es,Fibwi TV Autonomica (Tivify)
+FilmandCo.es,FilmandCo (Tivify)
+Flamenco Auditorio.es,Flamenco Auditorio (Tivify) 
+Historia y Vida.es,Historia y Vida (Tivify)
+Movie Music.es,Movie Music (Tivify)
+NOW 70s.es,NOW 70s (Tivify)
+NOW 80s.es,NOW 80s (Tivify)
+NOW Rock.es,NOW Rock (Tivify)
+Planeta de Cine.es,Planeta de Cine (Tivify)
+Qello Concerts.es,Qello Concerts (Tivify)
+Runtime Familia.es,Runtime Familia (Tivify)
+Sin Filtros.es,Sin Filtros (Tivify)
+Teleonuba.es,Teleonuba (Tivify)
+Trailers.es,Trailers (Tivify)
+Tuya TV.es,Tuya TV (Tivify)
+TV Melilla.es,TV Melilla (Tivify)
+TVM Cordoba.es,TVM Cordoba (Tivify)
+Viajes y Sabores.es,Viajes y Sabores (Tivify)
+Vinx TV.es,Vinx TV (Tivify)
+ZUT TV.es,ZUT TV (Tivify)
+KSCEDT2.us,Vida Tv (Tivify)
+Club MTV.uy,Club MTV (Tivify)
+MTV Hits.uy,MTV Hits (Tivify)
