@@ -114,8 +114,8 @@ M+ Indie HD,M+ Indie HD
 M+ LaLiga TV HD,M+ LaLiga TV HD
 M+ Liga de Campeones HD,M+ Liga de Campeones HD
 M+ Originales HD,M+ Originales HD
-M+ Los 90,M+ Los 90, 
-M+ Época,M+ Época, 
+M+ Los 90,M+ Los 90 
+M+ Musicales,M+ Musicales
 M+ Vamos HD,M+ Vamos
 5f1ac9a2d3611d0007a844bb,Pluto Cine Romántico
 655b5d865812e80008843bd1,Pluto Comedias Románticas 
