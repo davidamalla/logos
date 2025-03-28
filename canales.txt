@@ -39,7 +39,6 @@ Canal Hollywood HD,Canal Hollywood HD
 Canal Reus TV,Canal Reus TV
 Canal Sur Andalucía,Canal Sur Andalucía
 Canal Sur HD,Canal Sur HD
-Canal Taronja Anoia,Canal Taronja Anoia
 Canal Taronja Central,Canal Taronja Central
 Canal Terrassa,Canal Terrassa
 Canal Terres de l'Ebre,Canal Terres Ebre
