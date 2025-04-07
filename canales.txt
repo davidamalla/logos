@@ -225,7 +225,6 @@ TVG,TVG
 TVG Europa HD,TVG Europa HH
 TVG2,TVG2
 TCM HD,TCM HD
-TCM.+1.es,TCM.+1.es
 TPA Asturias,TPA Asturias
 TRACE Latina,TRACE Latina
 TRACE Urban,TRACE Urban
