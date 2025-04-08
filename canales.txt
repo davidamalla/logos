@@ -148,6 +148,7 @@ M+ Vamos HD,M+ Vamos
 643054b1fc3be59477853717-6490e17c18a55242eea95991,Cine Friki (Plex)
 643054b1fc3be59477853717-66840486cd6f1d3940941151,Runtime Familia (Plex)
 643054b1fc3be59477853717-64487696af92c31f4a190bc4,My Time Network (Plex)
+ES3300001MC,Crimenes reales (Samsungtv)
 ES3200001F1,BBC EARTH (Samsungtv)
 ES260000968,Euronews (Samsungtv)
 ES300034BT,Actualidad 360 (Samsungtv)
