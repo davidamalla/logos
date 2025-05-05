@@ -89,6 +89,7 @@ Eurosport 2,Eurosport 2
 Factoría de Ficción,Factoría de Ficción
 HIT TV,HIT TV
 Historia,Historia
+Historia y Vida,Historia y Vida
 IB3 TV Illes Balears,IB3 TV Illes Balears
 La 1 HD,La 1 HD
 La 2,La 2
