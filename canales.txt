@@ -113,8 +113,6 @@ M+ Indie HD,M+ Indie HD
 M+ LaLiga TV HD,M+ LaLiga TV HD
 M+ Liga de Campeones HD,M+ Liga de Campeones HD
 M+ Originales HD,M+ Originales HD
-M+ Los 90,M+ Los 90 
-M+ Musicales,M+ Musicales
 M+ PopUp,M+ PopUp
 M+ PopUp 2,M+ PopUp 2
 M+ Vamos HD,M+ Vamos
