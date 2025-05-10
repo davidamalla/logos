@@ -323,5 +323,5 @@ ZUT TV.es,ZUT TV (Tivify)
 KSCEDT2.us,Vida Tv (Tivify)
 Club MTV.uy,Club MTV (Tivify)
 MTV Hits.uy,MTV Hits (Tivify)
-Daystar Español HD.es,Daystar
-Daystar.es,Daystar (Tivify)
+DAYSTAR.co,Daystar
+Daystar.ar,Daystar HD
