@@ -284,7 +284,7 @@ FIFA+,FIFA+
 Libertad Digital TV,Libertad Digital TV
 Levante TV,Levante TV
 Deutsche W,Deutsche W
-GOL PLAY,GOL PLAY
+veo7,veo7
 Negocios TV,Negocios TV
 EWTN,EWTN
 ETV,ETV
