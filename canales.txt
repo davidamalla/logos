@@ -329,3 +329,5 @@ Club MTV.uy,Club MTV (Tivify)
 MTV Hits.uy,MTV Hits (Tivify)
 DAYSTAR.co,Daystar
 Daystar.ar,Daystar HD
+33.es,Canal 33
+Canal 33.es,Canal 33 Cat
