@@ -337,3 +337,4 @@ Levante TV.es,Levante TV
 levante tv.es,LEVANTE TV
 Onda Algeciras.es,Onda Algeciras
 Onda Algeciras TV.es,Onda Algeciras TV
+Bon Dia TV.es,Bon Dia
