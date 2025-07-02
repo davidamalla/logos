@@ -339,3 +339,4 @@ Onda Algeciras.es,Onda Algeciras(Tivify)
 Onda Algeciras TV.es,Onda Algeciras TV(Tivify)
 Bon Dia TV.es,Bon Dia(Tivify)
 Esport3 Catalunya,Esport3 Catalunya
+NICKMUSIC.ve,Nick Music
