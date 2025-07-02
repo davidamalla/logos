@@ -338,3 +338,5 @@ levante tv.es,LEVANTE TV(Tivify)
 Onda Algeciras.es,Onda Algeciras(Tivify)
 Onda Algeciras TV.es,Onda Algeciras TV(Tivify)
 Bon Dia TV.es,Bon Dia(Tivify)
+Esport 3,Esport 3
+Esport3 Catalunya,Esport3 Catalunya
