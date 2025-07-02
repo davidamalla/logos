@@ -328,13 +328,13 @@ ZUT TV.es,ZUT TV (Tivify)
 KSCEDT2.us,Vida Tv (Tivify)
 Club MTV.uy,Club MTV (Tivify)
 MTV Hits.uy,MTV Hits (Tivify)
-DAYSTAR.co,Daystar
-Daystar.ar,Daystar HD
-33.es,Canal 33
-Canal 33.es,Canal 33 Cat
-Canal 7 Televalencia.es,7Tv Valencia
-Levante TV.es,Levante TV
-levante tv.es,LEVANTE TV
-Onda Algeciras.es,Onda Algeciras
-Onda Algeciras TV.es,Onda Algeciras TV
-Bon Dia TV.es,Bon Dia
+DAYSTAR.co,Daystar(Tivify)
+Daystar.ar,Daystar HD(Tivify)
+33.es,Canal 33(Tivify)
+Canal 33.es,Canal 33 Cat(Tivify)
+Canal 7 Televalencia.es,7Tv Valencia(Tivify)
+Levante TV.es,Levante TV(Tivify)
+levante tv.es,LEVANTE TV(Tivify)
+Onda Algeciras.es,Onda Algeciras(Tivify)
+Onda Algeciras TV.es,Onda Algeciras TV(Tivify)
+Bon Dia TV.es,Bon Dia(Tivify)
