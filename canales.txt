@@ -342,3 +342,4 @@ Esport3 Catalunya,Esport3 Catalunya
 NICKMUSIC.ve,Nick Music(Tivify)
 MTV 90s.es,Mtv 90(Tivify)
 Atrescine.ar,A3 Cine (Tivify)
+EscapaTV.es,Escapa TV (Tivify)
