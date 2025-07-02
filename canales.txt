@@ -335,3 +335,5 @@ Canal 33.es,Canal 33 Cat
 Canal 7 Televalencia.es,7Tv Valencia
 Levante TV.es,Levante TV
 levante tv.es,LEVANTE TV
+Onda Algeciras.es,Onda Algeciras
+Onda Algeciras TV.es,Onda Algeciras TV
