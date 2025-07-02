@@ -333,3 +333,5 @@ Daystar.ar,Daystar HD
 33.es,Canal 33
 Canal 33.es,Canal 33 Cat
 Canal 7 Televalencia.es,7Tv Valencia
+Levante TV.es,Levante TV
+levante tv.es,LEVANTE TV
