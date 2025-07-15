@@ -344,3 +344,4 @@ MTV 90s.es,Mtv 90(Tivify)
 Atrescine.ar,A3 Cine (Tivify)
 EscapaTV.es,Escapa TV (Tivify)
 VinTV,VinTV
+GOL PLAY,GOL PLAY
