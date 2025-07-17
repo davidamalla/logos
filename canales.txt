@@ -345,3 +345,4 @@ Atrescine.ar,A3 Cine (Tivify)
 EscapaTV.es,Escapa TV (Tivify)
 VinTV,VinTV
 GOL PLAY,GOL PLAY
+Libertad Digital TV.es,Libertad Digital TV (Tivify)
