@@ -350,3 +350,5 @@ Libertad Digital TV.es,Libertad Digital TV.es
 SX3-33.es,Canal 33 (EPG)
 Libertad.Digital.TV.es,Libertad.Digital.TV.es (EPG)
 Acontra+.es,Acontra+.es (EPG)
+tv rioja.es,tv rioja.es (Tivify)
+Navarra TV,Navarra TV
