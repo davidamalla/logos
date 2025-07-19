@@ -354,3 +354,4 @@ Acontra+.es,Acontra+.es (EPG)
 tv rioja.es,tv rioja.es (Tivify)
 Navarra TV,Navarra TV
 7TV.Andalucía.es,7TV.Andalucía.es (EPG)
+Información TV,Información TV
