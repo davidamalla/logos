@@ -348,3 +348,4 @@ GOL PLAY,GOL PLAY
 Libertad Digital TV.es,Libertad Digital TV (Tivify)
 Libertad Digital TV.es,Libertad Digital TV.es
 SX3-33.es,Canal 33 (EPG)
+Libertad.Digital.TV.es,Libertad.Digital.TV.es (EPG)
