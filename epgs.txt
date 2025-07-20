@@ -6,3 +6,4 @@ https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.x
 https://helmerLuzo.github.io/RuntimeTV_HL/epg/RuntimeTV.xml.gz
 https://www.open-epg.com/generate/duMu5WNPC9.xml
 https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz
+https://www.open-epg.com/files/spain6.xml.gz
