@@ -15,8 +15,6 @@ https://www.open-epg.com/files/spain1.xml.gz
 https://www.open-epg.com/files/unitedstates8.xml.gz
 https://www.open-epg.com/files/honduras1.xml.gz
 https://www.open-epg.com/files/elsalvador1.xml.gz
-https://www.open-epg.com/files/colombia1.xml.gz
-https://www.open-epg.com/files/colombia2.xml.gz
 https://www.open-epg.com/files/argentina1.xml.gz
 https://www.open-epg.com/files/argentina3.xml.gz
 https://www.open-epg.com/files/argentina4.xml.gz
