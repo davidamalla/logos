@@ -278,7 +278,7 @@ MTV Classic,MTV Classic
 MTV España,MTV España
 MTV Hits HD,MTV Hits
 MTV Live,MTV Live
-Max Avances,Max Avances
+HBO Max Avances,HBO Max Avances
 Mega,Mega
 Mezzo,Mezzo
 Mezzo Live HD,Mezzo Live HD
