@@ -298,7 +298,7 @@ MTV 80s.ar,MTV 80s (Tivify)
 ENLACE TBN.ar,ENLACE TBN (Tivify)
 Canal Luz.ar,Canal Luz (Tivify)
 CANAL LUZ.ar,Canal Luz HD
-Aliento Vision.co,Aliento Vision (Tivify)
+ALIENTOVISION.ar,Aliento Vision (Tivify)
 Tabernaculo Biblico Bautista.sv,Tabernaculo Biblico Bautista (Tivify)
 Bethel.hn,Bethel (Tivify)
 CCI Channel.hn,CCI Channel (Tivify)
