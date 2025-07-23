@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 23/07/2025 18:28" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 23/07/2025 18:33" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="TVE 24h">
     <display-name>TVE 24h</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/24%20Horas.png" />
@@ -12,12 +12,12 @@
     <display-name>324</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/324.png" />
   </channel>
-  <channel id="Canal 7 Televalencia">
-    <display-name>Canal 7 Televalencia</display-name>
+  <channel id="7Televalencia">
+    <display-name>7Televalencia</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/7teleValencia.png" />
   </channel>
-  <channel id="8 Madrid TV">
-    <display-name>8 Madrid TV</display-name>
+  <channel id="8Madrid TV">
+    <display-name>8Madrid TV</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/8madrid%20TV.png" />
   </channel>
   <channel id="AMC Break">
@@ -8167,7 +8167,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250723000000 +0200" stop="20250723010000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250723000000 +0200" stop="20250723010000 +0200" channel="7Televalencia">
     <title lang="es">Informativo ESAP</title>
     <desc lang="es">Informativos | 2019 | +16
 · Informativo que ofrece noticias de diferentes regiones de toda la Comunidad Valenciana.
@@ -8178,7 +8178,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250723010000 +0200" stop="20250723013000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250723010000 +0200" stop="20250723013000 +0200" channel="7Televalencia">
     <title lang="es">Programación nocturna</title>
     <desc lang="es">Programas eróticos | 2021 | +16
 · Los espectadores de este espacio pueden enviar mensajes de texto, que aparecen sobreimpresionados en vídeos de contenido pornográfico.
@@ -8189,7 +8189,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250723013000 +0200" stop="20250723033000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250723013000 +0200" stop="20250723033000 +0200" channel="7Televalencia">
     <title lang="es">Renegado</title>
     <desc lang="es">Series extranjeras de acción | 1992 | +7
 · Reno Raines es un joven policía que es acusado y condenado injustamente por el asesinato de su mujer. Dispuesto a demostrar su inocencia y desenmascarar al verdadero culpable del crimen, Reno huye de la cárcel. Bajo el nombre de Vince Black y con la colaboración de sus amigos Bobby Sixkiller y Cheyenne Phillips, Reno se ganará la vida como cazador de recompensas mientras busca la forma de limpiar su nombre.Lorenzo Lamas ('Falcon Crest') protagonizó entre 1992 y 1997 esta serie de acción que guarda un gran parecido argumental con la célebre 'El Equipo A'. Esta similitud no es ninguna casualidad, ya que ambas series fueron creadas y producidas por Stephen J. Cannell, que aquí tambien participa como actor, en el papel del villano Donald 'Dutch' Dixon.
@@ -8202,7 +8202,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20250723033000 +0200" stop="20250723063000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250723033000 +0200" stop="20250723063000 +0200" channel="7Televalencia">
     <title lang="es">Programación nocturna</title>
     <desc lang="es">Programas eróticos | 2021 | +16
 · Los espectadores de este espacio pueden enviar mensajes de texto, que aparecen sobreimpresionados en vídeos de contenido pornográfico.
@@ -8213,7 +8213,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250723063000 +0200" stop="20250723070000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250723063000 +0200" stop="20250723070000 +0200" channel="7Televalencia">
     <title lang="es">Canta con Abradelo</title>
     <desc lang="es">Concursos | 2014 | TP
 · Concurso musical en el que diferentes concursantes combaten encima del escenario para convertirse en el mejor cantante de Valencia. En cada programa, un artista valenciano acude para promocionar sus trabajos musicales.
@@ -8224,7 +8224,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250723070000 +0200" stop="20250723075000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250723070000 +0200" stop="20250723075000 +0200" channel="7Televalencia">
     <title lang="es">Documental</title>
     <desc lang="es">Documentales de actualidad
 · Espacio que incluye la emisión de un documental.
@@ -8232,7 +8232,7 @@
     <category lang="es">Documentales de actualidad</category>
     <icon src="https://cdn.sincroguia.tv/uploads/series/xdocumental-4357.jpg.pagespeed.ic.pLj12TQrfd.jpg" />
   </programme>
-  <programme start="20250723075000 +0200" stop="20250723093000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250723075000 +0200" stop="20250723093000 +0200" channel="7Televalencia">
     <title lang="es">El reino de Lili</title>
     <desc lang="es">Series infantiles españolas | 2024 | TP
 · Aprende con estos dibujos animados didácticos junto a los protagonista Lili, el perro Coco, la vaca Paca, el gato Renato, la cerdita Rita y la gallina Fina.
@@ -8243,7 +8243,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250723093000 +0200" stop="20250723100000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250723093000 +0200" stop="20250723100000 +0200" channel="7Televalencia">
     <title lang="es">Mundo Natural</title>
     <desc lang="es">Programas sobre la salud | 2024 | TP
 · Programa con consejos saludables para estar más sanos y vivir mejor, dedicado al cuidado de la salud y el bienestar donde se habla de la sinergia que la alimentación, la suplementación y la actividad física conforman para la consecución de una vida saludable.
@@ -8254,7 +8254,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250723100000 +0200" stop="20250723103000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250723100000 +0200" stop="20250723103000 +0200" channel="7Televalencia">
     <title lang="es">Virtual Trainer</title>
     <desc lang="es">Magazín Deportivo | 2021 | TP
 · Programa de fitness.
@@ -8265,7 +8265,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250723110000 +0200" stop="20250723123000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250723110000 +0200" stop="20250723123000 +0200" channel="7Televalencia">
     <title lang="es">Deportes con Julio Insa</title>
     <desc lang="es">Magazín Deportivo | 2023 | +16
 · Programa con toda la actualidad del deporte valenciano, con especial atención a los clubes que participan en las mayores competiciones estatales y europeas. Además, Julio Insa y su equipo protagonizarán tertulias sobre temas candentes.
@@ -8276,7 +8276,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250723123000 +0200" stop="20250723130000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250723123000 +0200" stop="20250723130000 +0200" channel="7Televalencia">
     <title lang="es">La Cocina de Ventura y Gabi</title>
     <desc lang="es">Programas de cocina | 2025 | TP
 · Descubre una nueva receta de los cocineros calagurritanos.
@@ -8287,7 +8287,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250723130000 +0200" stop="20250723140000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250723130000 +0200" stop="20250723140000 +0200" channel="7Televalencia">
     <title lang="es">Valencia en abierto</title>
     <desc lang="es">Documentales de actualidad | 2021 | +16
 · Programa de actualidad presentado por Sylvia Costa.
@@ -8298,7 +8298,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250723140000 +0200" stop="20250723150000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250723140000 +0200" stop="20250723150000 +0200" channel="7Televalencia">
     <title lang="es">Informativo ESAP</title>
     <desc lang="es">Informativos | 2019 | +16
 · Informativo que ofrece noticias de diferentes regiones de toda la Comunidad Valenciana.
@@ -8309,7 +8309,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250723150000 +0200" stop="20250723154000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250723150000 +0200" stop="20250723154000 +0200" channel="7Televalencia">
     <title lang="es">Pacific Blue</title>
     <desc lang="es">Series
 · Las playas de Santa Mónica están vigiladas por jóvenes policías que patrullan en bicicleta.
@@ -8318,7 +8318,7 @@
     <category lang="es">Series</category>
     <icon src="https://cdn.sincroguia.tv/uploads/series/xpacific-blue-135.jpg.pagespeed.ic.lxg6U0yJPS.jpg" />
   </programme>
-  <programme start="20250723154000 +0200" stop="20250723170000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250723154000 +0200" stop="20250723170000 +0200" channel="7Televalencia">
     <title lang="es">Categoría 7: el fin del mundo T1 E1</title>
     <desc lang="es">Series de acción | 2005 | +16
 · Continuando una serie de huracanes que ha asolado Norteamérica, una nueva ola de catástrofes llega a Europa, destruyendo la ciudad de París. Un ministro evangelista, aprovechando esta racha de desastres naturales, anuncia en su programa de televisión la proximidad del fin del mundo, estableciendo un paralelismo con las plagas bíblicas que sufrió Egipto en el Antiguo Testamento. Sus predicciones se convierten en realidad cuando la ciudad de Washington sufre la culminación de las tormentas al coincidir tres ciclones que acaban con la capital estadounidense.Miniserie de dos capítulos, producida para la cadena norteamericana CBS, que profundiza en la temática apocalíptica de filmes catastrofistas como 'El día de mañana' o 'Deep Impact'. De hecho, se trata de la secuela de 'Huracán categoría 6', un telefilme dirigido por el mismo realizador y con el mismo protagonista que la presente, Randy Quaid ('Brokeback Mountain'). Junto a éste aparecen Shannen Doherty ('Sensación de vivir') y Gina Gershon ('Showgirls').
@@ -8333,7 +8333,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250723170000 +0200" stop="20250723174500 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250723170000 +0200" stop="20250723174500 +0200" channel="7Televalencia">
     <title lang="es">El reino de Lili</title>
     <desc lang="es">Series infantiles españolas | 2024 | TP
 · Aprende con estos dibujos animados didácticos junto a los protagonista Lili, el perro Coco, la vaca Paca, el gato Renato, la cerdita Rita y la gallina Fina.
@@ -8344,7 +8344,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250723174500 +0200" stop="20250723181500 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250723174500 +0200" stop="20250723181500 +0200" channel="7Televalencia">
     <title lang="es">Mundo Natural</title>
     <desc lang="es">Programas | 2022 | TP
 · Programa con consejos saludables para estar más sanos y vivir mejor, dedicado al cuidado de la salud y el bienestar donde se habla de la sinergia que la alimentación, la suplementación y la actividad física conforman para la consecución de una vida saludable.
@@ -8355,7 +8355,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250723181500 +0200" stop="20250723190000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250723181500 +0200" stop="20250723190000 +0200" channel="7Televalencia">
     <title lang="es">Pacific Blue</title>
     <desc lang="es">Series
 · Las playas de Santa Mónica están vigiladas por jóvenes policías que patrullan en bicicleta.
@@ -8364,7 +8364,7 @@
     <category lang="es">Series</category>
     <icon src="https://cdn.sincroguia.tv/uploads/series/xpacific-blue-135.jpg.pagespeed.ic.lxg6U0yJPS.jpg" />
   </programme>
-  <programme start="20250723190000 +0200" stop="20250723200000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250723190000 +0200" stop="20250723200000 +0200" channel="7Televalencia">
     <title lang="es">Valencia en abierto</title>
     <desc lang="es">Documentales de actualidad | 2021 | +16
 · Programa de actualidad presentado por Sylvia Costa.
@@ -8375,7 +8375,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250723200000 +0200" stop="20250723210000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250723200000 +0200" stop="20250723210000 +0200" channel="7Televalencia">
     <title lang="es">Informativo ESAP</title>
     <desc lang="es">Informativos | 2019 | +16
 · Informativo que ofrece noticias de diferentes regiones de toda la Comunidad Valenciana.
@@ -8386,7 +8386,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250723210000 +0200" stop="20250723213000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250723210000 +0200" stop="20250723213000 +0200" channel="7Televalencia">
     <title lang="es">Agora, el nostre alcalde</title>
     <desc lang="es">Otros programas de entretenimiento | 2024 | TP
 · Sin detalles...
@@ -8397,7 +8397,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250723213000 +0200" stop="20250723220000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250723213000 +0200" stop="20250723220000 +0200" channel="7Televalencia">
     <title lang="es">Preselecciones 2026</title>
     <desc lang="es">Programas de cultura | 2025 | TP
 · Un acto donde las distintas comisiones falleras se reúnen para apoyar a su candidata a Fallera Mayor y Fallera Mayor Infantil de la ciudad.
@@ -8408,7 +8408,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250723220000 +0200" stop="20250723233000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250723220000 +0200" stop="20250723233000 +0200" channel="7Televalencia">
     <title lang="es">Deportes con Julio Insa</title>
     <desc lang="es">Magazín Deportivo | 2023 | +16
 · Programa con toda la actualidad del deporte valenciano, con especial atención a los clubes que participan en las mayores competiciones estatales y europeas. Además, Julio Insa y su equipo protagonizarán tertulias sobre temas candentes.
@@ -8419,7 +8419,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250723233000 +0200" stop="20250724000000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250723233000 +0200" stop="20250724000000 +0200" channel="7Televalencia">
     <title lang="es">Preselecciones 2026</title>
     <desc lang="es">Programas de cultura | 2025 | TP
 · Un acto donde las distintas comisiones falleras se reúnen para apoyar a su candidata a Fallera Mayor y Fallera Mayor Infantil de la ciudad.
@@ -8430,7 +8430,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250724000000 +0200" stop="20250724010000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250724000000 +0200" stop="20250724010000 +0200" channel="7Televalencia">
     <title lang="es">Informativo ESAP</title>
     <desc lang="es">Informativos | 2019 | +16
 · Informativo que ofrece noticias de diferentes regiones de toda la Comunidad Valenciana.
@@ -8441,7 +8441,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250724010000 +0200" stop="20250724063000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250724010000 +0200" stop="20250724063000 +0200" channel="7Televalencia">
     <title lang="es">Programación nocturna</title>
     <desc lang="es">Programas eróticos | 2021 | +16
 · Los espectadores de este espacio pueden enviar mensajes de texto, que aparecen sobreimpresionados en vídeos de contenido pornográfico.
@@ -8452,7 +8452,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250724063000 +0200" stop="20250724070000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250724063000 +0200" stop="20250724070000 +0200" channel="7Televalencia">
     <title lang="es">Canta con Abradelo</title>
     <desc lang="es">Concursos | 2014 | TP
 · Concurso musical en el que diferentes concursantes combaten encima del escenario para convertirse en el mejor cantante de Valencia. En cada programa, un artista valenciano acude para promocionar sus trabajos musicales.
@@ -8463,7 +8463,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250724070000 +0200" stop="20250724075000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250724070000 +0200" stop="20250724075000 +0200" channel="7Televalencia">
     <title lang="es">Documental</title>
     <desc lang="es">Documentales de actualidad
 · Espacio que incluye la emisión de un documental.
@@ -8471,7 +8471,7 @@
     <category lang="es">Documentales de actualidad</category>
     <icon src="https://cdn.sincroguia.tv/uploads/series/xdocumental-4357.jpg.pagespeed.ic.pLj12TQrfd.jpg" />
   </programme>
-  <programme start="20250724075000 +0200" stop="20250724093000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250724075000 +0200" stop="20250724093000 +0200" channel="7Televalencia">
     <title lang="es">El reino de Lili</title>
     <desc lang="es">Series infantiles españolas | 2024 | TP
 · Aprende con estos dibujos animados didácticos junto a los protagonista Lili, el perro Coco, la vaca Paca, el gato Renato, la cerdita Rita y la gallina Fina.
@@ -8482,7 +8482,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250724093000 +0200" stop="20250724100000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250724093000 +0200" stop="20250724100000 +0200" channel="7Televalencia">
     <title lang="es">Mundo Natural</title>
     <desc lang="es">Programas sobre la salud | 2024 | TP
 · Programa con consejos saludables para estar más sanos y vivir mejor, dedicado al cuidado de la salud y el bienestar donde se habla de la sinergia que la alimentación, la suplementación y la actividad física conforman para la consecución de una vida saludable.
@@ -8493,7 +8493,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250724100000 +0200" stop="20250724103000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250724100000 +0200" stop="20250724103000 +0200" channel="7Televalencia">
     <title lang="es">Virtual Trainer</title>
     <desc lang="es">Magazín Deportivo | 2021 | TP
 · Programa de fitness.
@@ -8504,7 +8504,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250724103000 +0200" stop="20250724120000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250724103000 +0200" stop="20250724120000 +0200" channel="7Televalencia">
     <title lang="es">Pilota valenciana</title>
     <desc lang="es">Programas | 2023 | TP
 · Espacio dedicado a los aficionados a la pelota valenciana, el deporte tradicional autóctono. El programa ofrece retransmisiones de partidas, clasificaciones o información de los diferentes campeonatos, en todas las modalidades y categorías existentes.
@@ -8515,7 +8515,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250724120000 +0200" stop="20250724130000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250724120000 +0200" stop="20250724130000 +0200" channel="7Televalencia">
     <title lang="es">Valencia en abierto</title>
     <desc lang="es">Documentales de actualidad | 2021 | +16
 · Programa de actualidad presentado por Sylvia Costa.
@@ -8526,7 +8526,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250724130000 +0200" stop="20250724133000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250724130000 +0200" stop="20250724133000 +0200" channel="7Televalencia">
     <title lang="es">De Categoría</title>
     <desc lang="es">Programas de cocina | 2021 | TP
 · Un programa de cocina donde prepararemos platos caseros, fáciles, divertidos y deliciosos. El conocido valenciano Javier Segarra será nuestro 'cocinillas' particular.
@@ -8538,7 +8538,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250724133000 +0200" stop="20250724140000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250724133000 +0200" stop="20250724140000 +0200" channel="7Televalencia">
     <title lang="es">Canta con Abradelo</title>
     <desc lang="es">Concursos | 2014 | TP
 · Concurso musical en el que diferentes concursantes combaten encima del escenario para convertirse en el mejor cantante de Valencia. En cada programa, un artista valenciano acude para promocionar sus trabajos musicales.
@@ -8549,7 +8549,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250724140000 +0200" stop="20250724143000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250724140000 +0200" stop="20250724143000 +0200" channel="7Televalencia">
     <title lang="es">Preselecciones 2024</title>
     <desc lang="es">Gala | 2024 | TP
 · Preselecciones 2024.
@@ -8560,7 +8560,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250724143000 +0200" stop="20250724155500 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250724143000 +0200" stop="20250724155500 +0200" channel="7Televalencia">
     <title lang="es">Renegado</title>
     <desc lang="es">Series extranjeras de acción | 1992 | +7
 · Reno Raines es un joven policía que es acusado y condenado injustamente por el asesinato de su mujer. Dispuesto a demostrar su inocencia y desenmascarar al verdadero culpable del crimen, Reno huye de la cárcel. Bajo el nombre de Vince Black y con la colaboración de sus amigos Bobby Sixkiller y Cheyenne Phillips, Reno se ganará la vida como cazador de recompensas mientras busca la forma de limpiar su nombre.Lorenzo Lamas ('Falcon Crest') protagonizó entre 1992 y 1997 esta serie de acción que guarda un gran parecido argumental con la célebre 'El Equipo A'. Esta similitud no es ninguna casualidad, ya que ambas series fueron creadas y producidas por Stephen J. Cannell, que aquí tambien participa como actor, en el papel del villano Donald 'Dutch' Dixon.
@@ -8573,7 +8573,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20250724155500 +0200" stop="20250724173000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250724155500 +0200" stop="20250724173000 +0200" channel="7Televalencia">
     <title lang="es">Cine</title>
     <desc lang="es">Informativos de cine
 · Emisión de una película.
@@ -8581,7 +8581,7 @@
     <category lang="es">Informativos de cine</category>
     <icon src="https://cdn.sincroguia.tv/uploads/series/xcine-3156.jpg.pagespeed.ic.R3w7T8IaUo.jpg" />
   </programme>
-  <programme start="20250724173000 +0200" stop="20250724180000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250724173000 +0200" stop="20250724180000 +0200" channel="7Televalencia">
     <title lang="es">Mundo Natural</title>
     <desc lang="es">Programas sobre la salud | 2024 | TP
 · Programa con consejos saludables para estar más sanos y vivir mejor, dedicado al cuidado de la salud y el bienestar donde se habla de la sinergia que la alimentación, la suplementación y la actividad física conforman para la consecución de una vida saludable.
@@ -8592,7 +8592,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250724180000 +0200" stop="20250724183000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250724180000 +0200" stop="20250724183000 +0200" channel="7Televalencia">
     <title lang="es">El reino de Lili</title>
     <desc lang="es">Series infantiles españolas | 2024 | TP
 · Aprende con estos dibujos animados didácticos junto a los protagonista Lili, el perro Coco, la vaca Paca, el gato Renato, la cerdita Rita y la gallina Fina.
@@ -8603,7 +8603,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250724183000 +0200" stop="20250724195000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250724183000 +0200" stop="20250724195000 +0200" channel="7Televalencia">
     <title lang="es">Renegado</title>
     <desc lang="es">Series extranjeras de acción | 1992 | +7
 · Reno Raines es un joven policía que es acusado y condenado injustamente por el asesinato de su mujer. Dispuesto a demostrar su inocencia y desenmascarar al verdadero culpable del crimen, Reno huye de la cárcel. Bajo el nombre de Vince Black y con la colaboración de sus amigos Bobby Sixkiller y Cheyenne Phillips, Reno se ganará la vida como cazador de recompensas mientras busca la forma de limpiar su nombre.Lorenzo Lamas ('Falcon Crest') protagonizó entre 1992 y 1997 esta serie de acción que guarda un gran parecido argumental con la célebre 'El Equipo A'. Esta similitud no es ninguna casualidad, ya que ambas series fueron creadas y producidas por Stephen J. Cannell, que aquí tambien participa como actor, en el papel del villano Donald 'Dutch' Dixon.
@@ -8616,7 +8616,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20250724195000 +0200" stop="20250724203000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250724195000 +0200" stop="20250724203000 +0200" channel="7Televalencia">
     <title lang="es">Canta con Abradelo</title>
     <desc lang="es">Concursos | 2014 | TP
 · Concurso musical en el que diferentes concursantes combaten encima del escenario para convertirse en el mejor cantante de Valencia. En cada programa, un artista valenciano acude para promocionar sus trabajos musicales.
@@ -8627,7 +8627,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250724203000 +0200" stop="20250724210000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250724203000 +0200" stop="20250724210000 +0200" channel="7Televalencia">
     <title lang="es">Vive las fiestas</title>
     <desc lang="es">Programas de cultura | 2023 | TP
 · Programa de cultura fallera y festiva de los pueblos de la Comunidad Valenciana presentado por José González.
@@ -8639,7 +8639,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250724210000 +0200" stop="20250724220000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250724210000 +0200" stop="20250724220000 +0200" channel="7Televalencia">
     <title lang="es">El show de Natalia</title>
     <desc lang="es">Programas magazín | 2023 | +16
 · La presentadora Natalia Martínez ofrece en este espacio diferentes propuestas para los ciudadanos latinos residentes en la Comunidad Valenciana. Desfiles, gastronomía, actuaciones, concursos de belleza, discotecas y música son algunas de estas actividades.
@@ -8651,7 +8651,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250724220000 +0200" stop="20250724232000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250724220000 +0200" stop="20250724232000 +0200" channel="7Televalencia">
     <title lang="es">Cine</title>
     <desc lang="es">Informativos de cine
 · Emisión de una película.
@@ -8659,7 +8659,7 @@
     <category lang="es">Informativos de cine</category>
     <icon src="https://cdn.sincroguia.tv/uploads/series/xcine-3156.jpg.pagespeed.ic.R3w7T8IaUo.jpg" />
   </programme>
-  <programme start="20250724232000 +0200" stop="20250725005500 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250724232000 +0200" stop="20250725005500 +0200" channel="7Televalencia">
     <title lang="es">Cine</title>
     <desc lang="es">Informativos de cine
 · Emisión de una película.
@@ -8667,7 +8667,7 @@
     <category lang="es">Informativos de cine</category>
     <icon src="https://cdn.sincroguia.tv/uploads/series/xcine-3156.jpg.pagespeed.ic.R3w7T8IaUo.jpg" />
   </programme>
-  <programme start="20250725005500 +0200" stop="20250725030000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250725005500 +0200" stop="20250725030000 +0200" channel="7Televalencia">
     <title lang="es">Renegado</title>
     <desc lang="es">Series extranjeras de acción | 1992 | +7
 · Reno Raines es un joven policía que es acusado y condenado injustamente por el asesinato de su mujer. Dispuesto a demostrar su inocencia y desenmascarar al verdadero culpable del crimen, Reno huye de la cárcel. Bajo el nombre de Vince Black y con la colaboración de sus amigos Bobby Sixkiller y Cheyenne Phillips, Reno se ganará la vida como cazador de recompensas mientras busca la forma de limpiar su nombre.Lorenzo Lamas ('Falcon Crest') protagonizó entre 1992 y 1997 esta serie de acción que guarda un gran parecido argumental con la célebre 'El Equipo A'. Esta similitud no es ninguna casualidad, ya que ambas series fueron creadas y producidas por Stephen J. Cannell, que aquí tambien participa como actor, en el papel del villano Donald 'Dutch' Dixon.
@@ -8680,7 +8680,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20250725030000 +0200" stop="20250725063000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250725030000 +0200" stop="20250725063000 +0200" channel="7Televalencia">
     <title lang="es">Programación nocturna</title>
     <desc lang="es">Programas eróticos | 2021 | +16
 · Los espectadores de este espacio pueden enviar mensajes de texto, que aparecen sobreimpresionados en vídeos de contenido pornográfico.
@@ -8691,7 +8691,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250725063000 +0200" stop="20250725070000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250725063000 +0200" stop="20250725070000 +0200" channel="7Televalencia">
     <title lang="es">Canta con Abradelo</title>
     <desc lang="es">Concursos | 2014 | TP
 · Concurso musical en el que diferentes concursantes combaten encima del escenario para convertirse en el mejor cantante de Valencia. En cada programa, un artista valenciano acude para promocionar sus trabajos musicales.
@@ -8702,7 +8702,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250725070000 +0200" stop="20250725075000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250725070000 +0200" stop="20250725075000 +0200" channel="7Televalencia">
     <title lang="es">Documental</title>
     <desc lang="es">Documentales de actualidad
 · Espacio que incluye la emisión de un documental.
@@ -8710,7 +8710,7 @@
     <category lang="es">Documentales de actualidad</category>
     <icon src="https://cdn.sincroguia.tv/uploads/series/xdocumental-4357.jpg.pagespeed.ic.pLj12TQrfd.jpg" />
   </programme>
-  <programme start="20250725075000 +0200" stop="20250725093000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250725075000 +0200" stop="20250725093000 +0200" channel="7Televalencia">
     <title lang="es">El reino de Lili</title>
     <desc lang="es">Series infantiles españolas | 2024 | TP
 · Aprende con estos dibujos animados didácticos junto a los protagonista Lili, el perro Coco, la vaca Paca, el gato Renato, la cerdita Rita y la gallina Fina.
@@ -8721,7 +8721,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250725093000 +0200" stop="20250725100000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250725093000 +0200" stop="20250725100000 +0200" channel="7Televalencia">
     <title lang="es">Mundo Natural</title>
     <desc lang="es">Programas sobre la salud | 2024 | TP
 · Programa con consejos saludables para estar más sanos y vivir mejor, dedicado al cuidado de la salud y el bienestar donde se habla de la sinergia que la alimentación, la suplementación y la actividad física conforman para la consecución de una vida saludable.
@@ -8732,7 +8732,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250725100000 +0200" stop="20250725103000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250725100000 +0200" stop="20250725103000 +0200" channel="7Televalencia">
     <title lang="es">Virtual Trainer</title>
     <desc lang="es">Magazín Deportivo | 2021 | TP
 · Programa de fitness.
@@ -8743,7 +8743,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250725103000 +0200" stop="20250725113000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250725103000 +0200" stop="20250725113000 +0200" channel="7Televalencia">
     <title lang="es">El mentalista Keiz</title>
     <desc lang="es">Otros programas de entretenimiento | 2022 | TP
 · Programa que trata sobre Keiz, un hombre capaz de leer los pensamientos.
@@ -8754,7 +8754,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250725113000 +0200" stop="20250725123000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250725113000 +0200" stop="20250725123000 +0200" channel="7Televalencia">
     <title lang="es">Valencia en abierto</title>
     <desc lang="es">Documentales de actualidad | 2021 | +16
 · Programa de actualidad presentado por Sylvia Costa.
@@ -8765,7 +8765,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250725123000 +0200" stop="20250725130000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250725123000 +0200" stop="20250725130000 +0200" channel="7Televalencia">
     <title lang="es">Vive las fiestas</title>
     <desc lang="es">Programas de cultura | 2023 | TP
 · Programa de cultura fallera y festiva de los pueblos de la Comunidad Valenciana presentado por José González.
@@ -8777,7 +8777,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250725130000 +0200" stop="20250725133000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250725130000 +0200" stop="20250725133000 +0200" channel="7Televalencia">
     <title lang="es">De Categoría</title>
     <desc lang="es">Programas de cocina | 2021 | TP
 · Un programa de cocina donde prepararemos platos caseros, fáciles, divertidos y deliciosos. El conocido valenciano Javier Segarra será nuestro 'cocinillas' particular.
@@ -8789,7 +8789,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250725133000 +0200" stop="20250725140000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250725133000 +0200" stop="20250725140000 +0200" channel="7Televalencia">
     <title lang="es">Canta con Abradelo</title>
     <desc lang="es">Concursos | 2014 | TP
 · Concurso musical en el que diferentes concursantes combaten encima del escenario para convertirse en el mejor cantante de Valencia. En cada programa, un artista valenciano acude para promocionar sus trabajos musicales.
@@ -8800,7 +8800,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250725140000 +0200" stop="20250725143000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250725140000 +0200" stop="20250725143000 +0200" channel="7Televalencia">
     <title lang="es">Preselecciones 2024</title>
     <desc lang="es">Gala | 2024 | TP
 · Preselecciones 2024.
@@ -8811,7 +8811,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250725143000 +0200" stop="20250725155000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250725143000 +0200" stop="20250725155000 +0200" channel="7Televalencia">
     <title lang="es">Renegado</title>
     <desc lang="es">Series extranjeras de acción | 1992 | +7
 · Reno Raines es un joven policía que es acusado y condenado injustamente por el asesinato de su mujer. Dispuesto a demostrar su inocencia y desenmascarar al verdadero culpable del crimen, Reno huye de la cárcel. Bajo el nombre de Vince Black y con la colaboración de sus amigos Bobby Sixkiller y Cheyenne Phillips, Reno se ganará la vida como cazador de recompensas mientras busca la forma de limpiar su nombre.Lorenzo Lamas ('Falcon Crest') protagonizó entre 1992 y 1997 esta serie de acción que guarda un gran parecido argumental con la célebre 'El Equipo A'. Esta similitud no es ninguna casualidad, ya que ambas series fueron creadas y producidas por Stephen J. Cannell, que aquí tambien participa como actor, en el papel del villano Donald 'Dutch' Dixon.
@@ -8824,7 +8824,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20250725155000 +0200" stop="20250725173000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250725155000 +0200" stop="20250725173000 +0200" channel="7Televalencia">
     <title lang="es">Cine</title>
     <desc lang="es">Informativos de cine
 · Emisión de una película.
@@ -8832,7 +8832,7 @@
     <category lang="es">Informativos de cine</category>
     <icon src="https://cdn.sincroguia.tv/uploads/series/xcine-3156.jpg.pagespeed.ic.R3w7T8IaUo.jpg" />
   </programme>
-  <programme start="20250725173000 +0200" stop="20250725180000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250725173000 +0200" stop="20250725180000 +0200" channel="7Televalencia">
     <title lang="es">Mundo Natural</title>
     <desc lang="es">Programas sobre la salud | 2024 | TP
 · Programa con consejos saludables para estar más sanos y vivir mejor, dedicado al cuidado de la salud y el bienestar donde se habla de la sinergia que la alimentación, la suplementación y la actividad física conforman para la consecución de una vida saludable.
@@ -8843,7 +8843,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250725180000 +0200" stop="20250725183000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250725180000 +0200" stop="20250725183000 +0200" channel="7Televalencia">
     <title lang="es">El reino de Lili</title>
     <desc lang="es">Series infantiles españolas | 2024 | TP
 · Aprende con estos dibujos animados didácticos junto a los protagonista Lili, el perro Coco, la vaca Paca, el gato Renato, la cerdita Rita y la gallina Fina.
@@ -8854,7 +8854,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250725183000 +0200" stop="20250725193000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250725183000 +0200" stop="20250725193000 +0200" channel="7Televalencia">
     <title lang="es">Sempre al Tall</title>
     <desc lang="es">Documentales biográficos | 2022 | +16
 · Documental que acompaña al grupo de música valenciano, Al Tall, en su despedida de los escenarios. Nos muestra los últimos ensayos, encuentros, conciertos y homenajes y presenta de primera mano las reacciones que produjo el anuncio de su retirada.
@@ -8866,7 +8866,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250725193000 +0200" stop="20250725200000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250725193000 +0200" stop="20250725200000 +0200" channel="7Televalencia">
     <title lang="es">Vive las fiestas</title>
     <desc lang="es">Programas de cultura | 2023 | TP
 · Programa de cultura fallera y festiva de los pueblos de la Comunidad Valenciana presentado por José González.
@@ -8878,7 +8878,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250725200000 +0200" stop="20250725210000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250725200000 +0200" stop="20250725210000 +0200" channel="7Televalencia">
     <title lang="es">El show de Natalia</title>
     <desc lang="es">Programas magazín | 2023 | +16
 · La presentadora Natalia Martínez ofrece en este espacio diferentes propuestas para los ciudadanos latinos residentes en la Comunidad Valenciana. Desfiles, gastronomía, actuaciones, concursos de belleza, discotecas y música son algunas de estas actividades.
@@ -8890,7 +8890,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250725210000 +0200" stop="20250725222000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250725210000 +0200" stop="20250725222000 +0200" channel="7Televalencia">
     <title lang="es">Cine</title>
     <desc lang="es">Informativos de cine
 · Emisión de una película.
@@ -8898,7 +8898,7 @@
     <category lang="es">Informativos de cine</category>
     <icon src="https://cdn.sincroguia.tv/uploads/series/xcine-3156.jpg.pagespeed.ic.R3w7T8IaUo.jpg" />
   </programme>
-  <programme start="20250725222000 +0200" stop="20250725235000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250725222000 +0200" stop="20250725235000 +0200" channel="7Televalencia">
     <title lang="es">Cine</title>
     <desc lang="es">Informativos de cine
 · Emisión de una película.
@@ -8906,7 +8906,7 @@
     <category lang="es">Informativos de cine</category>
     <icon src="https://cdn.sincroguia.tv/uploads/series/xcine-3156.jpg.pagespeed.ic.R3w7T8IaUo.jpg" />
   </programme>
-  <programme start="20250725235000 +0200" stop="20250726011500 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250725235000 +0200" stop="20250726011500 +0200" channel="7Televalencia">
     <title lang="es">Cine</title>
     <desc lang="es">Informativos de cine
 · Emisión de una película.
@@ -8914,7 +8914,7 @@
     <category lang="es">Informativos de cine</category>
     <icon src="https://cdn.sincroguia.tv/uploads/series/xcine-3156.jpg.pagespeed.ic.R3w7T8IaUo.jpg" />
   </programme>
-  <programme start="20250726011500 +0200" stop="20250726063000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250726011500 +0200" stop="20250726063000 +0200" channel="7Televalencia">
     <title lang="es">Programación nocturna</title>
     <desc lang="es">Programas eróticos | 2021 | +16
 · Los espectadores de este espacio pueden enviar mensajes de texto, que aparecen sobreimpresionados en vídeos de contenido pornográfico.
@@ -8925,7 +8925,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250726063000 +0200" stop="20250726073000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250726063000 +0200" stop="20250726073000 +0200" channel="7Televalencia">
     <title lang="es">Canta con Abradelo</title>
     <desc lang="es">Concursos | 2014 | TP
 · Concurso musical en el que diferentes concursantes combaten encima del escenario para convertirse en el mejor cantante de Valencia. En cada programa, un artista valenciano acude para promocionar sus trabajos musicales.
@@ -8936,7 +8936,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250726073000 +0200" stop="20250726083000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250726073000 +0200" stop="20250726083000 +0200" channel="7Televalencia">
     <title lang="es">El reino de Lili</title>
     <desc lang="es">Series infantiles españolas | 2024 | TP
 · Aprende con estos dibujos animados didácticos junto a los protagonista Lili, el perro Coco, la vaca Paca, el gato Renato, la cerdita Rita y la gallina Fina.
@@ -8947,7 +8947,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250726083000 +0200" stop="20250726093000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250726083000 +0200" stop="20250726093000 +0200" channel="7Televalencia">
     <title lang="es">Slide In The Clip</title>
     <desc lang="es">Programas | 2023 | TP
 · Programa en el que recopilamos diferentes vídeos de varios youtubers sobre aventuras de surf, skate y snowboard.
@@ -8958,7 +8958,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250726093000 +0200" stop="20250726100000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250726093000 +0200" stop="20250726100000 +0200" channel="7Televalencia">
     <title lang="es">Mundo Natural</title>
     <desc lang="es">Programas sobre la salud | 2024 | TP
 · Programa con consejos saludables para estar más sanos y vivir mejor, dedicado al cuidado de la salud y el bienestar donde se habla de la sinergia que la alimentación, la suplementación y la actividad física conforman para la consecución de una vida saludable.
@@ -8969,7 +8969,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250726100000 +0200" stop="20250726103000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250726100000 +0200" stop="20250726103000 +0200" channel="7Televalencia">
     <title lang="es">Virtual Trainer</title>
     <desc lang="es">Magazín Deportivo | 2021 | TP
 · Programa de fitness.
@@ -8980,7 +8980,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250726103000 +0200" stop="20250726110000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250726103000 +0200" stop="20250726110000 +0200" channel="7Televalencia">
     <title lang="es">El club del clásico</title>
     <desc lang="es">Documentales de viajes | 2025 | TP
 · La vista de pájaro es la mejor forma de conocer cualquier territorio. Una perspectiva distinta a la habitual, que nos permite descubrir desde el aire lugares que ya conocíamos. Volaremos por encima de ciudades, montes y costas.
@@ -8991,7 +8991,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250726110000 +0200" stop="20250726120000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250726110000 +0200" stop="20250726120000 +0200" channel="7Televalencia">
     <title lang="es">Dji, lo mejor de la semana</title>
     <desc lang="es">Programas de variedades | 2022 | +16
 · Resumen de lo mejor de la semana emitido en el programa 'Deportes con Julio Insa'. Todos los deportes de mayor interés y los programas y eventos con más repercusión del Canal 7 Televalencia en este espacio reservado a lo mejor del mundo del deporte.
@@ -9002,7 +9002,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250726120000 +0200" stop="20250726123000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250726120000 +0200" stop="20250726123000 +0200" channel="7Televalencia">
     <title lang="es">Vive las fallas</title>
     <desc lang="es">Programas de cultura | 2024 | TP
 · Programa presentado por José González que ofrece información sobre el mundo de las fallas. El espacio incluye entrevistas a los personajes más relevantes de la fiesta valenciana acompañado por tertulias y reportajes sobre los principales actos.
@@ -9013,7 +9013,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250726123000 +0200" stop="20250726130000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250726123000 +0200" stop="20250726130000 +0200" channel="7Televalencia">
     <title lang="es">Cocina familiar de Javier Romero</title>
     <desc lang="es">Programas de cocina | 2018 | TP
 · El cocinero más popular en las redes sociales, Javier Romero, dirige y presenta su programa gastronómico, un homenaje a una cocina casera y sabrosa que sobrevive al paso del tiempo y a la llegada de nuevas modas gastronómicas.
@@ -9026,7 +9026,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250726130000 +0200" stop="20250726140000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250726130000 +0200" stop="20250726140000 +0200" channel="7Televalencia">
     <title lang="es">Valencia en abierto</title>
     <desc lang="es">Documentales de actualidad | 2021 | +16
 · Programa de actualidad presentado por Sylvia Costa.
@@ -9037,7 +9037,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250726140000 +0200" stop="20250726150000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250726140000 +0200" stop="20250726150000 +0200" channel="7Televalencia">
     <title lang="es">Informativo ESAP</title>
     <desc lang="es">Informativos | 2019 | +16
 · Informativo que ofrece noticias de diferentes regiones de toda la Comunidad Valenciana.
@@ -9048,7 +9048,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250726150000 +0200" stop="20250726155500 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250726150000 +0200" stop="20250726155500 +0200" channel="7Televalencia">
     <title lang="es">Los misteriosos asesinatos de Miss Fisher</title>
     <desc lang="es">Series dramáticas extranjeras | 2015 | +16
 · Phryne Fisher, una seductora e ingeniosa detective privada australiana, lucha contra las injusticias usando su revólver y su delicado ingenio en el Melbourne de finales de los años 20.Intriga y glamur son los ingredientes de esta ficción producida en Australia que narra las aventuras de una mujer moderna y elegante que se pasea por las calles y clubs de jazz de la capital 'aussie' evitando que se cometan ilegalidades.Essie Davis ('Babadook') encarna a la protagonista que, tras pasar muchos años en el extranjero, regresa a su ciudad natal con el objetivo de comenzar una nueva vida, pero también para asegurarse que Murdoch Foyle, el hombre al que creen responsable de la misteriosa desaparición de su hermana pequeña, no salga nunca de la cárcel.
@@ -9060,7 +9060,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250726155500 +0200" stop="20250726172000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250726155500 +0200" stop="20250726172000 +0200" channel="7Televalencia">
     <title lang="es">Cine</title>
     <desc lang="es">Informativos de cine
 · Emisión de una película.
@@ -9068,7 +9068,7 @@
     <category lang="es">Informativos de cine</category>
     <icon src="https://cdn.sincroguia.tv/uploads/series/xcine-3156.jpg.pagespeed.ic.R3w7T8IaUo.jpg" />
   </programme>
-  <programme start="20250726172000 +0200" stop="20250726173000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250726172000 +0200" stop="20250726173000 +0200" channel="7Televalencia">
     <title lang="es">El reino de Lili</title>
     <desc lang="es">Series infantiles españolas | 2024 | TP
 · Aprende con estos dibujos animados didácticos junto a los protagonista Lili, el perro Coco, la vaca Paca, el gato Renato, la cerdita Rita y la gallina Fina.
@@ -9079,7 +9079,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250726173000 +0200" stop="20250726180000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250726173000 +0200" stop="20250726180000 +0200" channel="7Televalencia">
     <title lang="es">Mundo Natural</title>
     <desc lang="es">Programas sobre la salud | 2024 | TP
 · Programa con consejos saludables para estar más sanos y vivir mejor, dedicado al cuidado de la salud y el bienestar donde se habla de la sinergia que la alimentación, la suplementación y la actividad física conforman para la consecución de una vida saludable.
@@ -9090,7 +9090,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250726180000 +0200" stop="20250726190000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250726180000 +0200" stop="20250726190000 +0200" channel="7Televalencia">
     <title lang="es">Los misteriosos asesinatos de Miss Fisher</title>
     <desc lang="es">Series dramáticas extranjeras | 2015 | +16
 · Phryne Fisher, una seductora e ingeniosa detective privada australiana, lucha contra las injusticias usando su revólver y su delicado ingenio en el Melbourne de finales de los años 20.Intriga y glamur son los ingredientes de esta ficción producida en Australia que narra las aventuras de una mujer moderna y elegante que se pasea por las calles y clubs de jazz de la capital 'aussie' evitando que se cometan ilegalidades.Essie Davis ('Babadook') encarna a la protagonista que, tras pasar muchos años en el extranjero, regresa a su ciudad natal con el objetivo de comenzar una nueva vida, pero también para asegurarse que Murdoch Foyle, el hombre al que creen responsable de la misteriosa desaparición de su hermana pequeña, no salga nunca de la cárcel.
@@ -9102,7 +9102,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250726190000 +0200" stop="20250726193000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250726190000 +0200" stop="20250726193000 +0200" channel="7Televalencia">
     <title lang="es">Valencia en abierto</title>
     <desc lang="es">Documentales de actualidad | 2021 | +16
 · Programa de actualidad presentado por Sylvia Costa.
@@ -9113,7 +9113,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250726193000 +0200" stop="20250726200000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250726193000 +0200" stop="20250726200000 +0200" channel="7Televalencia">
     <title lang="es">Vive las fallas</title>
     <desc lang="es">Programas de cultura | 2024 | TP
 · Programa presentado por José González que ofrece información sobre el mundo de las fallas. El espacio incluye entrevistas a los personajes más relevantes de la fiesta valenciana acompañado por tertulias y reportajes sobre los principales actos.
@@ -9124,7 +9124,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250726200000 +0200" stop="20250726210000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250726200000 +0200" stop="20250726210000 +0200" channel="7Televalencia">
     <title lang="es">El show de Natalia</title>
     <desc lang="es">Programas magazín | 2023 | +16
 · La presentadora Natalia Martínez ofrece en este espacio diferentes propuestas para los ciudadanos latinos residentes en la Comunidad Valenciana. Desfiles, gastronomía, actuaciones, concursos de belleza, discotecas y música son algunas de estas actividades.
@@ -9136,7 +9136,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250726210000 +0200" stop="20250726213000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250726210000 +0200" stop="20250726213000 +0200" channel="7Televalencia">
     <title lang="es">Agora, el nostre alcalde</title>
     <desc lang="es">Otros programas de entretenimiento | 2024 | TP
 · Sin detalles...
@@ -9147,7 +9147,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250726213000 +0200" stop="20250726230500 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250726213000 +0200" stop="20250726230500 +0200" channel="7Televalencia">
     <title lang="es">Cine</title>
     <desc lang="es">Informativos de cine
 · Emisión de una película.
@@ -9155,7 +9155,7 @@
     <category lang="es">Informativos de cine</category>
     <icon src="https://cdn.sincroguia.tv/uploads/series/xcine-3156.jpg.pagespeed.ic.R3w7T8IaUo.jpg" />
   </programme>
-  <programme start="20250726230500 +0200" stop="20250727002000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250726230500 +0200" stop="20250727002000 +0200" channel="7Televalencia">
     <title lang="es">Cine</title>
     <desc lang="es">Informativos de cine
 · Emisión de una película.
@@ -9163,7 +9163,7 @@
     <category lang="es">Informativos de cine</category>
     <icon src="https://cdn.sincroguia.tv/uploads/series/xcine-3156.jpg.pagespeed.ic.R3w7T8IaUo.jpg" />
   </programme>
-  <programme start="20250727002000 +0200" stop="20250727015500 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250727002000 +0200" stop="20250727015500 +0200" channel="7Televalencia">
     <title lang="es">Cine</title>
     <desc lang="es">Informativos de cine
 · Emisión de una película.
@@ -9171,7 +9171,7 @@
     <category lang="es">Informativos de cine</category>
     <icon src="https://cdn.sincroguia.tv/uploads/series/xcine-3156.jpg.pagespeed.ic.R3w7T8IaUo.jpg" />
   </programme>
-  <programme start="20250727015500 +0200" stop="20250727063000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250727015500 +0200" stop="20250727063000 +0200" channel="7Televalencia">
     <title lang="es">Programación nocturna</title>
     <desc lang="es">Programas eróticos | 2021 | +16
 · Los espectadores de este espacio pueden enviar mensajes de texto, que aparecen sobreimpresionados en vídeos de contenido pornográfico.
@@ -9182,7 +9182,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250727063000 +0200" stop="20250727073000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250727063000 +0200" stop="20250727073000 +0200" channel="7Televalencia">
     <title lang="es">Canta con Abradelo</title>
     <desc lang="es">Concursos | 2014 | TP
 · Concurso musical en el que diferentes concursantes combaten encima del escenario para convertirse en el mejor cantante de Valencia. En cada programa, un artista valenciano acude para promocionar sus trabajos musicales.
@@ -9193,7 +9193,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250727073000 +0200" stop="20250727082000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250727073000 +0200" stop="20250727082000 +0200" channel="7Televalencia">
     <title lang="es">El reino de Lili</title>
     <desc lang="es">Series infantiles españolas | 2024 | TP
 · Aprende con estos dibujos animados didácticos junto a los protagonista Lili, el perro Coco, la vaca Paca, el gato Renato, la cerdita Rita y la gallina Fina.
@@ -9204,7 +9204,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250727082000 +0200" stop="20250727093000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250727082000 +0200" stop="20250727093000 +0200" channel="7Televalencia">
     <title lang="es">Slide In The Clip</title>
     <desc lang="es">Programas | 2023 | TP
 · Programa en el que recopilamos diferentes vídeos de varios youtubers sobre aventuras de surf, skate y snowboard.
@@ -9215,7 +9215,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250727093000 +0200" stop="20250727100500 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250727093000 +0200" stop="20250727100500 +0200" channel="7Televalencia">
     <title lang="es">Mundo Natural</title>
     <desc lang="es">Programas sobre la salud | 2024 | TP
 · Programa con consejos saludables para estar más sanos y vivir mejor, dedicado al cuidado de la salud y el bienestar donde se habla de la sinergia que la alimentación, la suplementación y la actividad física conforman para la consecución de una vida saludable.
@@ -9226,7 +9226,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250727100500 +0200" stop="20250727103000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250727100500 +0200" stop="20250727103000 +0200" channel="7Televalencia">
     <title lang="es">Virtual Trainer</title>
     <desc lang="es">Magazín Deportivo | 2021 | TP
 · Programa de fitness.
@@ -9237,7 +9237,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250727103000 +0200" stop="20250727110000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250727103000 +0200" stop="20250727110000 +0200" channel="7Televalencia">
     <title lang="es">El club del clásico</title>
     <desc lang="es">Documentales de viajes | 2025 | TP
 · La vista de pájaro es la mejor forma de conocer cualquier territorio. Una perspectiva distinta a la habitual, que nos permite descubrir desde el aire lugares que ya conocíamos. Volaremos por encima de ciudades, montes y costas.
@@ -9248,7 +9248,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250727110000 +0200" stop="20250727120000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250727110000 +0200" stop="20250727120000 +0200" channel="7Televalencia">
     <title lang="es">El show de Natalia</title>
     <desc lang="es">Programas magazín | 2023 | +16
 · La presentadora Natalia Martínez ofrece en este espacio diferentes propuestas para los ciudadanos latinos residentes en la Comunidad Valenciana. Desfiles, gastronomía, actuaciones, concursos de belleza, discotecas y música son algunas de estas actividades.
@@ -9260,7 +9260,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250727120000 +0200" stop="20250727123000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250727120000 +0200" stop="20250727123000 +0200" channel="7Televalencia">
     <title lang="es">Vive las fallas</title>
     <desc lang="es">Programas de cultura | 2024 | TP
 · Programa presentado por José González que ofrece información sobre el mundo de las fallas. El espacio incluye entrevistas a los personajes más relevantes de la fiesta valenciana acompañado por tertulias y reportajes sobre los principales actos.
@@ -9271,7 +9271,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250727123000 +0200" stop="20250727130000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250727123000 +0200" stop="20250727130000 +0200" channel="7Televalencia">
     <title lang="es">Cocina familiar de Javier Romero</title>
     <desc lang="es">Programas de cocina | 2018 | TP
 · El cocinero más popular en las redes sociales, Javier Romero, dirige y presenta su programa gastronómico, un homenaje a una cocina casera y sabrosa que sobrevive al paso del tiempo y a la llegada de nuevas modas gastronómicas.
@@ -9284,7 +9284,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250727130000 +0200" stop="20250727133000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250727130000 +0200" stop="20250727133000 +0200" channel="7Televalencia">
     <title lang="es">Valencia en abierto</title>
     <desc lang="es">Documentales de actualidad | 2021 | +16
 · Programa de actualidad presentado por Sylvia Costa.
@@ -9295,7 +9295,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250727133000 +0200" stop="20250727140000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250727133000 +0200" stop="20250727140000 +0200" channel="7Televalencia">
     <title lang="es">Agora, el nostre alcalde</title>
     <desc lang="es">Otros programas de entretenimiento | 2024 | TP
 · Sin detalles...
@@ -9306,7 +9306,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250727140000 +0200" stop="20250727150000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250727140000 +0200" stop="20250727150000 +0200" channel="7Televalencia">
     <title lang="es">Informativo ESAP</title>
     <desc lang="es">Informativos | 2019 | +16
 · Informativo que ofrece noticias de diferentes regiones de toda la Comunidad Valenciana.
@@ -9317,7 +9317,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250727150000 +0200" stop="20250727155000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250727150000 +0200" stop="20250727155000 +0200" channel="7Televalencia">
     <title lang="es">Los misteriosos asesinatos de Miss Fisher</title>
     <desc lang="es">Series dramáticas extranjeras | 2015 | +16
 · Phryne Fisher, una seductora e ingeniosa detective privada australiana, lucha contra las injusticias usando su revólver y su delicado ingenio en el Melbourne de finales de los años 20.Intriga y glamur son los ingredientes de esta ficción producida en Australia que narra las aventuras de una mujer moderna y elegante que se pasea por las calles y clubs de jazz de la capital 'aussie' evitando que se cometan ilegalidades.Essie Davis ('Babadook') encarna a la protagonista que, tras pasar muchos años en el extranjero, regresa a su ciudad natal con el objetivo de comenzar una nueva vida, pero también para asegurarse que Murdoch Foyle, el hombre al que creen responsable de la misteriosa desaparición de su hermana pequeña, no salga nunca de la cárcel.
@@ -9329,7 +9329,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250727155000 +0200" stop="20250727170500 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250727155000 +0200" stop="20250727170500 +0200" channel="7Televalencia">
     <title lang="es">Cine</title>
     <desc lang="es">Informativos de cine
 · Emisión de una película.
@@ -9337,7 +9337,7 @@
     <category lang="es">Informativos de cine</category>
     <icon src="https://cdn.sincroguia.tv/uploads/series/xcine-3156.jpg.pagespeed.ic.R3w7T8IaUo.jpg" />
   </programme>
-  <programme start="20250727170500 +0200" stop="20250727173000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250727170500 +0200" stop="20250727173000 +0200" channel="7Televalencia">
     <title lang="es">El reino de Lili</title>
     <desc lang="es">Series infantiles españolas | 2024 | TP
 · Aprende con estos dibujos animados didácticos junto a los protagonista Lili, el perro Coco, la vaca Paca, el gato Renato, la cerdita Rita y la gallina Fina.
@@ -9348,7 +9348,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250727173000 +0200" stop="20250727180000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250727173000 +0200" stop="20250727180000 +0200" channel="7Televalencia">
     <title lang="es">Mundo Natural</title>
     <desc lang="es">Programas sobre la salud | 2024 | TP
 · Programa con consejos saludables para estar más sanos y vivir mejor, dedicado al cuidado de la salud y el bienestar donde se habla de la sinergia que la alimentación, la suplementación y la actividad física conforman para la consecución de una vida saludable.
@@ -9359,7 +9359,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250727180000 +0200" stop="20250727185500 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250727180000 +0200" stop="20250727185500 +0200" channel="7Televalencia">
     <title lang="es">Los misteriosos asesinatos de Miss Fisher</title>
     <desc lang="es">Series dramáticas extranjeras | 2015 | +16
 · Phryne Fisher, una seductora e ingeniosa detective privada australiana, lucha contra las injusticias usando su revólver y su delicado ingenio en el Melbourne de finales de los años 20.Intriga y glamur son los ingredientes de esta ficción producida en Australia que narra las aventuras de una mujer moderna y elegante que se pasea por las calles y clubs de jazz de la capital 'aussie' evitando que se cometan ilegalidades.Essie Davis ('Babadook') encarna a la protagonista que, tras pasar muchos años en el extranjero, regresa a su ciudad natal con el objetivo de comenzar una nueva vida, pero también para asegurarse que Murdoch Foyle, el hombre al que creen responsable de la misteriosa desaparición de su hermana pequeña, no salga nunca de la cárcel.
@@ -9371,7 +9371,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250727185500 +0200" stop="20250727200000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250727185500 +0200" stop="20250727200000 +0200" channel="7Televalencia">
     <title lang="es">100 anys donant la llanda</title>
     <desc lang="es">Documentales biográficos | 2022 | TP
 · Explica la historia de unos hermanos de Ibi que sin saber leer y escribir, construyeron el imperio más grande de juguetes de España. La familia Payà convirtió llanta en un arte, fabricaron trenes, coches y su famosa tartana.
@@ -9382,7 +9382,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250727200000 +0200" stop="20250727210000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250727200000 +0200" stop="20250727210000 +0200" channel="7Televalencia">
     <title lang="es">El balconcito</title>
     <desc lang="es">Magazín Deportivo | 2023 | +16
 · El periodista Toni Castellano conduce este programa de entrevistas que se centra en el mundo del deporte. Diferentes profesionales relacionados con este ámbito pasan por el plató para explicar los aspectos más desconocidos o curiosos de sus vidas.
@@ -9394,7 +9394,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250727210000 +0200" stop="20250727223500 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250727210000 +0200" stop="20250727223500 +0200" channel="7Televalencia">
     <title lang="es">Cine</title>
     <desc lang="es">Informativos de cine
 · Emisión de una película.
@@ -9402,7 +9402,7 @@
     <category lang="es">Informativos de cine</category>
     <icon src="https://cdn.sincroguia.tv/uploads/series/xcine-3156.jpg.pagespeed.ic.R3w7T8IaUo.jpg" />
   </programme>
-  <programme start="20250727223500 +0200" stop="20250728000500 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250727223500 +0200" stop="20250728000500 +0200" channel="7Televalencia">
     <title lang="es">Cine</title>
     <desc lang="es">Informativos de cine
 · Emisión de una película.
@@ -9410,7 +9410,7 @@
     <category lang="es">Informativos de cine</category>
     <icon src="https://cdn.sincroguia.tv/uploads/series/xcine-3156.jpg.pagespeed.ic.R3w7T8IaUo.jpg" />
   </programme>
-  <programme start="20250728000500 +0200" stop="20250728012500 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250728000500 +0200" stop="20250728012500 +0200" channel="7Televalencia">
     <title lang="es">Cine</title>
     <desc lang="es">Informativos de cine
 · Emisión de una película.
@@ -9418,7 +9418,7 @@
     <category lang="es">Informativos de cine</category>
     <icon src="https://cdn.sincroguia.tv/uploads/series/xcine-3156.jpg.pagespeed.ic.R3w7T8IaUo.jpg" />
   </programme>
-  <programme start="20250728012500 +0200" stop="20250728063000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250728012500 +0200" stop="20250728063000 +0200" channel="7Televalencia">
     <title lang="es">Programación nocturna</title>
     <desc lang="es">Programas eróticos | 2021 | +16
 · Los espectadores de este espacio pueden enviar mensajes de texto, que aparecen sobreimpresionados en vídeos de contenido pornográfico.
@@ -9429,7 +9429,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250728063000 +0200" stop="20250728073000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250728063000 +0200" stop="20250728073000 +0200" channel="7Televalencia">
     <title lang="es">Canta con Abradelo</title>
     <desc lang="es">Concursos | 2014 | TP
 · Concurso musical en el que diferentes concursantes combaten encima del escenario para convertirse en el mejor cantante de Valencia. En cada programa, un artista valenciano acude para promocionar sus trabajos musicales.
@@ -9440,7 +9440,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250728073000 +0200" stop="20250728083000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250728073000 +0200" stop="20250728083000 +0200" channel="7Televalencia">
     <title lang="es">El reino de Lili</title>
     <desc lang="es">Series infantiles españolas | 2024 | TP
 · Aprende con estos dibujos animados didácticos junto a los protagonista Lili, el perro Coco, la vaca Paca, el gato Renato, la cerdita Rita y la gallina Fina.
@@ -9451,7 +9451,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250728083000 +0200" stop="20250728093000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250728083000 +0200" stop="20250728093000 +0200" channel="7Televalencia">
     <title lang="es">Slide In The Clip</title>
     <desc lang="es">Programas | 2023 | TP
 · Programa en el que recopilamos diferentes vídeos de varios youtubers sobre aventuras de surf, skate y snowboard.
@@ -9462,7 +9462,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250728093000 +0200" stop="20250728100000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250728093000 +0200" stop="20250728100000 +0200" channel="7Televalencia">
     <title lang="es">Mundo Natural</title>
     <desc lang="es">Programas sobre la salud | 2024 | TP
 · Programa con consejos saludables para estar más sanos y vivir mejor, dedicado al cuidado de la salud y el bienestar donde se habla de la sinergia que la alimentación, la suplementación y la actividad física conforman para la consecución de una vida saludable.
@@ -9473,7 +9473,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250728100000 +0200" stop="20250728103000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250728100000 +0200" stop="20250728103000 +0200" channel="7Televalencia">
     <title lang="es">Virtual Trainer</title>
     <desc lang="es">Magazín Deportivo | 2021 | TP
 · Programa de fitness.
@@ -9484,7 +9484,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250728103000 +0200" stop="20250728110000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250728103000 +0200" stop="20250728110000 +0200" channel="7Televalencia">
     <title lang="es">El club del clásico</title>
     <desc lang="es">Documentales de viajes | 2025 | TP
 · La vista de pájaro es la mejor forma de conocer cualquier territorio. Una perspectiva distinta a la habitual, que nos permite descubrir desde el aire lugares que ya conocíamos. Volaremos por encima de ciudades, montes y costas.
@@ -9495,7 +9495,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250728110000 +0200" stop="20250728120000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250728110000 +0200" stop="20250728120000 +0200" channel="7Televalencia">
     <title lang="es">Certamen internacional de bandas de música de la Comunidad Valenciana 2025</title>
     <desc lang="es">Gala | 2025 | TP
 · Certamen internacional de bandas de música de la Comunidad Valenciana 2025.
@@ -9506,7 +9506,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250728120000 +0200" stop="20250728123000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250728120000 +0200" stop="20250728123000 +0200" channel="7Televalencia">
     <title lang="es">Vive las fallas</title>
     <desc lang="es">Programas de cultura | 2024 | TP
 · Programa presentado por José González que ofrece información sobre el mundo de las fallas. El espacio incluye entrevistas a los personajes más relevantes de la fiesta valenciana acompañado por tertulias y reportajes sobre los principales actos.
@@ -9517,7 +9517,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250728123000 +0200" stop="20250728130000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250728123000 +0200" stop="20250728130000 +0200" channel="7Televalencia">
     <title lang="es">Cocina familiar de Javier Romero</title>
     <desc lang="es">Programas de cocina | 2018 | TP
 · El cocinero más popular en las redes sociales, Javier Romero, dirige y presenta su programa gastronómico, un homenaje a una cocina casera y sabrosa que sobrevive al paso del tiempo y a la llegada de nuevas modas gastronómicas.
@@ -9530,7 +9530,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250728130000 +0200" stop="20250728140000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250728130000 +0200" stop="20250728140000 +0200" channel="7Televalencia">
     <title lang="es">Valencia en abierto</title>
     <desc lang="es">Documentales de actualidad | 2021 | +16
 · Programa de actualidad presentado por Sylvia Costa.
@@ -9541,7 +9541,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250728140000 +0200" stop="20250728153500 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250728140000 +0200" stop="20250728153500 +0200" channel="7Televalencia">
     <title lang="es">Cine</title>
     <desc lang="es">Informativos de cine
 · Emisión de una película.
@@ -9549,7 +9549,7 @@
     <category lang="es">Informativos de cine</category>
     <icon src="https://cdn.sincroguia.tv/uploads/series/xcine-3156.jpg.pagespeed.ic.R3w7T8IaUo.jpg" />
   </programme>
-  <programme start="20250728153500 +0200" stop="20250728172000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250728153500 +0200" stop="20250728172000 +0200" channel="7Televalencia">
     <title lang="es">Cine</title>
     <desc lang="es">Informativos de cine
 · Emisión de una película.
@@ -9557,7 +9557,7 @@
     <category lang="es">Informativos de cine</category>
     <icon src="https://cdn.sincroguia.tv/uploads/series/xcine-3156.jpg.pagespeed.ic.R3w7T8IaUo.jpg" />
   </programme>
-  <programme start="20250728172000 +0200" stop="20250728174500 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250728172000 +0200" stop="20250728174500 +0200" channel="7Televalencia">
     <title lang="es">El reino de Lili</title>
     <desc lang="es">Series infantiles españolas | 2024 | TP
 · Aprende con estos dibujos animados didácticos junto a los protagonista Lili, el perro Coco, la vaca Paca, el gato Renato, la cerdita Rita y la gallina Fina.
@@ -9568,7 +9568,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250728174500 +0200" stop="20250728181500 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250728174500 +0200" stop="20250728181500 +0200" channel="7Televalencia">
     <title lang="es">Mundo Natural</title>
     <desc lang="es">Programas sobre la salud | 2024 | TP
 · Programa con consejos saludables para estar más sanos y vivir mejor, dedicado al cuidado de la salud y el bienestar donde se habla de la sinergia que la alimentación, la suplementación y la actividad física conforman para la consecución de una vida saludable.
@@ -9579,7 +9579,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250728181500 +0200" stop="20250728190000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250728181500 +0200" stop="20250728190000 +0200" channel="7Televalencia">
     <title lang="es">Blood Ties: Hijos de la noche</title>
     <desc lang="es">Series policiacas extranjeras | 2007 | +16
 · Vicky ha tenido que dejar el cuerpo de policía de Toronto debido a una enfermedad ocular degenerativa. Aún así, su fuerte vocación la lleva a convertirse en investigadora privada. Su primer caso es un crimen poco claro, que parece tener elementos paranormales. Sólo ella cree en esa posibilidad, y ni siquiera su ex novio y compañero en la policía, el agente Celluci, la apoya. En su búsqueda del culpable conocerá a Henry, un vampiro que tiene más de 400 años y que la ayudará a resolver los casos sobrenaturales que se le presenten.Suspense, acción y un triángulo amoroso conforman esta serie cuyo guión está basado en la saga de novelas de misterio de Tanya Huff. La pareja protagonista está formada por Christina Cox (una actriz canadiense casi desconocida en España con una larga experiencia en este tipo de producciones y que ha aparecido de manera esporádica en episodios de series como 'Bones' y 'Stargate SG1') y Kyle Schmid ('Aprendiendo a vivir'). Ambos tienen en común, curiosamente, que han aparecido por separado en sendos episodios de 'CSI: Miami', serie con la que 'Blood Ties: Hijos de la noche' guarda un enorme parecido.
@@ -9592,7 +9592,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250728190000 +0200" stop="20250728200000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250728190000 +0200" stop="20250728200000 +0200" channel="7Televalencia">
     <title lang="es">Valencia en abierto</title>
     <desc lang="es">Documentales de actualidad | 2021 | +16
 · Programa de actualidad presentado por Sylvia Costa.
@@ -9603,7 +9603,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250728200000 +0200" stop="20250728210000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250728200000 +0200" stop="20250728210000 +0200" channel="7Televalencia">
     <title lang="es">Informativo ESAP</title>
     <desc lang="es">Informativos | 2019 | +16
 · Informativo que ofrece noticias de diferentes regiones de toda la Comunidad Valenciana.
@@ -9614,7 +9614,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250728210000 +0200" stop="20250728220000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250728210000 +0200" stop="20250728220000 +0200" channel="7Televalencia">
     <title lang="es">Valencia en abierto</title>
     <desc lang="es">Documentales de actualidad | 2021 | +16
 · Programa de actualidad presentado por Sylvia Costa.
@@ -9625,7 +9625,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250728220000 +0200" stop="20250728233000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250728220000 +0200" stop="20250728233000 +0200" channel="7Televalencia">
     <title lang="es">Deportes con Julio Insa</title>
     <desc lang="es">Magazín Deportivo | 2023 | +16
 · Programa con toda la actualidad del deporte valenciano, con especial atención a los clubes que participan en las mayores competiciones estatales y europeas. Además, Julio Insa y su equipo protagonizarán tertulias sobre temas candentes.
@@ -9636,7 +9636,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250728233000 +0200" stop="20250729000000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250728233000 +0200" stop="20250729000000 +0200" channel="7Televalencia">
     <title lang="es">Valencia en abierto</title>
     <desc lang="es">Documentales de actualidad | 2021 | +16
 · Programa de actualidad presentado por Sylvia Costa.
@@ -9647,7 +9647,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250729000000 +0200" stop="20250729010000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250729000000 +0200" stop="20250729010000 +0200" channel="7Televalencia">
     <title lang="es">Informativo ESAP</title>
     <desc lang="es">Informativos | 2019 | +16
 · Informativo que ofrece noticias de diferentes regiones de toda la Comunidad Valenciana.
@@ -9658,7 +9658,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250729010000 +0200" stop="20250729063000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250729010000 +0200" stop="20250729063000 +0200" channel="7Televalencia">
     <title lang="es">Programación nocturna</title>
     <desc lang="es">Programas eróticos | 2021 | +16
 · Los espectadores de este espacio pueden enviar mensajes de texto, que aparecen sobreimpresionados en vídeos de contenido pornográfico.
@@ -9669,7 +9669,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250729063000 +0200" stop="20250729073000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250729063000 +0200" stop="20250729073000 +0200" channel="7Televalencia">
     <title lang="es">Canta con Abradelo</title>
     <desc lang="es">Concursos | 2014 | TP
 · Concurso musical en el que diferentes concursantes combaten encima del escenario para convertirse en el mejor cantante de Valencia. En cada programa, un artista valenciano acude para promocionar sus trabajos musicales.
@@ -9680,7 +9680,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250729073000 +0200" stop="20250729083000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250729073000 +0200" stop="20250729083000 +0200" channel="7Televalencia">
     <title lang="es">El reino de Lili</title>
     <desc lang="es">Series infantiles españolas | 2024 | TP
 · Aprende con estos dibujos animados didácticos junto a los protagonista Lili, el perro Coco, la vaca Paca, el gato Renato, la cerdita Rita y la gallina Fina.
@@ -9691,7 +9691,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250729083000 +0200" stop="20250729093000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250729083000 +0200" stop="20250729093000 +0200" channel="7Televalencia">
     <title lang="es">Informativo ESAP</title>
     <desc lang="es">Informativos | 2019 | +16
 · Informativo que ofrece noticias de diferentes regiones de toda la Comunidad Valenciana.
@@ -9702,7 +9702,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250729093000 +0200" stop="20250729100000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250729093000 +0200" stop="20250729100000 +0200" channel="7Televalencia">
     <title lang="es">Mundo Natural</title>
     <desc lang="es">Programas sobre la salud | 2024 | TP
 · Programa con consejos saludables para estar más sanos y vivir mejor, dedicado al cuidado de la salud y el bienestar donde se habla de la sinergia que la alimentación, la suplementación y la actividad física conforman para la consecución de una vida saludable.
@@ -9713,7 +9713,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250729100000 +0200" stop="20250729103000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250729100000 +0200" stop="20250729103000 +0200" channel="7Televalencia">
     <title lang="es">Virtual Trainer</title>
     <desc lang="es">Magazín Deportivo | 2021 | TP
 · Programa de fitness.
@@ -9724,7 +9724,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250729103000 +0200" stop="20250729110000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250729103000 +0200" stop="20250729110000 +0200" channel="7Televalencia">
     <title lang="es">Valencia en abierto</title>
     <desc lang="es">Documentales de actualidad | 2021 | +16
 · Programa de actualidad presentado por Sylvia Costa.
@@ -9735,7 +9735,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250729110000 +0200" stop="20250729123000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250729110000 +0200" stop="20250729123000 +0200" channel="7Televalencia">
     <title lang="es">Deportes con Julio Insa</title>
     <desc lang="es">Magazín Deportivo | 2023 | +16
 · Programa con toda la actualidad del deporte valenciano, con especial atención a los clubes que participan en las mayores competiciones estatales y europeas. Además, Julio Insa y su equipo protagonizarán tertulias sobre temas candentes.
@@ -9746,7 +9746,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250729123000 +0200" stop="20250729130000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250729123000 +0200" stop="20250729130000 +0200" channel="7Televalencia">
     <title lang="es">Cocina familiar de Javier Romero</title>
     <desc lang="es">Programas de cocina | 2018 | TP
 · El cocinero más popular en las redes sociales, Javier Romero, dirige y presenta su programa gastronómico, un homenaje a una cocina casera y sabrosa que sobrevive al paso del tiempo y a la llegada de nuevas modas gastronómicas.
@@ -9759,7 +9759,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250729130000 +0200" stop="20250729140000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250729130000 +0200" stop="20250729140000 +0200" channel="7Televalencia">
     <title lang="es">Valencia en abierto</title>
     <desc lang="es">Documentales de actualidad | 2021 | +16
 · Programa de actualidad presentado por Sylvia Costa.
@@ -9770,7 +9770,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250729140000 +0200" stop="20250729150000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250729140000 +0200" stop="20250729150000 +0200" channel="7Televalencia">
     <title lang="es">Informativo ESAP</title>
     <desc lang="es">Informativos | 2019 | +16
 · Informativo que ofrece noticias de diferentes regiones de toda la Comunidad Valenciana.
@@ -9781,7 +9781,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250729150000 +0200" stop="20250729154000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250729150000 +0200" stop="20250729154000 +0200" channel="7Televalencia">
     <title lang="es">Blood Ties: Hijos de la noche</title>
     <desc lang="es">Series policiacas extranjeras | 2007 | +16
 · Vicky ha tenido que dejar el cuerpo de policía de Toronto debido a una enfermedad ocular degenerativa. Aún así, su fuerte vocación la lleva a convertirse en investigadora privada. Su primer caso es un crimen poco claro, que parece tener elementos paranormales. Sólo ella cree en esa posibilidad, y ni siquiera su ex novio y compañero en la policía, el agente Celluci, la apoya. En su búsqueda del culpable conocerá a Henry, un vampiro que tiene más de 400 años y que la ayudará a resolver los casos sobrenaturales que se le presenten.Suspense, acción y un triángulo amoroso conforman esta serie cuyo guión está basado en la saga de novelas de misterio de Tanya Huff. La pareja protagonista está formada por Christina Cox (una actriz canadiense casi desconocida en España con una larga experiencia en este tipo de producciones y que ha aparecido de manera esporádica en episodios de series como 'Bones' y 'Stargate SG1') y Kyle Schmid ('Aprendiendo a vivir'). Ambos tienen en común, curiosamente, que han aparecido por separado en sendos episodios de 'CSI: Miami', serie con la que 'Blood Ties: Hijos de la noche' guarda un enorme parecido.
@@ -9794,7 +9794,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250729154000 +0200" stop="20250729171000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250729154000 +0200" stop="20250729171000 +0200" channel="7Televalencia">
     <title lang="es">Cine</title>
     <desc lang="es">Informativos de cine
 · Emisión de una película.
@@ -9802,7 +9802,7 @@
     <category lang="es">Informativos de cine</category>
     <icon src="https://cdn.sincroguia.tv/uploads/series/xcine-3156.jpg.pagespeed.ic.R3w7T8IaUo.jpg" />
   </programme>
-  <programme start="20250729171000 +0200" stop="20250729174500 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250729171000 +0200" stop="20250729174500 +0200" channel="7Televalencia">
     <title lang="es">El reino de Lili</title>
     <desc lang="es">Series infantiles españolas | 2024 | TP
 · Aprende con estos dibujos animados didácticos junto a los protagonista Lili, el perro Coco, la vaca Paca, el gato Renato, la cerdita Rita y la gallina Fina.
@@ -9813,7 +9813,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250729174500 +0200" stop="20250729181500 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250729174500 +0200" stop="20250729181500 +0200" channel="7Televalencia">
     <title lang="es">Mundo Natural</title>
     <desc lang="es">Programas sobre la salud | 2024 | TP
 · Programa con consejos saludables para estar más sanos y vivir mejor, dedicado al cuidado de la salud y el bienestar donde se habla de la sinergia que la alimentación, la suplementación y la actividad física conforman para la consecución de una vida saludable.
@@ -9824,7 +9824,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250729181500 +0200" stop="20250729190000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250729181500 +0200" stop="20250729190000 +0200" channel="7Televalencia">
     <title lang="es">Blood Ties: Hijos de la noche</title>
     <desc lang="es">Series policiacas extranjeras | 2007 | +16
 · Vicky ha tenido que dejar el cuerpo de policía de Toronto debido a una enfermedad ocular degenerativa. Aún así, su fuerte vocación la lleva a convertirse en investigadora privada. Su primer caso es un crimen poco claro, que parece tener elementos paranormales. Sólo ella cree en esa posibilidad, y ni siquiera su ex novio y compañero en la policía, el agente Celluci, la apoya. En su búsqueda del culpable conocerá a Henry, un vampiro que tiene más de 400 años y que la ayudará a resolver los casos sobrenaturales que se le presenten.Suspense, acción y un triángulo amoroso conforman esta serie cuyo guión está basado en la saga de novelas de misterio de Tanya Huff. La pareja protagonista está formada por Christina Cox (una actriz canadiense casi desconocida en España con una larga experiencia en este tipo de producciones y que ha aparecido de manera esporádica en episodios de series como 'Bones' y 'Stargate SG1') y Kyle Schmid ('Aprendiendo a vivir'). Ambos tienen en común, curiosamente, que han aparecido por separado en sendos episodios de 'CSI: Miami', serie con la que 'Blood Ties: Hijos de la noche' guarda un enorme parecido.
@@ -9837,7 +9837,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250729190000 +0200" stop="20250729200000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250729190000 +0200" stop="20250729200000 +0200" channel="7Televalencia">
     <title lang="es">Valencia en abierto</title>
     <desc lang="es">Documentales de actualidad | 2021 | +16
 · Programa de actualidad presentado por Sylvia Costa.
@@ -9848,7 +9848,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250729200000 +0200" stop="20250729210000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250729200000 +0200" stop="20250729210000 +0200" channel="7Televalencia">
     <title lang="es">Informativo ESAP</title>
     <desc lang="es">Informativos | 2019 | +16
 · Informativo que ofrece noticias de diferentes regiones de toda la Comunidad Valenciana.
@@ -9859,7 +9859,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250729210000 +0200" stop="20250729220000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250729210000 +0200" stop="20250729220000 +0200" channel="7Televalencia">
     <title lang="es">Ágora</title>
     <desc lang="es">Informativos | 2021 | +16
 · Espacio dirigido y presentado por Sylvia Costa que hace un repaso de las noticias más importantes de la Comunidad Valenciana. Además, el informativo cuenta con una tertulia política en la que participan todos los portavoces en las Cortes.
@@ -9871,7 +9871,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250729220000 +0200" stop="20250729233000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250729220000 +0200" stop="20250729233000 +0200" channel="7Televalencia">
     <title lang="es">Deportes con Julio Insa</title>
     <desc lang="es">Magazín Deportivo | 2023 | +16
 · Programa con toda la actualidad del deporte valenciano, con especial atención a los clubes que participan en las mayores competiciones estatales y europeas. Además, Julio Insa y su equipo protagonizarán tertulias sobre temas candentes.
@@ -9882,7 +9882,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250729233000 +0200" stop="20250730000000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250729233000 +0200" stop="20250730000000 +0200" channel="7Televalencia">
     <title lang="es">Valencia en abierto</title>
     <desc lang="es">Documentales de actualidad | 2021 | +16
 · Programa de actualidad presentado por Sylvia Costa.
@@ -9893,7 +9893,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250730000000 +0200" stop="20250730010000 +0200" channel="Canal 7 Televalencia">
+  <programme start="20250730000000 +0200" stop="20250730010000 +0200" channel="7Televalencia">
     <title lang="es">Informativo ESAP</title>
     <desc lang="es">Informativos | 2019 | +16
 · Informativo que ofrece noticias de diferentes regiones de toda la Comunidad Valenciana.
@@ -9904,7 +9904,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250723000000 +0200" stop="20250723012500 +0200" channel="8 Madrid TV">
+  <programme start="20250723000000 +0200" stop="20250723012500 +0200" channel="8Madrid TV">
     <title lang="es">Polvo eres…</title>
     <desc lang="es">1974 | +16
 · Camilo va a ser ordenado sacerdote pero, durante la ceremonia, se siente mal. El doctor le diagnostica una extraña enfermedad incurable y solo le quedan seis meses de vida. Sus dos tías beatas y solteronas, Socorro y Angelines, sienten una gran pena por no ver a su sobrino como sacerdote, así que deciden buscarle una mujer para formar una familia y que tenga un hijo que, con el tiempo, sea sacerdote.
@@ -9914,13 +9914,13 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250723012500 +0200" stop="20250723033500 +0200" channel="8 Madrid TV">
+  <programme start="20250723012500 +0200" stop="20250723033500 +0200" channel="8Madrid TV">
     <title lang="es">Galería del coleccionista</title>
     <desc lang="es">2025
 · Televenta.
 </desc>
   </programme>
-  <programme start="20250723033500 +0200" stop="20250723050500 +0200" channel="8 Madrid TV">
+  <programme start="20250723033500 +0200" stop="20250723050500 +0200" channel="8Madrid TV">
     <title lang="es">Operación Ogro</title>
     <desc lang="es">1980 | +16
 · Historia del atentado con coche bomba de ETA que mató a Carrero Blanco en diciembre de 1973. Tiempo atrás varios hombres que formaban un comando de ETA tenían una misión: secuestrar al almirante Carrero Blanco para intercambiarlo por presos políticos. Sin embargo, cuando estaban a punto de cumplir su objetivo, Carrero fue nombrado Presidente del Gobierno, y los planes cambiaron. Tiempo después, uno de los hombres de aquél comando sigue siendo partidario de la lucha armada, mientras que sus antiguos correligionarios creen que ha llegado la hora de seguir los cauces democráticos.
@@ -9930,7 +9930,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250723050500 +0200" stop="20250723065000 +0200" channel="8 Madrid TV">
+  <programme start="20250723050500 +0200" stop="20250723065000 +0200" channel="8Madrid TV">
     <title lang="es">Morena Clara</title>
     <desc lang="es">1936 | +1936|TP
 · Tras ser sospechosos del robo de un jamón, los hermanos Trini y Regalito, gitanos, son llevados ante la audiencia de Sevilla. Allí serán acusados por un severo fiscal que, sin embargo, no podrá evitar enamorarse de la guapa joven.
@@ -9943,7 +9943,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250723065000 +0200" stop="20250723080000 +0200" channel="8 Madrid TV">
+  <programme start="20250723065000 +0200" stop="20250723080000 +0200" channel="8Madrid TV">
     <title lang="es">H. Remembers</title>
     <desc lang="es">TP
 
@@ -9952,19 +9952,19 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250723080000 +0200" stop="20250723093000 +0200" channel="8 Madrid TV">
+  <programme start="20250723080000 +0200" stop="20250723093000 +0200" channel="8Madrid TV">
     <title lang="es">EHS</title>
     <desc lang="es">2025
 · Televenta.
 </desc>
   </programme>
-  <programme start="20250723093000 +0200" stop="20250723121000 +0200" channel="8 Madrid TV">
+  <programme start="20250723093000 +0200" stop="20250723121000 +0200" channel="8Madrid TV">
     <title lang="es">Galería del coleccionista</title>
     <desc lang="es">2025
 · Televenta.
 </desc>
   </programme>
-  <programme start="20250723121000 +0200" stop="20250723123000 +0200" channel="8 Madrid TV">
+  <programme start="20250723121000 +0200" stop="20250723123000 +0200" channel="8Madrid TV">
     <title lang="es">Making of</title>
     <desc lang="es">TP
 
@@ -9973,13 +9973,13 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250723123000 +0200" stop="20250723133000 +0200" channel="8 Madrid TV">
+  <programme start="20250723123000 +0200" stop="20250723133000 +0200" channel="8Madrid TV">
     <title lang="es">Galería del coleccionista</title>
     <desc lang="es">2025
 · Televenta.
 </desc>
   </programme>
-  <programme start="20250723133000 +0200" stop="20250723140000 +0200" channel="8 Madrid TV">
+  <programme start="20250723133000 +0200" stop="20250723140000 +0200" channel="8Madrid TV">
     <title lang="es">Cocina familiar</title>
     <desc lang="es">2025 | TP
 · Cada día una receta de comida fácil y familiar con Javier Romero.
@@ -9989,7 +9989,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250723140000 +0200" stop="20250723153500 +0200" channel="8 Madrid TV">
+  <programme start="20250723140000 +0200" stop="20250723153500 +0200" channel="8Madrid TV">
     <title lang="es">Programa salud</title>
     <desc lang="es">2025 | TP
 
@@ -9998,7 +9998,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250723153500 +0200" stop="20250723171000 +0200" channel="8 Madrid TV">
+  <programme start="20250723153500 +0200" stop="20250723171000 +0200" channel="8Madrid TV">
     <title lang="es">A Dios rogando… y con los puños dando</title>
     <desc lang="es">1972 | TP
 · Un bandido reúne a un grupo de habilidosos ladrones para robar a su ex compañero de fechorías, que ahora se hace pasar por sacerdote, y ha guardado su dinero en una caja fuerte del banco fuertemente custodiada.
@@ -10008,7 +10008,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250723171000 +0200" stop="20250723185500 +0200" channel="8 Madrid TV">
+  <programme start="20250723171000 +0200" stop="20250723185500 +0200" channel="8Madrid TV">
     <title lang="es">Los corsarios</title>
     <desc lang="es">1970 | TP
 · En el siglo XVIII, en el Caribe, a la muerte del virrey de la Isla Verde, su hija Isabel queda a merced de su primo, el duque de Burt, un desaprensivo que, de acuerdo con unos bucaneros, se apodera de los tesoros de su pupila, entre los se encuentra el pergamino acreditativo de los Reyes de España por el que se concede a Isabel el título de virreina de aquellos territorios. El duque decide eliminarla pero Isabel pide ayuda al capitán Alan Drake y a sus piratas que han llegado a la isla tras sufrir un naufragio.
@@ -10018,7 +10018,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250723185500 +0200" stop="20250723202500 +0200" channel="8 Madrid TV">
+  <programme start="20250723185500 +0200" stop="20250723202500 +0200" channel="8Madrid TV">
     <title lang="es">Aquí están las vicetiples</title>
     <desc lang="es">1960 | +12
 · Paula, Merche y Carmen, tres vicetiples de un teatro de revista, tienen, como tantas otras muchachas, una doble vida complicada y plena de dificultades. Frente a la alegría del teatro de revista, la cruda realidad de una pobre pensión, muchas carencias y el anhelo de un hombre que las quiera por lo que son y no por lo que representan. En esta lucha por la supervivencia y en la busca de los hombres de su vida, las tres muchachas van a encontrar un valiosísimo aliado en don Narciso, un simpático viejecito solterón, inquilino de la pensión en donde viven.
@@ -10028,7 +10028,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20250723202500 +0200" stop="20250723221000 +0200" channel="8 Madrid TV">
+  <programme start="20250723202500 +0200" stop="20250723221000 +0200" channel="8Madrid TV">
     <title lang="es">Por fin solos</title>
     <desc lang="es">1994 | TP
 · Arturo y Elena tienen cuatro hijos ya adultos que aún viven en la casa paterna. Él es novelista, pero no consigue escribir una página porque no disfruta del silencio y concentración que su trabajo requiere. Se da cuenta de que, para reconquistar el territorio perdido, tiene que convencer a sus hijos para que se independicen. Con la complicidad con Elena, decide emprender una especie de guerra de guerrillas contra los invasores, cortándoles los suministros de alimentación y las fuentes de energía. Pero los chicos no se dan fácilmente por vencidos.
@@ -10038,7 +10038,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250723221000 +0200" stop="20250723235000 +0200" channel="8 Madrid TV">
+  <programme start="20250723221000 +0200" stop="20250723235000 +0200" channel="8Madrid TV">
     <title lang="es">El extraño</title>
     <desc lang="es">1946 | +1946|TP
 · Wilson, un agente de la comisión de crímenes de guerra, está buscando a Franz Kindler, uno de los cerebros de los campos de exterminio nazis, que ha conseguido huir sin dejar huellas. Siguiendo la pista de un antiguo camarada de Kindler llega hasta Harper (Connecticut), donde es asesinado antes de poder identificar al fugitivo. La única pista que le queda es la fascinación del criminal nazi por los relojes antiguos.
@@ -10051,7 +10051,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250723235000 +0200" stop="20250723235900 +0200" channel="8 Madrid TV">
+  <programme start="20250723235000 +0200" stop="20250723235900 +0200" channel="8Madrid TV">
     <desc lang="es">+18
 · Angelina Campos, esposa de un político, entra en prisión acusada del homicidio de Alberto, un hombre que en otro tiempo fue su novio y que intentó chantajearla. En la cárcel coincide con Dora, la amante de Alberto, que la odia y hostiga continuamente.
 · Dirección: Miguel M. Delgado.
@@ -10061,7 +10061,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20250724000000 +0200" stop="20250724012000 +0200" channel="8 Madrid TV">
+  <programme start="20250724000000 +0200" stop="20250724012000 +0200" channel="8Madrid TV">
     <desc lang="es">+18
 · Angelina Campos, esposa de un político, entra en prisión acusada del homicidio de Alberto, un hombre que en otro tiempo fue su novio y que intentó chantajearla. En la cárcel coincide con Dora, la amante de Alberto, que la odia y hostiga continuamente.
 · Dirección: Miguel M. Delgado.
@@ -10071,13 +10071,13 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20250724012000 +0200" stop="20250724032000 +0200" channel="8 Madrid TV">
+  <programme start="20250724012000 +0200" stop="20250724032000 +0200" channel="8Madrid TV">
     <title lang="es">Galería del coleccionista</title>
     <desc lang="es">2025
 · Televenta.
 </desc>
   </programme>
-  <programme start="20250724032000 +0200" stop="20250724050000 +0200" channel="8 Madrid TV">
+  <programme start="20250724032000 +0200" stop="20250724050000 +0200" channel="8Madrid TV">
     <title lang="es">La muerte busca un hombre</title>
     <desc lang="es">1970 | +18
 · Forsyte y Gladys son un matrimonio que se dedica a la caza de forajidos buscados por la justicia y en lugar de entregarlos con vida, los matan para poder robarles y además cobrar la recompensa ofrecida. Pero la ambición les conduce a enfrentarse con un cruel y astuto asesino.
@@ -10087,7 +10087,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20250724050000 +0200" stop="20250724062500 +0200" channel="8 Madrid TV">
+  <programme start="20250724050000 +0200" stop="20250724062500 +0200" channel="8Madrid TV">
     <title lang="es">Pon un hombre en tu vida</title>
     <desc lang="es">1996 | TP
 · Díaz Conde, entrenador del club de fútbol Monterrey F.C., vive con gran tensión la concentración anterior al último partido de liga. En el mismo hotel se hospeda Belinda, una cantante pop, que finaliza los preparativos de su boda. Ambos se ven involucrados en un accidente mortal. Sus almas están a punto de desvanecerse cuando ven una oportunidad de regresar a la vida. Al despertar, se dan cuenta de que ha habido un pequeño problema: ¡se han equivocado de cuerpo!
@@ -10097,7 +10097,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250724062500 +0200" stop="20250724080000 +0200" channel="8 Madrid TV">
+  <programme start="20250724062500 +0200" stop="20250724080000 +0200" channel="8Madrid TV">
     <title lang="es">Tres suecas para tres Rodriguez</title>
     <desc lang="es">1975 | +12
 · Cuando Adela (Florinda Chico) se queda embarazada, el médico le recomienda descansar y pasar las vacaciones en la playa. Su marido (Tony Leblanc) se queda entonces de Rodríguez al igual que dos compañeros de oficina. Los tres infelices se dejan enredar por Ingrid, Erika y Elga, tres suecas monumentales que fingen estar enamoradas de ellos, pero, en realidad, sólo los utilizan como tapadera del tráfico de drogas al que se dedican.
@@ -10107,19 +10107,19 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20250724080000 +0200" stop="20250724093000 +0200" channel="8 Madrid TV">
+  <programme start="20250724080000 +0200" stop="20250724093000 +0200" channel="8Madrid TV">
     <title lang="es">EHS</title>
     <desc lang="es">2025
 · Televenta.
 </desc>
   </programme>
-  <programme start="20250724093000 +0200" stop="20250724121000 +0200" channel="8 Madrid TV">
+  <programme start="20250724093000 +0200" stop="20250724121000 +0200" channel="8Madrid TV">
     <title lang="es">Galería del coleccionista</title>
     <desc lang="es">2025
 · Televenta.
 </desc>
   </programme>
-  <programme start="20250724121000 +0200" stop="20250724123000 +0200" channel="8 Madrid TV">
+  <programme start="20250724121000 +0200" stop="20250724123000 +0200" channel="8Madrid TV">
     <title lang="es">Making of</title>
     <desc lang="es">TP
 
@@ -10128,13 +10128,13 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250724123000 +0200" stop="20250724133000 +0200" channel="8 Madrid TV">
+  <programme start="20250724123000 +0200" stop="20250724133000 +0200" channel="8Madrid TV">
     <title lang="es">Galería del coleccionista</title>
     <desc lang="es">2025
 · Televenta.
 </desc>
   </programme>
-  <programme start="20250724133000 +0200" stop="20250724140000 +0200" channel="8 Madrid TV">
+  <programme start="20250724133000 +0200" stop="20250724140000 +0200" channel="8Madrid TV">
     <title lang="es">Cocina familiar</title>
     <desc lang="es">2025 | TP
 · Cada día una receta de comida fácil y familiar con Javier Romero.
@@ -10144,7 +10144,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250724140000 +0200" stop="20250724153500 +0200" channel="8 Madrid TV">
+  <programme start="20250724140000 +0200" stop="20250724153500 +0200" channel="8Madrid TV">
     <title lang="es">Programa salud</title>
     <desc lang="es">2025 | TP
 
@@ -10153,7 +10153,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250724153500 +0200" stop="20250724172500 +0200" channel="8 Madrid TV">
+  <programme start="20250724153500 +0200" stop="20250724172500 +0200" channel="8Madrid TV">
     <title lang="es">La cólera del viento</title>
     <desc lang="es">1970 | +7
 · Marcos y Jacobo, dos asesinos a sueldo, se dirigen al Sur, a Andalucía. Han sido contratados por don Pedro, un poderoso latifundista, para poner fin a una posible rebelión de los campesinos. Marcos cumple la primera parte de su contrato matando a un anarquista recién llegado. Pero los campesinos reaccionan violentamente y los terratenientes no tardan en responder.
@@ -10163,7 +10163,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20250724172500 +0200" stop="20250724175000 +0200" channel="8 Madrid TV">
+  <programme start="20250724172500 +0200" stop="20250724175000 +0200" channel="8Madrid TV">
     <title lang="es">El Escaparate</title>
     <desc lang="es">2025 | TP
 · Una cita con la actualidad madrileña: la gastronomía, el turismo, la salud, las empresas y mucho más.
@@ -10172,7 +10172,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250724175000 +0200" stop="20250724200000 +0200" channel="8 Madrid TV">
+  <programme start="20250724175000 +0200" stop="20250724200000 +0200" channel="8Madrid TV">
     <title lang="es">Simbad el marino</title>
     <desc lang="es">1947 | TP
 · Charlatán y fanfarrón, Simbad cuenta sus hazañas a sus incrédulos amigos. La última, su octavo viaje fantástico, tiene que ver con una isla secreta en la que Alejandro Magno ocultó su tesoro. Tras capitanear un barco cuya tripulación muere envenenada, Simbad no renuncia a encontrar la isla. La bella Shirleen, que toma a Simbad por un príncipe, participará en la aventura. Pero también el malvado Emir, cuya ambición no conoce límites: quiere a Shirleen, quiere el tesoro y quiere dominar todos los reinos del continente.
@@ -10182,7 +10182,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250724200000 +0200" stop="20250724214000 +0200" channel="8 Madrid TV">
+  <programme start="20250724200000 +0200" stop="20250724214000 +0200" channel="8Madrid TV">
     <title lang="es">Marisol rumbo a Río</title>
     <desc lang="es">1963 | TP
 · Marisol tiene una hermana gemela llamada Mari Luz, que vive desde hace tiempo en Río de Janeiro. Tras vender los muebles de su casa para poder comprar los billetes, Marisol y su madre se trasladan hasta Brasil, anhelando un reencuentro que resulta triste al comprobar que Mari Luz es una chica cursi y engreída.
@@ -10192,7 +10192,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250724214000 +0200" stop="20250724220000 +0200" channel="8 Madrid TV">
+  <programme start="20250724214000 +0200" stop="20250724220000 +0200" channel="8Madrid TV">
     <title lang="es">La ciudad es para ti</title>
     <desc lang="es">2025 | TP
 
@@ -10201,7 +10201,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250724220000 +0200" stop="20250724235000 +0200" channel="8 Madrid TV">
+  <programme start="20250724220000 +0200" stop="20250724235000 +0200" channel="8Madrid TV">
     <title lang="es">Callas Forever</title>
     <desc lang="es">2002 | TP
 · Larry Kelly, que en el pasado organizó varias giras de María Callas, se acerca al apartamento de María en París, donde sabe que lleva viviendo un tiempo como una ermitaña, y le intenta convencer para que haga Callas Forever, una serie de vídeos en los que María recreará las más memorables de sus actuaciones acompañada por la voz de sus antiguos discos. A pesar de su rechazo inicial, María, que ya no es ni la sombra de lo que era, accede a hacer el primer vídeo, Carmen. Debido al éxito del primer visionado del Especial de Carmen accede a hacer el siguiente vídeo de la serie: La Traviata. Sin embargo, en una de sus noches de insomnio, le persiguen los fantasmas de Tosca por lo que, al día siguiente, María decide interpretar a Tosca en vez de La Traviata. María pide a Larry interpretar Tosca ante el público y se da cuenta que ya no es la cantante que fue en su día y que no debe hacer que tiene una voz que ya no existe.
@@ -10211,7 +10211,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250724235000 +0200" stop="20250724235900 +0200" channel="8 Madrid TV">
+  <programme start="20250724235000 +0200" stop="20250724235900 +0200" channel="8Madrid TV">
     <title lang="es">Las adolescentes</title>
     <desc lang="es">1975 | +18
 · Una chica española es enviada a estudiar a un internado londinense. Su carácter retraído le dificultará el trato con sus compañeras, de vida más disoluta dentro de lo posible allí. Hará buenas migas con dos de ellas, con las que saldrá por Londres a escondidas de la directora. De este modo, empezará a frecuentar compañías poco deseables, hasta el punto de caer en una red de pornografía internacional.
@@ -10221,7 +10221,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20250725000000 +0200" stop="20250725013000 +0200" channel="8 Madrid TV">
+  <programme start="20250725000000 +0200" stop="20250725013000 +0200" channel="8Madrid TV">
     <title lang="es">Las adolescentes</title>
     <desc lang="es">1975 | +18
 · Una chica española es enviada a estudiar a un internado londinense. Su carácter retraído le dificultará el trato con sus compañeras, de vida más disoluta dentro de lo posible allí. Hará buenas migas con dos de ellas, con las que saldrá por Londres a escondidas de la directora. De este modo, empezará a frecuentar compañías poco deseables, hasta el punto de caer en una red de pornografía internacional.
@@ -10231,13 +10231,13 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20250725013000 +0200" stop="20250725033000 +0200" channel="8 Madrid TV">
+  <programme start="20250725013000 +0200" stop="20250725033000 +0200" channel="8Madrid TV">
     <title lang="es">Galería del coleccionista</title>
     <desc lang="es">2025
 · Televenta.
 </desc>
   </programme>
-  <programme start="20250725033000 +0200" stop="20250725052000 +0200" channel="8 Madrid TV">
+  <programme start="20250725033000 +0200" stop="20250725052000 +0200" channel="8Madrid TV">
     <title lang="es">¿Quién puede matar a un niño?</title>
     <desc lang="es">1976 | +18
 · Tom y Evelyn son una pareja de turistas ingleses que viaja a una población costera española para disfrutar al fin de una tardía luna de miel. Sin embargo, cuando llegan, se quedan decepcionados: el lugar es demasiado bullicioso para pasar las tranquilas vacaciones que ellos habían planeado. Deciden entonces alquilar una barca para visitar una pequeña isla en la que Tom había estado cuando era más joven. Su sorpresa será mayúscula cuando descubran que los únicos habitantes de la isla son niños, unos niños que, animados por una misteriosa fuerza, se rebelan contra los adultos.
@@ -10247,7 +10247,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20250725052000 +0200" stop="20250725070500 +0200" channel="8 Madrid TV">
+  <programme start="20250725052000 +0200" stop="20250725070500 +0200" channel="8Madrid TV">
     <title lang="es">Escipión el africano</title>
     <desc lang="es">1971 | TP
 · Publio Cornelio Escipión, llamado el africano, y su hermano Lucio, llamado el asiático, son acusados en el Senado por Catón, el Censor, de haberse adueñado de quinientos talentos, tributo de Antioco, rey de Siria. En realidad Catón no le preocupa tanto saber dónde ha ido a parar ese dinero, sino que le interesa inflingir un golpe al prestigio del Africano para evitar que, en un periodo en el que en Roma escasean los grandes hombres, la personalidad del célebre caudillo pueda hacer correr a la República el riesgo de una dictadura.
@@ -10257,7 +10257,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250725070500 +0200" stop="20250725080000 +0200" channel="8 Madrid TV">
+  <programme start="20250725070500 +0200" stop="20250725080000 +0200" channel="8Madrid TV">
     <title lang="es">H. Remembers</title>
     <desc lang="es">TP
 
@@ -10266,19 +10266,19 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250725080000 +0200" stop="20250725093000 +0200" channel="8 Madrid TV">
+  <programme start="20250725080000 +0200" stop="20250725093000 +0200" channel="8Madrid TV">
     <title lang="es">EHS</title>
     <desc lang="es">2025
 · Televenta.
 </desc>
   </programme>
-  <programme start="20250725093000 +0200" stop="20250725121000 +0200" channel="8 Madrid TV">
+  <programme start="20250725093000 +0200" stop="20250725121000 +0200" channel="8Madrid TV">
     <title lang="es">Galería del coleccionista</title>
     <desc lang="es">2025
 · Televenta.
 </desc>
   </programme>
-  <programme start="20250725121000 +0200" stop="20250725123000 +0200" channel="8 Madrid TV">
+  <programme start="20250725121000 +0200" stop="20250725123000 +0200" channel="8Madrid TV">
     <title lang="es">Making of</title>
     <desc lang="es">TP
 
@@ -10287,13 +10287,13 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250725123000 +0200" stop="20250725133000 +0200" channel="8 Madrid TV">
+  <programme start="20250725123000 +0200" stop="20250725133000 +0200" channel="8Madrid TV">
     <title lang="es">Galería del coleccionista</title>
     <desc lang="es">2025
 · Televenta.
 </desc>
   </programme>
-  <programme start="20250725133000 +0200" stop="20250725140000 +0200" channel="8 Madrid TV">
+  <programme start="20250725133000 +0200" stop="20250725140000 +0200" channel="8Madrid TV">
     <title lang="es">Cocina familiar</title>
     <desc lang="es">2025 | TP
 · Cada día una receta de comida fácil y familiar con Javier Romero.
@@ -10303,7 +10303,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250725140000 +0200" stop="20250725153500 +0200" channel="8 Madrid TV">
+  <programme start="20250725140000 +0200" stop="20250725153500 +0200" channel="8Madrid TV">
     <title lang="es">Programa salud</title>
     <desc lang="es">2025 | TP
 
@@ -10312,7 +10312,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250725153500 +0200" stop="20250725171000 +0200" channel="8 Madrid TV">
+  <programme start="20250725153500 +0200" stop="20250725171000 +0200" channel="8Madrid TV">
     <title lang="es">Los locos del oro negro</title>
     <desc lang="es">1975 | TP
 · En un pueblecito llamado Paradise City se ha descubierto petróleo, por lo que una poderosa compañía de crudo decide apoderarse del terreno cueste lo que cueste. Hasta el pueblo llega un campesino que dice haber comprado una parcela en la que pretende cultivar cebollas. A pesar de ser un personaje muy pacífico, es capaz de enfrentarse, únicamente él, a todos los matones de la industria petrolera.
@@ -10322,7 +10322,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250725171000 +0200" stop="20250725184500 +0200" channel="8 Madrid TV">
+  <programme start="20250725171000 +0200" stop="20250725184500 +0200" channel="8Madrid TV">
     <title lang="es">Una mujer sin amor</title>
     <desc lang="es">1951 | TP
 · Una travesura infantil de su hijo Carlitos provoca que Rosario, una joven casada con un hombre mayor, conozca a Julio, un ingeniero por el cual se siente atraída de inmediato. Convertidos en amantes, Rosario planea huir con Julio pero la enfermedad de su esposo se lo impide. Al recuperarse su marido, Rosario tiene otro hijo, Miguel, quien se convertirá en médico como su padre y en eterno rival de su hermano.
@@ -10332,7 +10332,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250725184500 +0200" stop="20250725203000 +0200" channel="8 Madrid TV">
+  <programme start="20250725184500 +0200" stop="20250725203000 +0200" channel="8Madrid TV">
     <title lang="es">El dinero tiene miedo</title>
     <desc lang="es">1970 | TP
 · Juan es un hombre que se dedica a vivir de la estafa. Conoce a Agustín y Benito, dos tontos que se han enriquecido con fáciles especulaciones. Les asegura a ambos que él va a poner a salvo su dinero de la inminente devaluación, enviándolo a Suiza, y ellos le piden que haga lo mismo con el suyo.
@@ -10342,7 +10342,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250725203000 +0200" stop="20250725220500 +0200" channel="8 Madrid TV">
+  <programme start="20250725203000 +0200" stop="20250725220500 +0200" channel="8Madrid TV">
     <title lang="es">El apolítico</title>
     <desc lang="es">1977 | +12
 · Enrique Tolosa es jefe de administración de una pequeña empresa en la que trabajan 50 obreros. No se ha metido nunca en política, se ha hecho a sí mismo, se ha situado profesionalmente y ha creado una familia sin que nadie le haya pedido opinión sobre el destino de su país. La historia comienza cuando por primera vez se celebran elecciones. Entonces como tiene dudas, decide investigar para saber con qué partido político tiene más afinidades.
@@ -10352,7 +10352,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20250725220500 +0200" stop="20250725234000 +0200" channel="8 Madrid TV">
+  <programme start="20250725220500 +0200" stop="20250725234000 +0200" channel="8Madrid TV">
     <title lang="es">Bandidos</title>
     <desc lang="es">1967 | +18
 · Al no poder vengarse de B. Kane, pues le agujereó las manos, un viejo pistolero ejercita a jóvenes discípulos para que así puedan consumar su venganza por él.
@@ -10362,7 +10362,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20250725234000 +0200" stop="20250725235900 +0200" channel="8 Madrid TV">
+  <programme start="20250725234000 +0200" stop="20250725235900 +0200" channel="8Madrid TV">
     <title lang="es">Fuerza siete</title>
     <desc lang="es">1978 | TP
 · Un veterano de Vietnam experto en artes marciales tiene que entrenar a un escuadrón antinarcóticos. Su mejor alumno es una chica desmotivada, cuya actitud cambia cuando su hijo es asesinado.
@@ -10372,7 +10372,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250726000000 +0200" stop="20250726011500 +0200" channel="8 Madrid TV">
+  <programme start="20250726000000 +0200" stop="20250726011500 +0200" channel="8Madrid TV">
     <title lang="es">Fuerza siete</title>
     <desc lang="es">1978 | TP
 · Un veterano de Vietnam experto en artes marciales tiene que entrenar a un escuadrón antinarcóticos. Su mejor alumno es una chica desmotivada, cuya actitud cambia cuando su hijo es asesinado.
@@ -10382,13 +10382,13 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250726011500 +0200" stop="20250726031500 +0200" channel="8 Madrid TV">
+  <programme start="20250726011500 +0200" stop="20250726031500 +0200" channel="8Madrid TV">
     <title lang="es">Galería del coleccionista</title>
     <desc lang="es">2025
 · Televenta.
 </desc>
   </programme>
-  <programme start="20250726031500 +0200" stop="20250726050000 +0200" channel="8 Madrid TV">
+  <programme start="20250726031500 +0200" stop="20250726050000 +0200" channel="8Madrid TV">
     <title lang="es">I love you baby</title>
     <desc lang="es">2001 | +12
 · Marcos, un chico de mirada triste y proyectos a largo plazo, llega a la gran ciudad para encontrarse a sí mismo. Muy pronto se enamora de Daniel, un actor deseoso de demostrar su talento. Un golpe del destino destruye ese incipiente amor. Daniel busca consuelo en su mejor amiga, Carmen, una mujer que tiene respuestas para todo. Mientras tanto, Marcos se replantea su futuro y conoce a Marisol, una inmigrante dominicana con la que vivirá una apasionada historia de amor.
@@ -10398,7 +10398,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20250726050000 +0200" stop="20250726063000 +0200" channel="8 Madrid TV">
+  <programme start="20250726050000 +0200" stop="20250726063000 +0200" channel="8Madrid TV">
     <title lang="es">Condenados</title>
     <desc lang="es">1953 | +12
 · En los campos manchegos una mujer trabaja la tierra con la ayuda de un joven forastero. Su marido está en prisión por un crimen que cometió en un ataque de celos. Todo va bien hasta que el hombre recobra la libertad y con él vuelven los fantasmas del pasado.
@@ -10408,7 +10408,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20250726063000 +0200" stop="20250726080000 +0200" channel="8 Madrid TV">
+  <programme start="20250726063000 +0200" stop="20250726080000 +0200" channel="8Madrid TV">
     <title lang="es">El secreto de Tomy</title>
     <desc lang="es">1963 | TP
 · La cuadra de caballos de carreras de la familia Gandía se subasta, pero Tomy, el hijo del propietario, logra salvar a su caballo favorito, Cantador. A partir de ese momento, la única obsesión del chico será sacar a su padre del atolladero, montando su caballo en las carreras. La victoria de Cantador en una importante carrera hace que todos se interesen por él . Finalmente Tomy se ve obligado a venderlo para liquidar las deudas de su padre.
@@ -10418,19 +10418,19 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250726080000 +0200" stop="20250726093000 +0200" channel="8 Madrid TV">
+  <programme start="20250726080000 +0200" stop="20250726093000 +0200" channel="8Madrid TV">
     <title lang="es">EHS</title>
     <desc lang="es">2025
 · Televenta.
 </desc>
   </programme>
-  <programme start="20250726093000 +0200" stop="20250726103000 +0200" channel="8 Madrid TV">
+  <programme start="20250726093000 +0200" stop="20250726103000 +0200" channel="8Madrid TV">
     <title lang="es">Galería del coleccionista</title>
     <desc lang="es">2025
 · Televenta.
 </desc>
   </programme>
-  <programme start="20250726103000 +0200" stop="20250726113500 +0200" channel="8 Madrid TV">
+  <programme start="20250726103000 +0200" stop="20250726113500 +0200" channel="8Madrid TV">
     <title lang="es">Programa salud</title>
     <desc lang="es">2025 | TP
 
@@ -10439,7 +10439,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250726113500 +0200" stop="20250726120000 +0200" channel="8 Madrid TV">
+  <programme start="20250726113500 +0200" stop="20250726120000 +0200" channel="8Madrid TV">
     <title lang="es">La ciudad es para ti</title>
     <desc lang="es">2025 | TP
 
@@ -10448,13 +10448,13 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250726120000 +0200" stop="20250726123000 +0200" channel="8 Madrid TV">
+  <programme start="20250726120000 +0200" stop="20250726123000 +0200" channel="8Madrid TV">
     <title lang="es">Galería del coleccionista</title>
     <desc lang="es">2025
 · Televenta.
 </desc>
   </programme>
-  <programme start="20250726123000 +0200" stop="20250726131000 +0200" channel="8 Madrid TV">
+  <programme start="20250726123000 +0200" stop="20250726131000 +0200" channel="8Madrid TV">
     <title lang="es">Cocina familiar</title>
     <desc lang="es">2025 | TP
 · Cada día una receta de comida fácil y familiar con Javier Romero.
@@ -10464,7 +10464,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250726131000 +0200" stop="20250726150000 +0200" channel="8 Madrid TV">
+  <programme start="20250726131000 +0200" stop="20250726150000 +0200" channel="8Madrid TV">
     <desc lang="es">TP
 · Gira en torno a la revolución mexicana. Durante el período agitado, al que puso un paréntesis de paz el mandato del Presidente Madero, una mujer desenvuelta y ambiciosa, dentro de su humilde condición, se eleva rápidamente al unirse a uno de los generales federales, olvidando el compromiso que le unía anteriormente con otro hombre de su condición que la quería sinceramente.
 · Dirección: Julio Buchs.
@@ -10474,7 +10474,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250726150000 +0200" stop="20250726153000 +0200" channel="8 Madrid TV">
+  <programme start="20250726150000 +0200" stop="20250726153000 +0200" channel="8Madrid TV">
     <title lang="es">Programa salud</title>
     <desc lang="es">2025 | TP
 
@@ -10483,7 +10483,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250726153000 +0200" stop="20250726171500 +0200" channel="8 Madrid TV">
+  <programme start="20250726153000 +0200" stop="20250726171500 +0200" channel="8Madrid TV">
     <desc lang="es">TP
 · A Rafael, joven diputado socialista, le comunican la muerte de su amigo Víctor Velasco. En el cementerio coincide con Laly, una antigua compañera. Ambos rememoran la personalidad del amigo desaparecido y la historia que compartieron con él durante la campaña de las elecciones de 1977. En uno de los pueblos de la sierra burgalesa conocieron al señor Cayo, un viejo apegado a la tierra, que fue para Víctor como una especie de revulsivo: era la primera vez que escuchaba la voz de la sabiduría popular.
 · Dirección: Antonio Giménez Rico.
@@ -10493,7 +10493,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250726171500 +0200" stop="20250726173500 +0200" channel="8 Madrid TV">
+  <programme start="20250726171500 +0200" stop="20250726173500 +0200" channel="8Madrid TV">
     <title lang="es">La ciudad es para ti</title>
     <desc lang="es">2025 | TP
 
@@ -10502,7 +10502,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250726173500 +0200" stop="20250726190000 +0200" channel="8 Madrid TV">
+  <programme start="20250726173500 +0200" stop="20250726190000 +0200" channel="8Madrid TV">
     <title lang="es">El malvado carabel</title>
     <desc lang="es">1955 | +1955|7
 · A punto de casarse, el joven Carabel, empleado en una inmobiliaria, pide a sus jefes un aumento de sueldo, pero lo único que consigue es ser despedido. Se da cuenta entonces de que es la honradez lo que le ha llevado al paro y decide cambiar de vida y vivir al margen de la ley.
@@ -10515,7 +10515,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20250726190000 +0200" stop="20250726203500 +0200" channel="8 Madrid TV">
+  <programme start="20250726190000 +0200" stop="20250726203500 +0200" channel="8Madrid TV">
     <title lang="es">Un, dos, tres… al escondite inglés</title>
     <desc lang="es">1969 | TP
 · Un grupo de jóvenes músicos hará lo imposible para boicotear una canción que no les gusta nada, y que va a representar a España en un famoso festival de música. Una insólita cinta del singular Zulueta en la que, tras el éxito de Massiel en el Festival de Eurovisión, se parodia este tipo de concursos con una delirante historia rodada sin guión y con la actuación de varios grupos punteros de la época.
@@ -10525,7 +10525,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250726203500 +0200" stop="20250726220500 +0200" channel="8 Madrid TV">
+  <programme start="20250726203500 +0200" stop="20250726220500 +0200" channel="8Madrid TV">
     <title lang="es">Carretera y manta</title>
     <desc lang="es">2000 | +12
 · Un ejecutivo y su novia, que es médico, son secuestrados por una pareja que pretende que los ayuden a pasar a Francia en coche. Los secuestradores se proponen ir a Brasil con la intención de montar un restaurante. Ella es una simple cocinera que logra convencer a su marido, que disfruta de un permiso penitenciario de un día, para que se fugue con ella.
@@ -10535,7 +10535,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20250726220500 +0200" stop="20250726235900 +0200" channel="8 Madrid TV">
+  <programme start="20250726220500 +0200" stop="20250726235900 +0200" channel="8Madrid TV">
     <title lang="es">Luna de lobos</title>
     <desc lang="es">1987 | +12
 · Al término de la Guerra Civil Española (1936-1939), algunos combatientes republicanos continúan hostigando a los vencedores con operaciones guerrilleras. Una de las zonas de resistencia fueron las montañas de León. En la comarca de Riaño, media docena de maquis mantienen una lucha muy desigual contra la Guardia Civil. Ramiro, Santiago y Gildo, tres milicianos, son perseguidos por una patrulla de la Benemérita al mando de un sargento que está enamorado de la misma mujer que Ramiro. Para conseguir el dinero suficiente que les permita llegar a Francia, los milicianos secuestran al dueño de una mina y exigen 150.000 pesetas a cambio de su libertad.
@@ -10545,7 +10545,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20250727000000 +0200" stop="20250727013000 +0200" channel="8 Madrid TV">
+  <programme start="20250727000000 +0200" stop="20250727013000 +0200" channel="8Madrid TV">
     <title lang="es">El portero</title>
     <desc lang="es">2000 | TP
 · En 1948, Ramiro Forteza, ex-guardameta de fútbol que llegó a jugar en Primera División, se gana la vida de pueblo en pueblo retando a los lugareños a que le tiren penalties, con unas monedas en juego para quien consiga batirle.
@@ -10555,13 +10555,13 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250727013000 +0200" stop="20250727033000 +0200" channel="8 Madrid TV">
+  <programme start="20250727013000 +0200" stop="20250727033000 +0200" channel="8Madrid TV">
     <title lang="es">Galería del coleccionista</title>
     <desc lang="es">2025
 · Televenta.
 </desc>
   </programme>
-  <programme start="20250727033000 +0200" stop="20250727050000 +0200" channel="8 Madrid TV">
+  <programme start="20250727033000 +0200" stop="20250727050000 +0200" channel="8Madrid TV">
     <title lang="es">Verdad brutal</title>
     <desc lang="es">2000 | +16
 · Un grupo de jóvenes se reune en casa de Emily para pasar el fin de semana. Sin embargo, Emily no aparece. La primera noche, un leve temblor de tierra despierta a todos. Salen corriendo al jardin y encuentran a una chica ahorcada: es Emily. Tendrán que seguir alli. Las carreteras están bloqueadas.
@@ -10571,7 +10571,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250727050000 +0200" stop="20250727062500 +0200" channel="8 Madrid TV">
+  <programme start="20250727050000 +0200" stop="20250727062500 +0200" channel="8Madrid TV">
     <title lang="es">Los hombres las prefieren viudas</title>
     <desc lang="es">1970 | +12
 · Una joven finge haber perdido a su marido para poder casarse con un millonario que las prefiere viudas. Pero cuando el romance alcanza su apogeo, aparece el difunto con el consiguiente enredo.
@@ -10581,7 +10581,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20250727062500 +0200" stop="20250727080000 +0200" channel="8 Madrid TV">
+  <programme start="20250727062500 +0200" stop="20250727080000 +0200" channel="8Madrid TV">
     <title lang="es">Cara de ángel</title>
     <desc lang="es">1953 | TP
 · Frank Jessup es un enfermero de urgencias que acude a una mansión para atender a la señora Tremayne que, según parece, ha intentado suicidarse. Sin embargo él sospecha que en realidad alguien ha intentado asesinarla. Allí conoce también a Diane, la hijastra de la señora Tremayne, una joven delicada, sensual y un tanto inestable, ante la que cae rendido inmediatamente.
@@ -10591,19 +10591,19 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250727080000 +0200" stop="20250727093000 +0200" channel="8 Madrid TV">
+  <programme start="20250727080000 +0200" stop="20250727093000 +0200" channel="8Madrid TV">
     <title lang="es">EHS</title>
     <desc lang="es">2025
 · Televenta.
 </desc>
   </programme>
-  <programme start="20250727093000 +0200" stop="20250727103000 +0200" channel="8 Madrid TV">
+  <programme start="20250727093000 +0200" stop="20250727103000 +0200" channel="8Madrid TV">
     <title lang="es">Galería del coleccionista</title>
     <desc lang="es">2025
 · Televenta.
 </desc>
   </programme>
-  <programme start="20250727103000 +0200" stop="20250727113500 +0200" channel="8 Madrid TV">
+  <programme start="20250727103000 +0200" stop="20250727113500 +0200" channel="8Madrid TV">
     <title lang="es">Programa salud</title>
     <desc lang="es">2025 | TP
 
@@ -10612,7 +10612,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250727113500 +0200" stop="20250727120000 +0200" channel="8 Madrid TV">
+  <programme start="20250727113500 +0200" stop="20250727120000 +0200" channel="8Madrid TV">
     <title lang="es">La ciudad es para ti</title>
     <desc lang="es">2025 | TP
 
@@ -10621,13 +10621,13 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250727120000 +0200" stop="20250727123000 +0200" channel="8 Madrid TV">
+  <programme start="20250727120000 +0200" stop="20250727123000 +0200" channel="8Madrid TV">
     <title lang="es">Galería del coleccionista</title>
     <desc lang="es">2025
 · Televenta.
 </desc>
   </programme>
-  <programme start="20250727123000 +0200" stop="20250727133500 +0200" channel="8 Madrid TV">
+  <programme start="20250727123000 +0200" stop="20250727133500 +0200" channel="8Madrid TV">
     <title lang="es">Cocina familiar</title>
     <desc lang="es">2025 | TP
 · Cada día una receta de comida fácil y familiar con Javier Romero.
@@ -10637,7 +10637,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250727133500 +0200" stop="20250727141500 +0200" channel="8 Madrid TV">
+  <programme start="20250727133500 +0200" stop="20250727141500 +0200" channel="8Madrid TV">
     <title lang="es">Aquí me las den todas - Cap. 47</title>
     <desc lang="es">+12
 
@@ -10646,7 +10646,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20250727141500 +0200" stop="20250727143500 +0200" channel="8 Madrid TV">
+  <programme start="20250727141500 +0200" stop="20250727143500 +0200" channel="8Madrid TV">
     <title lang="es">La ciudad es para ti</title>
     <desc lang="es">2025 | TP
 
@@ -10655,7 +10655,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250727143500 +0200" stop="20250727150000 +0200" channel="8 Madrid TV">
+  <programme start="20250727143500 +0200" stop="20250727150000 +0200" channel="8Madrid TV">
     <title lang="es">El Escaparate</title>
     <desc lang="es">2025 | TP
 · Una cita con la actualidad madrileña: la gastronomía, el turismo, la salud, las empresas y mucho más.
@@ -10664,7 +10664,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250727150000 +0200" stop="20250727153000 +0200" channel="8 Madrid TV">
+  <programme start="20250727150000 +0200" stop="20250727153000 +0200" channel="8Madrid TV">
     <title lang="es">Programa salud</title>
     <desc lang="es">2025 | TP
 
@@ -10673,7 +10673,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250727153000 +0200" stop="20250727172000 +0200" channel="8 Madrid TV">
+  <programme start="20250727153000 +0200" stop="20250727172000 +0200" channel="8Madrid TV">
     <title lang="es">El corazón de la tierra</title>
     <desc lang="es">2007 | +12
 · Una compañía británica, propietaria de las legendarias minas de Riotinto, Huelva, somete a sus trabajadores, en la mayor mina a cielo abierto del mundo, a unas condiciones de trabajo miserables. Los mineros se ponen en huelga y protestan contra los humos contaminantes. Es el 4 de febrero de 1888. La manifestación termina en un baño de sangre por los disparos de los soldados del ejército.
@@ -10683,7 +10683,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20250727172000 +0200" stop="20250727185000 +0200" channel="8 Madrid TV">
+  <programme start="20250727172000 +0200" stop="20250727185000 +0200" channel="8Madrid TV">
     <title lang="es">Madrugada</title>
     <desc lang="es">1957 | +7
 · La muerte de un famoso pintor lleva a la que ha convertido en su esposa, a averiguar quien de sus familiares había hablado mal de ella. Para ello avisa a todos los familiares de su marido, indicando que está moribundo y todavía no ha realizado el testamento. La noticia le permite reunir a los parientes de su marido que, poco a poco, se van mostrando tal y como son, descubriendo la personalidad que tenían oculta. La verdad se esclarece al final, sabiendo la mujer que fue un antiguo enamorado suyo.
@@ -10693,7 +10693,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20250727185000 +0200" stop="20250727201500 +0200" channel="8 Madrid TV">
+  <programme start="20250727185000 +0200" stop="20250727201500 +0200" channel="8Madrid TV">
     <title lang="es">Las dos y media y… veneno</title>
     <desc lang="es">1959 | TP
 · Don Senen se ha gastado en juergas la herencia de Begoña, su sobrina, que solo debía administrar. Queda por recibir un millón de pesetas, que solo será entregado a la muerte de Don Senen. El anciano, en complicidad con Begoña y otros dos sobrinos va a fingir su defunción mediante un certificado falso. Lo que no puede saber es que algunos de sus familiares no quieren que sea falsa y planean envenenarlo.
@@ -10703,7 +10703,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250727201500 +0200" stop="20250727220000 +0200" channel="8 Madrid TV">
+  <programme start="20250727201500 +0200" stop="20250727220000 +0200" channel="8Madrid TV">
     <title lang="es">Los guardiamarinas</title>
     <desc lang="es">1966 | TP
 · Después de un viaje a bordo del buque escuela ´Juan Sebastián Elcano´, el comandante Carlos Torres tiene que renunciar a sus vacaciones y hacerse cargo de la nueva promoción de aspirantes que llega a Marín. Entre los guardiamarinas de quinto curso está Enrique Andrade, hijo de un viejo contramaestre que no se resigna a retirarse. Pero Enrique prefiere vivir la vida en contraste con Miguel Montero, el alumno más estudioso y disciplinado. Entre ellos nacerá una violenta rivalidad cuando Miguel se enamora de María José, amiga íntima de Enrique.
@@ -10713,7 +10713,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250727220000 +0200" stop="20250727234500 +0200" channel="8 Madrid TV">
+  <programme start="20250727220000 +0200" stop="20250727234500 +0200" channel="8Madrid TV">
     <title lang="es">Extraños</title>
     <desc lang="es">1998 | +12
 · Sofía (María Casal) recibe la noticia del suicidio de su madre con aparente pasividad. A partir de esta circunstancia la conducta de Sofía resulta sospechosa para Eduardo (Sergi Mateu), su marido, quien contrata al detective Lamarca (Carmelo Gómez). Goyo Lamarca es un solitario investigador obsesionado por un sueño que se repite con frecuencia. Lamarca tratará de descifrar este misterioso sueño implicando en el mismo a las personas relacionadas con su actual investigación.
@@ -10723,7 +10723,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20250727234500 +0200" stop="20250727235900 +0200" channel="8 Madrid TV">
+  <programme start="20250727234500 +0200" stop="20250727235900 +0200" channel="8Madrid TV">
     <title lang="es">Ouija</title>
     <desc lang="es">2004 | +16
 · Clara, una joven y atractiva estudiante de periodismo, acaba de llegar al pueblo donde va a pasar sus vacaciones. Al poco de llegar conocerá a Víctor, un apasionado de las ciencias ocultas, que rápidamente quedará fascinado por los encantos de su nueva amiga. Juntos formarán un grupo de jóvenes que se reunirán para vivir una experiencia divertida a la vez que peligrosa: Hacer una sesión OUIJA. Para sorpresa de todos, la tabla empieza a moverse desde el principio. Un enigmático ser, que dice llamarse AUDSCIAS se comunica con los jóvenes a través de la Ouija, proponiéndoles juegos eróticos e insinuantes que provocan la curiosidad de todos. Una sesión tras otra el extraño ser pierde paulatinamente su aparente inocencia y empieza a poner a prueba a los participantes, exigiéndoles que hagan cosas para él. Uno de ellos se rebela y, poco después, sufre un brutal accidente. El grupo se divide entre los que creen que ha sido una casualidad y los que creen que es un castigo de ese tal Audscias. A partir de este momento una serie de extraños acontecimientos se sucederán en torno al grupo. Todos desconfían de todos y ya nadie está seguro de lo que realmente ocurre. La única forma de averiguar la verdad y terminar con toda esta pesadilla es seguir haciendo OUIJA.
