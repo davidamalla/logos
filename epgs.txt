@@ -18,4 +18,4 @@ https://www.open-epg.com/files/elsalvador1.xml.gz
 https://www.open-epg.com/files/argentina1.xml.gz
 https://www.open-epg.com/files/argentina3.xml.gz
 https://www.open-epg.com/files/argentina4.xml.gz
-https://github.com/HelmerLuzo/PlutoTV_HL/raw/refs/heads/main/epg/es.xml.gz
+https://github.com/HelmerLuzo/PlutoTV_HL/epg/es.xml.gz
