@@ -1,3 +1,11 @@
 24 Horas,TVE 24h
 324 Catalunya,3/24 Catalunya
 324,324
+7teleValencia,Canal 7 Televalencia
+8madrid TV,8 Madrid TV
+AMC Break,AMC Break
+AMC Crime,AMC Crime
+AMC HD,AMC HD
+AXN HD,AXN HD
+AXN Movies HD,AXN Movies HD
+Antena 3 HD,Antena 3 HD
