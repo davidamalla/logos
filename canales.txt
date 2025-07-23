@@ -1,11 +1,20 @@
-24 Horas,24 Horas
-324 Catalunya,324 Catalunya
-324,324
-7teleValencia,7teleValencia
-8madrid TV,8madrid TV
-AMC Break,AMC Break
-AMC Crime,AMC Crime
-AMC HD,AMC HD
-AXN HD,AXN HD
-AXN Movies HD,AXN Movies HD
-Antena 3 HD,Antena 3 HD
+5f1ac9a2d3611d0007a844bb,Pluto Cine Romántico
+655b5d865812e80008843bd1,Pluto Comedias Románticas 
+5f1ac8099c49f600076579b2,Pluto Cine Comedia
+5f1ac947dcd00d0007937c08,Pluto Cine Drama
+5f1ac2591dd8880007bb7d6d,Pluto Cine Acción
+5f1ac1f1b66c76000790ef27,Pluto Cine Estelar
+5f1ac8a87cd38d000745d7cf,Pluto Thrillers
+61373bb45168fe000773eecd,Pluto Cine Clásico
+65ce480a78df2200131c597b,Pluto Psycho
+6267d4d1fb694f0007a6af0e,Pluto Horror
+645a309c5a0cd5000873f609,Pluto Catástrofes
+65786888b228b7000843ad9a,Pluto Zombies
+60cc807324d60a0007708dc8,Pluto Cine de Autor
+5f6a38eaa5b68b0007a00e7a,Pluto Scifi
+6245c2a5eec07b0007249fc8,Sensación de vivir
+6076cd1df8576d0007c82193,VH1 Classics
+63c69c87808b740007599fe1,Canal Érase una vez
+64ddcbb14c5ed80008fad416,Crimen and historia (Pluto)
+67517f923a61d40008c451f0,Historia and vida (Pluto)
+67517fae5534bb0008187997,Actualidad 360 (Pluto)
