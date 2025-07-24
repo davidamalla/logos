@@ -336,7 +336,7 @@ MTV 90s.es,Mtv 90(Tivify)
 Atrescine.ar,A3 Cine (Tivify)
 EscapaTV.es,Escapa TV (Tivify)
 VinTV,VinTV
-GOL PLAY,GOL PLAY
+GOL,GOL
 Libertad Digital TV.es,Libertad Digital TV (Tivify)
 SX3-33.es,Canal 33 (EPG)
 Libertad.Digital.TV.es,Libertad.Digital.TV.es (EPG)
