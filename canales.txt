@@ -338,10 +338,10 @@ EscapaTV.es,Escapa TV (Tivify)
 VinTV,VinTV
 GOL,GOL
 Libertad Digital TV.es,Libertad Digital TV (Tivify)
-SX3-33.es,Canal 33 (EPG)
 Libertad.Digital.TV.es,Libertad.Digital.TV.es (EPG)
 Acontra+.es,Acontra+.es (EPG)
 tv rioja.es,tv rioja.es (Tivify)
 Navarra TV,Navarra TV
 Información TV,Información TV
 A3Cine.(Atrescine).es,A3Cine (EPG)
+Canal.33.es,CANAL33 (EPG)
