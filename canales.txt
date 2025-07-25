@@ -344,3 +344,4 @@ Acontra+.es,Acontra+.es (EPG)
 tv rioja.es,tv rioja.es (Tivify)
 Navarra TV,Navarra TV
 Información TV,Información TV
+A3Cine.(Atrescine).es,A3Cine (EPG)
