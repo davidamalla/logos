@@ -347,3 +347,4 @@ Información TV,Información TV
 A3Cine.(Atrescine).es,A3Cine (EPG)
 Canal.33.es,CANAL33 (EPG)
 Canal.Parlamento.es,Canal Parlamento (EPG)
+Thrillers (Rakuten TV),Thrillers (Rakuten TV)
