@@ -17,3 +17,5 @@ https://www.open-epg.com/files/elsalvador1.xml.gz
 https://www.open-epg.com/files/argentina1.xml.gz
 https://www.open-epg.com/files/argentina3.xml.gz
 https://www.open-epg.com/files/argentina4.xml.gz
+https://www.open-epg.com/generate/duMu5WNPC9.xml.gz
+https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz
