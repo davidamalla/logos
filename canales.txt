@@ -216,7 +216,7 @@ Vivir con gatos,Vivir con gatos
 Vivir con perros,Vivir con perros
 Warner TV HD,Warner TV HD
 XTRM,XTRM
-acontra+,acontra+
+Acontra+,Acontra+
 tvmataró,tvmataró
 VOTV,VOTV
 Vallès Visió,Vallès Visió
