@@ -351,3 +351,4 @@ Thrillers (Rakuten TV),Thrillers (Rakuten TV)
 Hit.TV.es,Hit tv (EPG)
 7TV.Andalucía.es,7TV.Andalucía.es (EPG)
 Imas.TV.es,Imas.TV.es (EPG)
+Imás TV,Imás TV
