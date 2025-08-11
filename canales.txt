@@ -354,3 +354,4 @@ Imas.TV.es,Imas.TV.es (EPG)
 Imás TV,Imás TV
 TVR Rioja,TVR Rioja
 8.Madrid.es,8 madrid tv (EPG)
+Libertad.Digital.TV.es,Libertad.Digital.TV.es. (EPG)
