@@ -329,6 +329,7 @@ ZUT TV.es,ZUT TV (Tivify)
 KSCEDT2.us,Vida Tv (Tivify)
 Daystar.ar,Daystar HD(Tivify)
 33.es,Canal 33(Tivify)
+Canal 33.es,CANAL 33 (tivify)
 Levante TV.es,Levante TV(Tivify)
 Bon Dia TV.es,Bon Dia(Tivify)
 Esport3 Catalunya,Esport3 Catalunya
