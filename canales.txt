@@ -359,3 +359,4 @@ cines-verdi,cines-verdi (Runtime)
 iConcerts,iConcerts
 A3CINE..uy,A3Cine (EPG)
 A3 Cine HD.uy,A3cine (tivify)
+7TV.Andalucía.es,7TV.Andalucía.es (EPG)
