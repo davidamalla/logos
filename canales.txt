@@ -1,6 +1,5 @@
 24 Horas,TVE 24h
-324 Catalunya,3/24 Catalunya
-324,324
+3CatInfo,3CatInfo
 7TV Andalucía,7TV Andalucía
 7teleValencia,Canal 7 Televalencia
 8madrid TV,8madrid TV
