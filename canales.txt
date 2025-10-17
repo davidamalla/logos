@@ -1,5 +1,6 @@
 ATV Andorra Televisión,ATV Andorra Televisión
 BBC Series,BBC Series
+BBC Earth,BBC Earth
 24 Horas,TVE 24h
 3CatInfo,3CatInfo
 7TV Andalucía,7TV Andalucía
