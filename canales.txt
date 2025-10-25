@@ -22,6 +22,7 @@ BBC Drama,BBC Drama
 BBC Food,BBC Food
 BBC History,BBC History
 BBC Top Gear,BBC Top Gear
+BBC Lifestyle,BBC Lifestyle
 BOM Cine,BOM Cine
 Baby TV,Baby TV
 Banyoles TV,Banyoles TV
