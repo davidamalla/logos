@@ -1,4 +1,3 @@
-ATV Andorra Televisión,ATV Andorra Televisión
 Acontra+.es,Acontra+.es(EPG)
 BBC Series,BBC Series
 BBC Earth,BBC Earth
@@ -368,3 +367,4 @@ M+ LaLiga HDR,M+ LaLiga HDR
 Club.MTV.International.es,Club.MTV (EPG)
 MTV.Hits.es,MTV.Hits (EPG)
 Club MTV.uy,Club MTV.uy (tivify)
+crimenes-reales,crimenes-reales(rakuten)
