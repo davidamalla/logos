@@ -300,7 +300,6 @@ La 7 Murcia,La 7 Murcia
 MTV 80s.ar,MTV 80s (Tivify)
 ENLACE TBN.ar,ENLACE TBN (Tivify)
 Canal Luz.ar,Canal Luz (Tivify)
-ALIENTOVISION.ar,Aliento Vision (Tivify)
 Tabernaculo Biblico Bautista.sv,Tabernaculo Biblico Bautista (Tivify)
 Bethel.hn,Bethel (Tivify)
 CCI Channel.hn,CCI Channel (Tivify)
@@ -343,8 +342,6 @@ GOL,GOL
 Libertad Digital TV.es,Libertad Digital TV (Tivify)
 Libertad.Digital.TV.es,Libertad.Digital.TV.es (EPG)
 Acontra+.es,Acontra+.es (EPG)
-tv rioja.es,tv rioja.es (Tivify)
-Navarra TV,Navarra TV
 Información TV,Información TV
 A3Cine.(Atrescine).es,A3Cine (EPG)
 Canal.33.es,CANAL33 (EPG)
@@ -352,9 +349,6 @@ Canal.Parlamento.es,Canal Parlamento (EPG)
 Thrillers (Rakuten TV),Thrillers (Rakuten TV)
 Hit.TV.es,Hit tv (EPG)
 7TV.Andalucía.es,7TV.Andalucía.es (EPG)
-Imas.TV.es,Imas.TV.es (EPG)
-Imás TV,Imás TV
-TVR Rioja,TVR Rioja
 8.Madrid.es,8 madrid tv (EPG)
 Libertad.Digital.TV.es,Libertad.Digital.TV.es. (EPG)
 cines-verdi,cines-verdi (Runtime)
