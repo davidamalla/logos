@@ -214,6 +214,13 @@ Runtime Thriller-Terror,Runtime Thriller-Terror
 RunTime Familia,RunTime Familia
 Pelis Top (Rakuten TV),Pelis Top (Rakuten TV)
 Películas Románticas (Rakuten TV),Películas Románticas (Rakuten TV)
+Sony One Éxitos,Sony One Éxitos
+Sony One Hits Acción,Sony One Hits Acción
+Sony One Hits Comedia,Sony One Hits Comedia
+Sony One Series Comedia,Sony One Series Comedia
+Sony One Series Thriller,Sony One Series Thriller
+Sony One Shark Tank,Sony One Shark Tank
+Sony One The Blacklist,Sony One The Blacklist
 À Punt,À Punt
 Vivir con gatos,Vivir con gatos
 Vivir con perros,Vivir con perros
