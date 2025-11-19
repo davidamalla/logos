@@ -1,3 +1,7 @@
+ES300002Y6,Sony One Series Thriller(sg)
+ES300003D4,Sony One Éxitos (sg)
+ES300005EL,Sony One The Blacklist (sg)
+ES30000145,Sony One Series Comedia (sg)
 BBC Series,BBC Series
 BBC Earth,BBC Earth
 24 Horas,TVE 24h
