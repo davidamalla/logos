@@ -1,4 +1,3 @@
-ES3200001F1,BBC ESRTH (sg)
 ES:.NOW.90s00s.be,Now 90 EPG
 ES:.Estilo.y.Vida.-.Rakuten.TV.be,Estilo De Vida EPG
 ES:.Travelxp.be,Travelxp EPG
