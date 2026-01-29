@@ -1,3 +1,4 @@
+acontra+,acontra+
 Star TVE HD,Star TVE HD
 ES:.NOW.90s00s.be,Now 90 EPG
 ES:.Estilo.y.Vida.-.Rakuten.TV.be,Estilo De Vida EPG
@@ -257,7 +258,6 @@ Vivir con gatos,Vivir con gatos
 Vivir con perros,Vivir con perros
 Warner TV HD,Warner TV HD
 XTRM,XTRM
-Acontra+,Acontra+
 tvmataró,tvmataró
 VOTV,VOTV
 Vallès Visió,Vallès Visió
