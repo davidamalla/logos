@@ -1,5 +1,5 @@
 https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml
-https://helmerLuzo.github.io/PlutoTV_HL/main/epg/es.xml.gz
+https://helmerLuzo.github.io/PlutoTV_H/epg/es.xml.gz
 https://helmerLuzo.github.io/RuntimeTV_HL/epg/RuntimeTV.xml.gz
 https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz
 https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/es.xml.gz
