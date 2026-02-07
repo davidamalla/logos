@@ -1,6 +1,7 @@
 Punt.3.es,punt3
 Punt 3,Punt 3
 daystar-spa,Daystar Español
+Daystar.Español.be,daystarespañol
 643054b1fc3be59477853717-6922322350fe592fd6d5b7e6,Sony One | Hits Acción
 643054b1fc3be59477853717-692235265cbe620c1f9b6bc7,Sony One | Series Thriller
 643054b1fc3be59477853717-6922338150fe592fd6d5b7e8,Sony One | Series Comedia
