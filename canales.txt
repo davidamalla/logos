@@ -1,3 +1,7 @@
+etb1.es,etb1.es
+etb1ON.es,etb1ON.es
+etb2.es,etb2.es
+etb2ON.es,etb2ON.es
 Qwest TV,Qwest TV
 Popular.TV.Cantabria.es,Popular.TV.Cantabria.es
 Popular TV Cantabria,Popular TV Cantabria
