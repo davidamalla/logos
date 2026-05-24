@@ -1,3 +1,4 @@
+ES:.Ideas.en.5.minutos.be,5 minutos
 ES:.That`s.70s.be,thats 70
 ES:.That`s.80s.be,thats 80
 ES:.That`s.90s00s.be,thats 90
