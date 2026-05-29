@@ -1,3 +1,4 @@
+ES:.Cine.Friki.be,cine friki (epg)
 ES:.Crímenes.Reales.be,crimenes reales (epg)
 ES:.Archivos.Forenses.be,archivos forenses (epg)
 ES:.The.Pet.Collective.be,the pet collective (epg)
