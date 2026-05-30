@@ -1,3 +1,4 @@
+plex.tv.Movie.Music.by.Stingray.plex,plex.tv.Movie.Music.by.Stingray.plex
 plex.tv.MOVIESPHERE.plex,plex.tv.MOVIESPHERE.plex
 plex.tv.MyTime.Movie.Network.plex,plex.tv.MyTime.Movie.Network.plex
 plex.tv.Qwest.TV.plex,plex.tv.Qwest.TV.plex
