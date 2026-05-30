@@ -1,4 +1,4 @@
-Classica.es,classica (tivify)
+Qello.distro,Qello.distro
 ES:.Pocoyó.be,pocoyo (epg)
 ES:.Todo.Crimen.be,todo crimen (epg)
 Daystar.es,daystar (tivify)
