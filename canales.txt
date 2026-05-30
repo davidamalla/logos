@@ -1,3 +1,4 @@
+plex.tv.Naturaleza.plex,plex.tv.Naturaleza.plex
 ES:.Naturaleza.be,ES:.Naturaleza.be
 ES4400002LI,Mi casa (sg)
 plex.tv.Mi.Casa.plex,plex.tv.Mi.Casa.plex
