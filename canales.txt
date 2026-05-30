@@ -1,3 +1,5 @@
+plex.tv.Stingray.DJAZZ.plex,plex.tv.Stingray.DJAZZ.plex
+plex.tv.Stingray.Classica.Stream.plex,plex.tv.Stingray.Classica.Stream.plex
 plex.tv.The.Pet.Collective.plex,plex.tv.The.Pet.Collective.plex
 plex.tv.Todo.Crimen.plex,plex.tv.Todo.Crimen.plex
 OurVinyl.distro,OurVinyl.distro
