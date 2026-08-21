@@ -137,6 +137,8 @@ Crimen&amp;Historia,Crimen&amp;Historia
 crimenes-reales,Crimenes Reales (Rakuten)
 Cuatro HD,Cuatro HD
 DARK,DARK
+Daystar.ar,DAYSTAR ESPAÑOL
+Daystar.pe,DAYSTARESPAÑOL
 DAZN 1 HD,DAZN 1 HD
 DAZN 2 HD,DAZN 2 HD
 DAZN F1 HD,DAZN F1 HD
