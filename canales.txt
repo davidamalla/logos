@@ -199,7 +199,6 @@ ES:.Vevo.Latino.be,vevo latino
 ES:.Vevo.Pop.be,vevo pop
 ES26000068D,ESTILO DE VIDA (sg)
 ES2900002JG,Gipsy Kings (sg)
-ESBD230000289,Vevo Retro (sg)
 ES12000024R,Historia y vida (Samsungtv)
 ES1600004JV,todo crimen (sg)
 ES260000968,Euronews (Samsungtv)
