@@ -137,12 +137,6 @@ Crimen&amp;Historia,Crimen&amp;Historia
 crimenes-reales,Crimenes Reales (Rakuten)
 Cuatro HD,Cuatro HD
 DARK,DARK
-Dark.Matter.TV.distro,Dark.Matter.TV.distro
-dark-matter-es-new,Dark Matter (Rakuten)
-Daystar.ar,Daystar HD(Tivify)
-Daystar.es,daystar (tivify)
-Daystar.Español.distro,Daystar.Español.distro
-daystar-spa,Daystar Español
 DAZN 1 HD,DAZN 1 HD
 DAZN 2 HD,DAZN 2 HD
 DAZN F1 HD,DAZN F1 HD
