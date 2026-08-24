@@ -197,6 +197,7 @@ ES:.Travelxp.be,ES:.Travelxp.be
 ES:.Travelxp.be,Travelxp EPG
 ES:.Vevo.Latino.be,vevo latino
 ES:.Vevo.Pop.be,vevo pop
+ES2600004BD,Rakuten Accion (sg)
 ES26000068D,ESTILO DE VIDA (sg)
 ES2900002JG,Gipsy Kings (sg)
 ES12000024R,Historia y vida (Samsungtv)
