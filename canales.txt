@@ -411,6 +411,9 @@ that-s-70s,thats70
 that-s-80s,thats 80
 that-s-90s00s,thats 90
 thriller-rakuten-tv,Pelis Thrillers(Rakuten)
+Todo Crimen (Rakuten TV),TODO CRIMEN TV
+Todo Drama (Rakuten TV),TODO DRAMA TV
+Todo Novelas (Rakuten TV),TODO NOVELAS TV
 Thrillers (Rakuten TV),Thrillers (Rakuten TV)
 todo-crimen,Todo crimen (Rakuten)
 top-movies-rakuten-tv,Pelis top (Rakuten)
