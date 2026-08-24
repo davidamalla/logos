@@ -383,6 +383,7 @@ SkyShowtime,SkyShowtime
 Sol Música,Sol Música
 Solidaria.TV.Argentina.es,Solidaria.TV.Argentina.es
 Solidaria.TV.España.es,Solidaria.TV.España.es
+Solidaria TV España,Solidaria tv
 Somos,Somos
 Sony One Éxitos,Sony One Éxitos
 Sony One Hits Acción,Sony One Hits Acción
