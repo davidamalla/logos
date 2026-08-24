@@ -128,7 +128,7 @@ Classica HD,Classica HD
 Classica.distro,Classica.distro
 CMM TV,CMM TV
 CNN en Español,CNN en Español
-Comedias (Rakuten TV),Comedias (Rakuten TV)
+Comedia (Rakuten TV),Comedia (Rakuten TV)
 Comedy Central HD,Comedy Central HD
 comedy-rakuten-tv,Pelis comedia (Rakuten)
 Cosmo HD,Cosmo HD
