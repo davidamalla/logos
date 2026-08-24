@@ -331,12 +331,10 @@ NickMusic,NickMusic
 Nova,Nova
 Odisea,Odisea
 Paramount Network,Paramount Network
-Pelis Top (Rakuten TV)
-Películas Románticas (Rakuten TV)
-Películas de Acción (Rakuten TV)
-Películas de Drama (Rakuten TV)
-Películas Románticas (Rakuten TV),Películas Románticas (Rakuten TV)
-Pelis Top (Rakuten TV),Pelis Top (Rakuten TV)
+Pelis Top (Rakuten TV),Pelis top tv
+Películas Románticas (Rakuten TV),Peliculas romanticas tv
+Películas de Acción (Rakuten TV),Peliculas accion tv
+Películas de Drama (Rakuten TV),Peliculas drama tv
 Planeta de Cine.es,Planeta de Cine (Tivify)
 plex.tv.Buen.Viaje.plex,plex.tv.Buen.Viaje.plex
 plex.tv.Mi.Casa.plex,plex.tv.Mi.Casa.plex
