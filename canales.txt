@@ -117,6 +117,7 @@ Canal.Parlamento.es,Canal Parlamento (EPG)
 Canal21 Ebre,Canal21 Ebre
 Cine Español (Rakuten TV),Cine Español (Rakuten TV)
 Cine Feel Good,Cine Feel Good
+Cine Friki (Rakuten TV),Cine friki tv
 Cine Friki,Cine Friki
 Cine Friki.es,Cine Friki (Tivify)
 cine-friki,Cine friki (Rakuten)
