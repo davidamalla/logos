@@ -402,6 +402,7 @@ Squirrel TV,Squirrel TV
 Squirrel.2.es,Squirrel.2.es
 STAR Channel HD,STAR Channel HD
 Star TVE HD,Star TVE HD
+StingrayiConcerts.at,StingrayiConcerts.at
 Sundance TV,Sundance Tv
 SX3 Catalunya,SX3 Catalunya
 SX3,SX3
