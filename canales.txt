@@ -245,6 +245,7 @@ IN800001OD,Thats 70 (sg)
 IN8000027E,Thats 80 (sg)
 IN800004YV,Thats 90 (sg)
 iConcerts.es,iConcerts.es
+interalmería TV,interalmería TV
 Escapa TV,Escapa TV
 EscapaTV.es,Escapa TV (Tivify)
 Esport 3,Esport 3
