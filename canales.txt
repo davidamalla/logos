@@ -3,6 +3,7 @@
 24 Horas,TVE 24h
 33.es,Canal 33(Tivify)
 3CatInfo,3CatInfo
+6868152657543d1f8be4ece3,Concert Channel
 5f1ac1f1b66c76000790ef27,Pluto Cine Estelar
 5f1ac2591dd8880007bb7d6d,Pluto Cine Acción
 5f1ac8099c49f600076579b2,Pluto Cine Comedia
