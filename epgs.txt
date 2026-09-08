@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml
+https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_color2.xml.gz
 https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml.gz
 https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/es.xml.gz
 https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml.gz
