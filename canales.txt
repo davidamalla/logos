@@ -74,6 +74,7 @@ AMC Break,AMC Break
 AMC Crime,AMC Crime
 AMC HD,AMC HD
 AMC Living,AMC Living
+AMC Selekt TV,AMC Selekt TV
 Andalucía TV,Andalucía TV
 Antena 3 HD,Antena 3 HD
 Aragón TV,Aragón TV
