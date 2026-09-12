@@ -126,6 +126,7 @@ cine-friki,Cine friki (Rakuten)
 Cines Verdi TV,Cines Verdi TV
 cines-verdi,cines-verdi (Runtime)
 Clan,Clan
+CA400002ZK,Djazz (sg)
 Classica HD,Classica HD
 Classica.distro,Classica.distro
 CMM TV,CMM TV
@@ -156,7 +157,6 @@ Distrito TV,Distrito TV
 Distrito TV.es,Distrito TV (Tivify)
 Distrito.TV.es,Distrito TV (EPG)
 Divinity,Divinity
-DJazz.distro,DJazz.distro
 Djazz.es,Djazz (Tivify)
 DKISS,DKISS
 DMAX,DMAX
