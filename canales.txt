@@ -127,6 +127,7 @@ Cines Verdi TV,Cines Verdi TV
 cines-verdi,cines-verdi (Runtime)
 Clan,Clan
 CA400002ZK,Djazz (sg)
+CA4700002IH,Movie Music (sg)
 Classica HD,Classica HD
 Classica.distro,Classica.distro
 CMM TV,CMM TV
@@ -160,7 +161,6 @@ Divinity,Divinity
 Djazz.es,Djazz (Tivify)
 DKISS,DKISS
 DMAX,DMAX
-drama-rakuten-tv,Pelis drama (Rakuten)
 Dramas (Rakuten TV),Dramas (Rakuten TV)
 Dreamworks HD,Dreamworks HD
 e50a8f06d3245c95a4e250dc5c33c2be,vevo pop (roku)
