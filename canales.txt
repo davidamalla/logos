@@ -185,6 +185,7 @@ ES:.En.Familia.-.Rakuten.TV.be,ES:.En.Familia.-.Rakuten.TV.be
 ES:.Estilo.y.Vida.-.Rakuten.TV.be,Estilo De Vida EPG
 ES:.Ideas.en.5.minutos.be,5 minutos
 ES:.Los.Gipsy.Kings.-.Rakuten.TV.be,gipsy kings
+ES:.MyTime.Movie.Network.be,ES:.MyTime.Movie.Network.be
 ES:.Naturaleza.be,ES:.Naturaleza.be
 ES:.Películas.de.Acción.-.Rakuten.TV.be,ES:.Películas.de.Acción.-.Rakuten.TV.be
 ES:.Películas.de.Drama.-.Rakuten.TV.be,ES:.Películas.de.Drama.-.Rakuten.TV.be
