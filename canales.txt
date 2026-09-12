@@ -230,7 +230,7 @@ ES4400002LI,Mi casa (sg)
 ES4800002OZ,caillou
 ES900002ZD,todo pasion
 ESAJ4500016BH,pet collective
-ESBA33000262Z,bob esponja
+ESBA33000262Z,bob esponja (sg)
 ESBA3300042Y6,Trace latina (Samsungtv)
 ESBA3300043M0,Trace urban (Samsungtv)
 ESBC1400001L8,El Confidencial (Samsungtv)
