@@ -385,6 +385,7 @@ Runtime Romance,Runtime Romance
 Runtime Series,Runtime Series
 Runtime Thriller-Terror,Runtime Thriller-Terror
 runtime-familia-1,Runtime Familia (Runtime)
+SciFi HD,SciFi HD
 SELEKT,SELEKT
 Sin Filtros.es,Sin Filtros (Tivify)
 SkyShowtime,SkyShowtime
