@@ -57,6 +57,8 @@
 67517f923a61d40008c451f0,Historia and vida (Pluto)
 67517fae5534bb0008187997,Actualidad 360 (Pluto)
 676e7b4a4bd636000819c6a7,Pluto Sensacine tv
+66d71c656b63480008cf0427,cherif
+6578808014fbe400086e21bc,medium
 69791edb54d953268aa8933e2cb29a32,pet collective (roku)
 707e6e216be8369fb30f6960f8cf667e,ed sullivan (roku)
 7teleValencia,Canal 7 Televalencia
@@ -252,6 +254,10 @@ IN8000027E,Thats 80 (sg)
 IN800004YV,Thats 90 (sg)
 iConcerts.es,iConcerts.es
 interalmería TV,interalmería TV
+lgelc6000004404_ES,Lg 1
+lgelc6000004406_ES,Lg 1+
+lgelc6000011371_ES,Lg film
+lgelc6000011361_ES,Lg spotlight
 Escapa TV,Escapa TV
 EscapaTV.es,Escapa TV (Tivify)
 Esport 3,Esport 3
