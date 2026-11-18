@@ -205,6 +205,10 @@ ES:.Travelxp.be,ES:.Travelxp.be
 ES:.Travelxp.be,Travelxp EPG
 ES:.Vevo.Latino.be,vevo latino
 ES:.Vevo.Pop.be,vevo pop
+ES1300002TA,Accion +
+ES13000040O,Books
+ES1300006Z3,Epic
+ES1300005HE,Alma
 ES18000040D,BBCLIFE (sg)
 ES2600004BD,Rakuten Accion (sg)
 ES26000068D,ESTILO DE VIDA (sg)
