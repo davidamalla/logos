@@ -206,6 +206,9 @@ ES:.Travelxp.be,Travelxp EPG
 ES:.Vevo.Latino.be,vevo latino
 ES:.Vevo.Pop.be,vevo pop
 ES:.Navidad.-.Rakuten.TV.be,Navidad Rakuten
+ES1800003JN,Bbc Food
+ES1800005H2,Bbc hostoria
+ES2900001DQ,Bbc Series
 ES1300002TA,Accion +
 ES13000040O,Books
 ES1300006Z3,Epic
