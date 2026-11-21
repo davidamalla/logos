@@ -254,6 +254,7 @@ ESBD230000289,Vevo Retro
 ESBD2300004Y7,Sol Musica (Samsungtv)
 ESBD3400001AA,Negocios TV (Samsungtv)
 ESBD800001RJ,Friki (Samsungtv)
+ES260001081,Rakuten Navidad
 IN800001OD,Thats 70 (sg)
 IN8000027E,Thats 80 (sg)
 IN800004YV,Thats 90 (sg)
