@@ -205,6 +205,7 @@ ES:.Travelxp.be,ES:.Travelxp.be
 ES:.Travelxp.be,Travelxp EPG
 ES:.Vevo.Latino.be,vevo latino
 ES:.Vevo.Pop.be,vevo pop
+ES:.Navidad.-.Rakuten.TV.be,Navidad Rakuten
 ES1300002TA,Accion +
 ES13000040O,Books
 ES1300006Z3,Epic
