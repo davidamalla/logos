@@ -2,10 +2,7 @@ name: miEPG
 
 on:
   schedule:
-    - cron: '30 6 * * *'  # Ejecuta a las 6:30 AM cada día.
-    - cron: '30 10 * * *' # Ejecuta a las 10:30 AM cada día.
-    - cron: '30 14 * * *' # Ejecuta a las 2:30 PM cada día.
-    - cron: '30 18 * * *' # Ejecuta a las 6:30 PM cada día.
+  - cron: '30 */3 * * *'   # cada 3 horas
   workflow_dispatch: # Permite ejecutar manualmente el flujo de trabajo.
 permissions:
    contents: write
