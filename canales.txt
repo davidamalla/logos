@@ -70,9 +70,7 @@ A3CINE.es,A3CINE.es
 Acción (Rakuten TV),Acción (Rakuten TV)
 acontra+,acontra+
 Acontra+.es,Acontra+.es (EPG)
-action-rakuten-tv,Pelis accion (Rakuten)
 Actualidad 360.es,Actualidad 360 (Tivify)
-Alacantí TV,Alacantí TV
 AMC Break,AMC Break
 AMC Crime,AMC Crime
 AMC HD,AMC HD
@@ -103,7 +101,6 @@ Bon Dia TV,Bon Dia TV
 Bon Dia TV.es,Bon Dia(Tivify)
 Bon.Dia.TV.es,Bon.Dia.TV.es
 Calle 13 HD,Calle 13 HD
-Canal 10 Empordà,Canal 10 Empordà
 Canal 33.es,CANAL 33 (tivify)
 Canal Cocina,Canal Cocina
 Canal Extremadura,Canal Extremadura
@@ -112,7 +109,6 @@ Canal FlixOle 1.es,Canal FlixOle 1.es
 Canal FlixOlé 2,Canal FlixOlé 2
 Canal FlixOle 2.es,Canal FlixOle 2.es
 Canal Hollywood HD,Canal Hollywood HD
-Canal Luz.ar,Canal Luz (Tivify)
 Canal Parlamento.es,Canal Parlamento (Tivify)
 Canal Sur Andalucía,Canal Sur Andalucía
 Canal Sur HD,Canal Sur HD
@@ -125,24 +121,19 @@ Cine Feel Good,Cine Feel Good
 Cine Friki (Rakuten TV),Cine friki tv
 Cine Friki,Cine Friki
 Cine Friki.es,Cine Friki (Tivify)
-cine-friki,Cine friki (Rakuten)
 Cines Verdi TV,Cines Verdi TV
-cines-verdi,cines-verdi (Runtime)
 Clan,Clan
 CA400002ZK,Djazz (sg)
 CA4700002IH,Movie Music (sg)
 Classica HD,Classica HD
-Classica.distro,Classica.distro
 CMM TV,CMM TV
 CNN en Español,CNN en Español
 Comedia (Rakuten TV),Comedia (Rakuten TV)
 Comedy Central HD,Comedy Central HD
-comedy-rakuten-tv,Pelis comedia (Rakuten)
 Cosmo HD,Cosmo HD
 Crimen (Rakuten TV),Crimen (Rakuten TV)
 Crimen and Historia.es,Crimen and Historia (Tivify)
 Crimen&amp;Historia,Crimen&amp;Historia
-crimenes-reales,Crimenes Reales (Rakuten)
 Concert Channel,Concert Channel
 Cuatro HD,Cuatro HD
 DARK,DARK
@@ -152,7 +143,6 @@ DAZN 1 HD,DAZN 1 HD
 DAZN 2 HD,DAZN 2 HD
 DAZN F1 HD,DAZN F1 HD
 DAZN LaLiga HD,DAZN LaLiga HD
-Decasa,Decasa
 Deutsche W,Deutsche W
 Discovery,Discovery
 Disney Channel,Disney Channel
@@ -262,7 +252,6 @@ IN800001OD,Thats 70 (sg)
 IN8000027E,Thats 80 (sg)
 IN800004YV,Thats 90 (sg)
 iConcerts.es,iConcerts.es
-interalmería TV,interalmería TV
 lgelc6000004404_ES,Lg 1
 lgelc6000004406_ES,Lg 1+
 lgelc6000011371_ES,Lg film
@@ -285,10 +274,7 @@ Eurosport 1 HD,Eurosport 1 HD
 Eurosport 2,Eurosport 2
 EWTN,EWTN
 Factoría de Ficción,Factoría de Ficción
-family-rakuten-tv,Rakuten En Familia
 FIFA+,FIFA+
-filmrise-archivos-forenses,Forensic Files (Rakuten)
-gipsy-kings-rakuten-tv,gipsy-kings-rakuten-tv
 Global.Tendencias.TV.es,Global.Tendencias.TV.es
 GOL,GOL
 643054b1fc3be59477853717-666e2178d91d13cb4c8cbb75,naturaleza (plex)
@@ -298,7 +284,6 @@ Historia y Vida.es,Historia y Vida (Tivify)
 Historia,Historia
 IB3 TV Illes Balears,IB3 TV Illes Balears
 iConcerts,iConcerts
-Información TV,Información TV
 La 1 HD,La 1 HD
 La 2,La 2
 La 7 CyL,La 7 CyL
@@ -312,7 +297,6 @@ Levante TV.es,Levante TV(Tivify)
 Libertad Digital TV,Libertad Digital TV
 Libertad Digital TV.es,Libertad Digital TV (Tivify)
 Libertad.Digital.TV.es,Libertad.Digital.TV.es (EPG)
-lifestyle-rakuten-tv,Estilo De Vida (Rakuten)
 Lleida TV,Lleida TV
 M+ Acción HD,M+ Acción HD
 M+ Cero,M+ Cero
@@ -343,8 +327,6 @@ MTV España,MTV España
 Multicine atresplayer,Multicine atresplayer
 Multicine.es,Multicine.es
 MyTime Movie Network (Rakuten TV),MyTime Movie Network (Rakuten TV)
-mytime-movie-network,My Time Network (Runtime)
-mytime-movie-network-spanish,My time (Rakuten)
 Nat Geo Wild HD,Nat Geo Wild HD
 National Geographic HD,National Geographic HD
 Navarra TV,Navarra TV
@@ -384,12 +366,10 @@ Punt.3.es,punt3
 Qello concerts,Qello concerts
 Qello Concerts.es,Qello Concerts (Tivify)
 Qello.distro,Qello.distro
-qello-concerts-by-stingray,Qello (Rakuten)
 QWest Mix,QWest Mix
 Qwest TV,Qwest TV
 qwest-tv,Qwest TV (Rakuten)
 Real Madrid TV,Real Madrid TV
-romance-rakuten-tv,Pelis romanticas (Rakuten)
 Runtime Acción,Runtime Acción
 Runtime Cine y Series,Runtime Cine y Series
 RunTime Clásicos,RunTime Clásicos
@@ -399,8 +379,6 @@ RunTime Familia,RunTime Familia
 Runtime Familia.es,Runtime Familia (Tivify)
 Runtime Romance,Runtime Romance
 Runtime Series,Runtime Series
-Runtime Thriller-Terror,Runtime Thriller-Terror
-runtime-familia-1,Runtime Familia (Runtime)
 SciFi HD,SciFi HD
 SELEKT,SELEKT
 Sin Filtros.es,Sin Filtros (Tivify)
@@ -417,7 +395,6 @@ Sony One Series Comedia,Sony One Series Comedia
 Sony One Series Thriller,Sony One Series Thriller
 Sony One Shark Tank,Sony One Shark Tank
 Sony One The Blacklist,Sony One The Blacklist
-spanish-cinema-rakuten-tv,Pelis español (Rakuten)
 Squirrel 2,Squirrel 2
 Squirrel TV,Squirrel TV
 Squirrel.2.es,Squirrel.2.es
@@ -434,21 +411,14 @@ Telecinco HD,Telecinco HD
 Teledeporte,Teledeporte
 Telemadrid,Telemadrid
 Ten,Ten
-that-s-70s,thats70
-that-s-80s,thats 80
-that-s-90s00s,thats 90
-thriller-rakuten-tv,Pelis Thrillers(Rakuten)
 Todo Crimen (Rakuten TV),TODO CRIMEN TV
 Todo Drama (Rakuten TV),TODO DRAMA TV
 Todo Novelas (Rakuten TV),TODO NOVELAS TV
 Thrillers (Rakuten TV),Thrillers (Rakuten TV)
-todo-crimen,Todo crimen (Rakuten)
-top-movies-rakuten-tv,Pelis top (Rakuten)
 TPA Asturias,TPA Asturias
 TRACE Latina,TRACE Latina
 TRACE Urban,TRACE Urban
 Trailers.es,Trailers (Tivify)
-travelxp-es,Travel xp (Rakuten)
 TRECE,TRECE
 TV Canaria,TV Canaria
 TV Girona,TV Girona
@@ -459,8 +429,6 @@ TVG Europa HD,TVG Europa HH
 TVG,TVG
 TVG2,TVG2
 Veo7,Veo7
-vevo-latino-es,Vevo Latino (Rakuten)
-vevo-pop-es,Vevo Pop (Rakuten)
 Viajes y Sabores,Viajes y Sabores
 Viajes y Sabores.es,Viajes y Sabores (Tivify)
 VinTV,VinTV
