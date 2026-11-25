@@ -2,7 +2,7 @@ name: miEPG
 
 on:
   # schedule:
-  #   - cron: '59 6,18 * * * ' # Ejecutar a las 7:59 y 19:59 UTC
+  #   - cron: '59 6,18 * * * ' # Ejecutar a las 6:59 y 18:59 UTC
   repository_dispatch:
     types: [trigger-desde-GAS] # Se activará instantáneamente cuando Google envíe este evento
   workflow_dispatch:
