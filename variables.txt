@@ -1,2 +1,0 @@
-dias-pasados=0
-dias-futuros=4
