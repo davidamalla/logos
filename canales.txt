@@ -1,10 +1,8 @@
 # Fuente: https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_sincolor1.xml.gz
-0d5283959d3a59bf87411e7077fd9e58,vevo latino (roku)
 100% Navidad (Rakuten TV),Rakuten Familia
 24 Horas,TVE 24h
 33.es,Canal 33(Tivify)
 3CatInfo,3CatInfo
-6868152657543d1f8be4ece3,Concert Channel (pluto)
 5f1ac1f1b66c76000790ef27,Pluto Cine Estelar
 5f1ac2591dd8880007bb7d6d,Pluto Cine Acción
 5f1ac8099c49f600076579b2,Pluto Cine Comedia
@@ -14,12 +12,11 @@
 5f1aca0b4e448e00075e7c5e,bob esponja
 5f6a38eaa5b68b0007a00e7a,Pluto Scifi
 5f984f4a09e92d0007d74647,archivos forenses (pluto)
-5-minutes-craft-es,5-Minute Crafts (Rakuten)
 60cc807324d60a0007708dc8,Pluto Cine de Autor
 61373bb45168fe000773eecd,Pluto Cine Clásico
 6267d4d1fb694f0007a6af0e,Pluto Horror
 63c69c87808b740007599fe1,Canal Érase una vez
-643054b1fc3be59477853717-66fd3e25216b603e031725fe,ZenLife
+643054b1fc3be59477853717-66fd3e25216b603e031725fe,ZenLife (Plex)
 643054b1fc3be59477853717-5ef4e1b10d9ad000423c4421,Always Funny en Español (Plex)
 643054b1fc3be59477853717-5f170d61b898490041b49369,pet collective (plex)
 643054b1fc3be59477853717-62d7f68fb19cbf65dc7bef7c,Qello Concerts (Plex)
@@ -39,17 +36,17 @@
 643054b1fc3be59477853717-671ff7a5769d5ec4bf51d63a,Historia Y Vida (Plex)
 643054b1fc3be59477853717-67200026769d5ec4bf51d63e,Crimen and Historia (Plex)
 643054b1fc3be59477853717-68864d2d062dc5a487f806e0,todo pasion (plex)
-643054b1fc3be59477853717-6922322350fe592fd6d5b7e6,Sony One | Hits Acción
-643054b1fc3be59477853717-692232ee5cbe620c1f9b6bc5,Sony One | Hits Comedia
-643054b1fc3be59477853717-6922338150fe592fd6d5b7e8,Sony One | Series Comedia
-643054b1fc3be59477853717-692234015028288613484a8a,Sony One | Éxitos
-643054b1fc3be59477853717-692235265cbe620c1f9b6bc7,Sony One | Series Thriller
-643054b1fc3be59477853717-692235eb50fe592fd6d5b7ea,The Blacklist
-643054b1fc3be59477853717-6922366b50fe592fd6d5b7ec,Shark Tank
+643054b1fc3be59477853717-6922322350fe592fd6d5b7e6,Sony One | Hits Acción (Plex)
+643054b1fc3be59477853717-692232ee5cbe620c1f9b6bc5,Sony One | Hits Comedia (Plex)
+643054b1fc3be59477853717-6922338150fe592fd6d5b7e8,Sony One | Series Comedia (Plex)
+643054b1fc3be59477853717-692234015028288613484a8a,Sony One | Éxitos (Plex)
+643054b1fc3be59477853717-692235265cbe620c1f9b6bc7,Sony One | Series Thriller (Plex)
+643054b1fc3be59477853717-692235eb50fe592fd6d5b7ea,The Blacklist (Plex)
 643054b1fc3be59477853717-693cb1af58076a970420f591,el mueble (plex)
 643054b1fc3be59477853717-695d5d279caacd2e64b7a00c,Movie esphere (plex)
 643054b1fc3be59477853717-695d5d279caacd2e64b7a00c,moviesphere (plex)
 643054b1fc3be59477853717-69a1fe1b0f8d297b3f6ac0f0,crimenes reales (plex)
+643054b1fc3be59477853717-666e2178d91d13cb4c8cbb75,naturaleza (plex)
 645a309c5a0cd5000873f609,Pluto Catástrofes
 64ddcbb14c5ed80008fad416,Crimen and historia (Pluto)
 655b5d865812e80008843bd1,Pluto Comedias Románticas 
@@ -60,17 +57,12 @@
 676e7b4a4bd636000819c6a7,Pluto Sensacine tv
 66d71c656b63480008cf0427,cherif
 6578808014fbe400086e21bc,medium
-69791edb54d953268aa8933e2cb29a32,pet collective (roku)
-707e6e216be8369fb30f6960f8cf667e,ed sullivan (roku)
 7teleValencia,Canal 7 Televalencia
 À Punt,À Punt
 A3 Cine HD.uy,A3cine (tivify)
-A3Cine.(Atrescine).es,A3Cine (EPG)
-A3CINE..uy,A3Cine (EPG)
 A3CINE.es,A3CINE.es
 Acción (Rakuten TV),Acción (Rakuten TV)
 acontra+,acontra+
-Acontra+.es,Acontra+.es (EPG)
 Actualidad 360.es,Actualidad 360 (Tivify)
 AMC Break,AMC Break
 AMC Crime,AMC Crime
@@ -124,8 +116,6 @@ Cine Friki,Cine Friki
 Cine Friki.es,Cine Friki (Tivify)
 Cines Verdi TV,Cines Verdi TV
 Clan,Clan
-CA400002ZK,Djazz (sg)
-CA4700002IH,Movie Music (sg)
 Classica HD,Classica HD
 CMM TV,CMM TV
 CNN en Español,CNN en Español
@@ -150,14 +140,12 @@ Disney Channel,Disney Channel
 Disney Junior,Disney Junior
 Distrito TV,Distrito TV
 Distrito TV.es,Distrito TV (Tivify)
-Distrito.TV.es,Distrito TV (EPG)
 Divinity,Divinity
 Djazz.es,Djazz (Tivify)
 DKISS,DKISS
 DMAX,DMAX
 Dramas (Rakuten TV),Dramas (Rakuten TV)
 Dreamworks HD,Dreamworks HD
-e50a8f06d3245c95a4e250dc5c33c2be,vevo pop (roku)
 El 33 Catalunya,El 33 Catalunya
 El 9 TV,El 9 TV
 El Confidencial.es,El Confidencial (Tivify)
@@ -167,43 +155,13 @@ Energy,Energy
 Enfamilia,Enfamilia
 Enlace.ar,Enlace.ar
 Enlace.pe,Enlace.pe
-ES:.Archivos.Forenses.be,archivos forenses (epg)
-ES:.Cine.Español.-.Rakuten.TV.be,ES:.Cine.Español.-.Rakuten.TV.be
-ES:.Cine.Friki.be,cine friki (epg)
-ES:.Comedia.-.Rakuten.TV.be,ES:.Comedia.-.Rakuten.TV.be
-ES:.Crimen.-.Rakuten.TV.be,ES:.Crimen.-.Rakuten.TV.be
-ES:.Crímenes.Reales.be,crimenes reales (epg)
-ES:.Dark.Matter.be,Dark Matter EPG
-ES:.Daystar.Español.be,daystarespañol
-ES:.En.Familia.-.Rakuten.TV.be,ES:.En.Familia.-.Rakuten.TV.be
-ES:.Estilo.y.Vida.-.Rakuten.TV.be,Estilo De Vida EPG
-ES:.Ideas.en.5.minutos.be,5 minutos
-ES:.Los.Gipsy.Kings.-.Rakuten.TV.be,gipsy kings
-ES:.MyTime.Movie.Network.be,ES:.MyTime.Movie.Network.be
-ES:.Naturaleza.be,ES:.Naturaleza.be
-ES:.Películas.de.Acción.-.Rakuten.TV.be,ES:.Películas.de.Acción.-.Rakuten.TV.be
-ES:.Películas.de.Drama.-.Rakuten.TV.be,ES:.Películas.de.Drama.-.Rakuten.TV.be
-ES:.Películas.Románticas.-.Rakuten.TV.be,ES:.Películas.Románticas.-.Rakuten.TV.be
-ES:.Pelis.Top.-.Rakuten.TV.be,ES:.Pelis.Top.-.Rakuten.TV.be
-ES:.Pocoyó.be,pocoyo (epg)
-ES:.That`s.70s.be,thats 70
-ES:.That`s.80s.be,thats 80
-ES:.That`s.90s00s.be,thats 90
-ES:.The.Pet.Collective.be,the pet collective (epg)
-ES:.Thrillers.-.Rakuten.TV.be,ES:.Thrillers.-.Rakuten.TV.be
-ES:.Todo.Crimen.be,todo crimen (epg)
-ES:.Travelxp.be,ES:.Travelxp.be
-ES:.Travelxp.be,Travelxp EPG
-ES:.Vevo.Latino.be,vevo latino
-ES:.Vevo.Pop.be,vevo pop
-ES:.Navidad.-.Rakuten.TV.be,Navidad Rakuten
-ES1800003JN,Bbc Food
-ES1800005H2,Bbc hostoria
-ES2900001DQ,Bbc Series
-ES1300002TA,Accion +
-ES13000040O,Books
-ES1300006Z3,Epic
-ES1300005HE,Alma
+ES1800003JN,Bbc Food (Samsungtv)
+ES1800005H2,Bbc hostoria (Samsungtv)
+ES2900001DQ,Bbc Series (Samsungtv)
+ES1300002TA,Accion + (Samsungtv)
+ES13000040O,Books (Samsungtv)
+ES1300006Z3,Epic (Samsungtv)
+ES1300005HE,Alma (Samsungtv)
 ES18000040D,BBCLIFE (sg)
 ES2600004BD,Rakuten Accion (sg)
 ES26000068D,ESTILO DE VIDA (sg)
@@ -230,9 +188,9 @@ ES34000039I,CNN Español (Samsungtv)
 ES4200001MR,MovieSphere(sg)
 ES4300006I4,El mueble (sg)
 ES4400002LI,Mi casa (sg)
-ES4800002OZ,caillou
-ES900002ZD,todo pasion
-ESAJ4500016BH,pet collective
+ES4800002OZ,caillou (Samsungtv)
+ES900002ZD,todo pasion (Samsungtv)
+ESAJ4500016BH,pet collective (Samsungtv)
 ESBA33000262Z,bob esponja (sg)
 ESBA3300042Y6,Trace latina (Samsungtv)
 ESBA3300043M0,Trace urban (Samsungtv)
@@ -243,12 +201,12 @@ ESBC2100002LV,Vevo latino (Samsungtv)
 ESBC3500002PW,Ideas en 5 minutos (Samsungtv)
 ESBC3900001G6,Vivir con perros (Samsungtv)
 ESBC3900002L8,Vivir con gatos (Samsungtv)
-ESBC3900004ED,poco yo
-ESBD230000289,Vevo Retro
+ESBC3900004ED,poco yo (Samsungtv)
+ESBD230000289,Vevo Retro (Samsungtv)
 ESBD2300004Y7,Sol Musica (Samsungtv)
 ESBD3400001AA,Negocios TV (Samsungtv)
 ESBD800001RJ,Friki (Samsungtv)
-ES260001081,Rakuten Navidad
+ES260001081,Rakuten Navidad (Samsungtv)
 IN800001OD,Thats 70 (sg)
 IN8000027E,Thats 80 (sg)
 IN800004YV,Thats 90 (sg)
@@ -272,7 +230,6 @@ Eurosport 2,Eurosport 2
 EWTN,EWTN
 Factoría de Ficción,Factoría de Ficción
 Global.Tendencias.TV.es,Global.Tendencias.TV.es
-643054b1fc3be59477853717-666e2178d91d13cb4c8cbb75,naturaleza (plex)
 HBO Max Avances,HBO Max Avances
 Historia y Vida,Historia y Vida
 Historia y Vida.es,Historia y Vida (Tivify)
@@ -333,20 +290,6 @@ Películas Románticas (Rakuten TV),Peliculas romanticas tv
 Películas de Acción (Rakuten TV),Peliculas accion tv
 Películas de Drama (Rakuten TV),Peliculas drama tv
 Planeta de Cine.es,Planeta de Cine (Tivify)
-plex.tv.Buen.Viaje.plex,plex.tv.Buen.Viaje.plex
-plex.tv.Mi.Casa.plex,plex.tv.Mi.Casa.plex
-plex.tv.Movie.Music.by.Stingray.plex,plex.tv.Movie.Music.by.Stingray.plex
-plex.tv.MOVIESPHERE.plex,plex.tv.MOVIESPHERE.plex
-plex.tv.MyTime.Movie.Network.plex,plex.tv.MyTime.Movie.Network.plex
-plex.tv.Naturaleza.plex,plex.tv.Naturaleza.plex
-plex.tv.Qello.Concerts.plex,plex.tv.Qello.Concerts.plex
-plex.tv.Qwest.TV.plex,plex.tv.Qwest.TV.plex
-plex.tv.Stingray.Classica.Stream.plex,plex.tv.Stingray.Classica.Stream.plex
-plex.tv.Stingray.DJAZZ.plex,plex.tv.Stingray.DJAZZ.plex
-plex.tv.The.Ed.Sullivan.Show.plex,plex.tv.The.Ed.Sullivan.Show.plex
-plex.tv.The.Pet.Collective.plex,plex.tv.The.Pet.Collective.plex
-plex.tv.Todo.Crimen.plex,plex.tv.Todo.Crimen.plex
-plex.tv.VR+.plex,plex.tv.VR+.plex
 Pocoyó,Pocoyó
 Punt 3,Punt 3
 Punt.3.es,punt3
