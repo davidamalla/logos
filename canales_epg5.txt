@@ -1,4 +1,8 @@
 # Fuente: https://www.open-epg.com/generate/duMu5WNPC9.xml.gz
+Daystar.ar,Daystar.ar,https://images.open-epg.com/26632.png
+Enlace.ar,Enlace.ar,https://images.open-epg.com/x957.png
+Daystar.pe,Daystar.pe,https://images.open-epg.com/26632.png
+Enlace.pe,Enlace.pe,https://images.open-epg.com/40355.png
 A3Cine.uy,A3Cine.uy,https://images.open-epg.com/21113818.png
 StingrayiConcerts.at,Stingray iConcerts.at,https://images.open-epg.com/12857278.png
 Actualidad360.es,Actualidad 360.es,https://images.open-epg.com/25841988.png
@@ -9,23 +13,19 @@ BBCLifestyle.es,BBC Lifestyle.es,https://images.open-epg.com/12901009.png
 BBCSeries.es,BBC Series.es,https://images.open-epg.com/12901011.png
 CanalParlamento.es,Canal Parlamento.es,https://images.open-epg.com/17504.png
 CineFriki.es,Cine Friki.es,https://images.open-epg.com/4967.png
-Djazz.es,Djazz.es,https://images.open-epg.com/x2080.png
-ElConfidencial.es,El Confidencial.es,https://images.open-epg.com/18549741.png
-ETB1.es,ETB 1.es,https://images.open-epg.com/18051995.png
-ETB1ON.es,ETB1ON.es,https://images.open-epg.com/12901065.png
-ETB2.es,ETB 2.es,https://images.open-epg.com/18051996.png
-ETB2ON.es,ETB2ON.es,https://images.open-epg.com/18750538.png
+Djazz.es,Djazz.es,https://images.open-epg.com/nologo.png
+ElConfidencial.es,El Confidencial.es,https://images.open-epg.com/4998.png
+ETB1.es,ETB 1.es,https://images.open-epg.com/12901065.png
+ETB1ON.es,ETB 3.es,https://images.open-epg.com/17544.png
+ETB2.es,ETB 2.es,https://images.open-epg.com/12901064.png
+ETB2ON.es,etb2ON.es,https://images.open-epg.com/12901058.png
 HistoriaYVida.es,Historia y Vida.es,https://images.open-epg.com/5023.png
-MovieMusic.es,Movie Music.es,https://images.open-epg.com/x2077.png
+MovieMusic.es,Movie Music.es,https://images.open-epg.com/nologo.png
 NOWRock.es,NOW Rock.es,https://images.open-epg.com/5070.png
 PlanetaDeCine.es,Planeta de Cine.es,https://images.open-epg.com/5084.png
 QelloConcerts.es,Qello Concerts.es,https://images.open-epg.com/5088.png
-RuntimeFamilia.es,Runtime Familia.es,https://images.open-epg.com/x2063.png
+RuntimeFamilia.es,Runtime Familia.es,https://images.open-epg.com/nologo.png
 SinFiltros.es,Sin Filtros.es,https://images.open-epg.com/5111.png
 Trailers.es,Trailers.es,https://images.open-epg.com/5154.png
-ViajesYSabores.es,Viajes y Sabores.es,https://images.open-epg.com/x2059.png
+ViajesYSabores.es,Viajes y Sabores.es,https://images.open-epg.com/nologo.png
 ZenLIFE.es,ZenLIFE.es,https://images.open-epg.com/5183.png
-Daystar.ar,Daystar.ar,https://images.open-epg.com/26632.png
-Enlace.ar,Enlace.ar,https://images.open-epg.com/x957.png
-Daystar.pe,Daystar.pe,https://images.open-epg.com/26632.png
-Enlace.pe,Enlace.pe,https://images.open-epg.com/40355.png
