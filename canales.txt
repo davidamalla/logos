@@ -1,4 +1,3 @@
-# Fuente: https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_sincolor1.xml.gz
 100% Navidad (Rakuten TV),Rakuten Familia
 24 Horas,TVE 24h
 33.es,Canal 33(Tivify)
