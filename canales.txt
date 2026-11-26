@@ -263,20 +263,14 @@ Esport3 Catalunya,Esport3 Catalunya
 Estilo y Vida (Rakuten TV),Estilo y vida tv
 etb1,etb1
 etb1.es,etb1.es
-etb1ON,etb1ON
-etb1ON.es,etb1ON.es
 etb2,etb2
 etb2.es,etb2.es
-etb2ON,etb2ON
-etb2ON.es,etb2ON.es
 EuroNews,EuroNews
 Eurosport 1 HD,Eurosport 1 HD
 Eurosport 2,Eurosport 2
 EWTN,EWTN
 Factoría de Ficción,Factoría de Ficción
-FIFA+,FIFA+
 Global.Tendencias.TV.es,Global.Tendencias.TV.es
-GOL,GOL
 643054b1fc3be59477853717-666e2178d91d13cb4c8cbb75,naturaleza (plex)
 HBO Max Avances,HBO Max Avances
 Historia y Vida,Historia y Vida
@@ -294,9 +288,6 @@ La Sexta HD,La Sexta HD
 LaLiga TV Hypermotion HD,LaLiga TV Hypermotion HD
 Levante TV,Levante TV
 Levante TV.es,Levante TV(Tivify)
-Libertad Digital TV,Libertad Digital TV
-Libertad Digital TV.es,Libertad Digital TV (Tivify)
-Libertad.Digital.TV.es,Libertad.Digital.TV.es (EPG)
 Lleida TV,Lleida TV
 M+ Acción HD,M+ Acción HD
 M+ Cero,M+ Cero
@@ -330,12 +321,9 @@ MyTime Movie Network (Rakuten TV),MyTime Movie Network (Rakuten TV)
 Nat Geo Wild HD,Nat Geo Wild HD
 National Geographic HD,National Geographic HD
 Navarra TV,Navarra TV
-Negocios TV,Negocios TV
-Negocios TV,Negocios TV 
 Neox,Neox
 Nick JR,Nick JR
 Nickelodeon HD,Nickelodeon HD
-NickMusic,NickMusic
 Nova,Nova
 Odisea,Odisea
 Paramount Network,Paramount Network
@@ -359,8 +347,6 @@ plex.tv.The.Pet.Collective.plex,plex.tv.The.Pet.Collective.plex
 plex.tv.Todo.Crimen.plex,plex.tv.Todo.Crimen.plex
 plex.tv.VR+.plex,plex.tv.VR+.plex
 Pocoyó,Pocoyó
-Popular TV Cantabria,Popular TV Cantabria
-Popular.TV.Cantabria.es,Popular.TV.Cantabria.es
 Punt 3,Punt 3
 Punt.3.es,punt3
 Qello concerts,Qello concerts
@@ -368,7 +354,6 @@ Qello Concerts.es,Qello Concerts (Tivify)
 Qello.distro,Qello.distro
 QWest Mix,QWest Mix
 Qwest TV,Qwest TV
-qwest-tv,Qwest TV (Rakuten)
 Real Madrid TV,Real Madrid TV
 Runtime Acción,Runtime Acción
 Runtime Cine y Series,Runtime Cine y Series
@@ -404,7 +389,6 @@ StingrayiConcerts.at,StingrayiConcerts.at
 Sundance TV,Sundance Tv
 SX3 Catalunya,SX3 Catalunya
 SX3,SX3
-SyFy HD,SyFy HD
 TAC12,TAC12
 TCM HD,TCM HD
 Telecinco HD,Telecinco HD
@@ -425,7 +409,6 @@ TV Girona,TV Girona
 TV3 Catalunya,TV3 Catalunya
 TV3,TV3
 TV3CAT Catalunya,TV3CAT Catalunya
-TVG Europa HD,TVG Europa HH
 TVG,TVG
 TVG2,TVG2
 Veo7,Veo7
