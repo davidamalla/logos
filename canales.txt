@@ -1,3 +1,4 @@
+# Fuente: https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_sincolor1.xml.gz
 0d5283959d3a59bf87411e7077fd9e58,vevo latino (roku)
 100% Navidad (Rakuten TV),Rakuten Familia
 24 Horas,TVE 24h
