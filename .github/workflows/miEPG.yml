@@ -1,26 +1,31 @@
 name: miEPG
 
 on:
-  schedule:
-    - cron: '55 3 * * *'  # Ejecuta a las 3:55 AM cada día.
-    - cron: '55 6 * * *'  # Ejecuta a las 6:55 AM cada día.
-    - cron: '55 10 * * *' # Ejecuta a las 10:55 AM cada día.
-    - cron: '55 14 * * *' # Ejecuta a las 2:55 PM cada día.
-    - cron: '55 18 * * *' # Ejecuta a las 6:55 PM cada día.
-  workflow_dispatch: # Permite ejecutar manualmente el flujo de trabajo.
+  # schedule:
+  #   - cron: '59 7,19 * * * ' # Ejecutar a las 7:59 y 19:59 UTC
+  repository_dispatch:
+    types: [trigger-desde-GAS] # Se activará instantáneamente cuando Google envíe este evento
+  workflow_dispatch:
+
 permissions:
-   contents: write
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
     - name: Checkout del repositorio
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4 # ACTUALIZADO desde v2: Evita fallos de Node.js y rendimiento
+
+    - name: Comprobar e Instalar xmllint
+      run: |
+        sudo apt-get update && sudo apt-get install -y libxml2-utils
 
     - name: Dar permisos de ejecución al script
       run: |
         chmod +x .github/workflows/EPG_script.sh
+
     - name: Ejecutar script
       run: .github/workflows/EPG_script.sh
 
@@ -28,13 +33,11 @@ jobs:
       run: |
         git config user.name "GitHub Actions"
         git config user.email "actions@github.com"
-    - name: Hacer pull de los cambios remotos
-      run: git pull origin main
         
     - name: Subir archivos 
       run: |
         git add .
-        git commit -m "Nuevo miEPG.xml"
-        git push
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        git diff --cached --quiet || (
+            git commit -m "Nuevo miEPG.xml" &&
+            git push
+        )
