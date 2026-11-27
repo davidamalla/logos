@@ -1,7 +1,6 @@
 name: miEPG
 
 on:
-  schedule:
     - cron: '55 2 * * *'  # Ejecuta a las 3:55 AM cada día.
     - cron: '55 5 * * *'  # Ejecuta a las 6:55 AM cada día.
     - cron: '55 9 * * *' # Ejecuta a las 10:55 AM cada día.
