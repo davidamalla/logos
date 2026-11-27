@@ -7,10 +7,17 @@ on:
     - cron: '55 9 * * *' # Ejecuta a las 10:55 AM cada día.
     - cron: '55 13 * * *' # Ejecuta a las 2:55 PM cada día.
     - cron: '55 18 * * *' # Ejecuta a las 7:55 PM cada día.
+    repository_dispatch:
+    types: [ejecutar-cron] # Epg
   workflow_dispatch: # Permite ejecutar manualmente el flujo de trabajo.
 permissions:
    contents: write
 jobs:
+mi-tarea:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ejecutar script
+        run: echo "Activado desde cron-job.org"
   build:
     runs-on: ubuntu-latest
 
