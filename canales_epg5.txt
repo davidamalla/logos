@@ -1,4 +1,9 @@
 # Fuente: https://www.open-epg.com/generate/duMu5WNPC9.xml.gz
+A3Cine.uy,A3Cine.uy,https://images.open-epg.com/21113818.png
+Daystar.ar,Daystar.ar,https://images.open-epg.com/26632.png
+Enlace.ar,Enlace.ar,https://images.open-epg.com/x957.png
+Daystar.pe,Daystar.pe,https://images.open-epg.com/26632.png
+Enlace.pe,Enlace.pe,https://images.open-epg.com/40355.png
 StingrayiConcerts.at,Stingray iConcerts.at,https://images.open-epg.com/12857278.png
 Actualidad360.es,Actualidad 360.es,https://images.open-epg.com/25841988.png
 BBCEarth.es,BBC Earth.es,https://images.open-epg.com/12901006.png
@@ -24,8 +29,3 @@ SinFiltros.es,Sin Filtros.es,https://images.open-epg.com/5111.png
 Trailers.es,Trailers.es,https://images.open-epg.com/5154.png
 ViajesYSabores.es,Viajes y Sabores.es,https://images.open-epg.com/nologo.png
 ZenLIFE.es,ZenLIFE.es,https://images.open-epg.com/5183.png
-A3Cine.uy,A3Cine.uy,https://images.open-epg.com/21113818.png
-Daystar.ar,Daystar.ar,https://images.open-epg.com/26632.png
-Enlace.ar,Enlace.ar,https://images.open-epg.com/x957.png
-Daystar.pe,Daystar.pe,https://images.open-epg.com/26632.png
-Enlace.pe,Enlace.pe,https://images.open-epg.com/40355.png
