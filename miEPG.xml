@@ -201607,16 +201607,6 @@
 <episode-num system="xmltv_ns">
 </episode-num>
 </programme>
-  <programme start="20261128090925 +0000" stop="20261128093555 +0000" channel="Bbc Food (Samsungtv)">
-    <title>Moda</title>
-    <desc>Rachel investiga la creatividad que hay en Londres.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1940666834_1_20260617T201834057Z_107_imageprocessorclient-tvplus-linear-66fc4d58c8-6w69q.jpeg"/>
-  </programme>
-  <programme start="20261128093555 +0000" stop="20261128100224 +0000" channel="Bbc Food (Samsungtv)">
-    <title>Para todos los gustos</title>
-    <desc>Rachel hace canapés sencillos y coloridos.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1940666834_1_20260617T201834057Z_107_imageprocessorclient-tvplus-linear-66fc4d58c8-6w69q.jpeg"/>
-  </programme>
   <programme start="20261128100224 +0000" stop="20261128102827 +0000" channel="Bbc Food (Samsungtv)">
     <title>Nostalgia</title>
     <desc>Londres hace que Rachel sienta nostalgia de su infancia.</desc>
@@ -201667,21 +201657,13 @@
     <desc>Rick visita Mumbai y Pondicherry. Cocina el popular plato de pollo parsi, sali murgh.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1940667040_1_20260617T201839300Z_122_imageprocessorclient-tvplus-linear-66fc4d58c8-6w69q.jpeg"/>
   </programme>
-  <programme start="20261128082605 +0000" stop="20261128091459 +0000" channel="Bbc hostoria (Samsungtv)">
-    <title>Secretos del Triángulo de las Bermudas</title>
-    <sub-title>Caído del cielo</sub-title>
-    <desc>El primer episodio analiza las desapariciones en el mar dentro del Triángulo.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1940667431_0_20260617T201834054Z_110_imageprocessorclient-tvplus-linear-66fc4d58c8-spz4l.jpeg"/>
-  </programme>
-  <programme start="20261128091459 +0000" stop="20261128100244 +0000" channel="Bbc hostoria (Samsungtv)">
-    <title>Secretos del Triángulo de las Bermudas</title>
-    <sub-title>Perdido en el mar</sub-title>
-    <desc>El segundo episodio analiza los extraños sucesos aéreos en el Triángulo de las Bermudas.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1940667431_0_20260617T201834054Z_110_imageprocessorclient-tvplus-linear-66fc4d58c8-spz4l.jpeg"/>
+  <programme start="20261128153450 +0000" stop="20261128163526 +0000" channel="Bbc Food (Samsungtv)">
+    <title>Madurai y Kerala</title>
+    <desc>Rick aprende sobre la cocina de los templos de Madurai y prepara un curry tradicional de cerdo de Kerala.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1940667040_1_20260617T201839300Z_122_imageprocessorclient-tvplus-linear-66fc4d58c8-6w69q.jpeg"/>
   </programme>
   <programme start="20261128100244 +0000" stop="20261128105310 +0000" channel="Bbc hostoria (Samsungtv)">
-    <title>Secretos del Triángulo de las Bermudas</title>
-    <sub-title>Secretos de las profundidades</sub-title>
+    <title>Secretos del Triángulo de las Bermudas: Secretos de las profundidades</title>
     <desc>Investigación del efecto de la Tierra y sus fuerzas naturales en el Triángulo de las Bermudas.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1940667431_0_20260617T201834054Z_110_imageprocessorclient-tvplus-linear-66fc4d58c8-spz4l.jpeg"/>
   </programme>
@@ -201715,11 +201697,10 @@
     <desc>Esta es la historia jamás contada de la misión Apolo 11, la mayor hazaña espacial realizada en la historia.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1952719848_0_20260622T062846904Z_79_imageprocessorclient-tvplus-linear-66fc4d58c8-wr9bs.jpeg"/>
   </programme>
-  <programme start="20261128084424 +0000" stop="20261128094445 +0000" channel="Bbc Series (Samsungtv)">
-    <title>Llama a la comadrona</title>
-    <sub-title>Episodio 3</sub-title>
-    <desc>El equipo de Nonnatus se manifiesta para dar apoyo a los padres primerizos Marie y Tony Amos.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_947422495_6_20250604T152424653Z_67_imageprocessorclient-tvplus-linear-6fb5b47f79-gbnt7.jpeg"/>
+  <programme start="20261128151940 +0000" stop="20261128161549 +0000" channel="Bbc hostoria (Samsungtv)">
+    <title>Revoluciones: Ideas que cambiaron el mundo: El telescopio</title>
+    <desc>El telescopio es el invento que permitió descubrir el universo en sí mismo.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1940667612_3_20260617T201834085Z_20_imageprocessorclient-tvplus-linear-66fc4d58c8-nbtjg.jpeg"/>
   </programme>
   <programme start="20261128094445 +0000" stop="20261128104503 +0000" channel="Bbc Series (Samsungtv)">
     <title>Llama a la comadrona</title>
@@ -201757,6 +201738,12 @@
     <desc>El ambiente festivo marca la vida en Poplar mientras el barrio se prepara para la Navidad.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_947426421_0_20250604T152421438Z_61_imageprocessorclient-tvplus-linear-6fb5b47f79-nbrrb.jpeg"/>
   </programme>
+  <programme start="20261128153448 +0000" stop="20261128162258 +0000" channel="Bbc Series (Samsungtv)">
+    <title>Llama a la comadrona</title>
+    <sub-title>Especiales: Episodio 2</sub-title>
+    <desc>Una inesperada sorpresa para una muer en duelo ayuda a traer la magia navideña al hogar.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_947426421_0_20250604T152421438Z_61_imageprocessorclient-tvplus-linear-6fb5b47f79-nbrrb.jpeg"/>
+  </programme>
   <programme start="20261128083302 +0000" stop="20261128103409 +0000" channel="Accion + (Samsungtv)">
     <title>Las diabólicas</title>
     <desc>El director de un colegio, el señor Delasalle, convive con su esposa y su amante, la profesora Horner.</desc>
@@ -201785,6 +201772,14 @@
     <title>El día de los muertos</title>
     <desc>Los zombis se han apoderado del planeta y la población se reduce. Un pequeño grupo se refugia en una instalación subterránea.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2393345170_0_20261121T193039729Z_33_imageprocessorclient-tvplus-linear-b5879c6c6-zvcv6.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261128154818 +0000" stop="20261128172841 +0000" channel="Accion + (Samsungtv)">
+    <title>Cromosoma 3</title>
+    <desc>El doctor Hal Raglan inventa una terapia especial para tratar a psicópatas.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2393194469_0_20261121T173259561Z_39_imageprocessorclient-tvplus-linear-b5879c6c6-2h2xg.jpeg"/>
     <rating>
       <value>NA</value>
     </rating>
@@ -201821,14 +201816,6 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme start="20261128080838 +0000" stop="20261128095920 +0000" channel="Epic (Samsungtv)">
-    <title>Borg McEnroe</title>
-    <desc>Wimbledon 1980, el imperturbable Björn Borg y el temperamental John McEnroe se enfrentan en una final legendaria.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2392759171_0_20261121T152224802Z_90_imageprocessorclient-tvplus-linear-b5879c6c6-lfwpc.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
   <programme start="20261128095920 +0000" stop="20261128113902 +0000" channel="Epic (Samsungtv)">
     <title>El séptimo sello</title>
     <desc>La plaga de la peste negra asola Europa. El caballero Antonius Block regresa a casa, en Suecia, después de años de combatir inútilmente en las Cruzadas.</desc>
@@ -201849,15 +201836,6 @@
     <title>La música del silencio</title>
     <desc>Amos Bardi es un niño que, a pesar de nacer con ceguera parcial, consigue desarrollar sus extraordinarias dotes musicales.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2393461705_0_20261121T193039728Z_94_imageprocessorclient-tvplus-linear-b5879c6c6-zvcv6.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme start="20261128090152 +0000" stop="20261128091758 +0000" channel="Alma (Samsungtv)">
-    <title>Clara Garrido / Daniel y Lola</title>
-    <sub-title>Parte 2</sub-title>
-    <desc>Programa que acerca al espectador historias reales de superación, solidaridad y esperanza, a través de entrevistas y reportajes.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2381986458_10_20261117T141034868Z_42_imageprocessorclient-tvplus-linear-b5879c6c6-qmxh6.jpeg"/>
     <rating>
       <value>NA</value>
     </rating>
@@ -201902,10 +201880,21 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme start="20261128084250 +0000" stop="20261128093032 +0000" channel="BBCLIFE (sg)">
-    <title>Episodio 1</title>
-    <desc>Un vistazo a los trenes de alta gama, como el famoso Tren Azul de Sudáfrica.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1940667080_0_20260617T201834055Z_15_imageprocessorclient-tvplus-linear-66fc4d58c8-spz4l.jpeg"/>
+  <programme start="20261128151436 +0000" stop="20261128155153 +0000" channel="Alma (Samsungtv)">
+    <title>Antsirabe. Madagascar</title>
+    <desc>Misioneros por el mundo acompaña a religiosos destinados en lugares desfavorecidos para mostrar de cerca su trabajo diario.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2393414182_0_20261121T193039729Z_115_imageprocessorclient-tvplus-linear-b5879c6c6-zvcv6.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261128155153 +0000" stop="20261128163113 +0000" channel="Alma (Samsungtv)">
+    <title>San José. Costa Rica</title>
+    <desc>Misioneros por el mundo acompaña a religiosos destinados en lugares desfavorecidos para mostrar de cerca su trabajo diario.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2393485158_0_20261121T193039728Z_109_imageprocessorclient-tvplus-linear-b5879c6c6-zvcv6.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
   </programme>
   <programme start="20261128093032 +0000" stop="20261128101945 +0000" channel="BBCLIFE (sg)">
     <title>Episodio 2</title>
@@ -201935,6 +201924,11 @@
   <programme start="20261128142834 +0000" stop="20261128153516 +0000" channel="BBCLIFE (sg)">
     <title>Bromsgrove</title>
     <desc>El equipo ayuda a la familia de una joven de 28 años con parálisis cerebral.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1940667034_1_20260617T201834057Z_57_imageprocessorclient-tvplus-linear-66fc4d58c8-6w69q.jpeg"/>
+  </programme>
+  <programme start="20261128153516 +0000" stop="20261128164201 +0000" channel="BBCLIFE (sg)">
+    <title>Bolton</title>
+    <desc>El equipo de SOS y Laurence Llewelyn-Bowen ayudan a la familia Taylor-Mann.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1940667034_1_20260617T201834057Z_57_imageprocessorclient-tvplus-linear-66fc4d58c8-6w69q.jpeg"/>
   </programme>
   <programme start="20261128090806 +0000" stop="20261128104320 +0000" channel="Rakuten Accion (sg)">
@@ -201969,29 +201963,10 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20261128085705 +0000" stop="20261128091900 +0000" channel="ESTILO DE VIDA (sg)">
-    <title>20 Preguntas a...</title>
-    <sub-title>S1:E2 Jessica Goicoechea | Mery Turiel | Silvia Muñoz</sub-title>
-    <desc>S1:E2 Jessica Goicoechea | Mery Turiel | Silvia Muñoz - Modelo y empresaria de éxito, Jessica Goicoechea es una de las caras más reconocibles de Instagram. | Mery Turiel durante unas vacaciones con su padre, decidió mostrar su look en las redes. | Silvia Muñoz de Morales abrió su canal de YouTube con 13 años con la única intención de divertirse.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_512081862_0_20241120T033332513Z_79_imageprocessorclient-tvplus-linear-7cd5d896cc-pbft6.jpeg"/>
-    <rating>
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20261128091900 +0000" stop="20261128093330 +0000" channel="ESTILO DE VIDA (sg)">
-    <title>20 Preguntas a...</title>
-    <sub-title>S1:E3 Cindy Kimberly | Camilo</sub-title>
-    <desc>S1:E3 Cindy Kimberly | Camilo - Cindy Kimberly enamoró al mismísimo Justin Bieber cuando en 2015 el cantante subía una foto de la joven a sus redes acompañada de la frase: ¿quién es ella? | Si todavía no habías escuchado el nombre de Camilo Echeverry es que probablemente no sintonices mucho la radio.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_512218654_0_20241121T032134819Z_40_imageprocessorclient-tvplus-linear-7cd5d896cc-d4vtb.jpeg"/>
-    <rating>
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20261128093330 +0000" stop="20261128095218 +0000" channel="ESTILO DE VIDA (sg)">
-    <title>20 Preguntas a...</title>
-    <sub-title>S1:E4 Greeicy | Ricky Merino</sub-title>
-    <desc>S1:E4 Greeicy | Ricky Merino - Humilde, carismática y con un halo de ese ‘je ne sais quoi' que sólo tienen las grandes estrellas.  | Ricky Merino participó en una de las ediciones más exitosas de Operación Triunfo: la de 2017.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_512219340_0_20241121T032134817Z_135_imageprocessorclient-tvplus-linear-7cd5d896cc-d4vtb.jpeg"/>
+  <programme start="20261128155127 +0000" stop="20261128172609 +0000" channel="Rakuten Accion (sg)">
+    <title>El poder de la fuerza</title>
+    <desc>Mientras intenta localizar a su hermano, un duro camionero acaba en el pequeño pueblo donde su hermano fue visto por última vez antes de desaparecer misteriosamente.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_1155654027_0_20250828T033850249Z_121_imageprocessorclient-tvplus-linear-5db7c6bc99-24qh9.jpeg"/>
     <rating>
       <value>16</value>
     </rating>
@@ -202104,6 +202079,24 @@
       <value>16</value>
     </rating>
   </programme>
+  <programme start="20261128153851 +0000" stop="20261128160750 +0000" channel="ESTILO DE VIDA (sg)">
+    <title>El mundo es tuyo</title>
+    <sub-title>S1:E7 Estanbul, Dubai, Las Vegas</sub-title>
+    <desc>S1:E7 Estanbul, Dubai, Las Vegas - Recorreremos la exótica ciudad de Estambul, la más poblada de Turquía. Navegaremos por el río Bósforo y conoceremos la Mezquita Azul. Luego visitaremos Dubai, la ciudad con la arquitectura más vanguardista del mundo.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_2144274850_0_20260828T052148709Z_119_imageprocessorclient-tvplus-linear-b5879c6c6-rgz62.jpeg"/>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261128160750 +0000" stop="20261128163658 +0000" channel="ESTILO DE VIDA (sg)">
+    <title>El mundo es tuyo</title>
+    <sub-title>S1:E8 Sídney, Panamá, Tokio</sub-title>
+    <desc>S1:E8 Sídney, Panamá, Tokio - En este episodio vamos a viajar a Sídney, la ciudad más poblada de Australia. Playas para practicar surf, costas vírgenes, la Ópera y el "Sydney Harbor Bridge" sobre la Bahía.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_2144263491_0_20260828T052144037Z_1_imageprocessorclient-tvplus-linear-b5879c6c6-rgz62.jpeg"/>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
   <programme start="20261128084612 +0000" stop="20261128102955 +0000" channel="Gipsy Kings (sg)">
     <title>Gipsy Kings</title>
     <sub-title>S3:E24 Un adiós con trasiego de maletas</sub-title>
@@ -202140,10 +202133,14 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20261128084500 +0000" stop="20261128094000 +0000" channel="Historia y vida (Samsungtv)">
-    <title>Eva Braun Ep. 2</title>
-    <desc>La amante secreta de Adolf Hitler no fue conocida hasta después de su muerte. ¿Quién fue esta "novia del mal"?</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_495841318_0_20240618T154635529Z_62.jpeg"/>
+  <programme start="20261128152532 +0000" stop="20261128170216 +0000" channel="Gipsy Kings (sg)">
+    <title>Gipsy Kings</title>
+    <sub-title>S4:E28 Las Salazar a la caza de las Kardashian</sub-title>
+    <desc>S4:E28 Las Salazar a la caza de las Kardashian - La continua batalla de 'Los Gipsy Kings' por cumplir sus sueños comienza a dar sus frutos. Reciben sorprendentes propuestas que les animan a seguir luchando por ellos, todos con su característico sello gipsy</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_761221221_0_20250331T014805935Z_65_imageprocessorclient-tvplus-linear-6fb5b47f79-tqk7n.jpeg"/>
+    <rating>
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261128094000 +0000" stop="20261128103400 +0000" channel="Historia y vida (Samsungtv)">
     <title>La Segunda Guerra Mundial en Dron</title>
@@ -202200,10 +202197,14 @@
     <desc>La amante secreta de Adolf Hitler no fue conocida hasta después de su muerte. ¿Quién fue esta "novia del mal"?</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_495841318_0_20240618T154635529Z_62.jpeg"/>
   </programme>
-  <programme start="20261128073501 +0000" stop="20261128092047 +0000" channel="MyTime Movie Network (Samsungtv)">
-    <title>Inconcebible</title>
-    <desc>Una mujer interpreta un beso en una reunión de antiguos alumnos del instituto como una invitación para perseguir a su ex por todo el país e intentar suplantar a su esposa.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_485273322_0_20231016T004604513Z_57.jpeg"/>
+  <programme start="20261128160100 +0000" stop="20261128165400 +0000" channel="Historia y vida (Samsungtv)">
+    <title>La Segunda Guerra Mundial en Dron</title>
+    <sub-title>El Asedio de Malta</sub-title>
+    <desc>Drones aéreos y submarinos revelan cómo Malta resistió los bombardeos y el hambre para sobrevivir a la guerra.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_2175268230_0_20260908T080505260Z_74_imageprocessorclient-tvplus-linear-b5879c6c6-qmxh6.jpeg"/>
+    <rating>
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20261128092047 +0000" stop="20261128110529 +0000" channel="MyTime Movie Network (Samsungtv)">
     <title>Fanática</title>
@@ -202226,15 +202227,6 @@
     <desc>
 </desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_485273322_0_20231016T004604513Z_57.jpeg"/>
-  </programme>
-  <programme start="20261128085730 +0000" stop="20261128095716 +0000" channel="todo crimen (sg)">
-    <title>Los 7 Pecados Capitals</title>
-    <sub-title>Avaricia</sub-title>
-    <desc>José Antonio Delgado Fresnedo 'Josetxu', informático de Getxo que acudió a una cita concertada en Zaragoza a través de la red de contactos y fue asesinado por Mohamed Achrfa Darai y Hendagenline Candy.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_GBPBB1501FZ_2077929919_3_20260805T062947237Z_64_imageprocessorclient-tvplus-linear-648598f6b5-lsnxr.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
   </programme>
   <programme start="20261128095716 +0000" stop="20261128110310 +0000" channel="todo crimen (sg)">
     <title>Cómo Resolver Un Crimen</title>
@@ -202288,22 +202280,6 @@
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_GBPBB1501FZ_1670669947_19_20260304T004155824Z_22_imageprocessorclient-tvplus-linear-85d7d49859-sxbhs.jpeg"/>
     <rating>
       <value>NA</value>
-    </rating>
-  </programme>
-  <programme start="20261128090000 +0000" stop="20261128093000 +0000" channel="Euronews (Samsungtv)">
-    <title>Euronews EN DIRECTO</title>
-    <desc>El canal Europeo líder en noticias internacionales. Noticias en directo las 24 horas del día, gratis, de la mano de Rakuten TV.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_2354627526_0_20261107T080105259Z_105_imageprocessorclient-tvplus-linear-b5879c6c6-k4qt8.jpeg"/>
-    <rating>
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20261128093000 +0000" stop="20261128100000 +0000" channel="Euronews (Samsungtv)">
-    <title>Euronews EN DIRECTO</title>
-    <desc>El canal Europeo líder en noticias internacionales. Noticias en directo las 24 horas del día, gratis, de la mano de Rakuten TV.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_2354627526_0_20261107T080105259Z_105_imageprocessorclient-tvplus-linear-b5879c6c6-k4qt8.jpeg"/>
-    <rating>
-      <value>12</value>
     </rating>
   </programme>
   <programme start="20261128100000 +0000" stop="20261128103000 +0000" channel="Euronews (Samsungtv)">
@@ -202394,12 +202370,20 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20261128080740 +0000" stop="20261128094515 +0000" channel="Planeta de cine (Samsungtv)">
-    <title>El pequeño Nicolás</title>
-    <desc>Inclinados sobre un gran folio en blanco en algún lugar entre Montmartre y Saint-Germain-des-Prés, Jean-Jacques Sempé y René Goscinny dan vida a El pequeño Nicolás, un niño risueño y travieso. La suya es una infancia alegre, llena de juegos, diversión, bromas, aprendizaje, complicidad, peleas y castigos. Las aventuras de Nicolás le llevan al estudio de sus creadores, donde habla con ellos de forma distendida. Sempé y Goscinny le cuentan cómo se conocieron y se hicieron amigos, y también responden a preguntas sobre su carrera, su infancia y sus ambiciones.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1829961572_31_20260506T114732480Z_44_imageprocessorclient-tvplus-linear-74d4c47476-kn8dq.jpeg"/>
+  <programme start="20261128153000 +0000" stop="20261128160000 +0000" channel="Euronews (Samsungtv)">
+    <title>Euronews EN DIRECTO</title>
+    <desc>El canal Europeo líder en noticias internacionales. Noticias en directo las 24 horas del día, gratis, de la mano de Rakuten TV.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_2354627526_0_20261107T080105259Z_105_imageprocessorclient-tvplus-linear-b5879c6c6-k4qt8.jpeg"/>
     <rating>
-      <value>NA</value>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20261128160000 +0000" stop="20261128163000 +0000" channel="Euronews (Samsungtv)">
+    <title>Euronews EN DIRECTO</title>
+    <desc>El canal Europeo líder en noticias internacionales. Noticias en directo las 24 horas del día, gratis, de la mano de Rakuten TV.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_2354627526_0_20261107T080105259Z_105_imageprocessorclient-tvplus-linear-b5879c6c6-k4qt8.jpeg"/>
+    <rating>
+      <value>12</value>
     </rating>
   </programme>
   <programme start="20261128094515 +0000" stop="20261128113208 +0000" channel="Planeta de cine (Samsungtv)">
@@ -202432,22 +202416,6 @@
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1829918731_33_20260506T114732642Z_127_imageprocessorclient-tvplus-linear-74d4c47476-bbmsk.jpeg"/>
     <rating>
       <value>NA</value>
-    </rating>
-  </programme>
-  <programme start="20261128085020 +0000" stop="20261128091748 +0000" channel="Sony One Series Comedia (sg)">
-    <title>Close Shave</title>
-    <desc>La actriz y cómica Fran Drescher se une a a la estrella de telenovelas Charles Shaughnessy en esta exquisita comedia sobre una enérgica neoyorquina que altera el elegante hogar de un exitoso productor de Broadway cuando se convierte en la niñera de sus tres hijos.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1087133047_0_20250727T022431270Z_37_imageprocessorclient-tvplus-linear-5db7c6bc99-7g8nq.png"/>
-    <rating>
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20261128091748 +0000" stop="20261128094510 +0000" channel="Sony One Series Comedia (sg)">
-    <title>What The Butler Sung</title>
-    <desc>La actriz y cómica Fran Drescher se une a a la estrella de telenovelas Charles Shaughnessy en esta exquisita comedia sobre una enérgica neoyorquina que altera el elegante hogar de un exitoso productor de Broadway cuando se convierte en la niñera de sus tres hijos.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1202880332_1_20250919T070502420Z_90_imageprocessorclient-tvplus-linear-5db7c6bc99-brk6n.png"/>
-    <rating>
-      <value>12</value>
     </rating>
   </programme>
   <programme start="20261128094510 +0000" stop="20261128101245 +0000" channel="Sony One Series Comedia (sg)">
@@ -202546,15 +202514,21 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20261128090804 +0000" stop="20261128093828 +0000" channel="Sony One Éxitos (sg)">
-    <title>Accidental Twins</title>
-    <desc>Tía Clara cuida a Tabitha y Timothy.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1064113983_0_20250718T055658246Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-gdlst.jpeg"/>
+  <programme start="20261128151731 +0000" stop="20261128154505 +0000" channel="Sony One Series Comedia (sg)">
+    <title>A Fine Friendship</title>
+    <desc>La actriz y cómica Fran Drescher se une a a la estrella de telenovelas Charles Shaughnessy en esta exquisita comedia sobre una enérgica neoyorquina que altera el elegante hogar de un exitoso productor de Broadway cuando se convierte en la niñera de sus tres hijos.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1880091830_1_20260526T010250563Z_99_imageprocessorclient-tvplus-linear-66fc4d58c8-cbgzq.jpeg"/>
+    <rating>
+      <value>12</value>
+    </rating>
   </programme>
-  <programme start="20261128093828 +0000" stop="20261128100823 +0000" channel="Sony One Éxitos (sg)">
-    <title>A Most Unusual Wood Nymph</title>
-    <desc>Gerry O'Toole, una hermosa chica irlandesa que es amiga de la tía de Darrin, llega para una visita y anuncia que planea quedarse con los Stephens hasta que consiga un trabajo.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1064194955_0_20250718T055658246Z_61_imageprocessorclient-tvplus-linear-5db7c6bc99-gdlst.jpeg"/>
+  <programme start="20261128154505 +0000" stop="20261128161232 +0000" channel="Sony One Series Comedia (sg)">
+    <title>Lamb Chop's On The Menu</title>
+    <desc>La actriz y cómica Fran Drescher se une a a la estrella de telenovelas Charles Shaughnessy en esta exquisita comedia sobre una enérgica neoyorquina que altera el elegante hogar de un exitoso productor de Broadway cuando se convierte en la niñera de sus tres hijos.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1202907666_0_20250919T070508278Z_81_imageprocessorclient-tvplus-linear-5db7c6bc99-sn6xc.png"/>
+    <rating>
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20261128100823 +0000" stop="20261128103713 +0000" channel="Sony One Éxitos (sg)">
     <title>Endora Moves In For A Spell</title>
@@ -202611,14 +202585,15 @@
     <desc>Darrin reacciona violentamente cuando encuentra a Brian O'Brian, un duende vivaz, en su casa. Samantha le dice que Brian no es su pariente, sino el duende de la familia de Darrin.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1061848213_3_20250717T070926931Z_26_imageprocessorclient-tvplus-linear-5db7c6bc99-w59hm.jpeg"/>
   </programme>
-  <programme start="20261128082717 +0000" stop="20261128091930 +0000" channel="Sony One Shark Tank (sg)">
-    <title>Shark Tank US</title>
-    <sub-title>S14 E4</sub-title>
-    <desc>Una solución que facilita las mudanzas de ida y vuelta a la universidad  una línea de decoración para el hogar inspirada en África  una bebida natural sin alcohol.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1738454587_0_20260331T012122548Z_3_imageprocessorclient-tvplus-linear-74d4c47476-msdmr.jpeg"/>
-    <rating>
-      <value>12</value>
-    </rating>
+  <programme start="20261128153812 +0000" stop="20261128160838 +0000" channel="Sony One Éxitos (sg)">
+    <title>Nobody's Perfect</title>
+    <desc>Samantha se da cuenta de que su bebé también tiene poderes.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1064158714_0_20250718T055658246Z_64_imageprocessorclient-tvplus-linear-5db7c6bc99-gdlst.jpeg"/>
+  </programme>
+  <programme start="20261128160838 +0000" stop="20261128163833 +0000" channel="Sony One Éxitos (sg)">
+    <title>The Moment Of Truth</title>
+    <desc>Samantha no puede contarle a Darrin sobre Tabitha.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1064194886_0_20250718T055658246Z_66_imageprocessorclient-tvplus-linear-5db7c6bc99-gdlst.jpeg"/>
   </programme>
   <programme start="20261128091930 +0000" stop="20261128101114 +0000" channel="Sony One Shark Tank (sg)">
     <title>Shark Tank US</title>
@@ -202682,12 +202657,13 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20261128083949 +0000" stop="20261128093140 +0000" channel="Sony One The Blacklist (sg)">
-    <title>The Cook (No. 56)</title>
-    <desc>Mientras Liz trabaja con Red para buscar a los asesinos de Tom, empieza a cuestionarse sus motivos. Mientras tanto, el Task Force solicita la ayuda de un pirómano para atrapar a otro.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2200851831_1_20260917T074314395Z_103_imageprocessorclient-tvplus-linear-b5879c6c6-csll5.jpeg"/>
+  <programme start="20261128152204 +0000" stop="20261128161417 +0000" channel="Sony One Shark Tank (sg)">
+    <title>Shark Tank US</title>
+    <sub-title>S14 E4</sub-title>
+    <desc>Una solución que facilita las mudanzas de ida y vuelta a la universidad  una línea de decoración para el hogar inspirada en África  una bebida natural sin alcohol.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1738454587_0_20260331T012122548Z_3_imageprocessorclient-tvplus-linear-74d4c47476-msdmr.jpeg"/>
     <rating>
-      <value>14</value>
+      <value>12</value>
     </rating>
   </programme>
   <programme start="20261128093140 +0000" stop="20261128102402 +0000" channel="Sony One The Blacklist (sg)">
@@ -202746,13 +202722,12 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261128072124 +0000" stop="20261128091719 +0000" channel="Sony One Hits Acción (sg)">
-    <title>Resident Evil</title>
-    <sub-title>Ultratumba</sub-title>
-    <desc>Alice (Milla Jovovich) está de vuelta en la cuarta entrega de la saga Resident Evil.  Ahora, sin poderes superhumanos, se unirá a sus compañeros supervivientes Claire y Chris (Ali Larter y Wentworth Miller) para enfrentarse a los ejércitos de los no-muertos y acabar con la Corporación Umbrella cuyo virus los ha creado.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1481174926_0_20251227T045933559Z_94_imageprocessorclient-tvplus-linear-85d7d49859-sxbhs.png"/>
+  <programme start="20261128153502 +0000" stop="20261128162647 +0000" channel="Sony One The Blacklist (sg)">
+    <title>Pattie Sue Edwards (No. 68)</title>
+    <desc>Mientras Liz trabaja en un nuevo ángulo para encontrar a los asesinos de Tom, Red busca una solución creativa a un problema de impuestos en su operación de lavado de dinero. Mientras tanto, Aram se aventura en el campo mientras el Grupo de Trabajo investiga a una misteriosa mujer que se encuentra detrás de un mortífero brote viral.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2200846027_0_20260917T074315579Z_99_imageprocessorclient-tvplus-linear-b5879c6c6-75n7d.jpeg"/>
     <rating>
-      <value>12</value>
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20261128091719 +0000" stop="20261128113256 +0000" channel="Sony One Hits Acción (sg)">
@@ -202781,6 +202756,14 @@
       <value>12</value>
     </rating>
   </programme>
+  <programme start="20261128152359 +0000" stop="20261128173936 +0000" channel="Sony One Hits Acción (sg)">
+    <title>Cazafantasmas (2016)</title>
+    <desc>Nueva versión de una de las películas más emblemáticas de los años ochenta: Los cazafantasmas. Después de casi treinta años, los fantasmas y demonios se han vuelto a escapar de los infiernos para destruir Manhattan. Ahora, el equipo de los Cazafantasmas está formado por un grupo de mujeres dispuestas a terminar con todas las amenazas paranormales.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1564266416_2_20260121T035243917Z_79_imageprocessorclient-tvplus-linear-85d7d49859-zhg42.jpeg"/>
+    <rating>
+      <value>7</value>
+    </rating>
+  </programme>
   <programme start="20261128083442 +0000" stop="20261128102833 +0000" channel="Sony One Hits Comedia (sg)">
     <title>¿Cuándo Llegamos?</title>
     <desc>Nick , un joven operador está deseando conseguir pedirle una cita a una mujer atractiva, Suzanne, de la que está locamente enamorado. Después de esperar un largo tiempo parece que el momento más esperado para Nick está a punto de llegar. Suzanne se encuentra atrapada en Vancouver y necesita a alguien que pueda recoger a sus hijos y llevarles hasta ella, Nick se ofrece para ser esa persona sin dudarlo, pero lo que no sabe es que para ellos ningún hombre es lo suficientemente bueno para su madre. El viaje que Nick se imaginaba no tendrá nada que ver con el que les espera, ya que acabará siendo una pesadilla.</desc>
@@ -202800,24 +202783,6 @@
     <title>El Extra</title>
     <desc>En esta divertida comedia, un extra cinematográfico soñador hace todo lo que está en sus manos para que una joven actriz consiga su oportunidad en el mundo del cine.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1029922297_0_20250704T092439882Z_133_imageprocessorclient-tvplus-linear-5db7c6bc99-d5mt6.jpeg"/>
-  </programme>
-  <programme start="20261128084800 +0000" stop="20261128092900 +0000" channel="Viajes y sabores (Samsungtv)">
-    <title>Enrique Alex en China</title>
-    <sub-title>Guilin, Zhandiajie y Tianmen</sub-title>
-    <desc>Enrique Alex en China: Guilin, Zhandiajie y Tianmen</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_920788680_0_20250526T161959339Z_1_imageprocessorclient-tvplus-linear-6fb5b47f79-84mv4.png"/>
-  </programme>
-  <programme start="20261128092900 +0000" stop="20261128095200 +0000" channel="Viajes y sabores (Samsungtv)">
-    <title>Enrique Alex en Colombia: Nuquí</title>
-    <sub-title>Choco</sub-title>
-    <desc>Descubre Nuquí, joya del Chocó colombiano entre selvas, playas vírgenes, ballenas y cultura afrodescendiente.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_2333901978_0_20261031T060927502Z_33_imageprocessorclient-tvplus-linear-b5879c6c6-hdl8g.jpeg"/>
-  </programme>
-  <programme start="20261128095200 +0000" stop="20261128100800 +0000" channel="Viajes y sabores (Samsungtv)">
-    <title>Enrique Alex en India</title>
-    <sub-title>Jaipur</sub-title>
-    <desc>Enrique Alex comienza su viaje por India en Jaipur, la capital de Rajastán, entre retos y experiencias únicas.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_2371864962_0_20261113T171526641Z_58_imageprocessorclient-tvplus-linear-b5879c6c6-zkq88.jpeg"/>
   </programme>
   <programme start="20261128100800 +0000" stop="20261128102400 +0000" channel="Viajes y sabores (Samsungtv)">
     <title>Enrique Alex en India</title>
@@ -202884,21 +202849,17 @@
     <desc>Enrique Alex en China: Guilin, Zhandiajie y Tianmen</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_920788680_0_20250526T161959339Z_1_imageprocessorclient-tvplus-linear-6fb5b47f79-84mv4.png"/>
   </programme>
-  <programme start="20261128090000 +0000" stop="20261128093000 +0000" channel="Actualidad 360 (Samsungtv)">
-    <title>Noticias en 30 minutos</title>
-    <desc>La última hora de todo lo que sucede en España y el mundo.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1330483738_0_20251113T122759112Z_25_imageprocessorclient-tvplus-linear-5db7c6bc99-q6tkt.jpeg"/>
-    <rating>
-      <value>12</value>
-    </rating>
+  <programme start="20261128153700 +0000" stop="20261128160000 +0000" channel="Viajes y sabores (Samsungtv)">
+    <title>Enrique Alex en Colombia: Nuquí</title>
+    <sub-title>Choco</sub-title>
+    <desc>Descubre Nuquí, joya del Chocó colombiano entre selvas, playas vírgenes, ballenas y cultura afrodescendiente.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_2333901978_0_20261031T060927502Z_33_imageprocessorclient-tvplus-linear-b5879c6c6-hdl8g.jpeg"/>
   </programme>
-  <programme start="20261128093000 +0000" stop="20261128100000 +0000" channel="Actualidad 360 (Samsungtv)">
-    <title>Claves del día</title>
-    <desc>Las claves informativas para entender la actualidad del día.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1330484031_0_20251113T122759112Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-q6tkt.jpeg"/>
-    <rating>
-      <value>12</value>
-    </rating>
+  <programme start="20261128160000 +0000" stop="20261128161600 +0000" channel="Viajes y sabores (Samsungtv)">
+    <title>Enrique Alex en India</title>
+    <sub-title>Jaipur</sub-title>
+    <desc>Enrique Alex comienza su viaje por India en Jaipur, la capital de Rajastán, entre retos y experiencias únicas.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_2371864962_0_20261113T171526641Z_58_imageprocessorclient-tvplus-linear-b5879c6c6-zkq88.jpeg"/>
   </programme>
   <programme start="20261128100000 +0000" stop="20261128103000 +0000" channel="Actualidad 360 (Samsungtv)">
     <title>Noticias en 30 minutos</title>
@@ -202988,11 +202949,21 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20261128090807 +0000" stop="20261128094025 +0000" channel="BBC EARTH (Samsungtv)">
-    <title>Los 60 más mortales</title>
-    <sub-title>Episodio 2</sub-title>
-    <desc>Steve se adentra en las aguas de la Columbia Británica en busca de más monstruos de las profundidades marinas.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_947590499_3_20250604T155632775Z_18_imageprocessorclient-tvplus-linear-6fb5b47f79-rbxs7.jpeg"/>
+  <programme start="20261128153000 +0000" stop="20261128160000 +0000" channel="Actualidad 360 (Samsungtv)">
+    <title>Noticias en 30 minutos</title>
+    <desc>La última hora de todo lo que sucede en España y el mundo.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1330483738_0_20251113T122759112Z_25_imageprocessorclient-tvplus-linear-5db7c6bc99-q6tkt.jpeg"/>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20261128160000 +0000" stop="20261128163000 +0000" channel="Actualidad 360 (Samsungtv)">
+    <title>Noticias en 30 minutos</title>
+    <desc>La última hora de todo lo que sucede en España y el mundo.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1330483738_0_20251113T122759112Z_25_imageprocessorclient-tvplus-linear-5db7c6bc99-q6tkt.jpeg"/>
+    <rating>
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20261128094025 +0000" stop="20261128101237 +0000" channel="BBC EARTH (Samsungtv)">
     <title>Los 60 más mortales</title>
@@ -203047,10 +203018,11 @@
     <desc>Documental sobre la variedad de animales salvajes que habitan en el Himalaya.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1336699500_0_20251115T004157925Z_163_imageprocessorclient-tvplus-linear-5db7c6bc99-fc88h.jpeg"/>
   </programme>
-  <programme start="20261128084000 +0000" stop="20261128095300 +0000" channel="clips dont lie">
-    <title>Hits Internacional</title>
-    <desc>Los éxitos más escuchados del panorama global, artistas top de todo el mundo.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1300251050_0_20251103T135846749Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-ljxfj.jpeg"/>
+  <programme start="20261128154734 +0000" stop="20261128164506 +0000" channel="BBC EARTH (Samsungtv)">
+    <title>Mambas negras: un problema mortal:  Mundo natural</title>
+    <sub-title>El último oso pardo del Valle Paraíso</sub-title>
+    <desc>Jeff Turner busca osos pardos en Canadá durante un año.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1336700662_0_20251115T004156298Z_133_imageprocessorclient-tvplus-linear-5db7c6bc99-fc88h.jpeg"/>
   </programme>
   <programme start="20261128095300 +0000" stop="20261128102300 +0000" channel="clips dont lie">
     <title>Hits Internacional</title>
@@ -203087,10 +203059,10 @@
     <desc>Los mejores éxitos de la música en español, los artistas más representativos del momento.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1544111066_0_20260112T160134538Z_45_imageprocessorclient-tvplus-linear-85d7d49859-scbk2.jpeg"/>
   </programme>
-  <programme start="20261128085911 +0000" stop="20261128095109 +0000" channel="Crimenes reales (Samsungtv)">
-    <title>Wives with knives : Liz Cahoon</title>
-    <desc>Wives with knives presenta historias fascinantes de mujeres que lucharon de cerca. Ya sea motivadas por la codicia y los celos o provocadas por años de abuso físico, cada episodio revela los eventos traumáticos que llevaron a estos enfrentamientos mortales.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_514483807_0_20241210T112511151Z_70_imageprocessorclient-tvplus-linear-7cd5d896cc-54dst.jpeg"/>
+  <programme start="20261128155200 +0000" stop="20261128165300 +0000" channel="clips dont lie">
+    <title>Especial Juanes</title>
+    <desc>Juanes revive himnos que marcaron generaciones con energía en vivo y una emoción que sigue intacta.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1575726392_0_20260126T030839151Z_68_imageprocessorclient-tvplus-linear-85d7d49859-b9h9w.jpeg"/>
   </programme>
   <programme start="20261128095109 +0000" stop="20261128104625 +0000" channel="Crimenes reales (Samsungtv)">
     <title>The New Detectives </title>
@@ -203126,14 +203098,10 @@
     <desc>Un hombre es encontrado sofocado en su casa de Pennsylvania, y su chequera, tarjetas de crédito y su vehículo parecían haber sido robados. Las huellas dactilares de la víctima dieron con la identidad de un hombre que se había fugado recientemente de una prisión de mínima seguridad, así como su novia. Los investigadores reportaron las tarjetas de crédito del fallecido y fueron alertados al detectar su uso en Dakota del Norte. El FBI fue contactado, y se llamó a otra fuerza de tareas que ya había sido constituida debido a un presunto secuestro. Las autoridades rastrearon a los usuarios de la tarjeta robada en varias locaciones en estados del oeste, que con el tiempo, llegaron peligrosamente cerca de la frontera con México. Una persecución para evitar que los criminales fueran salieran del país terminó con los dos asesinos bajo custodia.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_514484122_0_20241210T112511179Z_19_imageprocessorclient-tvplus-linear-7cd5d896cc-54dst.jpeg"/>
   </programme>
-  <programme start="20261128084400 +0000" stop="20261128093700 +0000" channel="Crimen and Historia (Samsungtv)">
-    <title>Esposas Asesinas</title>
-    <sub-title>Nicole Taylor</sub-title>
-    <desc>Cuando el enamoramiento de Nicole por Freddie se convierte en obsesión, una pelea se vuelve violenta.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_506153566_0_20240924T154344323Z_112_imageprocessorclient-tvplus-linear-7cd5d896cc-94fcc.jpeg"/>
-    <rating>
-      <value>12</value>
-    </rating>
+  <programme start="20261128152826 +0000" stop="20261128162508 +0000" channel="Crimenes reales (Samsungtv)">
+    <title>Cruise Ship Killers: Sally</title>
+    <desc>Una hábil jugadora de póker triunfa en las mesas una vez en el mar. Pero después de presenciar a un hombre cayendo por la borda, muchos comienzan a preguntarse si fue un accidente o intencional. ¿Quién será el siguiente?</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1279458904_0_20251025T063257144Z_128_imageprocessorclient-tvplus-linear-5db7c6bc99-d5mt6.png"/>
   </programme>
   <programme start="20261128093700 +0000" stop="20261128103000 +0000" channel="Crimen and Historia (Samsungtv)">
     <title>Esposas Asesinas</title>
@@ -203203,10 +203171,14 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20261128090000 +0000" stop="20261128100000 +0000" channel="CNN Español (Samsungtv)">
-    <title>Directo USA</title>
-    <desc>Su conexión directa con Estados Unidos desde el centro del poder político en Washington, DC, EE. UU.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_2235844602_0_20260928T124413328Z_1_imageprocessorclient-tvplus-linear-b5879c6c6-zdvq4.jpeg"/>
+  <programme start="20261128155400 +0000" stop="20261128164700 +0000" channel="Crimen and Historia (Samsungtv)">
+    <title>Esposas Asesinas</title>
+    <sub-title>Yekaterina 'Kat' Petrov</sub-title>
+    <desc>Cuando Yekaterina conoce a Mark, ambos inician un romance, que acaba en las portadas de los periódicos.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_506153566_0_20240924T154344323Z_112_imageprocessorclient-tvplus-linear-7cd5d896cc-94fcc.jpeg"/>
+    <rating>
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20261128100000 +0000" stop="20261128110000 +0000" channel="CNN Español (Samsungtv)">
     <title>Perspectivas</title>
@@ -203238,6 +203210,11 @@
     <desc>CNN Live</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_2235844602_0_20260928T124413328Z_1_imageprocessorclient-tvplus-linear-b5879c6c6-zdvq4.jpeg"/>
   </programme>
+  <programme start="20261128160000 +0000" stop="20261128170000 +0000" channel="CNN Español (Samsungtv)">
+    <title>Perspectivas</title>
+    <desc>Mario González nos pone al pulso de temas como economía, migración, seguridad y hechos claves.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_2235844602_0_20260928T124413328Z_1_imageprocessorclient-tvplus-linear-b5879c6c6-zdvq4.jpeg"/>
+  </programme>
   <programme start="20261128082906 +0000" stop="20261128103400 +0000" channel="MovieSphere(sg)">
     <title>The Nanny Diaries (Diario de una niñera)</title>
     <desc>Una universitaria recién graduada acepta un trabajo de niñera en un pedante ático de Nueva York que le exige saber más de criar a un niño de lo que esperaba.</desc>
@@ -203266,18 +203243,6 @@
     <rating>
       <value>12</value>
     </rating>
-  </programme>
-  <programme start="20261128082600 +0000" stop="20261128091800 +0000" channel="El mueble (sg)">
-    <title>La Casa de mis Sueños</title>
-    <sub-title>Samantha y Yaron</sub-title>
-    <desc>Samantha y Yaron organizaron su boda soñada y ahora buscan la casa de sus sueños.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_2018744758_0_20260715T165244211Z_39_imageprocessorclient-tvplus-linear-66fc4d58c8-9l6ph.jpeg"/>
-  </programme>
-  <programme start="20261128091800 +0000" stop="20261128101000 +0000" channel="El mueble (sg)">
-    <title>La Casa de mis Sueños</title>
-    <sub-title>Glenda y Dave</sub-title>
-    <desc>Tras criar a sus hijos, Glenda y Dave se mudaron al campo, pero pronto vieron que fue un gran error.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_2018744758_0_20260715T165244211Z_39_imageprocessorclient-tvplus-linear-66fc4d58c8-9l6ph.jpeg"/>
   </programme>
   <programme start="20261128101000 +0000" stop="20261128110100 +0000" channel="El mueble (sg)">
     <title>La Casa de mis Sueños</title>
@@ -203315,23 +203280,11 @@
     <desc>Edith y Fred viven con su hijo y ya es hora de mudarse.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_2018744758_0_20260715T165244211Z_39_imageprocessorclient-tvplus-linear-66fc4d58c8-9l6ph.jpeg"/>
   </programme>
-  <programme start="20261128081846 +0000" stop="20261128091228 +0000" channel="Mi casa (sg)">
-    <title>A Bocados | Verano</title>
-    <sub-title>Episodio 17</sub-title>
-    <desc>Pollo a la vasca con patatas a la mantequilla</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_GBPBB1501FZ_2023315462_1_20260717T081718809Z_18_imageprocessorclient-tvplus-linear-66fc4d58c8-xkrsg.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme start="20261128091228 +0000" stop="20261128100000 +0000" channel="Mi casa (sg)">
-    <title>A Bocados</title>
-    <sub-title>Episodio 194</sub-title>
-    <desc>Bao De Pulled Pork (Cabezada De Cerdo En Pan Bao)</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_GBPBB1501FZ_1729518225_0_20260327T065824013Z_54_imageprocessorclient-tvplus-linear-74d4c47476-dchwc.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
+  <programme start="20261128152700 +0000" stop="20261128162000 +0000" channel="El mueble (sg)">
+    <title>La Casa de mis Sueños</title>
+    <sub-title>Marla y Adam</sub-title>
+    <desc>Marla y Adam dejan casa de su madre. Quieren cocina kosher, más dormitorios y corto trayecto al trabajo.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_2018744758_0_20260715T165244211Z_39_imageprocessorclient-tvplus-linear-66fc4d58c8-9l6ph.jpeg"/>
   </programme>
   <programme start="20261128100000 +0000" stop="20261128102931 +0000" channel="Mi casa (sg)">
     <title>La Cocina de Kevin</title>
@@ -203406,20 +203359,11 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme start="20261128085232 +0000" stop="20261128092136 +0000" channel="caillou (Samsungtv)">
-    <title>Caillou</title>
-    <sub-title>Sorpresas y Mariposas // Líos del Fútbol // Tú no Eres la Srta. Martin</sub-title>
-    <desc>Caillou decide abrirse a nuevas experiencias después de una excursión a un conservatorio de mariposas.// Caillou entiende que lo diferente no tiene por qué ser malo cuando la abuela se hace entrenadora de fútbol... ¡y les pone ejercicios...</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1741134666_0_20260401T021336491Z_21_imageprocessorclient-tvplus-linear-74d4c47476-kvnbl.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme start="20261128092136 +0000" stop="20261128094655 +0000" channel="caillou (Samsungtv)">
-    <title>Caillou</title>
-    <sub-title>Caillou hace galletas // Caillou ya no tiene miedo // Caillou odia los vegetales // Caillou se siente solo // Caillou recoge sus juguetes</sub-title>
-    <desc>Caillou está alborotado. Siente hambre, se le ocurre hacer galletas y monta un lío tremendo y dulce. // Caillou tiene miedo del Sr. Hinkle pero tras un juego inesperado de escondite, los dos se vuelven amigos. // A Caillou no le gusta la verdura...</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1741117168_1_20260401T021341306Z_62_imageprocessorclient-tvplus-linear-74d4c47476-7zbr2.jpeg"/>
+  <programme start="20261128153915 +0000" stop="20261128161126 +0000" channel="Mi casa (sg)">
+    <title>Las Recetas Rápidas de Donal</title>
+    <sub-title>Comidas de caja de almuerzo</sub-title>
+    <desc>Ya sea que trabaje en una oficina o esté de viaje todo el día, todos necesitamos nuestro descanso para almorzar.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_GBPBB1501FZ_1670668100_61_20260304T004204142Z_41_imageprocessorclient-tvplus-linear-85d7d49859-m6g6v.jpeg"/>
     <rating>
       <value>NA</value>
     </rating>
@@ -203541,6 +203485,24 @@
       <value>NA</value>
     </rating>
   </programme>
+  <programme start="20261128151937 +0000" stop="20261128154831 +0000" channel="caillou (Samsungtv)">
+    <title>Caillou</title>
+    <sub-title>El Cofre Del Tesoro // Nos Vamos De Camping // Los Palillos // Un Perro Muy Especial</sub-title>
+    <desc>Caillou descubre tesoros //Caillou va al bosque// Caillou usa palillos // Una persona ciega</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1671448444_1_20260304T074232440Z_118_imageprocessorclient-tvplus-linear-85d7d49859-5pt4p.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261128154831 +0000" stop="20261128161725 +0000" channel="caillou (Samsungtv)">
+    <title>Caillou</title>
+    <sub-title>Caillou Combate El Calor // El Conductor Del Asiento De Atrás // Perdido Y Encontrado // Magia Navideña</sub-title>
+    <desc>Caillou tiene calor //Caillou discute con Rosie // El perro perdido //Caillou conoce a Papá Noel</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1671449516_5_20260304T074232557Z_57_imageprocessorclient-tvplus-linear-85d7d49859-fz6dc.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
   <programme start="20261128082007 +0000" stop="20261128102116 +0000" channel="todo pasion (Samsungtv)">
     <title>Los heroes de las ardenas</title>
     <desc>Un GI agotado por la batalla y su unidad están listos para defender una pequeña ciudad alemana, una posición clave en el avance aliado para ganar la guerra, contra el asalto de las experimentadas unidades de infantería y tanques de la 11.ª División Panzer alemana.</desc>
@@ -203573,23 +203535,12 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20261128090010 +0000" stop="20261128093011 +0000" channel="pet collective (Samsungtv)">
-    <title>Crazy Fun Time Pet Countdown</title>
-    <sub-title>S1 E08</sub-title>
-    <desc>
-</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQU352137A_509824596_7_20241029T233427255Z_123_imageprocessorclient-tvplus-linear-7cd5d896cc-kk2zh.jpeg"/>
+  <programme start="20261128160910 +0000" stop="20261128180822 +0000" channel="todo pasion (Samsungtv)">
+    <title>El ultimo trabajo</title>
+    <desc>Un anciano enfermo de cáncer busca vengarse de los ladrones que han destruido su vida.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2106020306_1_20260815T012759756Z_62_imageprocessorclient-tvplus-linear-648598f6b5-lvf64.jpeg"/>
     <rating>
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20261128093011 +0000" stop="20261128100011 +0000" channel="pet collective (Samsungtv)">
-    <title>Crazy Fun Time Pet Countdown</title>
-    <sub-title>S1 E01</sub-title>
-    <desc>Join us as we count down the 25 fluffiest pets you ever did see!</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQU352137A_511079181_0_20241110T212228545Z_119_imageprocessorclient-tvplus-linear-7cd5d896cc-qjm7s.jpeg"/>
-    <rating>
-      <value>10</value>
+      <value>3</value>
     </rating>
   </programme>
   <programme start="20261128100011 +0000" stop="20261128103014 +0000" channel="pet collective (Samsungtv)">
@@ -203692,15 +203643,23 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20261128090701 +0000" stop="20261128093701 +0000" channel="bob esponja (sg)">
-    <title>Bob Esponja</title>
-    <desc>¿Quién vive en la piña debajo del mar? ¡Bob Esponja! Sumérgete en Fondo de Bikini para vivir las aventuras más desternillantes con Bob Esponja, Patricio y Calamardo.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQU352135A_704278257_0_20250310T204322060Z_101_imageprocessorclient-tvplus-linear-6fb5b47f79-4pk7r.jpeg"/>
+  <programme start="20261128153018 +0000" stop="20261128160018 +0000" channel="pet collective (Samsungtv)">
+    <title>Pets VS. Everything</title>
+    <sub-title>S1 E12</sub-title>
+    <desc>From furry vacuums to curious paws on treadmills, watch pets take on the machines!</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQU352137A_852366096_0_20250502T204026541Z_1_imageprocessorclient-tvplus-linear-6fb5b47f79-nj5gx.jpeg"/>
+    <rating>
+      <value>10</value>
+    </rating>
   </programme>
-  <programme start="20261128093701 +0000" stop="20261128100701 +0000" channel="bob esponja (sg)">
-    <title>Bob Esponja</title>
-    <desc>¿Quién vive en la piña debajo del mar? ¡Bob Esponja! Sumérgete en Fondo de Bikini para vivir las aventuras más desternillantes con Bob Esponja, Patricio y Calamardo.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQU352135A_704278257_0_20250310T204322060Z_101_imageprocessorclient-tvplus-linear-6fb5b47f79-4pk7r.jpeg"/>
+  <programme start="20261128160018 +0000" stop="20261128163019 +0000" channel="pet collective (Samsungtv)">
+    <title>Pets VS. Everything</title>
+    <sub-title>S1 E06</sub-title>
+    <desc>From wild zoomies to natures surprises, pets embrace the outdoors with untamed energy!</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQU352137A_735460017_0_20250321T203957149Z_1_imageprocessorclient-tvplus-linear-6fb5b47f79-cb8mr.jpeg"/>
+    <rating>
+      <value>10</value>
+    </rating>
   </programme>
   <programme start="20261128100701 +0000" stop="20261128103701 +0000" channel="bob esponja (sg)">
     <title>Bob Esponja</title>
@@ -203757,11 +203716,15 @@
     <desc>¿Quién vive en la piña debajo del mar? ¡Bob Esponja! Sumérgete en Fondo de Bikini para vivir las aventuras más desternillantes con Bob Esponja, Patricio y Calamardo.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQU352135A_704278257_0_20250310T204322060Z_101_imageprocessorclient-tvplus-linear-6fb5b47f79-4pk7r.jpeg"/>
   </programme>
-  <programme start="20261128080000 +0000" stop="20261128100000 +0000" channel="Trace latina (Samsungtv)">
-    <title>OLA LATINA</title>
-    <desc>
-</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_485202602_0_20231012T131955116Z_41.jpeg"/>
+  <programme start="20261128153701 +0000" stop="20261128160701 +0000" channel="bob esponja (sg)">
+    <title>Bob Esponja</title>
+    <desc>¿Quién vive en la piña debajo del mar? ¡Bob Esponja! Sumérgete en Fondo de Bikini para vivir las aventuras más desternillantes con Bob Esponja, Patricio y Calamardo.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQU352135A_704278257_0_20250310T204322060Z_101_imageprocessorclient-tvplus-linear-6fb5b47f79-4pk7r.jpeg"/>
+  </programme>
+  <programme start="20261128160701 +0000" stop="20261128163701 +0000" channel="bob esponja (sg)">
+    <title>Bob Esponja</title>
+    <desc>¿Quién vive en la piña debajo del mar? ¡Bob Esponja! Sumérgete en Fondo de Bikini para vivir las aventuras más desternillantes con Bob Esponja, Patricio y Calamardo.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQU352135A_704278257_0_20250310T204322060Z_101_imageprocessorclient-tvplus-linear-6fb5b47f79-4pk7r.jpeg"/>
   </programme>
   <programme start="20261128100000 +0000" stop="20261128114500 +0000" channel="Trace latina (Samsungtv)">
     <title>HIT 31</title>
@@ -203781,13 +203744,11 @@
 </desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_485202602_0_20231012T131955116Z_41.jpeg"/>
   </programme>
-  <programme start="20261128060000 +0000" stop="20261128100000 +0000" channel="Trace urban (Samsungtv)">
-    <title>WEEK-END VIBES</title>
-    <desc>The perfect playlist to chill on the week-ends.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_485202860_1_20231012T131947260Z_54.jpeg"/>
-    <rating>
-      <value>8</value>
-    </rating>
+  <programme start="20261128160000 +0000" stop="20261128171500 +0000" channel="Trace latina (Samsungtv)">
+    <title>LATIN VIBES</title>
+    <desc>
+</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_485202602_0_20231012T131955116Z_41.jpeg"/>
   </programme>
   <programme start="20261128100000 +0000" stop="20261128114500 +0000" channel="Trace urban (Samsungtv)">
     <title>HIT 30</title>
@@ -203819,14 +203780,6 @@
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_485202860_1_20231012T131947260Z_54.jpeg"/>
     <rating>
       <value>8</value>
-    </rating>
-  </programme>
-  <programme start="20261128084035 +0000" stop="20261128093953 +0000" channel="El Confidencial (Samsungtv)">
-    <title>Marta Peirano: "Sam Altman es un psicópata, Elon Musk es un narcisista"</title>
-    <desc>La periodista y escritora Marta Peirano entra al búnker para sobrevivir al fin del mundo. Antes, debe superar un test psicotécnico para demostrar que no es una inteligencia artificial, un zombi o una vendedora de enciclopedias. Una vez dentro, Peirano analiza el apocalipsis que ya estábamos viviendo. Define el término "alucinaciones" de la IA como una "trampa" de las corporaciones y advierte que repetimos con la IA los mismos errores del ciberoptimismo inicial. En esta conversación, Marta Peirano traza el perfil de los líderes de Silicon Valley, explicando por qué Sam Altman es un "psicópata" adaptable, a diferencia de "narcisistas" como Elon Musk o Donald Trump, que están consumidos por la vergüenza. Además, Peirano explica por qué nuestro mundo se parece más a 'Un mundo feliz' de Huxley (sometidos por el entretenimiento ) que al '1984' de Orwell, y desvela su kit de supervivencia cultural , las estrictas normas para ligar en su época gótica y por qué su libro "El enemigo conoce el sistema" buscaba desmontar la idea de que la tecnología es "magia" ESTO NO ES UN SIMULACRO es un podcast de El Confidencial con el apoyo de Reale Seguros.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2311157074_2_20261023T154623835Z_119_imageprocessorclient-tvplus-linear-b5879c6c6-skq5g.jpeg"/>
-    <rating>
-      <value>NA</value>
     </rating>
   </programme>
   <programme start="20261128093953 +0000" stop="20261128103233 +0000" channel="El Confidencial (Samsungtv)">
@@ -203909,15 +203862,13 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme start="20261128090200 +0000" stop="20261128093200 +0000" channel="Trailers (Samsungtv)">
-    <title>Close Up</title>
-    <desc>La historia, el glamour, la cinematografía y los cotilleos de tus estrellas favoritas de Hollywood.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1263303072_0_20251017T141136989Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-9tsm4.jpeg"/>
-  </programme>
-  <programme start="20261128093200 +0000" stop="20261128100300 +0000" channel="Trailers (Samsungtv)">
-    <title>Close Up</title>
-    <desc>La historia, el glamour, la cinematografía y los cotilleos de tus estrellas favoritas de Hollywood.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1263303072_0_20251017T141136989Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-9tsm4.jpeg"/>
+  <programme start="20261128154756 +0000" stop="20261128163157 +0000" channel="El Confidencial (Samsungtv)">
+    <title>Ramón Freixa y la rentabilidad en la alta cocina</title>
+    <desc>¿Es realmente rentable un restaurante de alta cocina? ¿Cómo se gestiona el dinero y el éxito detrás de dos Estrellas Michelin? En esta entrevista, el reconocido chef Ramón Freixa rompe el silencio y nos confiesa la cruda realidad del negocio de la restauración, los presupuestos en pareja y por qué decidió cerrar un restaurante de éxito para empezar desde cero. Además, nos desvela los secretos mejor guardados de los inspectores de la Guía Michelin y nos cuenta una impactante experiencia paranormal que vivió en pleno centro de Madrid con el fantasma de "La Raimunda". ¡No te pierdas esta charla llena de confesiones sin filtro, negocios y alta cocina! No te pierdas este nuevo episodio de Zodiac, un podcast de Vanitatis.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2347989825_0_20261104T184728308Z_1_imageprocessorclient-tvplus-linear-b5879c6c6-n5jz9.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
   </programme>
   <programme start="20261128100300 +0000" stop="20261128103300 +0000" channel="Trailers (Samsungtv)">
     <title>Close Up</title>
@@ -203969,10 +203920,15 @@
     <desc>La historia, el glamour, la cinematografía y los cotilleos de tus estrellas favoritas de Hollywood.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1263303072_0_20251017T141136989Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-9tsm4.jpeg"/>
   </programme>
-  <programme start="20261128090000 +0000" stop="20261128100000 +0000" channel="Vevo pop (Samsungtv)">
-    <title>De Buena Mañana</title>
-    <desc>¡Los temas pop más animados para empezar en día con ganas de comerse el mundo!</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2162732391_1_20260903T193608689Z_117_imageprocessorclient-tvplus-linear-b5879c6c6-mlmfp.png"/>
+  <programme start="20261128151000 +0000" stop="20261128154000 +0000" channel="Trailers (Samsungtv)">
+    <title>Close Up</title>
+    <desc>La historia, el glamour, la cinematografía y los cotilleos de tus estrellas favoritas de Hollywood.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1263303072_0_20251017T141136989Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-9tsm4.jpeg"/>
+  </programme>
+  <programme start="20261128154000 +0000" stop="20261128161100 +0000" channel="Trailers (Samsungtv)">
+    <title>Close Up</title>
+    <desc>La historia, el glamour, la cinematografía y los cotilleos de tus estrellas favoritas de Hollywood.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1263303072_0_20251017T141136989Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-9tsm4.jpeg"/>
   </programme>
   <programme start="20261128100000 +0000" stop="20261128110000 +0000" channel="Vevo pop (Samsungtv)">
     <title>Live From Vevo Studios</title>
@@ -204004,10 +203960,10 @@
     <desc>Un viaje en el tiempo a través de los grandes éxitos de tus artistas favoritos!</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2162732476_0_20260903T193608606Z_138_imageprocessorclient-tvplus-linear-b5879c6c6-ldnh6.png"/>
   </programme>
-  <programme start="20261128090000 +0000" stop="20261128100000 +0000" channel="Vevo latino (Samsungtv)">
-    <title>Café con Leche</title>
-    <desc>Los mejores vídeos para empezar el día.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2162732552_1_20260903T193608687Z_133_imageprocessorclient-tvplus-linear-b5879c6c6-mlmfp.png"/>
+  <programme start="20261128160000 +0000" stop="20261128170000 +0000" channel="Vevo pop (Samsungtv)">
+    <title>Made In Spain</title>
+    <desc>¡La mejor música hecha en España! Disfruta de las mejores voces del país de la mano de decenas de artistas nacionales.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2162732458_2_20260903T193611826Z_18_imageprocessorclient-tvplus-linear-b5879c6c6-k4qt8.png"/>
   </programme>
   <programme start="20261128100000 +0000" stop="20261128110000 +0000" channel="Vevo latino (Samsungtv)">
     <title>DSCVR New Music Latino</title>
@@ -204039,29 +203995,10 @@
     <desc>España y Latinoamérica siempre conectadas por la música: no te pierdas las mejores colaboraciones entre artistas de ambos lados del charco.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2162732538_0_20260903T193612073Z_77_imageprocessorclient-tvplus-linear-b5879c6c6-ldnh6.png"/>
   </programme>
-  <programme start="20261128084951 +0000" stop="20261128091648 +0000" channel="Ideas en 5 minutos (Samsungtv)">
-    <title>Trucos de belleza fáciles</title>
-    <desc>Descubre un tesoro de trucos de cortar a tajos perfectos para todo el mundo.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_IMAGE_16_20250901T060513071Z_49_imageprocessorclient-tvplus-linear-5db7c6bc99-sm8n5.jpeg"/>
-    <rating>
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20261128091648 +0000" stop="20261128093801 +0000" channel="Ideas en 5 minutos (Samsungtv)">
-    <title>Dominar las Artesanías difíciles:</title>
-    <desc>En este vídeo, exploramos el mundo de las manualidades difíciles y le ofrecemos consejos y técnicas.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_2227049712_0_20260925T105309680Z_77_imageprocessorclient-tvplus-linear-b5879c6c6-x9rph.jpeg"/>
-    <rating>
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20261128093801 +0000" stop="20261128100218 +0000" channel="Ideas en 5 minutos (Samsungtv)">
-    <title>Domina el bricolaje: Transforme su</title>
-    <desc>Aprenda a crear usted mismo muebles sorprendentes y prácticos con instrucciones paso a paso, consejos.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_2227061552_0_20260925T105309679Z_89_imageprocessorclient-tvplus-linear-b5879c6c6-x9rph.jpeg"/>
-    <rating>
-      <value>10</value>
-    </rating>
+  <programme start="20261128160000 +0000" stop="20261128170000 +0000" channel="Vevo latino (Samsungtv)">
+    <title>Vevo Studios Live</title>
+    <desc>Contenido exclusivo desde los estudios de Vevo.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2162732539_1_20260903T193608687Z_45_imageprocessorclient-tvplus-linear-b5879c6c6-mlmfp.png"/>
   </programme>
   <programme start="20261128100218 +0000" stop="20261128102104 +0000" channel="Ideas en 5 minutos (Samsungtv)">
     <title>Trucos geniosos para ayudarte</title>
@@ -204167,20 +204104,28 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20261128085853 +0000" stop="20261128093200 +0000" channel="poco yo (Samsungtv)">
-    <title>El Gran Tobogán</title>
-    <desc>El Gran Tobogán | Los zapatos de Elly | Las Mil Puertas | Ruidos Misteriosos</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1829945859_21_20260506T114729640Z_98_imageprocessorclient-tvplus-linear-74d4c47476-szmf6.jpeg"/>
+  <programme start="20261128151310 +0000" stop="20261128153705 +0000" channel="Ideas en 5 minutos (Samsungtv)">
+    <title>Creación de ropa y accesorios</title>
+    <desc>En este vídeo descubrirás los secretos para diseñar y crear tu propia ropa y accesorios únicos.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_IMAGE_7_20250901T060503292Z_69_imageprocessorclient-tvplus-linear-5db7c6bc99-cxmlx.jpeg"/>
     <rating>
-      <value>NA</value>
+      <value>10</value>
     </rating>
   </programme>
-  <programme start="20261128093200 +0000" stop="20261128100403 +0000" channel="poco yo (Samsungtv)">
-    <title>Mister Pato</title>
-    <desc>Mister Pato | Adivina, adivinanza | Todos para Uno | Tori Dori</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1829934189_12_20260506T114727723Z_46_imageprocessorclient-tvplus-linear-74d4c47476-dchwc.jpeg"/>
+  <programme start="20261128153705 +0000" stop="20261128160344 +0000" channel="Ideas en 5 minutos (Samsungtv)">
+    <title>Trucos de belleza</title>
+    <desc>Descubre una variedad de trucos de belleza sencillos y útiles que toda chica debería conocer para mejorar su.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_2227065926_1_20260925T105309699Z_1_imageprocessorclient-tvplus-linear-b5879c6c6-pm2wd.jpeg"/>
     <rating>
-      <value>NA</value>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20261128160344 +0000" stop="20261128162805 +0000" channel="Ideas en 5 minutos (Samsungtv)">
+    <title>Cortar a tajos: Para</title>
+    <desc>Descubre trucos y consejos sencillos y eficaces que te ayudarán a superar los altibajos de la paternidad.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_2227064251_0_20260925T105309679Z_99_imageprocessorclient-tvplus-linear-b5879c6c6-x9rph.jpeg"/>
+    <rating>
+      <value>10</value>
     </rating>
   </programme>
   <programme start="20261128100403 +0000" stop="20261128103733 +0000" channel="poco yo (Samsungtv)">
@@ -204263,10 +204208,21 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme start="20261128090000 +0000" stop="20261128100000 +0000" channel="Vevo Retro (Samsungtv)">
-    <title>Vevo en Vivo</title>
-    <desc>Disfruta con los artistas legendarios dándolo todo en el escenario en su momento más hot.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2162732975_1_20260903T193608687Z_1_imageprocessorclient-tvplus-linear-b5879c6c6-mlmfp.png"/>
+  <programme start="20261128153433 +0000" stop="20261128160710 +0000" channel="poco yo (Samsungtv)">
+    <title>Mister Pato</title>
+    <desc>Mister Pato | Adivina, adivinanza | Todos para Uno | Tori Dori</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1829934189_12_20260506T114727723Z_46_imageprocessorclient-tvplus-linear-74d4c47476-dchwc.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261128160710 +0000" stop="20261128163946 +0000" channel="poco yo (Samsungtv)">
+    <title>Boca Abajo</title>
+    <desc>Boca Abajo | La Mezcladora Loca | El Invitado Revoltoso | El marciano</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1829914298_21_20260506T114728644Z_23_imageprocessorclient-tvplus-linear-74d4c47476-szmf6.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
   </programme>
   <programme start="20261128100000 +0000" stop="20261128110000 +0000" channel="Vevo Retro (Samsungtv)">
     <title>Generación Pop</title>
@@ -204298,10 +204254,10 @@
     <desc>Un mix de lo bueno y mejor de los 80!</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2162733057_0_20260903T193608607Z_84_imageprocessorclient-tvplus-linear-b5879c6c6-ldnh6.png"/>
   </programme>
-  <programme start="20261128090000 +0000" stop="20261128100000 +0000" channel="Sol Musica (Samsungtv)">
-    <title>BELAKO</title>
-    <desc>La banda de Mungia habla de todos los adelantos a su próximo disco.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_485484350_0_20231024T133025705Z_65.jpeg"/>
+  <programme start="20261128160000 +0000" stop="20261128170000 +0000" channel="Vevo Retro (Samsungtv)">
+    <title>Baladas de Siempre</title>
+    <desc>Las baladas clásicas más poderosas y emotivas, para relajarte, sentir y dejarte llevar.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2162733044_2_20260903T193612817Z_132_imageprocessorclient-tvplus-linear-b5879c6c6-k4qt8.png"/>
   </programme>
   <programme start="20261128100000 +0000" stop="20261128110000 +0000" channel="Sol Musica (Samsungtv)">
     <title>HINDS</title>
@@ -204323,13 +204279,11 @@
     <desc>El grupo de Madrid ‘'Parquesvr'' nos habla de su disco ‘‘Talego Quini''.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_485484348_0_20231024T133025514Z_45.jpeg"/>
   </programme>
-  <programme start="20261128090000 +0000" stop="20261128100000 +0000" channel="Negocios TV (Samsungtv)">
-    <title>business connection.</title>
-    <desc>Business Connection con Jose Vizner</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1378149938_0_20251126T034035132Z_1_imageprocessorclient-tvplus-linear-85d7d49859-pkn4t.png"/>
-    <rating>
-      <value>7</value>
-    </rating>
+  <programme start="20261128154500 +0000" stop="20261128164500 +0000" channel="Sol Musica (Samsungtv)">
+    <title>NATALIA LACUNZA</title>
+    <desc>La pamplonesa Natalia Lacunza lanza nuevo trabajo.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1264313653_0_20251018T012551093Z_84_imageprocessorclient-tvplus-linear-5db7c6bc99-s56jx.jpeg"/>
+    <episode-num system="onscreen">S05E06</episode-num>
   </programme>
   <programme start="20261128100000 +0000" stop="20261128110000 +0000" channel="Negocios TV (Samsungtv)">
     <title>newsroom.</title>
@@ -204387,12 +204341,12 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20261128073353 +0000" stop="20261128091642 +0000" channel="Friki (Samsungtv)">
-    <title>Kill 'Em All</title>
-    <desc>Tras un tiroteo masivo, un misterioso desconocido (Van Damme) llega a un hospital local al borde de la muerte. Entonces, una banda extranjera se presenta descaradamente al hospital para cazarlo. Su enfermera, la única testigo superviviente del tiroteo posterior, debe enfrentarse a un interrogatorio del FBI que desvela una trama de intriga y venganza internacional. Con suficientes giros inesperados, KILL'EM ALL te mantendrá en vilo hasta el último disparo.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1251559509_0_20251011T233946921Z_119_imageprocessorclient-tvplus-linear-5db7c6bc99-8fzp6.jpeg"/>
+  <programme start="20261128160000 +0000" stop="20261128170000 +0000" channel="Negocios TV (Samsungtv)">
+    <title>todo es geopolítica.</title>
+    <desc>Programa de anñalisis geopolítico</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1378149938_0_20251126T034035132Z_1_imageprocessorclient-tvplus-linear-85d7d49859-pkn4t.png"/>
     <rating>
-      <value>16</value>
+      <value>10</value>
     </rating>
   </programme>
   <programme start="20261128091642 +0000" stop="20261128105056 +0000" channel="Friki (Samsungtv)">
@@ -204427,14 +204381,6 @@
       <value>3</value>
     </rating>
   </programme>
-  <programme start="20261128074036 +0000" stop="20261128091803 +0000" channel="Rakuten Navidad (Samsungtv)">
-    <title>Mi Hostal Navideño</title>
-    <desc>Jennifer es una ejecutiva cuyos padres deciden pasar la Navidad sin ella, decide dejar San Francisco y visitar el hostal que heredó de su abuela en Alaska para arreglarlo y venderlo.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_511542421_0_20241115T043531776Z_27_imageprocessorclient-tvplus-linear-7cd5d896cc-xkz9v.jpeg"/>
-    <rating>
-      <value>12</value>
-    </rating>
-  </programme>
   <programme start="20261128091803 +0000" stop="20261128105429 +0000" channel="Rakuten Navidad (Samsungtv)">
     <title>The Nine Kittens of Christmas</title>
     <desc>Dos humanos. Once gatos. Esta Navidad es un caos en la pequeña y pintoresca ciudad de Jamesville, donde una pareja poco común descubre que no hay un momento más perfecto para las cosas importantes de la vida: la familia, el amor... ¡y tal vez un compromiso romántico!</desc>
@@ -204463,6 +204409,14 @@
     <title>Paraíso navideño (2018)</title>
     <desc>La Navidad no es un buena época para Heidi Neill, una artista con problemas.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_1287723336_0_20251029T034039286Z_65_imageprocessorclient-tvplus-linear-5db7c6bc99-trv6z.jpeg"/>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20261128160014 +0000" stop="20261128174620 +0000" channel="Rakuten Navidad (Samsungtv)">
+    <title>Con la magia en los zapatos</title>
+    <desc>Max Simkin (Adam Sandler) repara zapatos en una tienda neoyorquina perteneciente a su familia. Desencantado con su rutina diaria, Max tropieza con una reliquia familiar que le permite ser testigo de la vida de sus clientes a través de los zapatos que repara y ver el mundo de una forma nueva.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_521150976_0_20241219T032126737Z_28_imageprocessorclient-tvplus-linear-7cd5d896cc-gqfx7.jpeg"/>
     <rating>
       <value>12</value>
     </rating>
